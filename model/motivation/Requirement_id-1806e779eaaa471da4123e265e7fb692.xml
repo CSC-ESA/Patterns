@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-9(4): Previous Logon Notification | Additional Logon Information"
+    id="id-1806e779eaaa471da4123e265e7fb692"
+    documentation="Notify the user, upon successful logon, of the following additional information: [Assignment: organization-defined additional information].">
+  <properties
+      key="Control Identifier"
+      value="AC-9(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can specify additional information to be provided to users upon logon, including the location of the last logon. User location is defined as information that can be determined by systems, such as Internet Protocol (IP) addresses from which network logons occurred, notifications of local logons, or device identifiers."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

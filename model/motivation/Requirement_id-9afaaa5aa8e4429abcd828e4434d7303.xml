@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-21(1): Information Sharing | Automated Decision Support"
+    id="id-9afaaa5aa8e4429abcd828e4434d7303"
+    documentation="Employ [Assignment: organization-defined automated mechanisms] to enforce information-sharing decisions by authorized users based on access authorizations of sharing partners and access restrictions on information to be shared.">
+  <properties
+      key="Control Identifier"
+      value="AC-21(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms are used to enforce information sharing decisions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

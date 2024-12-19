@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-9(2): External System Services | Identification of Functions, Ports, Protocols, and Services"
+    id="id-ae88c517a8cd484d82223a389aeb419c"
+    documentation="Require providers of the following external system services to identify the functions, ports, protocols, and other services required for the use of such services: [Assignment: organization-defined external system services].">
+  <properties
+      key="Control Identifier"
+      value="SA-9(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information from external service providers regarding the specific functions, ports, protocols, and services used in the provision of such services can be useful when the need arises to understand the trade-offs involved in restricting certain functions and services or blocking certain ports and protocols."/>
+  <properties
+      key="Related Controls"
+      value="CM-6, CM-7."/>
+</archimate:Requirement>

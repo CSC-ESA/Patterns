@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-11: Alternate Communications Protocols"
+    id="id-392bd1353e9d41eeb3e703d1c541c56f"
+    documentation="Provide the capability to employ [Assignment: organization-defined alternative communications protocols] in support of maintaining continuity of operations.">
+  <properties
+      key="Control Identifier"
+      value="CP-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Contingency plans and the contingency training or testing associated with those plans incorporate an alternate communications protocol capability as part of establishing resilience in organizational systems. Switching communications protocols may affect software applications and operational aspects of systems. Organizations assess the potential side effects of introducing alternate communications protocols prior to implementation."/>
+  <properties
+      key="Related Controls"
+      value="CP-2, CP-8, CP-13."/>
+</archimate:Requirement>

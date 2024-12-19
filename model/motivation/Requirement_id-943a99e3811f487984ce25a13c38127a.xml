@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(20): Information Flow Enforcement | Approved Solutions"
+    id="id-943a99e3811f487984ce25a13c38127a"
+    documentation="Employ [Assignment: organization-defined solutions in approved configurations] to control the flow of [Assignment: organization-defined information] across security domains.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(20)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations define approved solutions and configurations in cross-domain policies and guidance in accordance with the types of information flows across classification boundaries. The National Security Agency (NSA) National Cross Domain Strategy and Management Office provides a listing of approved cross-domain solutions. Contact ncdsmo@nsa.gov for more information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

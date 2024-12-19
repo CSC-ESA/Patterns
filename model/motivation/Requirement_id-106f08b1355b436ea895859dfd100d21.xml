@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-3(1): Personnel Screening | Classified Information"
+    id="id-106f08b1355b436ea895859dfd100d21"
+    documentation="Verify that individuals accessing a system processing, storing, or transmitting classified information are cleared and indoctrinated to the highest classification level of the information to which they have access on the system.">
+  <properties
+      key="Control Identifier"
+      value="PS-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Classified information is the most sensitive information that the Federal Government processes, stores, or transmits. It is imperative that individuals have the requisite security clearances and system access authorizations prior to gaining access to such information. Access authorizations are enforced by system access controls (see AC-3) and flow controls (see AC-4)."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-4."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-6(3): Monitoring Physical Access | Video Surveillance"
+    id="id-018a844a6d674e669abe76081269c1da"
+    documentation="(a) Employ video surveillance of [Assignment: organization-defined operational areas];&#xA;(b) Review video recordings [Assignment: organization-defined frequency]; and&#xA;(c) Retain video recordings for [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="PE-6(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Video surveillance focuses on recording activity in specified areas for the purposes of subsequent review, if circumstances so warrant. Video recordings are typically reviewed to detect anomalous events or incidents. Monitoring the surveillance video is not required, although organizations may choose to do so. There may be legal considerations when performing and retaining video surveillance, especially if such surveillance is in a public location."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

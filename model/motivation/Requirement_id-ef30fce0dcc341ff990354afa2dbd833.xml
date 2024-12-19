@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-6(1): Timely Maintenance | Preventive Maintenance"
+    id="id-ef30fce0dcc341ff990354afa2dbd833"
+    documentation="Perform preventive maintenance on [Assignment: organization-defined system components] at [Assignment: organization-defined time intervals].">
+  <properties
+      key="Control Identifier"
+      value="MA-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Preventive maintenance includes proactive care and the servicing of system components to maintain organizational equipment and facilities in satisfactory operating condition. Such maintenance provides for the systematic inspection, tests, measurements, adjustments, parts replacement, detection, and correction of incipient failures either before they occur or before they develop into major defects. The primary goal of preventive maintenance is to avoid or mitigate the consequences of equipment failures. Preventive maintenance is designed to preserve and restore equipment reliability by replacing worn components before they fail. Methods of determining what preventive (or other) failure management policies to apply include original equipment manufacturer recommendations; statistical failure records; expert opinion; maintenance that has already been conducted on similar equipment; requirements of codes, laws, or regulations within a jurisdiction; or measured values and performance indications."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-2(5): Contingency Plan | Continue Mission and Business Functions"
+    id="id-aff53ff0a07f43598725d9e3493696ff"
+    documentation="Plan for the continuance of [Selection: all; essential] mission and business functions with minimal or no loss of operational continuity and sustains that continuity until full system restoration at primary processing and/or storage sites.">
+  <properties
+      key="Control Identifier"
+      value="CP-2(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may choose to conduct the contingency planning activities to continue mission and business functions as part of business continuity planning or business impact analyses. Primary processing and/or storage sites defined by organizations as part of contingency planning may change depending on the circumstances associated with the contingency."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

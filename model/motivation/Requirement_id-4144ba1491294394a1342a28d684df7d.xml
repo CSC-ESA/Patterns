@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-7(1): Media Use | Prohibit Use Without Owner"
+    id="id-4144ba1491294394a1342a28d684df7d"
+    documentation="[Withdrawn: Incorporated into MP-7.]">
+  <properties
+      key="Control Identifier"
+      value="MP-7(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(6): Incident Handling | Insider Threats"
+    id="id-0556749ebc224966967bbe263dd9ec04"
+    documentation="Implement an incident handling capability for incidents involving insider threats.">
+  <properties
+      key="Control Identifier"
+      value="IR-4(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Explicit focus on handling incidents involving insider threats provides additional emphasis on this type of threat and the need for specific incident handling capabilities to provide appropriate and timely responses."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

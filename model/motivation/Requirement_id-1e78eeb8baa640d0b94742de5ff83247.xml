@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-11(3): Component Authenticity | Anti-counterfeit Scanning"
+    id="id-1e78eeb8baa640d0b94742de5ff83247"
+    documentation="Scan for counterfeit system components [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="SR-11(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The type of component determines the type of scanning to be conducted (e.g., web application scanning if the component is a web application)."/>
+  <properties
+      key="Related Controls"
+      value="RA-5."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-4(6): Nonlocal Maintenance | Cryptographic Protection"
+    id="id-af0414a050654e8da8552de135b2f899"
+    documentation="Implement the following cryptographic mechanisms to protect the integrity and confidentiality of nonlocal maintenance and diagnostic communications: [Assignment: organization-defined cryptographic mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="MA-4(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Failure to protect nonlocal maintenance and diagnostic communications can result in unauthorized individuals gaining access to organizational information. Unauthorized access during remote maintenance sessions can result in a variety of hostile actions, including malicious code insertion, unauthorized changes to system parameters, and exfiltration of organizational information. Such actions can result in the loss or degradation of mission or business capabilities."/>
+  <properties
+      key="Related Controls"
+      value="SC-8, SC-12, SC-13."/>
+</archimate:Requirement>

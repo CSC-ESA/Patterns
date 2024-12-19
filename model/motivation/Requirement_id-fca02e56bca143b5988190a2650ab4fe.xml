@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-49: Hardware-enforced Separation and Policy Enforcement"
+    id="id-fca02e56bca143b5988190a2650ab4fe"
+    documentation="Implement hardware-enforced separation and policy enforcement mechanisms between [Assignment: organization-defined security domains].">
+  <properties
+      key="Control Identifier"
+      value="SC-49"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System owners may require additional strength of mechanism and robustness to ensure domain separation and policy enforcement for specific types of threats and environments of operation. Hardware-enforced separation and policy enforcement provide greater strength of mechanism than software-enforced separation and policy enforcement."/>
+  <properties
+      key="Related Controls"
+      value="AC-4, SA-8, SC-50."/>
+</archimate:Requirement>

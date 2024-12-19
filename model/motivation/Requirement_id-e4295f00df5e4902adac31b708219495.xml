@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-8(11): Security and Privacy Engineering Principles | Inverse Modification Threshold"
+    id="id-e4295f00df5e4902adac31b708219495"
+    documentation="Implement the security design principle of inverse modification threshold in [Assignment: organization-defined systems or system components].">
+  <properties
+      key="Control Identifier"
+      value="SA-8(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The principle of inverse modification threshold builds on the principle of trusted components and the principle of hierarchical trust and states that the degree of protection provided to a component is commensurate with its trustworthiness. As the trust placed in a component increases, the protection against unauthorized modification of the component also increases to the same degree. Protection from unauthorized modification can come in the form of the component’s own self-protection and innate trustworthiness, or it can come from the protections afforded to the component from other elements or attributes of the security architecture (to include protections in the environment of operation)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

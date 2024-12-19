@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-19(5): De-identification | Statistical Disclosure Control"
+    id="id-74c6f5afce474f0297b3fecdb105d591"
+    documentation="Manipulate numerical data, contingency tables, and statistical findings so that no individual or organization is identifiable in the results of the analysis.">
+  <properties
+      key="Control Identifier"
+      value="SI-19(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Many types of statistical analyses can result in the disclosure of information about individuals even if only summary information is provided. For example, if a school that publishes a monthly table with the number of minority students enrolled, reports that it has 10-19 such students in January, and subsequently reports that it has 20-29 such students in March, then it can be inferred that the student who enrolled in February was a minority."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

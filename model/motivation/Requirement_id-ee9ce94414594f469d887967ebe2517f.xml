@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-25: Thin Nodes"
+    id="id-ee9ce94414594f469d887967ebe2517f"
+    documentation="Employ minimal functionality and information storage on the following system components: [Assignment: organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SC-25"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The deployment of system components with minimal functionality reduces the need to secure every endpoint and may reduce the exposure of information, systems, and services to attacks. Reduced or minimal functionality includes diskless nodes and thin client technologies."/>
+  <properties
+      key="Related Controls"
+      value="SC-30, SC-44."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-31: Covert Channel Analysis"
+    id="id-76912793bb604228bd18c68f24e2ce32"
+    documentation="a. Perform a covert channel analysis to identify those aspects of communications within the system that are potential avenues for covert [Selection (one or more): storage; timing] channels; and&#xA;b. Estimate the maximum bandwidth of those channels.">
+  <properties
+      key="Control Identifier"
+      value="SC-31"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Developers are in the best position to identify potential areas within systems that might lead to covert channels. Covert channel analysis is a meaningful activity when there is the potential for unauthorized information flows across security domains, such as in the case of systems that contain export-controlled information and have connections to external networks (i.e., networks that are not controlled by organizations). Covert channel analysis is also useful for multilevel secure systems, multiple security level systems, and cross-domain systems."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-4, SA-8, SI-11."/>
+</archimate:Requirement>

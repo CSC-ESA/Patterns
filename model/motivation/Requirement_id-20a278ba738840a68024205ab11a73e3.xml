@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-28(2): Protection of Information at Rest | Offline Storage"
+    id="id-20a278ba738840a68024205ab11a73e3"
+    documentation="Remove the following information from online storage and store offline in a secure location: [Assignment: organization-defined information].">
+  <properties
+      key="Control Identifier"
+      value="SC-28(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Removing organizational information from online storage to offline storage eliminates the possibility of individuals gaining unauthorized access to the information through a network. Therefore, organizations may choose to move information to offline storage in lieu of protecting such information in online storage."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

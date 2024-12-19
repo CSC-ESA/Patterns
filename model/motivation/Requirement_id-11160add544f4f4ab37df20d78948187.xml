@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-3(6): Information Exchange | Transfer Authorizations"
+    id="id-11160add544f4f4ab37df20d78948187"
+    documentation="Verify that individuals or systems transferring data between interconnecting systems have the requisite authorizations (i.e., write permissions or privileges) prior to accepting such data.">
+  <properties
+      key="Control Identifier"
+      value="CA-3(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To prevent unauthorized individuals and systems from making information transfers to protected systems, the protected system verifies—via independent means— whether the individual or system attempting to transfer information is authorized to do so. Verification of the authorization to transfer information also applies to control plane traffic (e.g., routing and DNS) and services (e.g., authenticated SMTP relays)."/>
+  <properties
+      key="Related Controls"
+      value="AC-2, AC-3, AC-4."/>
+</archimate:Requirement>

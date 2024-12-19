@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-9(7): System Backup | Dual Authorization for Deletion or Destruction"
+    id="id-ac2f1871d5a84e8dac5321c3ea7b681a"
+    documentation="Enforce dual authorization for the deletion or destruction of [Assignment: organization-defined backup information].">
+  <properties
+      key="Control Identifier"
+      value="CP-9(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Dual authorization ensures that deletion or destruction of backup information cannot occur unless two qualified individuals carry out the task. Individuals deleting or destroying backup information possess the skills or expertise to determine if the proposed deletion or destruction of information reflects organizational policies and procedures. Dual authorization may also be known as two-person control. To reduce the risk of collusion, organizations consider rotating dual authorization duties to other individuals."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-5, MP-2."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-3(1): Incident Response Testing | Automated Testing"
+    id="id-2a69c06368a244d2a27ee57c29ca7c97"
+    documentation="Test the incident response capability using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="IR-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations use automated mechanisms to more thoroughly and effectively test incident response capabilities. This can be accomplished by providing more complete coverage of incident response issues, selecting realistic test scenarios and environments, and stressing the response capability."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

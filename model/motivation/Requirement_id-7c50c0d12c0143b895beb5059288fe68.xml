@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-8(28): Security and Privacy Engineering Principles | Acceptable Security"
+    id="id-7c50c0d12c0143b895beb5059288fe68"
+    documentation="Implement the security design principle of acceptable security in [Assignment: organization-defined systems or system components].">
+  <properties
+      key="Control Identifier"
+      value="SA-8(28)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The principle of acceptable security requires that the level of privacy and performance that the system provides is consistent with the users’ expectations. The perception of personal privacy may affect user behavior, morale, and effectiveness. Based on the organizational privacy policy and the system design, users should be able to restrict their actions to protect their privacy. When systems fail to provide intuitive interfaces or meet privacy and performance expectations, users may either choose to completely avoid the system or use it in ways that may be inefficient or even insecure."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

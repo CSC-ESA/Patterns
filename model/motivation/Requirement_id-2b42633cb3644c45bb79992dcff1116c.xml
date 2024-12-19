@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-8: Visitor Access Records"
+    id="id-2b42633cb3644c45bb79992dcff1116c"
+    documentation="a. Maintain visitor access records to the facility where the system resides for [Assignment: organization-defined time period];&#xA;b. Review visitor access records [Assignment: organization-defined frequency]; and&#xA;c. Report anomalies in visitor access records to [Assignment: organization-defined personnel].">
+  <properties
+      key="Control Identifier"
+      value="PE-8"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Visitor access records include the names and organizations of individuals visiting, visitor signatures, forms of identification, dates of access, entry and departure times, purpose of visits, and the names and organizations of individuals visited. Access record reviews determine if access authorizations are current and are still required to support organizational mission and business functions. Access records are not required for publicly accessible areas."/>
+  <properties
+      key="Related Controls"
+      value="PE-2, PE-3, PE-6."/>
+</archimate:Requirement>

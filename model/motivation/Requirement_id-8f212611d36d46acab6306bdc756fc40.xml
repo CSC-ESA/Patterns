@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-4(6): Identifier Management | Cross-organization Management"
+    id="id-8f212611d36d46acab6306bdc756fc40"
+    documentation="Coordinate with the following external organizations for cross-organization management of identifiers: [Assignment: organization-defined external organizations].">
+  <properties
+      key="Control Identifier"
+      value="IA-4(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Cross-organization identifier management provides the capability to identify individuals, groups, roles, or devices when conducting cross-organization activities involving the processing, storage, or transmission of information."/>
+  <properties
+      key="Related Controls"
+      value="AU-16, IA-2, IA-5."/>
+</archimate:Requirement>

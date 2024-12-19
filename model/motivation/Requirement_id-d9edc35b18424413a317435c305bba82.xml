@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-20(2): Secure Name/address Resolution Service (authoritative Source) | Data Origin and Integrity"
+    id="id-d9edc35b18424413a317435c305bba82"
+    documentation="Provide data origin and integrity protection artifacts for internal name/address resolution queries.">
+  <properties
+      key="Control Identifier"
+      value="SC-20(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

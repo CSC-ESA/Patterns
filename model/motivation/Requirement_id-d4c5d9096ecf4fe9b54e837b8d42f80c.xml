@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-8(7): System Component Inventory | Centralized Repository"
+    id="id-d4c5d9096ecf4fe9b54e837b8d42f80c"
+    documentation="Provide a centralized repository for the inventory of system components.">
+  <properties
+      key="Control Identifier"
+      value="CM-8(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may implement centralized system component inventories that include components from all organizational systems. Centralized repositories of component inventories provide opportunities for efficiencies in accounting for organizational hardware, software, and firmware assets. Such repositories may also help organizations rapidly identify the location and responsible individuals of components that have been compromised, breached, or are otherwise in need of mitigation actions. Organizations ensure that the resulting centralized inventories include system-specific information required for proper component accountability."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

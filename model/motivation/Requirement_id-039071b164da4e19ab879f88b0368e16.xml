@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-6(1): Least Privilege | Authorize Access to Security Functions"
+    id="id-039071b164da4e19ab879f88b0368e16"
+    documentation="Authorize access for [Assignment: organization-defined individuals or roles] to:&#xA;(a) [Assignment: organization-defined security functions (deployed in hardware, software, and firmware)]; and&#xA;(b) [Assignment: organization-defined security-relevant information].">
+  <properties
+      key="Control Identifier"
+      value="AC-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Security functions include establishing system accounts, configuring access authorizations (i.e., permissions, privileges), configuring settings for events to be audited, and establishing intrusion detection parameters. Security-relevant information includes filtering rules for routers or firewalls, configuration parameters for security services, cryptographic key management information, and access control lists. Authorized personnel include security administrators, system administrators, system security officers, system programmers, and other privileged users."/>
+  <properties
+      key="Related Controls"
+      value="AC-17, AC-18, AC-19, AU-9, PE-2."/>
+</archimate:Requirement>

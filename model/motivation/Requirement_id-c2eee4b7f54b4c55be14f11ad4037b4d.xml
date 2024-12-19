@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(23): Information Flow Enforcement | Modify Non-releasable Information"
+    id="id-c2eee4b7f54b4c55be14f11ad4037b4d"
+    documentation="When transferring information between different security domains, modify non-releasable information by implementing [Assignment: organization-defined modification action].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(23)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Modifying non-releasable information can help prevent a data spill or attack when information is transferred across security domains. Modification actions include masking, permutation, alteration, removal, or redaction."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

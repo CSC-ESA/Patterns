@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(9): Incident Handling | Dynamic Response Capability"
+    id="id-0b33e387358348509be15195d52ab65a"
+    documentation="Employ [Assignment: organization-defined dynamic response capabilities] to respond to incidents.">
+  <properties
+      key="Control Identifier"
+      value="IR-4(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The dynamic response capability addresses the timely deployment of new or replacement organizational capabilities in response to incidents. This includes capabilities implemented at the mission and business process level and at the system level."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(24): Information Flow Enforcement | Internal Normalized Format"
+    id="id-a87787b1d25641d8941d98d18c9222e5"
+    documentation="When transferring information between different security domains, parse incoming data into an internal normalized format and regenerate the data to be consistent with its intended specification.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(24)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Converting data into normalized forms is one of most of effective mechanisms to stop malicious attacks and large classes of data exfiltration."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-18(4): Mobile Code | Prevent Automatic Execution"
+    id="id-ceac4ea178a844e3ba1538c47f961552"
+    documentation="Prevent the automatic execution of mobile code in [Assignment: organization-defined software applications] and enforce [Assignment: organization-defined actions] prior to executing the code.">
+  <properties
+      key="Control Identifier"
+      value="SC-18(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Actions enforced before executing mobile code include prompting users prior to opening email attachments or clicking on web links. Preventing the automatic execution of mobile code includes disabling auto-execute features on system components that employ portable storage devices, such as compact discs, digital versatile discs, and universal serial bus devices."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

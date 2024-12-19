@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-10(2): Developer Configuration Management | Alternative Configuration Management Processes"
+    id="id-0e2e5e8218b84087b8795f5532bcb642"
+    documentation="Provide an alternate configuration management process using organizational personnel in the absence of a dedicated developer configuration management team.">
+  <properties
+      key="Control Identifier"
+      value="SA-10(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Alternate configuration management processes may be required when organizations use commercial off-the-shelf information technology products. Alternate configuration management processes include organizational personnel who review and approve proposed changes to systems, system components, and system services and conduct security and privacy impact analyses prior to the implementation of changes to systems, components, or services."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

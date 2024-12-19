@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-26(1): Decoys | Detection of Malicious Code"
+    id="id-a0c7a241829f4341af4d7f47b0d8ad55"
+    documentation="[Withdrawn: Incorporated into SC-35.]">
+  <properties
+      key="Control Identifier"
+      value="SC-26(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

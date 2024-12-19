@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-3(1): Information Exchange | Unclassified National Security System Connections"
+    id="id-b5ffedb19b454ed9baef2dae629ffcc4"
+    documentation="[Withdrawn: Moved to SC-7(25).]">
+  <properties
+      key="Control Identifier"
+      value="CA-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

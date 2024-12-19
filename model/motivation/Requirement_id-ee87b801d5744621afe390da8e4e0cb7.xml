@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-7(1): Incident Response Assistance | Automation Support for Availability of Information and Support"
+    id="id-ee87b801d5744621afe390da8e4e0cb7"
+    documentation="Increase the availability of incident response information and support using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="IR-7(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms can provide a push or pull capability for users to obtain incident response assistance. For example, individuals may have access to a website to query the assistance capability, or the assistance capability can proactively send incident response information to users (general distribution or targeted) as part of increasing understanding of current response capabilities and support."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

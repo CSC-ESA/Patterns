@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-8(3): Spam Protection | Continuous Learning Capability"
+    id="id-5c07a9f0d1384e3597bc5e3c2fa02ce2"
+    documentation="Implement spam protection mechanisms with a learning capability to more effectively identify legitimate communications traffic.">
+  <properties
+      key="Control Identifier"
+      value="SI-8(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Learning mechanisms include Bayesian filters that respond to user inputs that identify specific traffic as spam or legitimate by updating algorithm parameters and thereby more accurately separating types of traffic."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

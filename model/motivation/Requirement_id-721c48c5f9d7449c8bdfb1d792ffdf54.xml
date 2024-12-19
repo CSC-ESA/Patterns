@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-33: Transmission Preparation Integrity"
+    id="id-721c48c5f9d7449c8bdfb1d792ffdf54"
+    documentation="[Withdrawn: Incorporated into SC-8.]">
+  <properties
+      key="Control Identifier"
+      value="SC-33"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

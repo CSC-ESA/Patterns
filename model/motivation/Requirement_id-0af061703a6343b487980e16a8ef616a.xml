@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-13(4): Predictable Failure Prevention | Standby Component Installation and Notification"
+    id="id-0af061703a6343b487980e16a8ef616a"
+    documentation="If system component failures are detected:&#xA;(a) Ensure that the standby components are successfully and transparently installed within [Assignment: organization-defined time period]; and&#xA;(b) [Selection (one or more): Activate [Assignment: organization-defined alarm]; Automatically shut down the system; [Assignment: organization-defined action]].">
+  <properties
+      key="Control Identifier"
+      value="SI-13(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automatic or manual transfer of components from standby to active mode can occur upon the detection of component failures."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

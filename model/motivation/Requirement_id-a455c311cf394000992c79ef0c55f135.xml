@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-32(1): System Partitioning | Separate Physical Domains for Privileged Functions"
+    id="id-a455c311cf394000992c79ef0c55f135"
+    documentation="Partition privileged functions into separate physical domains.">
+  <properties
+      key="Control Identifier"
+      value="SC-32(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Privileged functions that operate in a single physical domain may represent a single point of failure if that domain becomes compromised or experiences a denial of service."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-2(3): Contingency Plan | Resume Mission and Business Functions"
+    id="id-36b57542c43244a39183334f3cb3494f"
+    documentation="Plan for the resumption of [Selection: all; essential] mission and business functions within [Assignment: organization-defined time period] of contingency plan activation.">
+  <properties
+      key="Control Identifier"
+      value="CP-2(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may choose to conduct contingency planning activities to resume mission and business functions as part of business continuity planning or as part of business impact analyses. Organizations prioritize the resumption of mission and business functions. The time period for resuming mission and business functions may be dependent on the severity and extent of the disruptions to the system and its supporting infrastructure."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

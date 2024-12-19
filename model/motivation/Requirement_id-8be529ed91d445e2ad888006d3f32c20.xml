@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(7): Remote Access | Additional Protection for Security Function Access"
+    id="id-8be529ed91d445e2ad888006d3f32c20"
+    documentation="[Withdrawn: Incorporated into AC-3(10).]">
+  <properties
+      key="Control Identifier"
+      value="AC-17(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

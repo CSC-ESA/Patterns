@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-9(3): Previous Logon Notification | Notification of Account Changes"
+    id="id-03aade427bec43d78ce7335934196dac"
+    documentation="Notify the user, upon successful logon, of changes to [Assignment: organization-defined security-related characteristics or parameters of the user’s account] during [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="AC-9(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information about changes to security-related account characteristics within a specified time period allows users to recognize if changes were made without their knowledge."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-5(4): Media Transport | Cryptographic Protection"
+    id="id-6f2defedf40f46e990f41a3f85c9d811"
+    documentation="[Withdrawn: Incorporated into SC-28(1).]">
+  <properties
+      key="Control Identifier"
+      value="MP-5(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-42(2): Sensor Capability and Data | Authorized Use"
+    id="id-dbb363ed0cbf4f14b91ea7ff306a49e1"
+    documentation="Employ the following measures so that data or information collected by [Assignment: organization-defined sensors] is only used for authorized purposes: [Assignment: organization-defined measures].">
+  <properties
+      key="Control Identifier"
+      value="SC-42(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information collected by sensors for a specific authorized purpose could be misused for some unauthorized purpose. For example, GPS sensors that are used to support traffic navigation could be misused to track the movements of individuals. Measures to mitigate such activities include additional training to help ensure that authorized individuals do not abuse their authority and, in the case where sensor data is maintained by external parties, contractual restrictions on the use of such data."/>
+  <properties
+      key="Related Controls"
+      value="PT-2."/>
+</archimate:Requirement>

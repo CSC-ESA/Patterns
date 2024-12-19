@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(6): Remote Access | Protection of Mechanism Information"
+    id="id-289f4fcd81394b269dbeec07ceff7731"
+    documentation="Protect information about remote access mechanisms from unauthorized use and disclosure.">
+  <properties
+      key="Control Identifier"
+      value="AC-17(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Remote access to organizational information by non-organizational entities can increase the risk of unauthorized use and disclosure about remote access mechanisms. The organization considers including remote access requirements in the information exchange agreements with other organizations, as applicable. Remote access requirements can also be included in rules of behavior (see PL-4) and access agreements (see PS-6)."/>
+  <properties
+      key="Related Controls"
+      value="AT-2, AT-3, PS-6."/>
+</archimate:Requirement>

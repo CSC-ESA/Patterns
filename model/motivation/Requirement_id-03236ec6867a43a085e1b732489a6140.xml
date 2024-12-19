@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-7(16): Software, Firmware, and Information Integrity | Time Limit on Process Execution Without Supervision"
+    id="id-03236ec6867a43a085e1b732489a6140"
+    documentation="Prohibit processes from executing without supervision for more than [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="SI-7(16)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Placing a time limit on process execution without supervision is intended to apply to processes for which typical or normal execution periods can be determined and situations in which organizations exceed such periods. Supervision includes timers on operating systems, automated responses, and manual oversight and response when system process anomalies occur."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

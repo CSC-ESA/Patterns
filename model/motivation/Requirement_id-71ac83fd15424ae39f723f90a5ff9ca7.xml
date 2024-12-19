@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-3(3): Supply Chain Controls and Processes | Sub-tier Flow Down"
+    id="id-71ac83fd15424ae39f723f90a5ff9ca7"
+    documentation="Ensure that the controls included in the contracts of prime contractors are also included in the contracts of subcontractors.">
+  <properties
+      key="Control Identifier"
+      value="SR-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To manage supply chain risk effectively and holistically, it is important that organizations ensure that supply chain risk management controls are included at all tiers in the supply chain. This includes ensuring that Tier 1 (prime) contractors have implemented processes to facilitate the flow down of supply chain risk management controls to sub-tier contractors. The controls subject to flow down are identified in SR-3b."/>
+  <properties
+      key="Related Controls"
+      value="SR-5, SR-8."/>
+</archimate:Requirement>

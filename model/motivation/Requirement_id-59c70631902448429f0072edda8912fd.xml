@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(1): Supply Chain Protection | Acquisition Strategies / Tools / Methods"
+    id="id-59c70631902448429f0072edda8912fd"
+    documentation="[Withdrawn: Moved to SR-5.]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

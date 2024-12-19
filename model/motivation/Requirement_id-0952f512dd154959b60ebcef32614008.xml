@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-18(4): Personally Identifiable Information Quality Operations | Individual Requests"
+    id="id-0952f512dd154959b60ebcef32614008"
+    documentation="Correct or delete personally identifiable information upon request by individuals or their designated representatives.">
+  <properties
+      key="Control Identifier"
+      value="SI-18(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Inaccurate personally identifiable information maintained by organizations may cause problems for individuals, especially in those business functions where inaccurate information may result in inappropriate decisions or the denial of benefits and services to individuals. Even correct information, in certain circumstances, can cause problems for individuals that outweigh the benefits of an organization maintaining the information. Organizations use discretion when determining if personally identifiable information is to be corrected or deleted based on the scope of requests, the changes sought, the impact of the changes, and laws, regulations, and policies. Organizational personnel consult with the senior agency official for privacy and legal counsel regarding appropriate instances of correction or deletion."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

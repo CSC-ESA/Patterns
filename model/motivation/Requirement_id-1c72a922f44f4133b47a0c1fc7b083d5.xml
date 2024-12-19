@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-5(7): Access Restrictions for Change | Automatic Implementation of Security Safeguards"
+    id="id-1c72a922f44f4133b47a0c1fc7b083d5"
+    documentation="[Withdrawn: Incorporated into SI-7.]">
+  <properties
+      key="Control Identifier"
+      value="CM-5(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

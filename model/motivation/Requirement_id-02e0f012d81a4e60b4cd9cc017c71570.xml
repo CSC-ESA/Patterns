@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-12(6): Cryptographic Key Establishment and Management | Physical Control of Keys"
+    id="id-02e0f012d81a4e60b4cd9cc017c71570"
+    documentation="Maintain physical control of cryptographic keys when stored information is encrypted by external service providers.">
+  <properties
+      key="Control Identifier"
+      value="SC-12(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="For organizations that use external service providers (e.g., cloud service or data center providers), physical control of cryptographic keys provides additional assurance that information stored by such external providers is not subject to unauthorized disclosure or modification."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

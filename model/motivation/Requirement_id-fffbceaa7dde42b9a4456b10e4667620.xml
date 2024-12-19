@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(4): Boundary Protection | External Telecommunications Services"
+    id="id-fffbceaa7dde42b9a4456b10e4667620"
+    documentation="(a) Implement a managed interface for each external telecommunication service;&#xA;(b) Establish a traffic flow policy for each managed interface;&#xA;(c) Protect the confidentiality and integrity of the information being transmitted across each interface;&#xA;(d) Document each exception to the traffic flow policy with a supporting mission or business need and duration of that need;&#xA;(e) Review exceptions to the traffic flow policy [Assignment: organization-defined frequency] and remove exceptions that are no longer supported by an explicit mission or business need;&#xA;(f) Prevent unauthorized exchange of control plane traffic with external networks;&#xA;(g) Publish information to enable remote networks to detect unauthorized control plane traffic from internal networks; and&#xA;(h) Filter unauthorized control plane traffic from external networks.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="External telecommunications services can provide data and/or voice communications services. Examples of control plane traffic include Border Gateway Protocol (BGP) routing, Domain Name System (DNS), and management protocols. See SP 800-189 for additional information on the use of the resource public key infrastructure (RPKI) to protect BGP routes and detect unauthorized BGP announcements."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, SC-8, SC-20, SC-21, SC-22."/>
+</archimate:Requirement>

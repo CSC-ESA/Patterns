@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-13(2): Predictable Failure Prevention | Time Limit on Process Execution Without Supervision"
+    id="id-835906ecd330456287096bf6143be965"
+    documentation="[Withdrawn: Incorporated into SI-7(16).]">
+  <properties
+      key="Control Identifier"
+      value="SI-13(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

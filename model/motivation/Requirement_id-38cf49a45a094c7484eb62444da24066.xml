@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-4(1): Identifier Management | Prohibit Account Identifiers as Public Identifiers"
+    id="id-38cf49a45a094c7484eb62444da24066"
+    documentation="Prohibit the use of system account identifiers that are the same as public identifiers for individual accounts.">
+  <properties
+      key="Control Identifier"
+      value="IA-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Prohibiting account identifiers as public identifiers applies to any publicly disclosed account identifier used for communication such as, electronic mail and instant messaging. Prohibiting the use of systems account identifiers that are the same as some public identifier, such as the individual identifier section of an electronic mail address, makes it more difficult for adversaries to guess user identifiers. Prohibiting account identifiers as public identifiers without the implementation of other supporting controls only complicates guessing of identifiers. Additional protections are required for authenticators and credentials to protect the account."/>
+  <properties
+      key="Related Controls"
+      value="AT-2, PT-7."/>
+</archimate:Requirement>

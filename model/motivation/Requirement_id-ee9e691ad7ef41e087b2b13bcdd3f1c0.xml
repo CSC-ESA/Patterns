@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(11): Information Flow Enforcement | Configuration of Security or Privacy Policy Filters"
+    id="id-ee9e691ad7ef41e087b2b13bcdd3f1c0"
+    documentation="Provide the capability for privileged administrators to configure [Assignment: organization-defined security or privacy policy filters] to support different security or privacy policies.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Documentation contains detailed information for configuring security or privacy policy filters. For example, administrators can configure security or privacy policy filters to include the list of inappropriate words that security or privacy policy mechanisms check in accordance with the definitions provided by organizations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

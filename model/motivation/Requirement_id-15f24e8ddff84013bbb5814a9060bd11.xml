@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-11(2): Component Authenticity | Configuration Control for Component Service and Repair"
+    id="id-15f24e8ddff84013bbb5814a9060bd11"
+    documentation="Maintain configuration control over the following system components awaiting service or repair and serviced or repaired components awaiting return to service: [Assignment: organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SR-11(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="CM-3, MA-2, MA-4, SA-10."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(13): Incident Handling | Behavior Analysis"
+    id="id-8b64ded52fd647abb8f736e08ce1f040"
+    documentation="Analyze anomalous or suspected adversarial behavior in or related to [Assignment: organization-defined environments or resources].">
+  <properties
+      key="Control Identifier"
+      value="IR-4(13)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="If the organization maintains a deception environment, an analysis of behaviors in that environment, including resources targeted by the adversary and timing of the incident or event, can provide insight into adversarial tactics, techniques, and procedures. External to a deception environment, the analysis of anomalous adversarial behavior (e.g., changes in system performance or usage patterns) or suspected behavior (e.g., changes in searches for the location of specific resources) can give the organization such insight."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

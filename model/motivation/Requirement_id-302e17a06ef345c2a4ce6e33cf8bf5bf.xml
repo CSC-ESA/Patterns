@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-44: Detonation Chambers"
+    id="id-302e17a06ef345c2a4ce6e33cf8bf5bf"
+    documentation="Employ a detonation chamber capability within [Assignment: organization-defined system, system component, or location].">
+  <properties
+      key="Control Identifier"
+      value="SC-44"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Detonation chambers, also known as dynamic execution environments, allow organizations to open email attachments, execute untrusted or suspicious applications, and execute Universal Resource Locator requests in the safety of an isolated environment or a virtualized sandbox. Protected and isolated execution environments provide a means of determining whether the associated attachments or applications contain malicious code. While related to the concept of deception nets, the employment of detonation chambers is not intended to maintain a long-term environment in which adversaries can operate and their actions can be observed. Rather, detonation chambers are intended to quickly identify malicious code and either reduce the likelihood that the code is propagated to user environments of operation or prevent such propagation completely."/>
+  <properties
+      key="Related Controls"
+      value="SC-7, SC-18, SC-25, SC-26, SC-30, SC-35, SC-39, SI-3, SI-7."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-3(4): Malicious Code Protection | Updates Only by Privileged Users"
+    id="id-f0f6d4f323054dbaa2892aa87e0685d6"
+    documentation="Update malicious code protection mechanisms only when directed by a privileged user.">
+  <properties
+      key="Control Identifier"
+      value="SI-3(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Protection mechanisms for malicious code are typically categorized as security-related software and, as such, are only updated by organizational personnel with appropriate access privileges."/>
+  <properties
+      key="Related Controls"
+      value="CM-5."/>
+</archimate:Requirement>

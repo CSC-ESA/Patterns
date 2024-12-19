@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-40(2): Wireless Link Protection | Reduce Detection Potential"
+    id="id-5103cb034a2347f3bca4c9ca68f299e4"
+    documentation="Implement cryptographic mechanisms to reduce the detection potential of wireless links to [Assignment: organization-defined level of reduction].">
+  <properties
+      key="Control Identifier"
+      value="SC-40(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The implementation of cryptographic mechanisms to reduce detection potential is used for covert communications and to protect wireless transmitters from geo-location. It also ensures that the spread spectrum waveforms used to achieve a low probability of detection are not predictable by unauthorized individuals. Mission requirements, projected threats, concept of operations, and applicable laws, executive orders, directives, regulations, policies, and standards determine the levels to which wireless links are undetectable."/>
+  <properties
+      key="Related Controls"
+      value="SC-12, SC-13."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(10): Vulnerability Monitoring and Scanning | Correlate Scanning Information"
+    id="id-6058f3947d2e4d2b963b99572ab0e891"
+    documentation="Correlate the output from vulnerability scanning tools to determine the presence of multi-vulnerability and multi-hop attack vectors.">
+  <properties
+      key="Control Identifier"
+      value="RA-5(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="An attack vector is a path or means by which an adversary can gain access to a system in order to deliver malicious code or exfiltrate information. Organizations can use attack trees to show how hostile activities by adversaries interact and combine to produce adverse impacts or negative consequences to systems and organizations. Such information, together with correlated data from vulnerability scanning tools, can provide greater clarity regarding multi-vulnerability and multi-hop attack vectors. The correlation of vulnerability scanning information is especially important when organizations are transitioning from older technologies to newer technologies (e.g., transitioning from IPv4 to IPv6 network protocols). During such transitions, some system components may inadvertently be unmanaged and create opportunities for adversary exploitation."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

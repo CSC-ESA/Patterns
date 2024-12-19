@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(13): Boundary Protection | Isolation of Security Tools, Mechanisms, and Support Components"
+    id="id-0776a52d9a354ed5aa6d2cdfa58c05c6"
+    documentation="Isolate [Assignment: organization-defined information security tools, mechanisms, and support components] from other internal system components by implementing physically separate subnetworks with managed interfaces to other components of the system.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(13)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physically separate subnetworks with managed interfaces are useful in isolating computer network defenses from critical operational processing networks to prevent adversaries from discovering the analysis and forensics techniques employed by organizations."/>
+  <properties
+      key="Related Controls"
+      value="SC-2, SC-3."/>
+</archimate:Requirement>

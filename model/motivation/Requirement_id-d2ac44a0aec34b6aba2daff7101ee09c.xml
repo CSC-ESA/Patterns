@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(7): System Monitoring | Automated Response to Suspicious Events"
+    id="id-d2ac44a0aec34b6aba2daff7101ee09c"
+    documentation="(a) Notify [Assignment: organization-defined incident response personnel (identified by name and/or by role)] of detected suspicious events; and&#xA;(b) Take the following actions upon detection: [Assignment: organization-defined least-disruptive actions to terminate suspicious events].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Least-disruptive actions include initiating requests for human responses."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

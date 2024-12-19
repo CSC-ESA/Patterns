@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-13(3): Monitoring for Information Disclosure | Unauthorized Replication of Information"
+    id="id-e090f8b17619433f8938f1ec87a72608"
+    documentation="Employ discovery techniques, processes, and tools to determine if external entities are replicating organizational information in an unauthorized manner.">
+  <properties
+      key="Control Identifier"
+      value="AU-13(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The unauthorized use or replication of organizational information by external entities can cause adverse impacts on organizational operations and assets, including damage to reputation. Such activity can include the replication of an organizational website by an adversary or hostile threat actor who attempts to impersonate the web-hosting organization. Discovery tools, techniques, and processes used to determine if external entities are replicating organizational information in an unauthorized manner include scanning external websites, monitoring social media, and training staff to recognize the unauthorized use of organizational information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

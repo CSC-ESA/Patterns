@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-12(2): Cryptographic Key Establishment and Management | Symmetric Keys"
+    id="id-cd697b4dfb42467c891d42c51149cf02"
+    documentation="Produce, control, and distribute symmetric cryptographic keys using [Selection: NIST FIPS-validated; NSA-approved] key management technology and processes.">
+  <properties
+      key="Control Identifier"
+      value="SC-12(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="SP 800-56A, SP 800-56B, and SP 800-56C provide guidance on cryptographic key establishment schemes and key derivation methods. SP 800-57-1, SP 800-57-2, and SP 800-57-3 provide guidance on cryptographic key management."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

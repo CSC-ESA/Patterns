@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-9(6): System Backup | Redundant Secondary System"
+    id="id-ff54dd136a05482f90e464bb737b0b2c"
+    documentation="Conduct system backup by maintaining a redundant secondary system that is not collocated with the primary system and that can be activated without loss of information or disruption to operations.">
+  <properties
+      key="Control Identifier"
+      value="CP-9(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The effect of system backup can be achieved by maintaining a redundant secondary system that mirrors the primary system, including the replication of information. If this type of redundancy is in place and there is sufficient geographic separation between the two systems, the secondary system can also serve as the alternate processing site."/>
+  <properties
+      key="Related Controls"
+      value="CP-7."/>
+</archimate:Requirement>

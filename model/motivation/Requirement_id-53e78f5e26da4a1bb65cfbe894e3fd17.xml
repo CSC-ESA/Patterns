@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-18(2): Mobile Code | Acquisition, Development, and Use"
+    id="id-53e78f5e26da4a1bb65cfbe894e3fd17"
+    documentation="Verify that the acquisition, development, and use of mobile code to be deployed in the system meets [Assignment: organization-defined mobile code requirements].">
+  <properties
+      key="Control Identifier"
+      value="SC-18(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

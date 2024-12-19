@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-15: Water Damage Protection"
+    id="id-575d648f888441389022f7a3a4b8adf7"
+    documentation="Protect the system from damage resulting from water leakage by providing master shutoff or isolation valves that are accessible, working properly, and known to key personnel.">
+  <properties
+      key="Control Identifier"
+      value="PE-15"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The provision of water damage protection primarily applies to organizational facilities that contain concentrations of system resources, including data centers, server rooms, and mainframe computer rooms. Isolation valves can be employed in addition to or in lieu of master shutoff valves to shut off water supplies in specific areas of concern without affecting entire organizations."/>
+  <properties
+      key="Related Controls"
+      value="AT-3, PE-10."/>
+</archimate:Requirement>

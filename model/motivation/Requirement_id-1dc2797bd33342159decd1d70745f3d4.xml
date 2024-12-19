@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-23(2): Session Authenticity | User-initiated Logouts and Message Displays"
+    id="id-1dc2797bd33342159decd1d70745f3d4"
+    documentation="[Withdrawn: Incorporated into AC-12(1).]">
+  <properties
+      key="Control Identifier"
+      value="SC-23(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

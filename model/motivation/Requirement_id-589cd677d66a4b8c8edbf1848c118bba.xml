@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-3(7): Information Exchange | Transitive Information Exchanges"
+    id="id-589cd677d66a4b8c8edbf1848c118bba"
+    documentation="(a) Identify transitive (downstream) information exchanges with other systems through the systems identified in CA-3a; and&#xA;(b) Take measures to ensure that transitive (downstream) information exchanges cease when the controls on identified transitive (downstream) systems cannot be verified or validated.">
+  <properties
+      key="Control Identifier"
+      value="CA-3(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Transitive or downstream information exchanges are information exchanges between the system or systems with which the organizational system exchanges information and other systems. For mission-essential systems, services, and applications, including high value assets, it is necessary to identify such information exchanges. The transparency of the controls or protection measures in place in such downstream systems connected directly or indirectly to organizational systems is essential to understanding the security and privacy risks resulting from those information exchanges. Organizational systems can inherit risk from downstream systems through transitive connections and information exchanges, which can make the organizational systems more susceptible to threats, hazards, and adverse impacts."/>
+  <properties
+      key="Related Controls"
+      value="SC-7."/>
+</archimate:Requirement>

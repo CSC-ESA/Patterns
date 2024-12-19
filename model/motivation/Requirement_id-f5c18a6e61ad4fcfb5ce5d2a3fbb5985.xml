@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-7(1): Audit Record Reduction and Report Generation | Automatic Processing"
+    id="id-f5c18a6e61ad4fcfb5ce5d2a3fbb5985"
+    documentation="Provide and implement the capability to process, sort, and search audit records for events of interest based on the following content: [Assignment: organization-defined fields within audit records].">
+  <properties
+      key="Control Identifier"
+      value="AU-7(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Events of interest can be identified by the content of audit records, including system resources involved, information objects accessed, identities of individuals, event types, event locations, event dates and times, Internet Protocol addresses involved, or event success or failure. Organizations may define event criteria to any degree of granularity required, such as locations selectable by a general networking location or by specific system component."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-6(1): Access Agreements | Information Requiring Special Protection"
+    id="id-e1f0d88bc8ad4405a80d9fdc4522c7cc"
+    documentation="[Withdrawn: Incorporated into PS-3.]">
+  <properties
+      key="Control Identifier"
+      value="PS-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

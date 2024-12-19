@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-5(5): Access Restrictions for Change | Privilege Limitation for Production and Operation"
+    id="id-424412083d6c42b5a50622798f9905fa"
+    documentation="(a) Limit privileges to change system components and system-related information within a production or operational environment; and&#xA;(b) Review and reevaluate privileges [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="CM-5(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In many organizations, systems support multiple mission and business functions. Limiting privileges to change system components with respect to operational systems is necessary because changes to a system component may have far-reaching effects on mission and business processes supported by the system. The relationships between systems and mission/business processes are, in some cases, unknown to developers. System-related information includes operational procedures."/>
+  <properties
+      key="Related Controls"
+      value="AC-2."/>
+</archimate:Requirement>

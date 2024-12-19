@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-7(1): Specific Categories of Personally Identifiable Information | Social Security Numbers"
+    id="id-c898f0a2b881402cad8761941e485dbc"
+    documentation="When a system processes Social Security numbers:&#xA;(a) Eliminate unnecessary collection, maintenance, and use of Social Security numbers, and explore alternatives to their use as a personal identifier;&#xA;(b) Do not deny any individual any right, benefit, or privilege provided by law because of such individual’s refusal to disclose his or her Social Security number; and&#xA;(c) Inform any individual who is asked to disclose his or her Social Security number whether that disclosure is mandatory or voluntary, by what statutory or other authority such number is solicited, and what uses will be made of it.">
+  <properties
+      key="Control Identifier"
+      value="PT-7(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Federal law and policy establish specific requirements for organizations’ processing of Social Security numbers. Organizations take steps to eliminate unnecessary uses of Social Security numbers and other sensitive information and observe any particular requirements that apply."/>
+  <properties
+      key="Related Controls"
+      value="IA-4."/>
+</archimate:Requirement>

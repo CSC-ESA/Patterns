@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-7(13): Software, Firmware, and Information Integrity | Code Execution in Protected Environments"
+    id="id-008a5897bf2c467fb02175d4c346c88c"
+    documentation="[Withdrawn: Moved to CM-7(7).]">
+  <properties
+      key="Control Identifier"
+      value="SI-7(13)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

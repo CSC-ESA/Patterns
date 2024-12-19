@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-9(5): System Backup | Transfer to Alternate Storage Site"
+    id="id-d3235e2a560b49fb9182c9b03702a8c8"
+    documentation="Transfer system backup information to the alternate storage site [Assignment: organization-defined time period and transfer rate consistent with the recovery time and recovery point objectives].">
+  <properties
+      key="Control Identifier"
+      value="CP-9(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System backup information can be transferred to alternate storage sites either electronically or by the physical shipment of storage media."/>
+  <properties
+      key="Related Controls"
+      value="CP-7, MP-3, MP-4, MP-5."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-7(4): Alternate Processing Site | Preparation for Use"
+    id="id-c26aa11242404d47aa91db5688d6a535"
+    documentation="Prepare the alternate processing site so that the site can serve as the operational site supporting essential mission and business functions.">
+  <properties
+      key="Control Identifier"
+      value="CP-7(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Site preparation includes establishing configuration settings for systems at the alternate processing site consistent with the requirements for such settings at the primary site and ensuring that essential supplies and logistical considerations are in place."/>
+  <properties
+      key="Related Controls"
+      value="CM-2, CM-6, CP-4."/>
+</archimate:Requirement>

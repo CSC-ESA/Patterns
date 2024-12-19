@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(28): Information Flow Enforcement | Linear Filter Pipelines"
+    id="id-22bf5f0e0dee459ca184d9c959d90d1f"
+    documentation="When transferring information between different security domains, implement a linear content filter pipeline that is enforced with discretionary and mandatory access controls.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(28)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Content filtering is the process of inspecting information as it traverses a cross-domain solution and determines if the information meets a predefined policy. The use of linear content filter pipelines ensures that filter processes are non-bypassable and always invoked. In general, the use of parallel filtering architectures for content filtering of a single data type introduces bypass and non-invocation issues."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

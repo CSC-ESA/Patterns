@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(12): Acquisition Process | Data Ownership"
+    id="id-69ab09a501a041f3bd015a1a32cb31b7"
+    documentation="(a) Include organizational data ownership requirements in the acquisition contract; and&#xA;(b) Require all data to be removed from the contractor’s system and returned to the organization within [Assignment: organization-defined time frame].">
+  <properties
+      key="Control Identifier"
+      value="SA-4(12)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Contractors who operate a system that contains data owned by an organization initiating the contract have policies and procedures in place to remove the data from their systems and/or return the data in a time frame defined by the contract."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

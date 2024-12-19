@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-8(2): Transmission Confidentiality and Integrity | Pre- and Post-transmission Handling"
+    id="id-8fa01fccfa8b48e8ace2a742acbd324e"
+    documentation="Maintain the [Selection (one or more): confidentiality; integrity] of information during preparation for transmission and during reception.">
+  <properties
+      key="Control Identifier"
+      value="SC-8(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information can be unintentionally or maliciously disclosed or modified during preparation for transmission or during reception, including during aggregation, at protocol transformation points, and during packing and unpacking. Such unauthorized disclosures or modifications compromise the confidentiality or integrity of the information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-6: Incident Reporting"
+    id="id-7216772ba76c43f89a6d96c59a38ac12"
+    documentation="a. Require personnel to report suspected incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and&#xA;b. Report incident information to [Assignment: organization-defined authorities].">
+  <properties
+      key="Control Identifier"
+      value="IR-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The types of incidents reported, the content and timeliness of the reports, and the designated reporting authorities reflect applicable laws, executive orders, directives, regulations, policies, standards, and guidelines. Incident information can inform risk assessments, control effectiveness assessments, security requirements for acquisitions, and selection criteria for technology products."/>
+  <properties
+      key="Related Controls"
+      value="CM-6, CP-2, IR-4, IR-5, IR-8, IR-9."/>
+</archimate:Requirement>

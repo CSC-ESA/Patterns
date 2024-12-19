@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-18(2): Personally Identifiable Information Quality Operations | Data Tags"
+    id="id-2d3b0fc29509439089d19d2daef5f58b"
+    documentation="Employ data tags to automate the correction or deletion of personally identifiable information across the information life cycle within organizational systems.">
+  <properties
+      key="Control Identifier"
+      value="SI-18(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Data tagging personally identifiable information includes tags that note processing permissions, authority to process, de-identification, impact level, information life cycle stage, and retention or last updated dates. Employing data tags for personally identifiable information can support the use of automation tools to correct or delete relevant personally identifiable information."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-16, SC-16."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-6(3): Timely Maintenance | Automated Support for Predictive Maintenance"
+    id="id-689b0ed0d62747249c316205d446a004"
+    documentation="Transfer predictive maintenance data to a maintenance management system using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="MA-6(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A computerized maintenance management system maintains a database of information about the maintenance operations of organizations and automates the processing of equipment condition data to trigger maintenance planning, execution, and reporting."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

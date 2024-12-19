@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-8(33): Security and Privacy Engineering Principles | Minimization"
+    id="id-97a4b73cc8e1454d879ad2e416e94f10"
+    documentation="Implement the privacy principle of minimization using [Assignment: organization-defined processes].">
+  <properties
+      key="Control Identifier"
+      value="SA-8(33)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The principle of minimization states that organizations should only process personally identifiable information that is directly relevant and necessary to accomplish an authorized purpose and should only maintain personally identifiable information for as long as is necessary to accomplish the purpose. Organizations have processes in place, consistent with applicable laws and policies, to implement the principle of minimization."/>
+  <properties
+      key="Related Controls"
+      value="PE-8, PM-25, SC-42, SI-12."/>
+</archimate:Requirement>

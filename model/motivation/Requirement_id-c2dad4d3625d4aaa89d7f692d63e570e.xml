@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-11(3): Developer Testing and Evaluation | Independent Verification of Assessment Plans and Evidence"
+    id="id-c2dad4d3625d4aaa89d7f692d63e570e"
+    documentation="(a) Require an independent agent satisfying [Assignment: organization-defined independence criteria] to verify the correct implementation of the developer security and privacy assessment plans and the evidence produced during testing and evaluation; and&#xA;(b) Verify that the independent agent is provided with sufficient information to complete the verification process or granted the authority to obtain such information.">
+  <properties
+      key="Control Identifier"
+      value="SA-11(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Independent agents have the qualifications—including the expertise, skills, training, certifications, and experience—to verify the correct implementation of developer security and privacy assessment plans."/>
+  <properties
+      key="Related Controls"
+      value="AT-3, RA-5."/>
+</archimate:Requirement>

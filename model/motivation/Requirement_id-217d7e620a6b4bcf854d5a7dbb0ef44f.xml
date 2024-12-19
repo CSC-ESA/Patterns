@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-4(3): Nonlocal Maintenance | Comparable Security and Sanitization"
+    id="id-217d7e620a6b4bcf854d5a7dbb0ef44f"
+    documentation="(a) Require that nonlocal maintenance and diagnostic services be performed from a system that implements a security capability comparable to the capability implemented on the system being serviced; or&#xA;(b) Remove the component to be serviced from the system prior to nonlocal maintenance or diagnostic services; sanitize the component (for organizational information); and after the service is performed, inspect and sanitize the component (for potentially malicious software) before reconnecting the component to the system.">
+  <properties
+      key="Control Identifier"
+      value="MA-4(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Comparable security capability on systems, diagnostic tools, and equipment providing maintenance services implies that the implemented controls on those systems, tools, and equipment are at least as comprehensive as the controls on the system being serviced."/>
+  <properties
+      key="Related Controls"
+      value="MP-6, SI-3, SI-7."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-10(3): System Recovery and Reconstitution | Compensating Security Controls"
+    id="id-5e0c00ebfb4541d682439e09dd9cb7bb"
+    documentation="[Withdrawn: Addressed through tailoring.]">
+  <properties
+      key="Control Identifier"
+      value="CP-10(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

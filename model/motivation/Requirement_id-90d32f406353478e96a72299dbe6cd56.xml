@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-17: Alternate Work Site"
+    id="id-90d32f406353478e96a72299dbe6cd56"
+    documentation="a. Determine and document the [Assignment: organization-defined alternate work sites] allowed for use by employees;&#xA;b. Employ the following controls at alternate work sites: [Assignment: organization-defined controls];&#xA;c. Assess the effectiveness of controls at alternate work sites; and&#xA;d. Provide a means for employees to communicate with information security and privacy personnel in case of incidents.">
+  <properties
+      key="Control Identifier"
+      value="PE-17"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Alternate work sites include government facilities or the private residences of employees. While distinct from alternative processing sites, alternate work sites can provide readily available alternate locations during contingency operations. Organizations can define different sets of controls for specific alternate work sites or types of sites depending on the work-related activities conducted at the sites. Implementing and assessing the effectiveness of organization-defined controls and providing a means to communicate incidents at alternate work sites supports the contingency planning activities of organizations."/>
+  <properties
+      key="Related Controls"
+      value="AC-17, AC-18, CP-7."/>
+</archimate:Requirement>

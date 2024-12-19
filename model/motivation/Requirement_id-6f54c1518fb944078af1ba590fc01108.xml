@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-10(2): Information Input Validation | Review and Resolve Errors"
+    id="id-6f54c1518fb944078af1ba590fc01108"
+    documentation="Review and resolve input validation errors within [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="SI-10(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Resolution of input validation errors includes correcting systemic causes of errors and resubmitting transactions with corrected input. Input validation errors are those related to the information inputs defined by the organization in the base control (SI-10)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

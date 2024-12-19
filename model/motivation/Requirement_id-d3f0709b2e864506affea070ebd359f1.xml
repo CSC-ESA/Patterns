@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-2(1): Flaw Remediation | Central Management"
+    id="id-d3f0709b2e864506affea070ebd359f1"
+    documentation="[Withdrawn: Incorporated into PL-9.]">
+  <properties
+      key="Control Identifier"
+      value="SI-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

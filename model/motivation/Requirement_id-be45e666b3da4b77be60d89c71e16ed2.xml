@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-9(5): Protection of Audit Information | Dual Authorization"
+    id="id-be45e666b3da4b77be60d89c71e16ed2"
+    documentation="Enforce dual authorization for [Selection (one or more): movement; deletion] of [Assignment: organization-defined audit information].">
+  <properties
+      key="Control Identifier"
+      value="AU-9(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may choose different selection options for different types of audit information. Dual authorization mechanisms (also known as two-person control) require the approval of two authorized individuals to execute audit functions. To reduce the risk of collusion, organizations consider rotating dual authorization duties to other individuals. Organizations do not require dual authorization mechanisms when immediate responses are necessary to ensure public and environmental safety."/>
+  <properties
+      key="Related Controls"
+      value="AC-3."/>
+</archimate:Requirement>

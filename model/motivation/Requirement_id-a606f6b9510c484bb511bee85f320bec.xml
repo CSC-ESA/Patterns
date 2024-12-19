@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-9(7): Protection of Audit Information | Store on Component with Different Operating System"
+    id="id-a606f6b9510c484bb511bee85f320bec"
+    documentation="Store audit information on a component running a different operating system than the system or component being audited.">
+  <properties
+      key="Control Identifier"
+      value="AU-9(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Storing auditing information on a system component running a different operating system reduces the risk of a vulnerability specific to the system, resulting in a compromise of the audit records."/>
+  <properties
+      key="Related Controls"
+      value="AU-4, AU-5, AU-11, SC-29."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-11(2): Emergency Power | Alternate Power Supply — Self-contained"
+    id="id-775ff989acde442b996b20f88af5a47a"
+    documentation="Provide an alternate power supply for the system that is activated [Selection: manually; automatically] and that is:&#xA;(a) Self-contained;&#xA;(b) Not reliant on external power generation; and&#xA;(c) Capable of maintaining [Selection: minimally required operational capability; full operational capability] in the event of an extended loss of the primary power source.">
+  <properties
+      key="Control Identifier"
+      value="PE-11(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The provision of a long-term, self-contained power supply can be satisfied by using one or more generators with sufficient capacity to meet the needs of the organization."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

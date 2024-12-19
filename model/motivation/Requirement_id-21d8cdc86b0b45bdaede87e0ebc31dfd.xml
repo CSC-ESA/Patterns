@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-29: Heterogeneity"
+    id="id-21d8cdc86b0b45bdaede87e0ebc31dfd"
+    documentation="Employ a diverse set of information technologies for the following system components in the implementation of the system: [Assignment: organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SC-29"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Increasing the diversity of information technologies within organizational systems reduces the impact of potential exploitations or compromises of specific technologies. Such diversity protects against common mode failures, including those failures induced by supply chain attacks. Diversity in information technologies also reduces the likelihood that the means adversaries use to compromise one system component will be effective against other system components, thus further increasing the adversary work factor to successfully complete planned attacks. An increase in diversity may add complexity and management overhead that could ultimately lead to mistakes and unauthorized configurations."/>
+  <properties
+      key="Related Controls"
+      value="AU-9, PL-8, SC-27, SC-30, SR-3."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-28(1): Protection of Information at Rest | Cryptographic Protection"
+    id="id-4e1b8c808f5f42e8ae4c0ceeb3ba1576"
+    documentation="Implement cryptographic mechanisms to prevent unauthorized disclosure and modification of the following information at rest on [Assignment: organization-defined system components or media]: [Assignment: organization-defined information].">
+  <properties
+      key="Control Identifier"
+      value="SC-28(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The selection of cryptographic mechanisms is based on the need to protect the confidentiality and integrity of organizational information. The strength of mechanism is commensurate with the security category or classification of the information. Organizations have the flexibility to encrypt information on system components or media or encrypt data structures, including files, records, or fields."/>
+  <properties
+      key="Related Controls"
+      value="AC-19, SC-12, SC-13."/>
+</archimate:Requirement>

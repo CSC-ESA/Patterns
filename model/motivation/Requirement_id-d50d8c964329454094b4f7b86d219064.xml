@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-8(9): System Component Inventory | Assignment of Components to Systems"
+    id="id-d50d8c964329454094b4f7b86d219064"
+    documentation="(a) Assign system components to a system; and &#xA;(b) Receive an acknowledgement from [Assignment: organization-defined personnel or roles] of this assignment.">
+  <properties
+      key="Control Identifier"
+      value="CM-8(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System components that are not assigned to a system may be unmanaged, lack the required protection, and become an organizational vulnerability."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

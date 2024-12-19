@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-4: Security Certification"
+    id="id-88ea2ad972a148369e0b5265e3366634"
+    documentation="[Withdrawn: Incorporated into CA-2.]">
+  <properties
+      key="Control Identifier"
+      value="CA-4"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

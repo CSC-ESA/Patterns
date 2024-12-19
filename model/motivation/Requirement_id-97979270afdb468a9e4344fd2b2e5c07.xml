@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(11): Acquisition Process | System of Records"
+    id="id-97979270afdb468a9e4344fd2b2e5c07"
+    documentation="Include [Assignment: organization-defined Privacy Act requirements] in the acquisition contract for the operation of a system of records on behalf of an organization to accomplish an organizational mission or function.">
+  <properties
+      key="Control Identifier"
+      value="SA-4(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="When, by contract, an organization provides for the operation of a system of records to accomplish an organizational mission or function, the organization, consistent with its authority, causes the requirements of the PRIVACT to be applied to the system of records."/>
+  <properties
+      key="Related Controls"
+      value="PT-6."/>
+</archimate:Requirement>

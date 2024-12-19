@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-4(3): Contingency Plan Testing | Automated Testing"
+    id="id-ce0470cfe20e49438a94d26103a4f313"
+    documentation="Test the contingency plan using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="CP-4(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms facilitate thorough and effective testing of contingency plans by providing more complete coverage of contingency issues, selecting more realistic test scenarios and environments, and effectively stressing the system and supported mission and business functions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

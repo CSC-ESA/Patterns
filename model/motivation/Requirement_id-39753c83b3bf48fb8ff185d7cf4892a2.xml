@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-6(1): Audit Record Review, Analysis, and Reporting | Automated Process Integration"
+    id="id-39753c83b3bf48fb8ff185d7cf4892a2"
+    documentation="Integrate audit record review, analysis, and reporting processes using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="AU-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational processes that benefit from integrated audit record review, analysis, and reporting include incident response, continuous monitoring, contingency planning, investigation and response to suspicious activities, and Inspector General audits."/>
+  <properties
+      key="Related Controls"
+      value="PM-7."/>
+</archimate:Requirement>

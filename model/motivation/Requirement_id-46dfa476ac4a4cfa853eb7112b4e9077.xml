@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(22): System Monitoring | Unauthorized Network Services"
+    id="id-46dfa476ac4a4cfa853eb7112b4e9077"
+    documentation="(a) Detect network services that have not been authorized or approved by [Assignment: organization-defined authorization or approval processes]; and&#xA;(b) [Selection (one or more): Audit; Alert [Assignment: organization-defined personnel or roles]] when detected.">
+  <properties
+      key="Control Identifier"
+      value="SI-4(22)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Unauthorized or unapproved network services include services in service-oriented architectures that lack organizational verification or validation and may therefore be unreliable or serve as malicious rogues for valid services."/>
+  <properties
+      key="Related Controls"
+      value="CM-7."/>
+</archimate:Requirement>

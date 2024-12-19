@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-43: Usage Restrictions"
+    id="id-99ae64dcc32141f3baa2eb4e4a0c4c1c"
+    documentation="a. Establish usage restrictions and implementation guidelines for the following system components: [Assignment: organization-defined system components]; and&#xA;b. Authorize, monitor, and control the use of such components within the system.">
+  <properties
+      key="Control Identifier"
+      value="SC-43"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Usage restrictions apply to all system components including but not limited to mobile code, mobile devices, wireless access, and wired and wireless peripheral components (e.g., copiers, printers, scanners, optical devices, and other similar technologies). The usage restrictions and implementation guidelines are based on the potential for system components to cause damage to the system and help to ensure that only authorized system use occurs."/>
+  <properties
+      key="Related Controls"
+      value="AC-18, AC-19, CM-6, SC-7, SC-18."/>
+</archimate:Requirement>

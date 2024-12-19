@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-10(2): Non-repudiation | Validate Binding of Information Producer Identity"
+    id="id-5985e71e80fd4d4ca42654f5d90e27a9"
+    documentation="(a) Validate the binding of the information producer identity to the information at [Assignment: organization-defined frequency]; and&#xA;(b) Perform [Assignment: organization-defined actions] in the event of a validation error.">
+  <properties
+      key="Control Identifier"
+      value="AU-10(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Validating the binding of the information producer identity to the information prevents the modification of information between production and review. The validation of bindings can be achieved by, for example, using cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-4, AC-16."/>
+</archimate:Requirement>

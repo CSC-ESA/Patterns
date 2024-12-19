@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-36(2): Distributed Processing and Storage | Synchronization"
+    id="id-a06bce3a004c48a2a5ffae8964208ddf"
+    documentation="Synchronize the following duplicate systems or system components: [Assignment: organization-defined duplicate systems or system components].">
+  <properties
+      key="Control Identifier"
+      value="SC-36(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="SC-36 and CP-9(6) require the duplication of systems or system components in distributed locations. The synchronization of duplicated and redundant services and data helps to ensure that information contained in the distributed locations can be used in the mission or business functions of organizations, as needed."/>
+  <properties
+      key="Related Controls"
+      value="CP-9."/>
+</archimate:Requirement>

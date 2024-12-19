@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-8(3): Media Downgrading | Controlled Unclassified Information"
+    id="id-3025323bd5684916838f04a6fe40f560"
+    documentation="Downgrade system media containing controlled unclassified information prior to public release.">
+  <properties
+      key="Control Identifier"
+      value="MP-8(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The downgrading of controlled unclassified information uses approved sanitization tools, techniques, and procedures."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

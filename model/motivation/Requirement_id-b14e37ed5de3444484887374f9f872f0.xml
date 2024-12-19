@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-14(2): Environmental Controls | Monitoring with Alarms and Notifications"
+    id="id-b14e37ed5de3444484887374f9f872f0"
+    documentation="Employ environmental control monitoring that provides an alarm or notification of changes potentially harmful to personnel or equipment to [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="PE-14(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The alarm or notification may be an audible alarm or a visual message in real time to personnel or roles defined by the organization. Such alarms and notifications can help minimize harm to individuals and damage to organizational assets by facilitating a timely incident response."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-8(6): System Component Inventory | Assessed Configurations and Approved Deviations"
+    id="id-a2e4b7d8f1fb482982fd5c8542f59f9c"
+    documentation="Include assessed component configurations and any approved deviations to current deployed configurations in the system component inventory.">
+  <properties
+      key="Control Identifier"
+      value="CM-8(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Assessed configurations and approved deviations focus on configuration settings established by organizations for system components, the specific components that have been assessed to determine compliance with the required configuration settings, and any approved deviations from established configuration settings."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-7(2): Alternate Processing Site | Accessibility"
+    id="id-f633d518df344e4d9874561bf973641e"
+    documentation="Identify potential accessibility problems to alternate processing sites in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.">
+  <properties
+      key="Control Identifier"
+      value="CP-7(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Area-wide disruptions refer to those types of disruptions that are broad in geographic scope with such determinations made by organizations based on organizational assessments of risk."/>
+  <properties
+      key="Related Controls"
+      value="RA-3."/>
+</archimate:Requirement>

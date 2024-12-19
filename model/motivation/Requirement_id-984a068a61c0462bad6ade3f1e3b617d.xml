@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-9(1): Power Equipment and Cabling | Redundant Cabling"
+    id="id-984a068a61c0462bad6ade3f1e3b617d"
+    documentation="Employ redundant power cabling paths that are physically separated by [Assignment: organization-defined distance].">
+  <properties
+      key="Control Identifier"
+      value="PE-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physically separate and redundant power cables ensure that power continues to flow in the event that one of the cables is cut or otherwise damaged."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

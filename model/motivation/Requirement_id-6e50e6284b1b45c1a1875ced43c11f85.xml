@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-11(5): Developer Testing and Evaluation | Penetration Testing"
+    id="id-6e50e6284b1b45c1a1875ced43c11f85"
+    documentation="Require the developer of the system, system component, or system service to perform penetration testing:&#xA;(a) At the following level of rigor: [Assignment: organization-defined breadth and depth of testing]; and&#xA;(b) Under the following constraints: [Assignment: organization-defined constraints].">
+  <properties
+      key="Control Identifier"
+      value="SA-11(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Penetration testing is an assessment methodology in which assessors, using all available information technology product or system documentation and working under specific constraints, attempt to circumvent the implemented security and privacy features of information technology products and systems. Useful information for assessors who conduct penetration testing includes product and system design specifications, source code, and administrator and operator manuals. Penetration testing can include white-box, gray-box, or black-box testing with analyses performed by skilled professionals who simulate adversary actions. The objective of penetration testing is to discover vulnerabilities in systems, system components, and services that result from implementation errors, configuration faults, or other operational weaknesses or deficiencies. Penetration tests can be performed in conjunction with automated and manual code reviews to provide a greater level of analysis than would ordinarily be possible. When user session information and other personally identifiable information is captured or recorded during penetration testing, such information is handled appropriately to protect privacy."/>
+  <properties
+      key="Related Controls"
+      value="CA-8, PM-14, PM-25, PT-2, SA-3, SI-2, SI-6."/>
+</archimate:Requirement>

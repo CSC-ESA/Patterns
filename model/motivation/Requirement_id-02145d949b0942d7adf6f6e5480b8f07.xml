@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-10: Developer Configuration Management"
+    id="id-02145d949b0942d7adf6f6e5480b8f07"
+    documentation="Require the developer of the system, system component, or system service to:&#xA;a. Perform configuration management during system, component, or service [Selection (one or more): design; development; implementation; operation; disposal];&#xA;b. Document, manage, and control the integrity of changes to [Assignment: organization-defined configuration items under configuration management];&#xA;c. Implement only organization-approved changes to the system, component, or service;&#xA;d. Document approved changes to the system, component, or service and the potential security and privacy impacts of such changes; and&#xA;e. Track security flaws and flaw resolution within the system, component, or service and report findings to [Assignment: organization-defined personnel].">
+  <properties
+      key="Control Identifier"
+      value="SA-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations consider the quality and completeness of configuration management activities conducted by developers as direct evidence of applying effective security controls. Controls include protecting the master copies of material used to generate security-relevant portions of the system hardware, software, and firmware from unauthorized modification or destruction. Maintaining the integrity of changes to the system, system component, or system service requires strict configuration control throughout the system development life cycle to track authorized changes and prevent unauthorized changes.&#xA;The configuration items that are placed under configuration management include the formal model; the functional, high-level, and low-level design specifications; other design data; implementation documentation; source code and hardware schematics; the current running version of the object code; tools for comparing new versions of security-relevant hardware descriptions and source code with previous versions; and test fixtures and documentation. Depending on the mission and business needs of organizations and the nature of the contractual relationships in place, developers may provide configuration management support during the operations and maintenance stage of the system development life cycle."/>
+  <properties
+      key="Related Controls"
+      value="CM-2, CM-3, CM-4, CM-7, CM-9, SA-4, SA-5, SA-8, SA-15, SI-2, SR-3, SR-4, SR-5, SR-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-15(2): Collaborative Computing Devices and Applications | Blocking Inbound and Outbound Communications Traffic"
+    id="id-9b2c175b08a7440ba2f863f363109608"
+    documentation="[Withdrawn: Incorporated into SC-7.]">
+  <properties
+      key="Control Identifier"
+      value="SC-15(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

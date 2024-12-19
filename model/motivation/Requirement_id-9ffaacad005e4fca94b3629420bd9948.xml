@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-16(10): Security and Privacy Attributes | Attribute Configuration by Authorized Individuals"
+    id="id-9ffaacad005e4fca94b3629420bd9948"
+    documentation="Provide authorized individuals the capability to define or change the type and value of security and privacy attributes available for association with subjects and objects.">
+  <properties
+      key="Control Identifier"
+      value="AC-16(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The content or assigned values of security and privacy attributes can directly affect the ability of individuals to access organizational information. Thus, it is important for systems to be able to limit the ability to create or modify the type and value of attributes available for association with subjects and objects to authorized individuals only."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

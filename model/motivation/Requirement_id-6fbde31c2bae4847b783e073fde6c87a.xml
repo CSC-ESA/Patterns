@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-5(1): Plan of Action and Milestones | Automation Support for Accuracy and Currency"
+    id="id-6fbde31c2bae4847b783e073fde6c87a"
+    documentation="Ensure the accuracy, currency, and availability of the plan of action and milestones for the system using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="CA-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Using automated tools helps maintain the accuracy, currency, and availability of the plan of action and milestones and facilitates the coordination and sharing of security and privacy information throughout the organization. Such coordination and information sharing help to identify systemic weaknesses or deficiencies in organizational systems and ensure that appropriate resources are directed at the most critical system vulnerabilities in a timely manner."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

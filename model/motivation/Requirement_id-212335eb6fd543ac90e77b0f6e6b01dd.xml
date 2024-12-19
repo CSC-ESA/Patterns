@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(6): Boundary Protection | Response to Recognized Failures"
+    id="id-212335eb6fd543ac90e77b0f6e6b01dd"
+    documentation="[Withdrawn: Incorporated into SC-7(18).]">
+  <properties
+      key="Control Identifier"
+      value="SC-7(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

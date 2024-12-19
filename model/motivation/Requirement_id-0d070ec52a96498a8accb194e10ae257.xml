@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-2(1): Contingency Plan | Coordinate with Related Plans"
+    id="id-0d070ec52a96498a8accb194e10ae257"
+    documentation="Coordinate contingency plan development with organizational elements responsible for related plans.">
+  <properties
+      key="Control Identifier"
+      value="CP-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Plans that are related to contingency plans include Business Continuity Plans, Disaster Recovery Plans, Critical Infrastructure Plans, Continuity of Operations Plans, Crisis Communications Plans, Insider Threat Implementation Plans, Data Breach Response Plans, Cyber Incident Response Plans, Breach Response Plans, and Occupant Emergency Plans."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

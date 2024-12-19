@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-2(2): Contingency Plan | Capacity Planning"
+    id="id-2233482200c440389cef1ecc41a41dea"
+    documentation="Conduct capacity planning so that necessary capacity for information processing, telecommunications, and environmental support exists during contingency operations.">
+  <properties
+      key="Control Identifier"
+      value="CP-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Capacity planning is needed because different threats can result in a reduction of the available processing, telecommunications, and support services intended to support essential mission and business functions. Organizations anticipate degraded operations during contingency operations and factor the degradation into capacity planning. For capacity planning, environmental support refers to any environmental factor for which the organization determines that it needs to provide support in a contingency situation, even if in a degraded state. Such determinations are based on an organizational assessment of risk, system categorization (impact level), and organizational risk tolerance."/>
+  <properties
+      key="Related Controls"
+      value="PE-11, PE-12, PE-13, PE-14, PE-18, SC-5."/>
+</archimate:Requirement>

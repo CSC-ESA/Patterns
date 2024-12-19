@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-30(2): Concealment and Misdirection | Randomness"
+    id="id-2e86d6b0eaac43398cdd1090e7a5882c"
+    documentation="Employ [Assignment: organization-defined techniques] to introduce randomness into organizational operations and assets.">
+  <properties
+      key="Control Identifier"
+      value="SC-30(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Randomness introduces increased levels of uncertainty for adversaries regarding the actions that organizations take to defend their systems against attacks. Such actions may impede the ability of adversaries to correctly target information resources of organizations that support critical missions or business functions. Uncertainty may also cause adversaries to hesitate before initiating or continuing attacks. Misdirection techniques that involve randomness include performing certain routine actions at different times of day, employing different information technologies, using different suppliers, and rotating roles and responsibilities of organizational personnel."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

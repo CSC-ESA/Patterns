@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-9: Position Descriptions"
+    id="id-8f0b91e9511c4a988d2c65923071d088"
+    documentation="Incorporate security and privacy roles and responsibilities into organizational position descriptions.">
+  <properties
+      key="Control Identifier"
+      value="PS-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Specification of security and privacy roles in individual organizational position descriptions facilitates clarity in understanding the security or privacy responsibilities associated with the roles and the role-based security and privacy training requirements for the roles."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

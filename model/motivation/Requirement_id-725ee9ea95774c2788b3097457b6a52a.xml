@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-13(3): Fire Protection | Automatic Fire Suppression"
+    id="id-725ee9ea95774c2788b3097457b6a52a"
+    documentation="[Withdrawn: Incorporated into PE-13(2).]">
+  <properties
+      key="Control Identifier"
+      value="PE-13(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

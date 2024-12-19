@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-18: Wireless Access"
+    id="id-4310531e31d2486ca8df449f39f63c45"
+    documentation="a. Establish configuration requirements, connection requirements, and implementation guidance for each type of wireless access; and&#xA;b. Authorize each type of wireless access to the system prior to allowing such connections.">
+  <properties
+      key="Control Identifier"
+      value="AC-18"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Wireless technologies include microwave, packet radio (ultra-high frequency or very high frequency), 802.11x, and Bluetooth. Wireless networks use authentication protocols that provide authenticator protection and mutual authentication."/>
+  <properties
+      key="Related Controls"
+      value="AC-2, AC-3, AC-17, AC-19, CA-9, CM-7, IA-2, IA-3, IA-8, PL-4, SC-40, SC-43, SI-4."/>
+</archimate:Requirement>

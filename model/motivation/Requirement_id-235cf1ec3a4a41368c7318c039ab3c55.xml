@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-2(1): Media Access | Automated Restricted Access"
+    id="id-235cf1ec3a4a41368c7318c039ab3c55"
+    documentation="[Withdrawn: Incorporated into MP-4(2).]">
+  <properties
+      key="Control Identifier"
+      value="MP-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

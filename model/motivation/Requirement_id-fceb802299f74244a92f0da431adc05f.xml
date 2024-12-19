@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-3(3): Role-based Training | Practical Exercises"
+    id="id-fceb802299f74244a92f0da431adc05f"
+    documentation="Provide practical exercises in security and privacy training that reinforce training objectives.">
+  <properties
+      key="Control Identifier"
+      value="AT-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Practical exercises for security include training for software developers that addresses simulated attacks that exploit common software vulnerabilities or spear or whale phishing attacks targeted at senior leaders or executives. Practical exercises for privacy include modules with quizzes on identifying and processing personally identifiable information in various scenarios or scenarios on conducting privacy impact assessments."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

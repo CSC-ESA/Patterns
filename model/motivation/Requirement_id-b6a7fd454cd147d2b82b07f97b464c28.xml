@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(13): Account Management | Disable Accounts for High-risk Individuals"
+    id="id-b6a7fd454cd147d2b82b07f97b464c28"
+    documentation="Disable accounts of individuals within [Assignment: organization-defined time period] of discovery of [Assignment: organization-defined significant risks].">
+  <properties
+      key="Control Identifier"
+      value="AC-2(13)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Users who pose a significant security and/or privacy risk include individuals for whom reliable evidence indicates either the intention to use authorized access to systems to cause harm or through whom adversaries will cause harm. Such harm includes adverse impacts to organizational operations, organizational assets, individuals, other organizations, or the Nation. Close coordination among system administrators, legal staff, human resource managers, and authorizing officials is essential when disabling system accounts for high-risk individuals."/>
+  <properties
+      key="Related Controls"
+      value="AU-6, SI-4."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-9(8): System Backup | Cryptographic Protection"
+    id="id-79b44e0cd5b141bc84d948e7e66c1745"
+    documentation="Implement cryptographic mechanisms to prevent unauthorized disclosure and modification of [Assignment: organization-defined backup information].">
+  <properties
+      key="Control Identifier"
+      value="CP-9(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The selection of cryptographic mechanisms is based on the need to protect the confidentiality and integrity of backup information. The strength of mechanisms selected is commensurate with the security category or classification of the information. Cryptographic protection applies to system backup information in storage at both primary and alternate locations. Organizations that implement cryptographic mechanisms to protect information at rest also consider cryptographic key management solutions."/>
+  <properties
+      key="Related Controls"
+      value="SC-12, SC-13, SC-28."/>
+</archimate:Requirement>

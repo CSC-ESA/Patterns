@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-5(2): Denial-of-service Protection | Capacity, Bandwidth, and Redundancy"
+    id="id-4ded3a429c64403085c79195ff6c741c"
+    documentation="Manage capacity, bandwidth, or other redundancy to limit the effects of information flooding denial-of-service attacks.">
+  <properties
+      key="Control Identifier"
+      value="SC-5(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Managing capacity ensures that sufficient capacity is available to counter flooding attacks. Managing capacity includes establishing selected usage priorities, quotas, partitioning, or load balancing."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

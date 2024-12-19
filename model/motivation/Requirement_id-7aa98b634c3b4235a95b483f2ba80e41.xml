@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-20: Asset Monitoring and Tracking"
+    id="id-7aa98b634c3b4235a95b483f2ba80e41"
+    documentation="Employ [Assignment: organization-defined asset location technologies] to track and monitor the location and movement of [Assignment: organization-defined assets] within [Assignment: organization-defined controlled areas].">
+  <properties
+      key="Control Identifier"
+      value="PE-20"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Asset location technologies can help ensure that critical assets—including vehicles, equipment, and system components—remain in authorized locations. Organizations consult with the Office of the General Counsel and senior agency official for privacy regarding the deployment and use of asset location technologies to address potential privacy concerns."/>
+  <properties
+      key="Related Controls"
+      value="CM-8, PE-16, PM-8."/>
+</archimate:Requirement>

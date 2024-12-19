@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-10: Threat Hunting"
+    id="id-e72c33d695344af685c8c3c13666b132"
+    documentation="a. Establish and maintain a cyber threat hunting capability to:&#xA;1. Search for indicators of compromise in organizational systems; and&#xA;2. Detect, track, and disrupt threats that evade existing controls; and&#xA;b. Employ the threat hunting capability [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="RA-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Threat hunting is an active means of cyber defense in contrast to traditional protection measures, such as firewalls, intrusion detection and prevention systems, quarantining malicious code in sandboxes, and Security Information and Event Management technologies and systems. Cyber threat hunting involves proactively searching organizational systems, networks, and infrastructure for advanced threats. The objective is to track and disrupt cyber adversaries as early as possible in the attack sequence and to measurably improve the speed and accuracy of organizational responses. Indications of compromise include unusual network traffic, unusual file changes, and the presence of malicious code. Threat hunting teams leverage existing threat intelligence and may create new threat intelligence, which is shared with peer organizations, Information Sharing and Analysis Organizations (ISAO), Information Sharing and Analysis Centers (ISAC), and relevant government departments and agencies."/>
+  <properties
+      key="Related Controls"
+      value="CA-2, CA-7, CA-8, RA-3, RA-5, RA-6, SI-4."/>
+</archimate:Requirement>

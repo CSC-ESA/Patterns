@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-7(3): Unsuccessful Logon Attempts | Biometric Attempt Limiting"
+    id="id-4882e65fd8c84b7cba4116d7fd097b79"
+    documentation="Limit the number of unsuccessful biometric logon attempts to [Assignment: organization-defined number].">
+  <properties
+      key="Control Identifier"
+      value="AC-7(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="  Biometrics are probabilistic in nature. The ability to successfully authenticate can be impacted by many factors, including matching performance and presentation attack detection mechanisms. Organizations select the appropriate number of attempts for users based on organizationally-defined factors."/>
+  <properties
+      key="Related Controls"
+      value="IA-3."/>
+</archimate:Requirement>

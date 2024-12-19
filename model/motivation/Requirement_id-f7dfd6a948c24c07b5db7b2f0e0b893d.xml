@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(3): Supply Chain Protection | Trusted Shipping and Warehousing"
+    id="id-f7dfd6a948c24c07b5db7b2f0e0b893d"
+    documentation="[Withdrawn: Incorporated into SR-3.]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

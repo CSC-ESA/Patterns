@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PL-8(1): Security and Privacy Architectures | Defense in Depth"
+    id="id-d43ab70c4c0741db8631262ac6120ee4"
+    documentation="Design the security and privacy architectures for the system using a defense-in-depth approach that:&#xA;(a) Allocates [Assignment: organization-defined controls] to [Assignment: organization-defined locations and architectural layers]; and&#xA;(b) Ensures that the allocated controls operate in a coordinated and mutually reinforcing manner.">
+  <properties
+      key="Control Identifier"
+      value="PL-8(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations strategically allocate security and privacy controls in the security and privacy architectures so that adversaries must overcome multiple controls to achieve their objective. Requiring adversaries to defeat multiple controls makes it more difficult to attack information resources by increasing the work factor of the adversary; it also increases the likelihood of detection. The coordination of allocated controls is essential to ensure that an attack that involves one control does not create adverse, unintended consequences by interfering with other controls. Unintended consequences can include system lockout and cascading alarms. The placement of controls in systems and organizations is an important activity that requires thoughtful analysis. The value of organizational assets is an important consideration in providing additional layering. Defense-in-depth architectural approaches include modularity and layering (see SA-8(3)), separation of system and user functionality (see SC-2), and security function isolation (see SC-3)."/>
+  <properties
+      key="Related Controls"
+      value="SC-2, SC-3, SC-29, SC-36."/>
+</archimate:Requirement>

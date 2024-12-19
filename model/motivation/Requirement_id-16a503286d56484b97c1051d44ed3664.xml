@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-6(2): Access Agreements | Classified Information Requiring Special Protection"
+    id="id-16a503286d56484b97c1051d44ed3664"
+    documentation="Verify that access to classified information requiring special protection is granted only to individuals who:&#xA;(a) Have a valid access authorization that is demonstrated by assigned official government duties;&#xA;(b) Satisfy associated personnel security criteria; and&#xA;(c) Have read, understood, and signed a nondisclosure agreement.">
+  <properties
+      key="Control Identifier"
+      value="PS-6(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Classified information that requires special protection includes collateral information, Special Access Program (SAP) information, and Sensitive Compartmented Information (SCI). Personnel security criteria reflect applicable laws, executive orders, directives, regulations, policies, standards, and guidelines."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-3(4): Physical Access Control | Lockable Casings"
+    id="id-8052ed3dc83b4ca9aad649f3a072d82d"
+    documentation="Use lockable physical casings to protect [Assignment: organization-defined system components] from unauthorized physical access.">
+  <properties
+      key="Control Identifier"
+      value="PE-3(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The greatest risk from the use of portable devices—such as smart phones, tablets, and notebook computers—is theft. Organizations can employ lockable, physical casings to reduce or eliminate the risk of equipment theft. Such casings come in a variety of sizes, from units that protect a single notebook computer to full cabinets that can protect multiple servers, computers, and peripherals. Lockable physical casings can be used in conjunction with cable locks or lockdown plates to prevent the theft of the locked casing containing the computer equipment."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

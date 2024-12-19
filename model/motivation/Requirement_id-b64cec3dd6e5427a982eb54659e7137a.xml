@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-10: Software Usage Restrictions"
+    id="id-b64cec3dd6e5427a982eb54659e7137a"
+    documentation="a. Use software and associated documentation in accordance with contract agreements and copyright laws;&#xA;b. Track the use of software and associated documentation protected by quantity licenses to control copying and distribution; and&#xA;c. Control and document the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.">
+  <properties
+      key="Control Identifier"
+      value="CM-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Software license tracking can be accomplished by manual or automated methods, depending on organizational needs. Examples of contract agreements include software license agreements and non-disclosure agreements."/>
+  <properties
+      key="Related Controls"
+      value="AC-17, AU-6, CM-7, CM-8, PM-30, SC-7."/>
+</archimate:Requirement>

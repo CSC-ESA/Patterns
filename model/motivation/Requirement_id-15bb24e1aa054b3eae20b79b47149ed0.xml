@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-9(3): Information Spillage Response | Post-spill Operations"
+    id="id-15bb24e1aa054b3eae20b79b47149ed0"
+    documentation="Implement the following procedures to ensure that organizational personnel impacted by information spills can continue to carry out assigned tasks while contaminated systems are undergoing corrective actions: [Assignment: organization-defined procedures].">
+  <properties
+      key="Control Identifier"
+      value="IR-9(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Corrective actions for systems contaminated due to information spillages may be time-consuming. Personnel may not have access to the contaminated systems while corrective actions are being taken, which may potentially affect their ability to conduct organizational business."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-5(1): Access Restrictions for Change | Automated Access Enforcement and Audit Records"
+    id="id-88de2e99b9c741f7bbf875ae5f868493"
+    documentation="(a) Enforce access restrictions using [Assignment: organization-defined automated mechanisms]; and &#xA;(b) Automatically generate audit records of the enforcement actions.">
+  <properties
+      key="Control Identifier"
+      value="CM-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations log system accesses associated with applying configuration changes to ensure that configuration change control is implemented and to support after-the-fact actions should organizations discover any unauthorized changes."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-6, AU-7, AU-12, CM-6, CM-11, SI-12."/>
+</archimate:Requirement>

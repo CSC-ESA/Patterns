@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-10(3): Information Input Validation | Predictable Behavior"
+    id="id-1402a19817f944f5a70ac0afa5971623"
+    documentation="Verify that the system behaves in a predictable and documented manner when invalid inputs are received.">
+  <properties
+      key="Control Identifier"
+      value="SI-10(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A common vulnerability in organizational systems is unpredictable behavior when invalid inputs are received. Verification of system predictability helps ensure that the system behaves as expected when invalid inputs are received. This occurs by specifying system responses that allow the system to transition to known states without adverse, unintended side effects. The invalid inputs are those related to the information inputs defined by the organization in the base control (SI-10)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

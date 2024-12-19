@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-7(1): Software, Firmware, and Information Integrity | Integrity Checks"
+    id="id-700a89b30e404cd9a47a9ef98fcb0c0c"
+    documentation="Perform an integrity check of [Assignment: organization-defined software, firmware, and information] [Selection (one or more): at startup; at [Assignment: organization-defined transitional states or security-relevant events]; [Assignment: organization-defined frequency]].">
+  <properties
+      key="Control Identifier"
+      value="SI-7(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Security-relevant events include the identification of new threats to which organizational systems are susceptible and the installation of new hardware, software, or firmware. Transitional states include system startup, restart, shutdown, and abort."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

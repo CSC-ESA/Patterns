@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-6(1): Configuration Settings | Automated Management, Application, and Verification"
+    id="id-f92f647e99774583b389d20e49b33011"
+    documentation="Manage, apply, and verify configuration settings for [Assignment: organization-defined system components] using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="CM-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated tools (e.g., hardening tools, baseline configuration tools) can improve the accuracy, consistency, and availability of configuration settings information. Automation can also provide data aggregation and data correlation capabilities, alerting mechanisms, and dashboards to support risk-based decision-making within the organization."/>
+  <properties
+      key="Related Controls"
+      value="CA-7."/>
+</archimate:Requirement>

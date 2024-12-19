@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(30): Information Flow Enforcement | Filter Mechanisms Using Multiple Processes"
+    id="id-a561a4dd46604d839a1b126ff58bb158"
+    documentation="When transferring information between different security domains, implement content filtering mechanisms using multiple processes.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(30)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The use of multiple processes to implement content filtering mechanisms reduces the likelihood of a single point of failure."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

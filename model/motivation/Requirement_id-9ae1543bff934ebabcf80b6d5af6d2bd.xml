@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-5(5): Maintenance Personnel | Non-system Maintenance"
+    id="id-9ae1543bff934ebabcf80b6d5af6d2bd"
+    documentation="Ensure that non-escorted personnel performing maintenance activities not directly associated with the system but in the physical proximity of the system, have required access authorizations.">
+  <properties
+      key="Control Identifier"
+      value="MA-5(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Personnel who perform maintenance activities in other capacities not directly related to the system include physical plant personnel and custodial personnel."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

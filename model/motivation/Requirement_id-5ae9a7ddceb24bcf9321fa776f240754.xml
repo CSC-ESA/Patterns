@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-18: Tamper Resistance and Detection"
+    id="id-5ae9a7ddceb24bcf9321fa776f240754"
+    documentation="[Withdrawn: Moved to SR-9.]">
+  <properties
+      key="Control Identifier"
+      value="SA-18"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

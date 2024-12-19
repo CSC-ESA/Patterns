@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-17(2): Developer Security and Privacy Architecture and Design | Security-relevant Components"
+    id="id-b313d96d43014ebbb69d37fbdd8d0c5f"
+    documentation="Require the developer of the system, system component, or system service to:&#xA;(a) Define security-relevant hardware, software, and firmware; and&#xA;(b) Provide a rationale that the definition for security-relevant hardware, software, and firmware is complete.">
+  <properties
+      key="Control Identifier"
+      value="SA-17(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The security-relevant hardware, software, and firmware represent the portion of the system, component, or service that is trusted to perform correctly to maintain required security properties."/>
+  <properties
+      key="Related Controls"
+      value="AC-25, SA-5."/>
+</archimate:Requirement>

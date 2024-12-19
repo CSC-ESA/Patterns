@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-5(2): System Documentation | Security-relevant External System Interfaces"
+    id="id-0630d5c06a41491facffefb3b4b6716f"
+    documentation="[Withdrawn: Incorporated into SA-4(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-5(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

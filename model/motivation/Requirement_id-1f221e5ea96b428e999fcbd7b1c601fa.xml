@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-2(2): Incident Response Training | Automated Training Environments"
+    id="id-1f221e5ea96b428e999fcbd7b1c601fa"
+    documentation="Provide an incident response training environment using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="IR-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms can provide a more thorough and realistic incident response training environment. This can be accomplished, for example, by providing more complete coverage of incident response issues, selecting more realistic training scenarios and environments, and stressing the response capability."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

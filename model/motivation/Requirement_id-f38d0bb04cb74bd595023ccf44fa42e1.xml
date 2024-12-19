@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-2: Information Security Program Leadership Role"
+    id="id-f38d0bb04cb74bd595023ccf44fa42e1"
+    documentation="Appoint a senior agency information security officer with the mission and resources to coordinate, develop, implement, and maintain an organization-wide information security program.">
+  <properties
+      key="Control Identifier"
+      value="PM-2"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The senior agency information security officer is an organizational official. For federal agencies (as defined by applicable laws, executive orders, regulations, directives, policies, and standards), this official is the senior agency information security officer. Organizations may also refer to this official as the senior information security officer or chief information security officer."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

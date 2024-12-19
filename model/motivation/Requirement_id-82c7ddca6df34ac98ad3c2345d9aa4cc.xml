@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-6: Monitoring Physical Access"
+    id="id-82c7ddca6df34ac98ad3c2345d9aa4cc"
+    documentation="a. Monitor physical access to the facility where the system resides to detect and respond to physical security incidents;&#xA;b. Review physical access logs [Assignment: organization-defined frequency] and upon occurrence of [Assignment: organization-defined events or potential indications of events]; and&#xA;c. Coordinate results of reviews and investigations with the organizational incident response capability.">
+  <properties
+      key="Control Identifier"
+      value="PE-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physical access monitoring includes publicly accessible areas within organizational facilities. Examples of physical access monitoring include the employment of guards, video surveillance equipment (i.e., cameras), and sensor devices. Reviewing physical access logs can help identify suspicious activity, anomalous events, or potential threats. The reviews can be supported by audit logging controls, such as AU-2, if the access logs are part of an automated system. Organizational incident response capabilities include investigations of physical security incidents and responses to the incidents. Incidents include security violations or suspicious physical access activities. Suspicious physical access activities include accesses outside of normal work hours, repeated accesses to areas not normally accessed, accesses for unusual lengths of time, and out-of-sequence accesses."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-6, AU-9, AU-12, CA-7, CP-10, IR-4, IR-8."/>
+</archimate:Requirement>

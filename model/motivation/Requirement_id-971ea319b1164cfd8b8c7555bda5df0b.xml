@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(2): Remote Access | Protection of Confidentiality and Integrity Using Encryption"
+    id="id-971ea319b1164cfd8b8c7555bda5df0b"
+    documentation="Implement cryptographic mechanisms to protect the confidentiality and integrity of remote access sessions.">
+  <properties
+      key="Control Identifier"
+      value="AC-17(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Virtual private networks can be used to protect the confidentiality and integrity of remote access sessions. Transport Layer Security (TLS) is an example of a cryptographic protocol that provides end-to-end communications security over networks and is used for Internet communications and online transactions."/>
+  <properties
+      key="Related Controls"
+      value="SC-8, SC-12, SC-13."/>
+</archimate:Requirement>

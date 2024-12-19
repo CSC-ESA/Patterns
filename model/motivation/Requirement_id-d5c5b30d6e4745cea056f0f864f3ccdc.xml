@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-2(2): Media Access | Cryptographic Protection"
+    id="id-d5c5b30d6e4745cea056f0f864f3ccdc"
+    documentation="[Withdrawn: Incorporated into SC-28(1).]">
+  <properties
+      key="Control Identifier"
+      value="MP-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-11: Audit Record Retention"
+    id="id-870a352ccf924aa69f5e93d2b3bc7626"
+    documentation="Retain audit records for [Assignment: organization-defined time period consistent with records retention policy] to provide support for after-the-fact investigations of incidents and to meet regulatory and organizational information retention requirements.">
+  <properties
+      key="Control Identifier"
+      value="AU-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations retain audit records until it is determined that the records are no longer needed for administrative, legal, audit, or other operational purposes. This includes the retention and availability of audit records relative to Freedom of Information Act (FOIA) requests, subpoenas, and law enforcement actions. Organizations develop standard categories of audit records relative to such types of actions and standard response processes for each type of action. The National Archives and Records Administration (NARA) General Records Schedules provide federal policy on records retention."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-4, AU-5, AU-6, AU-9, AU-14, MP-6, RA-5, SI-12."/>
+</archimate:Requirement>

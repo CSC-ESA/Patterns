@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(9): Vulnerability Monitoring and Scanning | Penetration Testing and Analyses"
+    id="id-f0e695e2e88740fe9f53ff3226c2fff9"
+    documentation="[Withdrawn: Incorporated into CA-8.]">
+  <properties
+      key="Control Identifier"
+      value="RA-5(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

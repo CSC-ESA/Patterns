@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-19(1): De-identification | Collection"
+    id="id-f9663bf629d943f38c070324fb526c01"
+    documentation="De-identify the dataset upon collection by not collecting personally identifiable information.">
+  <properties
+      key="Control Identifier"
+      value="SI-19(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="If a data source contains personally identifiable information but the information will not be used, the dataset can be de-identified when it is created by not collecting the data elements that contain the personally identifiable information. For example, if an organization does not intend to use the social security number of an applicant, then application forms do not ask for a social security number."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

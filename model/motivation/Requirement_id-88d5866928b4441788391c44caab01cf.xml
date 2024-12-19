@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-13(2): Cryptographic Protection | NSA-approved Cryptography"
+    id="id-88d5866928b4441788391c44caab01cf"
+    documentation="[Withdrawn: Incorporated into SC-13.]">
+  <properties
+      key="Control Identifier"
+      value="SC-13(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

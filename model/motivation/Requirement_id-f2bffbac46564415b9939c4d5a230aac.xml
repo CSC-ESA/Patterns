@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(4): Vulnerability Monitoring and Scanning | Discoverable Information"
+    id="id-f2bffbac46564415b9939c4d5a230aac"
+    documentation="Determine information about the system that is discoverable and take [Assignment: organization-defined corrective actions].">
+  <properties
+      key="Control Identifier"
+      value="RA-5(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Discoverable information includes information that adversaries could obtain without compromising or breaching the system, such as by collecting information that the system is exposing or by conducting extensive web searches. Corrective actions include notifying appropriate organizational personnel, removing designated information, or changing the system to make the designated information less relevant or attractive to adversaries. This enhancement excludes intentionally discoverable information that may be part of a decoy capability (e.g., honeypots, honeynets, or deception nets) deployed by the organization."/>
+  <properties
+      key="Related Controls"
+      value="AU-13, SC-26."/>
+</archimate:Requirement>

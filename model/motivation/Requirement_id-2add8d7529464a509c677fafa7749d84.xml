@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-34(1): Non-modifiable Executable Programs | No Writable Storage"
+    id="id-2add8d7529464a509c677fafa7749d84"
+    documentation="Employ [Assignment: organization-defined system components] with no writeable storage that is persistent across component restart or power on/off.">
+  <properties
+      key="Control Identifier"
+      value="SC-34(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Disallowing writeable storage eliminates the possibility of malicious code insertion via persistent, writeable storage within the designated system components. The restriction applies to fixed and removable storage, with the latter being addressed either directly or as specific restrictions imposed through access controls for mobile devices."/>
+  <properties
+      key="Related Controls"
+      value="AC-19, MP-7."/>
+</archimate:Requirement>

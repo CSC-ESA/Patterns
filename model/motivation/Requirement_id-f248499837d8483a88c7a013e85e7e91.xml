@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-28(3): Protection of Information at Rest | Cryptographic Keys"
+    id="id-f248499837d8483a88c7a013e85e7e91"
+    documentation="Provide protected storage for cryptographic keys [Selection: [Assignment: organization-defined safeguards]; hardware-protected key store].">
+  <properties
+      key="Control Identifier"
+      value="SC-28(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A Trusted Platform Module (TPM) is an example of a hardware-protected data store that can be used to protect cryptographic keys."/>
+  <properties
+      key="Related Controls"
+      value="SC-12, SC-13."/>
+</archimate:Requirement>

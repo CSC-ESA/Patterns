@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-24: Fail in Known State"
+    id="id-fa59a95e74b4441e8b7efd679b8b258f"
+    documentation="Fail to a [Assignment: organization-defined known system state] for the following failures on the indicated components while preserving [Assignment: organization-defined system state information] in failure: [Assignment: list of organization-defined types of system failures on organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SC-24"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Failure in a known state addresses security concerns in accordance with the mission and business needs of organizations. Failure in a known state prevents the loss of confidentiality, integrity, or availability of information in the event of failures of organizational systems or system components. Failure in a known safe state helps to prevent systems from failing to a state that may cause injury to individuals or destruction to property. Preserving system state information facilitates system restart and return to the operational mode with less disruption of mission and business processes."/>
+  <properties
+      key="Related Controls"
+      value="CP-2, CP-4, CP-10, CP-12, SA-8, SC-7, SC-22, SI-13."/>
+</archimate:Requirement>

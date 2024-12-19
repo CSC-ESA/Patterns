@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(21): Information Flow Enforcement | Physical or Logical Separation of Information Flows"
+    id="id-20c2e515e66645bf89dc8bfeab47b33c"
+    documentation="Separate information flows logically or physically using [Assignment: organization-defined mechanisms and/or techniques] to accomplish [Assignment: organization-defined required separations by types of information].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(21)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Enforcing the separation of information flows associated with defined types of data can enhance protection by ensuring that information is not commingled while in transit and by enabling flow control by transmission paths that are not otherwise achievable. Types of separable information include inbound and outbound communications traffic, service requests and responses, and information of differing security impact or classification levels."/>
+  <properties
+      key="Related Controls"
+      value="SC-32."/>
+</archimate:Requirement>

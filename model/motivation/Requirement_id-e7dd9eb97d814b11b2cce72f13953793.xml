@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-6(4): Audit Record Review, Analysis, and Reporting | Central Review and Analysis"
+    id="id-e7dd9eb97d814b11b2cce72f13953793"
+    documentation="Provide and implement the capability to centrally review and analyze audit records from multiple components within the system.">
+  <properties
+      key="Control Identifier"
+      value="AU-6(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms for centralized reviews and analyses include Security Information and Event Management products."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-12."/>
+</archimate:Requirement>

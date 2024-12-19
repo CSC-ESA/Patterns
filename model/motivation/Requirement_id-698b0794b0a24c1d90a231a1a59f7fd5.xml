@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-9(1): External System Services | Risk Assessments and Organizational Approvals"
+    id="id-698b0794b0a24c1d90a231a1a59f7fd5"
+    documentation="(a) Conduct an organizational assessment of risk prior to the acquisition or outsourcing of information security services; and&#xA;(b) Verify that the acquisition or outsourcing of dedicated information security services is approved by [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="SA-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information security services include the operation of security devices, such as firewalls or key management services as well as incident monitoring, analysis, and response. Risks assessed can include system, mission or business, security, privacy, or supply chain risks."/>
+  <properties
+      key="Related Controls"
+      value="CA-6, RA-3, RA-8."/>
+</archimate:Requirement>

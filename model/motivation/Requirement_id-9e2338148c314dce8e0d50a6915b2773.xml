@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-20: Dissemination of Privacy Program Information"
+    id="id-9e2338148c314dce8e0d50a6915b2773"
+    documentation="Maintain a central resource webpage on the organization’s principal public website that serves as a central source of information about the organization’s privacy program and that:&#xA;a. Ensures that the public has access to information about organizational privacy activities and can communicate with its senior agency official for privacy;&#xA;b. Ensures that organizational privacy practices and reports are publicly available; and&#xA;c. Employs publicly facing email addresses and/or phone lines to enable the public to provide feedback and/or direct questions to privacy offices regarding privacy practices.">
+  <properties
+      key="Control Identifier"
+      value="PM-20"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="For federal agencies, the webpage is located at www.[agency].gov/privacy. Federal agencies include public privacy impact assessments, system of records notices, computer matching notices and agreements, PRIVACT exemption and implementation rules, privacy reports, privacy policies, instructions for individuals making an access or amendment request, email addresses for questions/complaints, blogs, and periodic publications."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, PM-19, PT-5, PT-6, PT-7, RA-8."/>
+</archimate:Requirement>

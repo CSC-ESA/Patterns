@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-13(5): Predictable Failure Prevention | Failover Capability"
+    id="id-c52087b774654d9199e8c55045ca5bda"
+    documentation="Provide [Selection: real-time; near real-time] [Assignment: organization-defined failover capability] for the system.">
+  <properties
+      key="Control Identifier"
+      value="SI-13(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Failover refers to the automatic switchover to an alternate system upon the failure of the primary system. Failover capability includes incorporating mirrored system operations at alternate processing sites or periodic data mirroring at regular intervals defined by the recovery time periods of organizations."/>
+  <properties
+      key="Related Controls"
+      value="CP-6, CP-7, CP-9."/>
+</archimate:Requirement>

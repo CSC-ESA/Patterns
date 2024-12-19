@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-5: Contacts with Security Groups and Associations"
+    id="id-1f00e0f596a44fe5b7b9dab99749a3d5"
+    documentation="[Withdrawn: Incorporated into PM-15.]">
+  <properties
+      key="Control Identifier"
+      value="AT-5"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

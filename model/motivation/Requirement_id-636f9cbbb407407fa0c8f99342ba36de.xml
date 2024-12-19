@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-3(4): Role-based Training | Suspicious Communications and Anomalous System Behavior"
+    id="id-636f9cbbb407407fa0c8f99342ba36de"
+    documentation="[Withdrawn: Moved to AT-2(4)].">
+  <properties
+      key="Control Identifier"
+      value="AT-3(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

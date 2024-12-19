@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-4(1): Consent | Tailored Consent"
+    id="id-467c9997b33246efa9136d815b0f97c7"
+    documentation="Provide [Assignment: organization-defined mechanisms] to allow individuals to tailor processing permissions to selected elements of personally identifiable information.">
+  <properties
+      key="Control Identifier"
+      value="PT-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="While some processing may be necessary for the basic functionality of the product or service, other processing may not. In these circumstances, organizations allow individuals to select how specific personally identifiable information elements may be processed. More tailored consent may help reduce privacy risk, increase individual satisfaction, and avoid adverse behaviors, such as abandonment of the product or service."/>
+  <properties
+      key="Related Controls"
+      value="PT-2."/>
+</archimate:Requirement>

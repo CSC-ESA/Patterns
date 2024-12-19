@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(1): Remote Access | Monitoring and Control"
+    id="id-a908215a177244878d07fc829147d344"
+    documentation="Employ automated mechanisms to monitor and control remote access methods.">
+  <properties
+      key="Control Identifier"
+      value="AC-17(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Monitoring and control of remote access methods allows organizations to detect attacks and help ensure compliance with remote access policies by auditing the connection activities of remote users on a variety of system components, including servers, notebook computers, workstations, smart phones, and tablets. Audit logging for remote access is enforced by AU-2. Audit events are defined in AU-2a."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-6, AU-12, AU-14."/>
+</archimate:Requirement>

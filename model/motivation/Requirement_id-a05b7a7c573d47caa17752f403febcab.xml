@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-6(3): Security and Privacy Function Verification | Report Verification Results"
+    id="id-a05b7a7c573d47caa17752f403febcab"
+    documentation="Report the results of security and privacy function verification to [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="SI-6(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational personnel with potential interest in the results of the verification of security and privacy functions include systems security officers, senior agency information security officers, and senior agency officials for privacy."/>
+  <properties
+      key="Related Controls"
+      value="SI-4, SR-4, SR-5."/>
+</archimate:Requirement>

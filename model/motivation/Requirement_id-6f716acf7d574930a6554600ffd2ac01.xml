@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-9(8): External System Services | Processing and Storage Location — U.S. Jurisdiction"
+    id="id-6f716acf7d574930a6554600ffd2ac01"
+    documentation="Restrict the geographic location of information processing and data storage to facilities located within in the legal jurisdictional boundary of the United States.">
+  <properties
+      key="Control Identifier"
+      value="SA-9(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The geographic location of information processing and data storage can have a direct impact on the ability of organizations to successfully execute their mission and business functions. A compromise or breach of high impact information and systems can have severe or catastrophic adverse impacts on organizational assets and operations, individuals, other organizations, and the Nation. Restricting the processing and storage of high-impact information to facilities within the legal jurisdictional boundary of the United States provides greater control over such processing and storage."/>
+  <properties
+      key="Related Controls"
+      value="SA-5, SR-4."/>
+</archimate:Requirement>

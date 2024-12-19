@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(14): Authenticator Management | Managing Content of PKI Trust Stores"
+    id="id-3f104b34efda4fd28b50aee580ec0434"
+    documentation="For PKI-based authentication, employ an organization-wide methodology for managing the content of PKI trust stores installed across all platforms, including networks, operating systems, browsers, and applications.">
+  <properties
+      key="Control Identifier"
+      value="IA-5(14)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="An organization-wide methodology for managing the content of PKI trust stores helps improve the accuracy and currency of PKI-based authentication credentials across the organization."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

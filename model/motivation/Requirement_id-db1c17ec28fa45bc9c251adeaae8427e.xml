@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-10(6): Developer Configuration Management | Trusted Distribution"
+    id="id-db1c17ec28fa45bc9c251adeaae8427e"
+    documentation="Require the developer of the system, system component, or system service to execute procedures for ensuring that security-relevant hardware, software, and firmware updates distributed to the organization are exactly as specified by the master copies.">
+  <properties
+      key="Control Identifier"
+      value="SA-10(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The trusted distribution of security-relevant hardware, software, and firmware updates help to ensure that the updates are correct representations of the master copies maintained by the developer and have not been tampered with during distribution."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

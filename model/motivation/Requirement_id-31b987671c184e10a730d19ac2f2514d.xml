@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-3(6): Configuration Change Control | Cryptography Management"
+    id="id-31b987671c184e10a730d19ac2f2514d"
+    documentation="Ensure that cryptographic mechanisms used to provide the following controls are under configuration management: [Assignment: organization-defined controls].">
+  <properties
+      key="Control Identifier"
+      value="CM-3(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The controls referenced in the control enhancement refer to security and privacy controls from the control catalog. Regardless of the cryptographic mechanisms employed, processes and procedures are in place to manage those mechanisms. For example, if system components use certificates for identification and authentication, a process is implemented to address the expiration of those certificates."/>
+  <properties
+      key="Related Controls"
+      value="SC-12."/>
+</archimate:Requirement>

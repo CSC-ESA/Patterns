@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(8): Authenticator Management | Multiple System Accounts"
+    id="id-e2fbbd1dbf854ac2921a5a6134ce9267"
+    documentation="Implement [Assignment: organization-defined security controls] to manage the risk of compromise due to individuals having accounts on multiple systems.">
+  <properties
+      key="Control Identifier"
+      value="IA-5(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="When individuals have accounts on multiple systems and use the same authenticators such as passwords, there is the risk that a compromise of one account may lead to the compromise of other accounts. Alternative approaches include having different authenticators (passwords) on all systems, employing a single sign-on or federation mechanism, or using some form of one-time passwords on all systems. Organizations can also use rules of behavior (see PL-4) and access agreements (see PS-6) to mitigate the risk of multiple system accounts."/>
+  <properties
+      key="Related Controls"
+      value="PS-6."/>
+</archimate:Requirement>

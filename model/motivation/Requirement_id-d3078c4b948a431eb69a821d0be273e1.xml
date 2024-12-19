@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-3(8): Physical Access Control | Access Control Vestibules"
+    id="id-d3078c4b948a431eb69a821d0be273e1"
+    documentation="Employ access control vestibules at [Assignment: organization-defined locations within the facility].">
+  <properties
+      key="Control Identifier"
+      value="PE-3(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="An access control vestibule is part of a physical access control system that typically provides a space between two sets of interlocking doors. Vestibules are designed to prevent unauthorized individuals from following authorized individuals into facilities with controlled access. This activity, also known as piggybacking or tailgating, results in unauthorized access to the facility. Interlocking door controllers can be used to limit the number of individuals who enter controlled access points and to provide containment areas while authorization for physical access is verified. Interlocking door controllers can be fully automated (i.e., controlling the opening and closing of the doors) or partially automated (i.e., using security guards to control the number of individuals entering the containment area)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

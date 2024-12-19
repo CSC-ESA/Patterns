@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-21: Secure Name/address Resolution Service (recursive or Caching Resolver)"
+    id="id-cf9d38ede0364c49a7608f00413b4df9"
+    documentation="Request and perform data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources.">
+  <properties
+      key="Control Identifier"
+      value="SC-21"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Each client of name resolution services either performs this validation on its own or has authenticated channels to trusted validation providers. Systems that provide name and address resolution services for local clients include recursive resolving or caching domain name system (DNS) servers. DNS client resolvers either perform validation of DNSSEC signatures, or clients use authenticated channels to recursive resolvers that perform such validations. Systems that use technologies other than the DNS to map between host and service names and network addresses provide some other means to enable clients to verify the authenticity and integrity of response data."/>
+  <properties
+      key="Related Controls"
+      value="SC-20, SC-22."/>
+</archimate:Requirement>

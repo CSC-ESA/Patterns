@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-8(4): Identification and Authentication (non-organizational Users) | Use of Defined Profiles"
+    id="id-5dc37d1c18e24a6fa5f0d49a1f183bc0"
+    documentation="Conform to the following profiles for identity management [Assignment: organization-defined identity management profiles].">
+  <properties
+      key="Control Identifier"
+      value="IA-8(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations define profiles for identity management based on open identity management standards. To ensure that open identity management standards are viable, robust, reliable, sustainable, and interoperable as documented, the Federal Government assesses and scopes the standards and technology implementations against applicable laws, executive orders, directives, policies, regulations, standards, and guidelines."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

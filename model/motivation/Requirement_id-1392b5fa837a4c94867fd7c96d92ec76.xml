@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-16(5): Security and Privacy Attributes | Attribute Displays on Objects to Be Output"
+    id="id-1392b5fa837a4c94867fd7c96d92ec76"
+    documentation="Display security and privacy attributes in human-readable form on each object that the system transmits to output devices to identify [Assignment: organization-defined special dissemination, handling, or distribution instructions] using [Assignment: organization-defined human-readable, standard naming conventions].">
+  <properties
+      key="Control Identifier"
+      value="AC-16(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System outputs include printed pages, screens, or equivalent items. System output devices include printers, notebook computers, video displays, smart phones, and tablets. To mitigate the risk of unauthorized exposure of information (e.g., shoulder surfing), the outputs display full attribute values when unmasked by the subscriber."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

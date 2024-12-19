@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-2(1): Physical Access Authorizations | Access by Position or Role"
+    id="id-570c6af6f8524c2eb781de76f679456f"
+    documentation="Authorize physical access to the facility where the system resides based on position or role.">
+  <properties
+      key="Control Identifier"
+      value="PE-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Role-based facility access includes access by authorized permanent and regular/routine maintenance personnel, duty officers, and emergency medical staff."/>
+  <properties
+      key="Related Controls"
+      value="AC-2, AC-3, AC-6."/>
+</archimate:Requirement>

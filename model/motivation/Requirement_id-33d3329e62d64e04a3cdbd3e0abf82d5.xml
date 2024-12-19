@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-21: Developer Screening"
+    id="id-33d3329e62d64e04a3cdbd3e0abf82d5"
+    documentation="Require that the developer of [Assignment: organization-defined system, system component, or system service]:&#xA;a. Has appropriate access authorizations as determined by assigned [Assignment: organization-defined official government duties]; and&#xA;b. Satisfies the following additional personnel screening criteria: [Assignment: organization-defined additional personnel screening criteria].">
+  <properties
+      key="Control Identifier"
+      value="SA-21"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Developer screening is directed at external developers. Internal developer screening is addressed by PS-3. Because the system, system component, or system service may be used in critical activities essential to the national or economic security interests of the United States, organizations have a strong interest in ensuring that developers are trustworthy. The degree of trust required of developers may need to be consistent with that of the individuals who access the systems, system components, or system services once deployed. Authorization and personnel screening criteria include clearances, background checks, citizenship, and nationality. Developer trustworthiness may also include a review and analysis of company ownership and relationships that the company has with entities that may potentially affect the quality and reliability of the systems, components, or services being developed. Satisfying the required access authorizations and personnel screening criteria includes providing a list of all individuals who are authorized to perform development activities on the selected system, system component, or system service so that organizations can validate that the developer has satisfied the authorization and screening requirements."/>
+  <properties
+      key="Related Controls"
+      value="PS-2, PS-3, PS-6, PS-7, SA-4, SR-6."/>
+</archimate:Requirement>

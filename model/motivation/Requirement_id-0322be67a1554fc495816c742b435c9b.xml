@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-3(1): System Development Life Cycle | Manage Preproduction Environment"
+    id="id-0322be67a1554fc495816c742b435c9b"
+    documentation="Protect system preproduction environments commensurate with risk throughout the system development life cycle for the system, system component, or system service.">
+  <properties
+      key="Control Identifier"
+      value="SA-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The preproduction environment includes development, test, and integration environments. The program protection planning processes established by the Department of Defense are examples of managing the preproduction environment for defense contractors. Criticality analysis and the application of controls on developers also contribute to a more secure system development environment."/>
+  <properties
+      key="Related Controls"
+      value="CM-2, CM-4, RA-3, RA-9, SA-4."/>
+</archimate:Requirement>

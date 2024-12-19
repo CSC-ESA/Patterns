@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-7(1): Alternate Processing Site | Separation from Primary Site"
+    id="id-6cf9461883f74c12b9c3768a2458188c"
+    documentation="Identify an alternate processing site that is sufficiently separated from the primary processing site to reduce susceptibility to the same threats.">
+  <properties
+      key="Control Identifier"
+      value="CP-7(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Threats that affect alternate processing sites are defined in organizational assessments of risk and include natural disasters, structural failures, hostile attacks, and errors of omission or commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate processing sites based on the types of threats that are of concern. For threats such as hostile attacks, the degree of separation between sites is less relevant."/>
+  <properties
+      key="Related Controls"
+      value="RA-3."/>
+</archimate:Requirement>

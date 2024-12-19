@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-5(6): Access Restrictions for Change | Limit Library Privileges"
+    id="id-11c6034409a745b39b5526d495181b3d"
+    documentation="Limit privileges to change software resident within software libraries.">
+  <properties
+      key="Control Identifier"
+      value="CM-5(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Software libraries include privileged programs."/>
+  <properties
+      key="Related Controls"
+      value="AC-2."/>
+</archimate:Requirement>

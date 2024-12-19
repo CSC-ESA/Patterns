@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-9: Previous Logon Notification"
+    id="id-b622727222bd4906a355e163b749ab4a"
+    documentation="Notify the user, upon successful logon to the system, of the date and time of the last logon.">
+  <properties
+      key="Control Identifier"
+      value="AC-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Previous logon notification is applicable to system access via human user interfaces and access to systems that occurs in other types of architectures. Information about the last successful logon allows the user to recognize if the date and time provided is not consistent with the user’s last access."/>
+  <properties
+      key="Related Controls"
+      value="AC-7, PL-4."/>
+</archimate:Requirement>

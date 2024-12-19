@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(3): Authenticator Management | In-person or Trusted External Party Registration"
+    id="id-6a0ea14b98b1409990cc5147374433dd"
+    documentation="[Withdrawn: Incorporated into IA-12(4).]">
+  <properties
+      key="Control Identifier"
+      value="IA-5(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

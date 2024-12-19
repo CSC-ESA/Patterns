@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-13(3): Cryptographic Protection | Individuals Without Formal Access Approvals"
+    id="id-c44c30ee32694043aa884a88cbe7a066"
+    documentation="[Withdrawn: Incorporated into SC-13.]">
+  <properties
+      key="Control Identifier"
+      value="SC-13(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

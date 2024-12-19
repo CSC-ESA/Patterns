@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(10): System Monitoring | Visibility of Encrypted Communications"
+    id="id-9265f78902964460b583e4740d74f73f"
+    documentation="Make provisions so that [Assignment: organization-defined encrypted communications traffic] is visible to [Assignment: organization-defined system monitoring tools and mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations balance the need to encrypt communications traffic to protect data confidentiality with the need to maintain visibility into such traffic from a monitoring perspective. Organizations determine whether the visibility requirement applies to internal encrypted traffic, encrypted traffic intended for external destinations, or a subset of the traffic types."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

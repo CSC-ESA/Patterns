@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-3(1): Configuration Change Control | Automated Documentation, Notification, and Prohibition of Changes"
+    id="id-dbbc1ee4ee0d489f91c3440f47ac30e9"
+    documentation="Use [Assignment: organization-defined automated mechanisms] to:&#xA;(a) Document proposed changes to the system;&#xA;(b) Notify [Assignment: organization-defined approval authorities] of proposed changes to the system and request change approval;&#xA;(c) Highlight proposed changes to the system that have not been approved or disapproved within [Assignment: organization-defined time period];&#xA;(d) Prohibit changes to the system until designated approvals are received;&#xA;(e) Document all changes to the system; and&#xA;(f) Notify [Assignment: organization-defined personnel] when approved changes to the system are completed.">
+  <properties
+      key="Control Identifier"
+      value="CM-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

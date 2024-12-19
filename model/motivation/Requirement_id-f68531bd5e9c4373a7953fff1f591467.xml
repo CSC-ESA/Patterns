@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-16(7): Security and Privacy Attributes | Consistent Attribute Interpretation"
+    id="id-f68531bd5e9c4373a7953fff1f591467"
+    documentation="Provide a consistent interpretation of security and privacy attributes transmitted between distributed system components.">
+  <properties
+      key="Control Identifier"
+      value="AC-16(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To enforce security and privacy policies across multiple system components in distributed systems, organizations provide a consistent interpretation of security and privacy attributes employed in access enforcement and flow enforcement decisions. Organizations can establish agreements and processes to help ensure that distributed system components implement attributes with consistent interpretations in automated access enforcement and flow enforcement actions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

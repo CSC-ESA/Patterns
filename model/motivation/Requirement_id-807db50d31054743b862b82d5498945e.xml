@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-12(2): Information Management and Retention | Minimize Personally Identifiable Information in Testing, Training, and Research"
+    id="id-807db50d31054743b862b82d5498945e"
+    documentation="Use the following techniques to minimize the use of personally identifiable information for research, testing, or training: [Assignment: organization-defined techniques].">
+  <properties
+      key="Control Identifier"
+      value="SI-12(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can minimize the risk to an individual’s privacy by employing techniques such as de-identification or synthetic data. Limiting the use of personally identifiable information throughout the information life cycle when the information is not needed for research, testing, or training helps reduce the level of privacy risk created by a system. Risk assessments as well as applicable laws, regulations, and policies can provide useful inputs to determining the techniques to use and when to use them."/>
+  <properties
+      key="Related Controls"
+      value="PM-22, PM-25, SI-19."/>
+</archimate:Requirement>

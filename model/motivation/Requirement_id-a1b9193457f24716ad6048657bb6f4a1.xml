@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-9: Information Spillage Response"
+    id="id-a1b9193457f24716ad6048657bb6f4a1"
+    documentation="Respond to information spills by:&#xA;a. Assigning [Assignment: organization-defined personnel or roles] with responsibility for responding to information spills;&#xA;b. Identifying the specific information involved in the system contamination;&#xA;c. Alerting [Assignment: organization-defined personnel or roles] of the information spill using a method of communication not associated with the spill;&#xA;d. Isolating the contaminated system or system component;&#xA;e. Eradicating the information from the contaminated system or component;&#xA;f. Identifying other systems or system components that may have been subsequently contaminated; and&#xA;g. Performing the following additional actions: [Assignment: organization-defined actions].">
+  <properties
+      key="Control Identifier"
+      value="IR-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information spillage refers to instances where information is placed on systems that are not authorized to process such information. Information spills occur when information that is thought to be a certain classification or impact level is transmitted to a system and subsequently is determined to be of a higher classification or impact level. At that point, corrective action is required. The nature of the response is based on the classification or impact level of the spilled information, the security capabilities of the system, the specific nature of the contaminated storage media, and the access authorizations of individuals with authorized access to the contaminated system. The methods used to communicate information about the spill after the fact do not involve methods directly associated with the actual spill to minimize the risk of further spreading the contamination before such contamination is isolated and eradicated."/>
+  <properties
+      key="Related Controls"
+      value="CP-2, IR-6, PM-26, PM-27, PT-2, PT-3, PT-7, RA-7."/>
+</archimate:Requirement>

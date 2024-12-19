@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-3(7): Malicious Code Protection | Nonsignature-based Detection"
+    id="id-d0d07f42d87e47579e009a1cf584d05a"
+    documentation="[Withdrawn: Incorporated into SI-3.]">
+  <properties
+      key="Control Identifier"
+      value="SI-3(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-3(1): Maintenance Tools | Inspect Tools"
+    id="id-b39885d200bb4e4c9d5e43501dc8f8e8"
+    documentation="Inspect the maintenance tools used by maintenance personnel for improper or unauthorized modifications.">
+  <properties
+      key="Control Identifier"
+      value="MA-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Maintenance tools can be directly brought into a facility by maintenance personnel or downloaded from a vendor’s website. If, upon inspection of the maintenance tools, organizations determine that the tools have been modified in an improper manner or the tools contain malicious code, the incident is handled consistent with organizational policies and procedures for incident handling."/>
+  <properties
+      key="Related Controls"
+      value="SI-7."/>
+</archimate:Requirement>

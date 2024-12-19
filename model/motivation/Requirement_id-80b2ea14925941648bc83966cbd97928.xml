@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-23(5): Session Authenticity | Allowed Certificate Authorities"
+    id="id-80b2ea14925941648bc83966cbd97928"
+    documentation="Only allow the use of [Assignment: organization-defined certificate authorities] for verification of the establishment of protected sessions.">
+  <properties
+      key="Control Identifier"
+      value="SC-23(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Reliance on certificate authorities for the establishment of secure sessions includes the use of Transport Layer Security (TLS) certificates. These certificates, after verification by their respective certificate authorities, facilitate the establishment of protected sessions between web clients and web servers."/>
+  <properties
+      key="Related Controls"
+      value="SC-12, SC-13."/>
+</archimate:Requirement>

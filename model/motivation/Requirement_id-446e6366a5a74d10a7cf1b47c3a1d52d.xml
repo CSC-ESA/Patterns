@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-2(6): Contingency Plan | Alternate Processing and Storage Sites"
+    id="id-446e6366a5a74d10a7cf1b47c3a1d52d"
+    documentation="Plan for the transfer of [Selection: all; essential] mission and business functions to alternate processing and/or storage sites with minimal or no loss of operational continuity and sustain that continuity through system restoration to primary processing and/or storage sites.">
+  <properties
+      key="Control Identifier"
+      value="CP-2(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may choose to conduct contingency planning activities for alternate processing and storage sites as part of business continuity planning or business impact analyses. Primary processing and/or storage sites defined by organizations as part of contingency planning may change depending on the circumstances associated with the contingency."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

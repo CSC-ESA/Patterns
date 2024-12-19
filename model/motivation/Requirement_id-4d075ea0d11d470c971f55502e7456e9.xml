@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(1): Access Enforcement | Restricted Access to Privileged Functions"
+    id="id-4d075ea0d11d470c971f55502e7456e9"
+    documentation="[Withdrawn: Incorporated into AC-6.]">
+  <properties
+      key="Control Identifier"
+      value="AC-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-3(5): Information Exchange | Restrictions on External System Connections"
+    id="id-57430f08abbd47c498c892984f53d61a"
+    documentation="[Withdrawn: Moved to SC-7(5).]">
+  <properties
+      key="Control Identifier"
+      value="CA-3(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(11): Supply Chain Protection | Penetration Testing / Analysis of Elements, Processes, and Actors"
+    id="id-acc3bb64d79948adb86b7b5217d3cb68"
+    documentation="[Withdrawn: Moved to SR-6(1).]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

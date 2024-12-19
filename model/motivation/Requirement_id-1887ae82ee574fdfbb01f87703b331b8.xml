@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-20(2): Use of External Systems | Portable Storage Devices — Restricted Use"
+    id="id-1887ae82ee574fdfbb01f87703b331b8"
+    documentation="Restrict the use of organization-controlled portable storage devices by authorized individuals on external systems using [Assignment: organization-defined restrictions].">
+  <properties
+      key="Control Identifier"
+      value="AC-20(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Limits on the use of organization-controlled portable storage devices in external systems include restrictions on how the devices may be used and under what conditions the devices may be used."/>
+  <properties
+      key="Related Controls"
+      value="MP-7, SC-41."/>
+</archimate:Requirement>

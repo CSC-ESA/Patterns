@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-5(1): Incident Monitoring | Automated Tracking, Data Collection, and Analysis"
+    id="id-5a60ab72d9a7491ca0fef80d78a8a987"
+    documentation="Track incidents and collect and analyze incident information using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="IR-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms for tracking incidents and collecting and analyzing incident information include Computer Incident Response Centers or other electronic databases of incidents and network monitoring devices."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

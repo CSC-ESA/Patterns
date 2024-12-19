@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-11(1): Component Authenticity | Anti-counterfeit Training"
+    id="id-80a508fe085c4c17be9e8a63003c43ef"
+    documentation="Train [Assignment: organization-defined personnel or roles] to detect counterfeit system components (including hardware, software, and firmware).">
+  <properties
+      key="Control Identifier"
+      value="SR-11(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="AT-3."/>
+</archimate:Requirement>

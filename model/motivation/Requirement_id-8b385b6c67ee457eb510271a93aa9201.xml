@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-7(6): Continuous Monitoring | Automation Support for Monitoring"
+    id="id-8b385b6c67ee457eb510271a93aa9201"
+    documentation="Ensure the accuracy, currency, and availability of monitoring results for the system using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="CA-7(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Using automated tools for monitoring helps to maintain the accuracy, currency, and availability of monitoring information which in turns helps to increase the level of ongoing awareness of the system security and privacy posture in support of organizational risk management decisions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-3(5): Security Function Isolation | Layered Structures"
+    id="id-34602f953423446b972396141bf5fc12"
+    documentation="Implement security functions as a layered structure minimizing interactions between layers of the design and avoiding any dependence by lower layers on the functionality or correctness of higher layers.">
+  <properties
+      key="Control Identifier"
+      value="SC-3(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The implementation of layered structures with minimized interactions among security functions and non-looping layers (i.e., lower-layer functions do not depend on higher-layer functions) enables the isolation of security functions and the management of complexity."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

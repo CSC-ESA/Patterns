@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-36(1): Distributed Processing and Storage | Polling Techniques"
+    id="id-b19bbbc87d254bc0b4bf5969dbd7fb23"
+    documentation="(a) Employ polling techniques to identify potential faults, errors, or compromises to the following processing and storage components: [Assignment: organization-defined distributed processing and storage components]; and&#xA;(b) Take the following actions in response to identified faults, errors, or compromises: [Assignment: organization-defined actions].">
+  <properties
+      key="Control Identifier"
+      value="SC-36(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Distributed processing and/or storage may be used to reduce opportunities for adversaries to compromise the confidentiality, integrity, or availability of organizational information and systems. However, the distribution of processing and storage components does not prevent adversaries from compromising one or more of the components. Polling compares the processing results and/or storage content from the distributed components and subsequently votes on the outcomes. Polling identifies potential faults, compromises, or errors in the distributed processing and storage components."/>
+  <properties
+      key="Related Controls"
+      value="SI-4."/>
+</archimate:Requirement>

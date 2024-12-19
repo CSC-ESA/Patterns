@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(12): Development Process, Standards, and Tools | Minimize Personally Identifiable Information"
+    id="id-e613badd4fd741a39badb225e0c041ab"
+    documentation="Require the developer of the system or system component to minimize the use of personally identifiable information in development and test environments.">
+  <properties
+      key="Control Identifier"
+      value="SA-15(12)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can minimize the risk to an individual’s privacy by using techniques such as de-identification or synthetic data. Limiting the use of personally identifiable information in development and test environments helps reduce the level of privacy risk created by a system."/>
+  <properties
+      key="Related Controls"
+      value="PM-25, SA-3, SA-8."/>
+</archimate:Requirement>

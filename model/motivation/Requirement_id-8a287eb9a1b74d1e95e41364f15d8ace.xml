@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-16(1): Transmission of Security and Privacy Attributes | Integrity Verification"
+    id="id-8a287eb9a1b74d1e95e41364f15d8ace"
+    documentation="Verify the integrity of transmitted security and privacy attributes.">
+  <properties
+      key="Control Identifier"
+      value="SC-16(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Part of verifying the integrity of transmitted information is ensuring that security and privacy attributes that are associated with such information have not been modified in an unauthorized manner. Unauthorized modification of security or privacy attributes can result in a loss of integrity for transmitted information."/>
+  <properties
+      key="Related Controls"
+      value="AU-10, SC-8."/>
+</archimate:Requirement>

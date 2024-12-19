@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-18(3): Wireless Access | Disable Wireless Networking"
+    id="id-f64bf38563554da1b5258a0861c4e0c6"
+    documentation="Disable, when not intended for use, wireless networking capabilities embedded within system components prior to issuance and deployment.">
+  <properties
+      key="Control Identifier"
+      value="AC-18(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Wireless networking capabilities that are embedded within system components represent a significant potential vulnerability that can be exploited by adversaries. Disabling wireless capabilities when not needed for essential organizational missions or functions can reduce susceptibility to threats by adversaries involving wireless technologies."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

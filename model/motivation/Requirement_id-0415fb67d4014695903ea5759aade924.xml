@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-15: Information Output Filtering"
+    id="id-0415fb67d4014695903ea5759aade924"
+    documentation="Validate information output from the following software programs and/or applications to ensure that the information is consistent with the expected content: [Assignment: organization-defined software programs and/or applications].">
+  <properties
+      key="Control Identifier"
+      value="SI-15"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Certain types of attacks, including SQL injections, produce output results that are unexpected or inconsistent with the output results that would be expected from software programs or applications. Information output filtering focuses on detecting extraneous content, preventing such extraneous content from being displayed, and then alerting monitoring tools that anomalous behavior has been discovered."/>
+  <properties
+      key="Related Controls"
+      value="SI-3, SI-4, SI-11."/>
+</archimate:Requirement>

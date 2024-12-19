@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-30(5): Concealment and Misdirection | Concealment of System Components"
+    id="id-68462674d6b148f8add8ca9f9dccb6e9"
+    documentation="Employ the following techniques to hide or conceal [Assignment: organization-defined system components]: [Assignment: organization-defined techniques].">
+  <properties
+      key="Control Identifier"
+      value="SC-30(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="By hiding, disguising, or concealing critical system components, organizations may be able to decrease the probability that adversaries target and successfully compromise those assets. Potential means to hide, disguise, or conceal system components include the configuration of routers or the use of encryption or virtualization techniques."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

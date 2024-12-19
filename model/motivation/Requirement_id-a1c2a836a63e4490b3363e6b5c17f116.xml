@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-8(2): Media Downgrading | Equipment Testing"
+    id="id-a1c2a836a63e4490b3363e6b5c17f116"
+    documentation="Test downgrading equipment and procedures [Assignment: organization-defined frequency] to ensure that downgrading actions are being achieved.">
+  <properties
+      key="Control Identifier"
+      value="MP-8(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

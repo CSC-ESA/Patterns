@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-16(1): Threat Awareness Program | Automated Means for Sharing Threat Intelligence"
+    id="id-f38379f044da4712ad208be2a1ad21b8"
+    documentation="Employ automated mechanisms to maximize the effectiveness of sharing threat intelligence information.">
+  <properties
+      key="Control Identifier"
+      value="PM-16(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To maximize the effectiveness of monitoring, it is important to know what threat observables and indicators the sensors need to be searching for. By using well-established frameworks, services, and automated tools, organizations improve their ability to rapidly share and feed the relevant threat detection signatures into monitoring tools."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

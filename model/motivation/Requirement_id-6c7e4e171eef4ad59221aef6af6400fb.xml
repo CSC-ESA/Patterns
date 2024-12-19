@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(10): Access Enforcement | Audited Override of Access Control Mechanisms"
+    id="id-6c7e4e171eef4ad59221aef6af6400fb"
+    documentation="Employ an audited override of automated access control mechanisms under [Assignment: organization-defined conditions] by [Assignment: organization-defined roles].">
+  <properties
+      key="Control Identifier"
+      value="AC-3(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In certain situations, such as when there is a threat to human life or an event that threatens the organization’s ability to carry out critical missions or business functions, an override capability for access control mechanisms may be needed. Override conditions are defined by organizations and used only in those limited circumstances. Audit events are defined in AU-2. Audit records are generated in AU-12."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-6, AU-10, AU-12, AU-14."/>
+</archimate:Requirement>

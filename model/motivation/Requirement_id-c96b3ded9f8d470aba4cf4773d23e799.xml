@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(4): Development Process, Standards, and Tools | Threat Modeling and Vulnerability Analysis"
+    id="id-c96b3ded9f8d470aba4cf4773d23e799"
+    documentation="[Withdrawn: Incorporated into SA-11(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-15(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-5: Personnel Transfer"
+    id="id-ac676b68b82b4bef894305cb51a24799"
+    documentation="a. Review and confirm ongoing operational need for current logical and physical access authorizations to systems and facilities when individuals are reassigned or transferred to other positions within the organization;&#xA;b. Initiate [Assignment: organization-defined transfer or reassignment actions] within [Assignment: organization-defined time period following the formal transfer action];&#xA;c. Modify access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; and&#xA;d. Notify [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="PS-5"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Personnel transfer applies when reassignments or transfers of individuals are permanent or of such extended duration as to make the actions warranted. Organizations define actions appropriate for the types of reassignments or transfers, whether permanent or extended. Actions that may be required for personnel transfers or reassignments to other positions within organizations include returning old and issuing new keys, identification cards, and building passes; closing system accounts and establishing new accounts; changing system access authorizations (i.e., privileges); and providing for access to official records to which individuals had access at previous work locations and in previous system accounts."/>
+  <properties
+      key="Related Controls"
+      value="AC-2, IA-4, PE-2, PM-12, PS-4, PS-7."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-2(6): Literacy Training and Awareness | Cyber Threat Environment"
+    id="id-bc50774aaef84436a8b49e7f505ec0db"
+    documentation="(a) Provide literacy training on the cyber threat environment; and&#xA;(b) Reflect current cyber threat information in system operations.">
+  <properties
+      key="Control Identifier"
+      value="AT-2(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Since threats continue to change over time, threat literacy training by the organization is dynamic. Moreover, threat literacy training is not performed in isolation from the system operations that support organizational mission and business functions."/>
+  <properties
+      key="Related Controls"
+      value="RA-3."/>
+</archimate:Requirement>

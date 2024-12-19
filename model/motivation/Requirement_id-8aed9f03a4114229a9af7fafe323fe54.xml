@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-12(2): Session Termination | Termination Message"
+    id="id-8aed9f03a4114229a9af7fafe323fe54"
+    documentation="Display an explicit logout message to users indicating the termination of authenticated communications sessions.">
+  <properties
+      key="Control Identifier"
+      value="AC-12(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Logout messages for web access can be displayed after authenticated sessions have been terminated. However, for certain types of sessions, including file transfer protocol (FTP) sessions, systems typically send logout messages as final messages prior to terminating sessions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

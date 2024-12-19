@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(11): Development Process, Standards, and Tools | Archive System or Component"
+    id="id-eed6254bb2d844ca8b35fc214a4c145f"
+    documentation="Require the developer of the system or system component to archive the system or component to be released or delivered together with the corresponding evidence supporting the final security and privacy review.">
+  <properties
+      key="Control Identifier"
+      value="SA-15(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Archiving system or system components requires the developer to retain key development artifacts, including hardware specifications, source code, object code, and relevant documentation from the development process that can provide a readily available configuration baseline for system and component upgrades or modifications."/>
+  <properties
+      key="Related Controls"
+      value="CM-2."/>
+</archimate:Requirement>

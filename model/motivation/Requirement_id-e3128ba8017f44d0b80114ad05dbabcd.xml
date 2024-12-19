@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-21(1): Secure Name/address Resolution Service (recursive or Caching Resolver) | Data Origin and Integrity"
+    id="id-e3128ba8017f44d0b80114ad05dbabcd"
+    documentation="[Withdrawn: Incorporated into SC-21.]">
+  <properties
+      key="Control Identifier"
+      value="SC-21(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-2(1): Incident Response Training | Simulated Events"
+    id="id-0f3f058c289b4ed88d2548f025b10613"
+    documentation="Incorporate simulated events into incident response training to facilitate the required response by personnel in crisis situations.">
+  <properties
+      key="Control Identifier"
+      value="IR-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations establish requirements for responding to incidents in incident response plans. Incorporating simulated events into incident response training helps to ensure that personnel understand their individual responsibilities and what specific actions to take in crisis situations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

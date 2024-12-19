@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(12): Account Management | Account Monitoring for Atypical Usage"
+    id="id-79d4d59d7a1c4e8bb25e861974bfd26f"
+    documentation="(a) Monitor system accounts for [Assignment: organization-defined atypical usage]; and&#xA;(b) Report atypical usage of system accounts to [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="AC-2(12)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Atypical usage includes accessing systems at certain times of the day or from locations that are not consistent with the normal usage patterns of individuals. Monitoring for atypical usage may reveal rogue behavior by individuals or an attack in progress. Account monitoring may inadvertently create privacy risks since data collected to identify atypical usage may reveal previously unknown information about the behavior of individuals. Organizations assess and document privacy risks from monitoring accounts for atypical usage in their privacy impact assessment and make determinations that are in alignment with their privacy program plan."/>
+  <properties
+      key="Related Controls"
+      value="AU-6, AU-7, CA-7, IR-8, SI-4."/>
+</archimate:Requirement>

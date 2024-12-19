@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-3(1): Security Function Isolation | Hardware Separation"
+    id="id-10e02b2ee2a145eeb15260101497b7fe"
+    documentation="Employ hardware separation mechanisms to implement security function isolation.">
+  <properties
+      key="Control Identifier"
+      value="SC-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Hardware separation mechanisms include hardware ring architectures that are implemented within microprocessors and hardware-enforced address segmentation used to support logically distinct storage objects with separate attributes (i.e., readable, writeable)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

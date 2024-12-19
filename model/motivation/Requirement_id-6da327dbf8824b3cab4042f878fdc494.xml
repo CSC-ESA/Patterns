@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(4): Remote Access | Privileged Commands and Access"
+    id="id-6da327dbf8824b3cab4042f878fdc494"
+    documentation="(a) Authorize the execution of privileged commands and access to security-relevant information via remote access only in a format that provides assessable evidence and for the following needs: [Assignment: organization-defined needs]; and&#xA;(b) Document the rationale for remote access in the security plan for the system.">
+  <properties
+      key="Control Identifier"
+      value="AC-17(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Remote access to systems represents a significant potential vulnerability that can be exploited by adversaries. As such, restricting the execution of privileged commands and access to security-relevant information via remote access reduces the exposure of the organization and the susceptibility to threats by adversaries to the remote access capability."/>
+  <properties
+      key="Related Controls"
+      value="AC-6, SC-12, SC-13."/>
+</archimate:Requirement>

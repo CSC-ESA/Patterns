@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-4(2): Media Storage | Automated Restricted Access"
+    id="id-37490f33e9b3474eab4d15a5a4f7692d"
+    documentation="Restrict access to media storage areas and log access attempts and access granted using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="MP-4(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms include keypads, biometric readers, or card readers on the external entries to media storage areas."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AU-2, AU-6, AU-9, AU-12, PE-3."/>
+</archimate:Requirement>

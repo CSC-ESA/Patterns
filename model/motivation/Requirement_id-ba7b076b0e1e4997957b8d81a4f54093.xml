@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-5(2): Media Transport | Documentation of Activities"
+    id="id-ba7b076b0e1e4997957b8d81a4f54093"
+    documentation="[Withdrawn: Incorporated into MP-5.]">
+  <properties
+      key="Control Identifier"
+      value="MP-5(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

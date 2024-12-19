@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-11(2): User-installed Software | Software Installation with Privileged Status"
+    id="id-8ad3b61801224584a6fdf4d3e1cf76a3"
+    documentation="Allow user installation of software only with explicit privileged status.">
+  <properties
+      key="Control Identifier"
+      value="CM-11(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Privileged status can be obtained, for example, by serving in the role of system administrator."/>
+  <properties
+      key="Related Controls"
+      value="AC-5, AC-6."/>
+</archimate:Requirement>

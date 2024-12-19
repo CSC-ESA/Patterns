@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-2(1): Authority to Process Personally Identifiable Information | Data Tagging"
+    id="id-7c65e47f37fe4bc2af750039e14ae932"
+    documentation="Attach data tags containing [Assignment: organization-defined authorized processing] to [Assignment: organization-defined elements of personally identifiable information].">
+  <properties
+      key="Control Identifier"
+      value="PT-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Data tags support the tracking and enforcement of authorized processing by conveying the types of processing that are authorized along with the relevant elements of personally identifiable information throughout the system. Data tags may also support the use of automated tools."/>
+  <properties
+      key="Related Controls"
+      value="AC-16, CA-6, CM-12, PM-5, PM-22, PT-4, SC-16, SC-43, SI-10, SI-15, SI-19."/>
+</archimate:Requirement>

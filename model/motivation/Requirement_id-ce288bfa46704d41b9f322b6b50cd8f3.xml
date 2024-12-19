@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-7(3): Software, Firmware, and Information Integrity | Centrally Managed Integrity Tools"
+    id="id-ce288bfa46704d41b9f322b6b50cd8f3"
+    documentation="Employ centrally managed integrity verification tools.">
+  <properties
+      key="Control Identifier"
+      value="SI-7(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Centrally managed integrity verification tools provides greater consistency in the application of such tools and can facilitate more comprehensive coverage of integrity verification actions."/>
+  <properties
+      key="Related Controls"
+      value="AU-3, SI-2, SI-8."/>
+</archimate:Requirement>

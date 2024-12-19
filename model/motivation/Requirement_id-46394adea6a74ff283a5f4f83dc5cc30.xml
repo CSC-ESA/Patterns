@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-3(3): Content of Audit Records | Limit Personally Identifiable Information Elements"
+    id="id-46394adea6a74ff283a5f4f83dc5cc30"
+    documentation="Limit personally identifiable information contained in audit records to the following elements identified in the privacy risk assessment: [Assignment: organization-defined elements].">
+  <properties
+      key="Control Identifier"
+      value="AU-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Limiting personally identifiable information in audit records when such information is not needed for operational purposes helps reduce the level of privacy risk created by a system."/>
+  <properties
+      key="Related Controls"
+      value="RA-3."/>
+</archimate:Requirement>

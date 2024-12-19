@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-8(2): Telecommunications Services | Single Points of Failure"
+    id="id-8a7a38b8956a480a9d3d3f448d2a2163"
+    documentation="Obtain alternate telecommunications services to reduce the likelihood of sharing a single point of failure with primary telecommunications services.">
+  <properties
+      key="Control Identifier"
+      value="CP-8(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In certain circumstances, telecommunications service providers or services may share the same physical lines, which increases the vulnerability of a single failure point. It is important to have provider transparency for the actual physical transmission capability for telecommunication services."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

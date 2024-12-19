@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-3(7): Configuration Change Control | Review System Changes"
+    id="id-fa2036c87c66467e826e4b6673fcfddb"
+    documentation="Review changes to the system [Assignment: organization-defined frequency] or when [Assignment: organization-defined circumstances] to determine whether unauthorized changes have occurred.">
+  <properties
+      key="Control Identifier"
+      value="CM-3(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Indications that warrant a review of changes to the system and the specific circumstances justifying such reviews may be obtained from activities carried out by organizations during the configuration change process or continuous monitoring process."/>
+  <properties
+      key="Related Controls"
+      value="AU-6, AU-7, CM-3."/>
+</archimate:Requirement>

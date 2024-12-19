@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-23: Information Fragmentation"
+    id="id-c295ba1546b74e84a08c03f2d7b02d65"
+    documentation="Based on [Assignment: organization-defined circumstances]:&#xA;a. Fragment the following information: [Assignment: organization-defined information]; and&#xA;b. Distribute the fragmented information across the following systems or system components: [Assignment: organization-defined systems or system components].">
+  <properties
+      key="Control Identifier"
+      value="SI-23"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="One objective of the advanced persistent threat is to exfiltrate valuable information. Once exfiltrated, there is generally no way for the organization to recover the lost information. Therefore, organizations may consider dividing the information into disparate elements and distributing those elements across multiple systems or system components and locations. Such actions will increase the adversary’s work factor to capture and exfiltrate the desired information and, in so doing, increase the probability of detection. The fragmentation of information impacts the organization’s ability to access the information in a timely manner. The extent of the fragmentation is dictated by the impact or classification level (and value) of the information, threat intelligence information received, and whether data tainting is used (i.e., data tainting-derived information about the exfiltration of some information could result in the fragmentation of the remaining information)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

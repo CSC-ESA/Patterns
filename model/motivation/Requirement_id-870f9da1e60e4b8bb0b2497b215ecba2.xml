@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-26: Complaint Management"
+    id="id-870f9da1e60e4b8bb0b2497b215ecba2"
+    documentation="Implement a process for receiving and responding to complaints, concerns, or questions from individuals about the organizational security and privacy practices that includes:&#xA;a. Mechanisms that are easy to use and readily accessible by the public;&#xA;b. All information necessary for successfully filing complaints;&#xA;c. Tracking mechanisms to ensure all complaints received are reviewed and addressed within [Assignment: organization-defined time period];&#xA;d. Acknowledgement of receipt of complaints, concerns, or questions from individuals within [Assignment: organization-defined time period]; and&#xA;e. Response to complaints, concerns, or questions from individuals within [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="PM-26"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Complaints, concerns, and questions from individuals can serve as valuable sources of input to organizations and ultimately improve operational models, uses of technology, data collection practices, and controls. Mechanisms that can be used by the public include telephone hotline, email, or web-based forms. The information necessary for successfully filing complaints includes contact information for the senior agency official for privacy or other official designated to receive complaints. Privacy complaints may also include personally identifiable information which is handled in accordance with relevant policies and processes."/>
+  <properties
+      key="Related Controls"
+      value="IR-7, IR-9, PM-22, SI-18."/>
+</archimate:Requirement>

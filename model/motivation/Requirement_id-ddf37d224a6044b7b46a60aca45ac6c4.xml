@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-8(1): Time Stamps | Synchronization with Authoritative Time Source"
+    id="id-ddf37d224a6044b7b46a60aca45ac6c4"
+    documentation="[Withdrawn: Moved to SC-45(1).]">
+  <properties
+      key="Control Identifier"
+      value="AU-8(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

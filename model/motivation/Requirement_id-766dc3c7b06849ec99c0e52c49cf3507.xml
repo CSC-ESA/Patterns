@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-17: Developer Security and Privacy Architecture and Design"
+    id="id-766dc3c7b06849ec99c0e52c49cf3507"
+    documentation="Require the developer of the system, system component, or system service to produce a design specification and security and privacy architecture that:&#xA;a. Is consistent with the organization’s security and privacy architecture that is an integral part the organization’s enterprise architecture;&#xA;b. Accurately and completely describes the required security and privacy functionality, and the allocation of controls among physical and logical components; and&#xA;c. Expresses how individual security and privacy functions, mechanisms, and services work together to provide required security and privacy capabilities and a unified approach to protection.">
+  <properties
+      key="Control Identifier"
+      value="SA-17"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Developer security and privacy architecture and design are directed at external developers, although they could also be applied to internal (in-house) development. In contrast, PL-8 is directed at internal developers to ensure that organizations develop a security and privacy architecture that is integrated with the enterprise architecture. The distinction between SA-17 and PL-8 is especially important when organizations outsource the development of systems, system components, or system services and when there is a requirement to demonstrate consistency with the enterprise architecture and security and privacy architecture of the organization. ISO 15408-2, ISO 15408-3, and SP 800-160-1 provide information on security architecture and design, including formal policy models, security-relevant components, formal and informal correspondence, conceptually simple design, and structuring for least privilege and testing."/>
+  <properties
+      key="Related Controls"
+      value="PL-2, PL-8, PM-7, SA-3, SA-4, SA-8, SC-7."/>
+</archimate:Requirement>

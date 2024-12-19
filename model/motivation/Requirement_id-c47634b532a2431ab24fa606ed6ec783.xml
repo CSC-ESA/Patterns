@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-11(2): Developer Testing and Evaluation | Threat Modeling and Vulnerability Analyses"
+    id="id-c47634b532a2431ab24fa606ed6ec783"
+    documentation="Require the developer of the system, system component, or system service to perform threat modeling and vulnerability analyses during development and the subsequent testing and evaluation of the system, component, or service that: &#xA;(a) Uses the following contextual information: [Assignment: organization-defined information concerning impact, environment of operations, known or assumed threats, and acceptable risk levels];&#xA;(b) Employs the following tools and methods: [Assignment: organization-defined tools and methods];&#xA;(c) Conducts the modeling and analyses at the following level of rigor: [Assignment: organization-defined breadth and depth of modeling and analyses]; and&#xA;(d) Produces evidence that meets the following acceptance criteria: [Assignment: organization-defined acceptance criteria].">
+  <properties
+      key="Control Identifier"
+      value="SA-11(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Systems, system components, and system services may deviate significantly from the functional and design specifications created during the requirements and design stages of the system development life cycle. Therefore, updates to threat modeling and vulnerability analyses of those systems, system components, and system services during development and prior to delivery are critical to the effective operation of those systems, components, and services. Threat modeling and vulnerability analyses at this stage of the system development life cycle ensure that design and implementation changes have been accounted for and that vulnerabilities created because of those changes have been reviewed and mitigated."/>
+  <properties
+      key="Related Controls"
+      value="PM-15, RA-3, RA-5."/>
+</archimate:Requirement>

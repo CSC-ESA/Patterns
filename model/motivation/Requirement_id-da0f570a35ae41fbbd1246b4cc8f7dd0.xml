@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-2(5): Identification and Authentication (organizational Users) | Individual Authentication with Group Authentication"
+    id="id-da0f570a35ae41fbbd1246b4cc8f7dd0"
+    documentation="When shared accounts or authenticators are employed, require users to be individually authenticated before granting access to the shared accounts or resources.">
+  <properties
+      key="Control Identifier"
+      value="IA-2(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Individual authentication prior to shared group authentication mitigates the risk of using group accounts or authenticators."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

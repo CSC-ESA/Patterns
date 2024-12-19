@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-4: Contingency Plan Testing"
+    id="id-7f4054b9677e49ff842536b96cc4645a"
+    documentation="a. Test the contingency plan for the system [Assignment: organization-defined frequency] using  the following tests to determine the effectiveness of the plan and the readiness to execute the plan: [Assignment: organization-defined tests].&#xA;b. Review the contingency plan test results; and&#xA;c. Initiate corrective actions, if needed.">
+  <properties
+      key="Control Identifier"
+      value="CP-4"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Methods for testing contingency plans to determine the effectiveness of the plans and identify potential weaknesses include checklists, walk-through and tabletop exercises, simulations (parallel or full interrupt), and comprehensive exercises. Organizations conduct testing based on the requirements in contingency plans and include a determination of the effects on organizational operations, assets, and individuals due to contingency operations. Organizations have flexibility and discretion in the breadth, depth, and timelines of corrective actions."/>
+  <properties
+      key="Related Controls"
+      value="AT-3, CP-2, CP-3, CP-8, CP-9, IR-3, IR-4, PL-2, PM-14, SR-2."/>
+</archimate:Requirement>

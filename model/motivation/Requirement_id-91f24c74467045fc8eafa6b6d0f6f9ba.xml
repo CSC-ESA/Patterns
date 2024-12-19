@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-16(1): Cross-organizational Audit Logging | Identity Preservation"
+    id="id-91f24c74467045fc8eafa6b6d0f6f9ba"
+    documentation="Preserve the identity of individuals in cross-organizational audit trails.">
+  <properties
+      key="Control Identifier"
+      value="AU-16(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Identity preservation is applied when there is a need to be able to trace actions that are performed across organizational boundaries to a specific individual."/>
+  <properties
+      key="Related Controls"
+      value="IA-2, IA-4, IA-5, IA-8."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(22): Information Flow Enforcement | Access Only"
+    id="id-a04bb7d198d94cd8b20c3bf9c5217475"
+    documentation="Provide access from a single device to computing platforms, applications, or data residing in multiple different security domains, while preventing information flow between the different security domains.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(22)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The system provides a capability for users to access each connected security domain without providing any mechanisms to allow users to transfer data or information between the different security domains. An example of an access-only solution is a terminal that provides a user access to information with different security classifications while assuredly keeping the information separate."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

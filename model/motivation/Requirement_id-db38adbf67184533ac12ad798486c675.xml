@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-3(3): Maintenance Tools | Prevent Unauthorized Removal"
+    id="id-db38adbf67184533ac12ad798486c675"
+    documentation="Prevent the removal of maintenance equipment containing organizational information by:&#xA;(a) Verifying that there is no organizational information contained on the equipment;&#xA;(b) Sanitizing or destroying the equipment;&#xA;(c) Retaining the equipment within the facility; or&#xA;(d) Obtaining an exemption from [Assignment: organization-defined personnel or roles] explicitly authorizing removal of the equipment from the facility.">
+  <properties
+      key="Control Identifier"
+      value="MA-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational information includes all information owned by organizations and any information provided to organizations for which the organizations serve as information stewards."/>
+  <properties
+      key="Related Controls"
+      value="MP-6."/>
+</archimate:Requirement>

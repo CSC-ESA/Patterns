@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-6(7): Least Privilege | Review of User Privileges"
+    id="id-aa2a2aa99da8445d92917d112c1ca8e2"
+    documentation="(a) Review [Assignment: organization-defined frequency] the privileges assigned to [Assignment: organization-defined roles or classes of users] to validate the need for such privileges; and&#xA;(b) Reassign or remove privileges, if necessary, to correctly reflect organizational mission and business needs.">
+  <properties
+      key="Control Identifier"
+      value="AC-6(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The need for certain assigned user privileges may change over time to reflect changes in organizational mission and business functions, environments of operation, technologies, or threats. A periodic review of assigned user privileges is necessary to determine if the rationale for assigning such privileges remains valid. If the need cannot be revalidated, organizations take appropriate corrective actions."/>
+  <properties
+      key="Related Controls"
+      value="CA-7."/>
+</archimate:Requirement>

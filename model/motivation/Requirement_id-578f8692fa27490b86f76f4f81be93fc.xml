@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-16(2): Transmission of Security and Privacy Attributes | Anti-spoofing Mechanisms"
+    id="id-578f8692fa27490b86f76f4f81be93fc"
+    documentation="Implement anti-spoofing mechanisms to prevent adversaries from falsifying the security attributes indicating the successful application of the security process.">
+  <properties
+      key="Control Identifier"
+      value="SC-16(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Some attack vectors operate by altering the security attributes of an information system to intentionally and maliciously implement an insufficient level of security within the system. The alteration of attributes leads organizations to believe that a greater number of security functions are in place and operational than have actually been implemented."/>
+  <properties
+      key="Related Controls"
+      value="SI-3, SI-4, SI-7."/>
+</archimate:Requirement>

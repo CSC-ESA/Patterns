@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-2(1): Literacy Training and Awareness | Practical Exercises"
+    id="id-eb99b99a86ff42f79f4b5ffc9e45007d"
+    documentation="Provide practical exercises in literacy training that simulate events and incidents.">
+  <properties
+      key="Control Identifier"
+      value="AT-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Practical exercises include no-notice social engineering attempts to collect information, gain unauthorized access, or simulate the adverse impact of opening malicious email attachments or invoking, via spear phishing attacks, malicious web links."/>
+  <properties
+      key="Related Controls"
+      value="CA-2, CA-7, CP-4, IR-3."/>
+</archimate:Requirement>

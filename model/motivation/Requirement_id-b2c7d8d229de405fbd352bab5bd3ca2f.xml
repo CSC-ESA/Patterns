@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-3(2): Incident Response Testing | Coordination with Related Plans"
+    id="id-b2c7d8d229de405fbd352bab5bd3ca2f"
+    documentation="Coordinate incident response testing with organizational elements responsible for related plans.">
+  <properties
+      key="Control Identifier"
+      value="IR-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational plans related to incident response testing include business continuity plans, disaster recovery plans, continuity of operations plans, contingency plans, crisis communications plans, critical infrastructure plans, and occupant emergency plans."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

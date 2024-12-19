@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-6(2): Security and Privacy Function Verification | Automation Support for Distributed Testing"
+    id="id-6b7becc744154bdba39f262be6322b9f"
+    documentation="Implement automated mechanisms to support the management of distributed security and privacy function testing.">
+  <properties
+      key="Control Identifier"
+      value="SI-6(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The use of automated mechanisms to support the management of distributed function testing helps to ensure the integrity, timeliness, completeness, and efficacy of such testing."/>
+  <properties
+      key="Related Controls"
+      value="SI-2."/>
+</archimate:Requirement>

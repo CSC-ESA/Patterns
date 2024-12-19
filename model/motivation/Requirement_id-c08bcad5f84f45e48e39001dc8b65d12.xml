@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-18(3): Personally Identifiable Information Quality Operations | Collection"
+    id="id-c08bcad5f84f45e48e39001dc8b65d12"
+    documentation="Collect personally identifiable information directly from the individual.">
+  <properties
+      key="Control Identifier"
+      value="SI-18(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Individuals or their designated representatives can be sources of correct personally identifiable information. Organizations consider contextual factors that may incentivize individuals to provide correct data versus false data. Additional steps may be necessary to validate collected information based on the nature and context of the personally identifiable information, how it is to be used, and how it was obtained. The measures taken to validate the accuracy of personally identifiable information used to make determinations about the rights, benefits, or privileges of individuals under federal programs may be more comprehensive than the measures taken to validate less sensitive personally identifiable information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

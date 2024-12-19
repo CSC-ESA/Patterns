@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-12(3): Identity Proofing | Identity Evidence Validation and Verification"
+    id="id-dba9981910ab4892af15c64862cd4468"
+    documentation="Require that the presented identity evidence be validated and verified through [Assignment: organizational defined methods of validation and verification].">
+  <properties
+      key="Control Identifier"
+      value="IA-12(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Validation and verification of identity evidence increases the assurance that accounts and identifiers are being established for the correct user and authenticators are being bound to that user. Validation refers to the process of confirming that the evidence is genuine and authentic, and the data contained in the evidence is correct, current, and related to an individual. Verification confirms and establishes a linkage between the claimed identity and the actual existence of the user presenting the evidence. Acceptable methods for validating and verifying identity evidence are consistent with the risks to the systems, roles, and privileges associated with the users account."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

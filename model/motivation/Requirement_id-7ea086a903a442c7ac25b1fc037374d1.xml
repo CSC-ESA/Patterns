@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(6): Vulnerability Monitoring and Scanning | Automated Trend Analyses"
+    id="id-7ea086a903a442c7ac25b1fc037374d1"
+    documentation="Compare the results of multiple vulnerability scans using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="RA-5(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Using automated mechanisms to analyze multiple vulnerability scans over time can help determine trends in system vulnerabilities and identify patterns of attack."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

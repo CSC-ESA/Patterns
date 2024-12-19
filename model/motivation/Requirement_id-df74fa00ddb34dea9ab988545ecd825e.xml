@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-4(1): Nonlocal Maintenance | Logging and Review"
+    id="id-df74fa00ddb34dea9ab988545ecd825e"
+    documentation="(a) Log [Assignment: organization-defined audit events] for nonlocal maintenance and diagnostic sessions; and&#xA;(b) Review the audit records of the maintenance and diagnostic sessions to detect anomalous behavior.">
+  <properties
+      key="Control Identifier"
+      value="MA-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Audit logging for nonlocal maintenance is enforced by AU-2. Audit events are defined in AU-2a."/>
+  <properties
+      key="Related Controls"
+      value="AU-6, AU-12."/>
+</archimate:Requirement>

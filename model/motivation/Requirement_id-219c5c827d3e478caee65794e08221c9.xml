@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-9(3): Protection of Audit Information | Cryptographic Protection"
+    id="id-219c5c827d3e478caee65794e08221c9"
+    documentation="Implement cryptographic mechanisms to protect the integrity of audit information and audit tools.">
+  <properties
+      key="Control Identifier"
+      value="AU-9(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Cryptographic mechanisms used for protecting the integrity of audit information include signed hash functions using asymmetric cryptography. This enables the distribution of the public key to verify the hash information while maintaining the confidentiality of the secret key used to generate the hash."/>
+  <properties
+      key="Related Controls"
+      value="AU-10, SC-12, SC-13."/>
+</archimate:Requirement>

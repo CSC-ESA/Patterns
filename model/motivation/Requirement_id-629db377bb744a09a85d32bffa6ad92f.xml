@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(20): Boundary Protection | Dynamic Isolation and Segregation"
+    id="id-629db377bb744a09a85d32bffa6ad92f"
+    documentation="Provide the capability to dynamically isolate [Assignment: organization-defined system components] from other system components.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(20)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The capability to dynamically isolate certain internal system components is useful when it is necessary to partition or separate system components of questionable origin from components that possess greater trustworthiness. Component isolation reduces the attack surface of organizational systems. Isolating selected system components can also limit the damage from successful attacks when such attacks occur."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

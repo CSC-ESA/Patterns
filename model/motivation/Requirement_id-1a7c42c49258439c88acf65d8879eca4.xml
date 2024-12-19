@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-7: Visitor Control"
+    id="id-1a7c42c49258439c88acf65d8879eca4"
+    documentation="[Withdrawn: Incorporated into PE-2 and PE-3.]">
+  <properties
+      key="Control Identifier"
+      value="PE-7"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

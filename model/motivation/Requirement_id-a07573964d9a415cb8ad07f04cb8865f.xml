@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(9): System Monitoring | Testing of Monitoring Tools and Mechanisms"
+    id="id-a07573964d9a415cb8ad07f04cb8865f"
+    documentation="Test intrusion-monitoring tools and mechanisms [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Testing intrusion-monitoring tools and mechanisms is necessary to ensure that the tools and mechanisms are operating correctly and continue to satisfy the monitoring objectives of organizations. The frequency and depth of testing depends on the types of tools and mechanisms used by organizations and the methods of deployment."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

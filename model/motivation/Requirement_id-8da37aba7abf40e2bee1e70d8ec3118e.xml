@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-51: Hardware-based Protection"
+    id="id-8da37aba7abf40e2bee1e70d8ec3118e"
+    documentation="a. Employ hardware-based, write-protect for [Assignment: organization-defined system firmware components]; and&#xA;b. Implement specific procedures for [Assignment: organization-defined authorized individuals] to manually disable hardware write-protect for firmware modifications and re-enable the write-protect prior to returning to operational mode.">
+  <properties
+      key="Control Identifier"
+      value="SC-51"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

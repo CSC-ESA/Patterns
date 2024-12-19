@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-9(1): Information Spillage Response | Responsible Personnel"
+    id="id-64912e1f32c54e14b37260a3f6fc92c6"
+    documentation="[Withdrawn: Incorporated into IR-9.]">
+  <properties
+      key="Control Identifier"
+      value="IR-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

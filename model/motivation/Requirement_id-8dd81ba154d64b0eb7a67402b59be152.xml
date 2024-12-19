@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(18): System Monitoring | Analyze Traffic and Covert Exfiltration"
+    id="id-8dd81ba154d64b0eb7a67402b59be152"
+    documentation="Analyze outbound communications traffic at external interfaces to the system and at the following interior points to detect covert exfiltration of information: [Assignment: organization-defined interior points within the system].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(18)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organization-defined interior points include subnetworks and subsystems. Covert means that can be used to exfiltrate information include steganography."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

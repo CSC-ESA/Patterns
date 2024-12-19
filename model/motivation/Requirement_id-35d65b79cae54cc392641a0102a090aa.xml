@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-4(1): Information in Shared System Resources | Security Levels"
+    id="id-35d65b79cae54cc392641a0102a090aa"
+    documentation="[Withdrawn: Incorporated into SC-4.]">
+  <properties
+      key="Control Identifier"
+      value="SC-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

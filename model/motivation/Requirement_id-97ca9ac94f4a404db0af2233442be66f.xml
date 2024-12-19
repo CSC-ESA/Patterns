@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-11(1): User-installed Software | Alerts for Unauthorized Installations"
+    id="id-97ca9ac94f4a404db0af2233442be66f"
+    documentation="[Withdrawn: Incorporated into CM-8(3).]">
+  <properties
+      key="Control Identifier"
+      value="CM-11(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(19): Information Flow Enforcement | Validation of Metadata"
+    id="id-c6740ab8a7f4410fb97e57d41a913ef7"
+    documentation="When transferring information between different security domains, implement [Assignment: organization-defined security or privacy policy filters] on metadata.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(19)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="All information (including metadata and the data to which the metadata applies) is subject to filtering and inspection. Some organizations distinguish between metadata and data payloads (i.e., only the data to which the metadata is bound). Other organizations do not make such distinctions and consider metadata and the data to which the metadata applies to be part of the payload."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

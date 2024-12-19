@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-13: Supervision and Review — Access Control"
+    id="id-29e5ac2c96144f4786ea94159430c9b0"
+    documentation="[Withdrawn: Incorporated into AC-2 and AU-6.]">
+  <properties
+      key="Control Identifier"
+      value="AC-13"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

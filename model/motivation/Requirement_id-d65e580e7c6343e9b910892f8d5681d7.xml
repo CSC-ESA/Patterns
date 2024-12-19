@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-9(2): Information Spillage Response | Training"
+    id="id-d65e580e7c6343e9b910892f8d5681d7"
+    documentation="Provide information spillage response training [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="IR-9(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations establish requirements for responding to information spillage incidents in incident response plans. Incident response training on a regular basis helps to ensure that organizational personnel understand their individual responsibilities and what specific actions to take when spillage incidents occur."/>
+  <properties
+      key="Related Controls"
+      value="AT-2, AT-3, CP-3, IR-2."/>
+</archimate:Requirement>

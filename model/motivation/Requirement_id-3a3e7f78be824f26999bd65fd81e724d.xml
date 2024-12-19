@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-2(5): Literacy Training and Awareness | Advanced Persistent Threat"
+    id="id-3a3e7f78be824f26999bd65fd81e724d"
+    documentation="Provide literacy training on the advanced persistent threat.">
+  <properties
+      key="Control Identifier"
+      value="AT-2(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="An effective way to detect advanced persistent threats (APT) and to preclude successful attacks is to provide specific literacy training for individuals. Threat literacy training includes educating individuals on the various ways that APTs can infiltrate the organization (e.g., through websites, emails, advertisement pop-ups, articles, and social engineering). Effective training includes techniques for recognizing suspicious emails, use of removable systems in non-secure settings, and the potential targeting of individuals at home."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

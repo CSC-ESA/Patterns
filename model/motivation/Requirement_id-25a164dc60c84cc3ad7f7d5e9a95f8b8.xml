@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-3(1): Role-based Training | Environmental Controls"
+    id="id-25a164dc60c84cc3ad7f7d5e9a95f8b8"
+    documentation="Provide [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of environmental controls.">
+  <properties
+      key="Control Identifier"
+      value="AT-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Environmental controls include fire suppression and detection devices or systems, sprinkler systems, handheld fire extinguishers, fixed fire hoses, smoke detectors, temperature or humidity, heating, ventilation, air conditioning, and power within the facility."/>
+  <properties
+      key="Related Controls"
+      value="PE-1, PE-11, PE-13, PE-14, PE-15."/>
+</archimate:Requirement>

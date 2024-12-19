@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-3(1): Contingency Training | Simulated Events"
+    id="id-fd4ec6a040b34b0ab439d42e7e5bacb1"
+    documentation="Incorporate simulated events into contingency training to facilitate effective response by personnel in crisis situations.">
+  <properties
+      key="Control Identifier"
+      value="CP-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The use of simulated events creates an environment for personnel to experience actual threat events, including cyber-attacks that disable websites, ransomware attacks that encrypt organizational data on servers, hurricanes that damage or destroy organizational facilities, or hardware or software failures."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

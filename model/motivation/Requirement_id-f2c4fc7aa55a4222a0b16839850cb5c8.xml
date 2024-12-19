@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-16: Delivery and Removal"
+    id="id-f2c4fc7aa55a4222a0b16839850cb5c8"
+    documentation="a. Authorize and control [Assignment: organization-defined types of system components] entering and exiting the facility; and&#xA;b. Maintain records of the system components.">
+  <properties
+      key="Control Identifier"
+      value="PE-16"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Enforcing authorizations for entry and exit of system components may require restricting access to delivery areas and isolating the areas from the system and media libraries."/>
+  <properties
+      key="Related Controls"
+      value="CM-3, CM-8, MA-2, MA-3, MP-5, PE-20, SR-2, SR-3, SR-4, SR-6."/>
+</archimate:Requirement>

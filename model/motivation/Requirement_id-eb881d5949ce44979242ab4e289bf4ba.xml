@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-6: Timely Maintenance"
+    id="id-eb881d5949ce44979242ab4e289bf4ba"
+    documentation="Obtain maintenance support and/or spare parts for [Assignment: organization-defined system components] within [Assignment: organization-defined time period] of failure.">
+  <properties
+      key="Control Identifier"
+      value="MA-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations specify the system components that result in increased risk to organizational operations and assets, individuals, other organizations, or the Nation when the functionality provided by those components is not operational. Organizational actions to obtain maintenance support include having appropriate contracts in place."/>
+  <properties
+      key="Related Controls"
+      value="CM-8, CP-2, CP-7, RA-7, SA-15, SI-13, SR-2, SR-3, SR-4."/>
+</archimate:Requirement>

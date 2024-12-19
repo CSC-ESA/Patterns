@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-5(3): Response to Audit Logging Process Failures | Configurable Traffic Volume Thresholds"
+    id="id-d977a4c31c4b4a8998cdb744e215e2b3"
+    documentation="Enforce configurable network communications traffic volume thresholds reflecting limits on audit log storage capacity and [Selection: reject; delay] network traffic above those thresholds.">
+  <properties
+      key="Control Identifier"
+      value="AU-5(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations have the capability to reject or delay the processing of network communications traffic if audit logging information about such traffic is determined to exceed the storage capacity of the system audit logging function. The rejection or delay response is triggered by the established organizational traffic volume thresholds that can be adjusted based on changes to audit log storage capacity."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-2(3): Flaw Remediation | Time to Remediate Flaws and Benchmarks for Corrective Actions"
+    id="id-a33b311c94604594ac3f1628fbbc1588"
+    documentation="(a) Measure the time between flaw identification and flaw remediation; and&#xA;(b) Establish the following benchmarks for taking corrective actions: [Assignment: organization-defined benchmarks].">
+  <properties
+      key="Control Identifier"
+      value="SI-2(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations determine the time it takes on average to correct system flaws after such flaws have been identified and subsequently establish organizational benchmarks (i.e., time frames) for taking corrective actions. Benchmarks can be established by the type of flaw or the severity of the potential vulnerability if the flaw can be exploited."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

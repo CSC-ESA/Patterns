@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-10: Emergency Shutoff"
+    id="id-662e2a2b0d1443f3b422fee655d725ac"
+    documentation="a. Provide the capability of shutting off power to [Assignment: organization-defined system or individual system components] in emergency situations;&#xA;b. Place emergency shutoff switches or devices in [Assignment: organization-defined location by system or system component] to facilitate access for authorized personnel; and&#xA;c. Protect emergency power shutoff capability from unauthorized activation.">
+  <properties
+      key="Control Identifier"
+      value="PE-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Emergency power shutoff primarily applies to organizational facilities that contain concentrations of system resources, including data centers, mainframe computer rooms, server rooms, and areas with computer-controlled machinery."/>
+  <properties
+      key="Related Controls"
+      value="PE-15."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-7(2): Incident Response Assistance | Coordination with External Providers"
+    id="id-f3e4aa45416c40aab863f4ff7284783f"
+    documentation="(a) Establish a direct, cooperative relationship between its incident response capability and external providers of system protection capability; and&#xA;(b) Identify organizational incident response team members to the external providers.">
+  <properties
+      key="Control Identifier"
+      value="IR-7(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="External providers of a system protection capability include the Computer Network Defense program within the U.S. Department of Defense. External providers help to protect, monitor, analyze, detect, and respond to unauthorized activity within organizational information systems and networks. It may be beneficial to have agreements in place with external providers to clarify the roles and responsibilities of each party before an incident occurs."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

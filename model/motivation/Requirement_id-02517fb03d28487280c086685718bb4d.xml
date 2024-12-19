@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-23(1): Session Authenticity | Invalidate Session Identifiers at Logout"
+    id="id-02517fb03d28487280c086685718bb4d"
+    documentation="Invalidate session identifiers upon user logout or other session termination.">
+  <properties
+      key="Control Identifier"
+      value="SC-23(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Invalidating session identifiers at logout curtails the ability of adversaries to capture and continue to employ previously valid session IDs."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

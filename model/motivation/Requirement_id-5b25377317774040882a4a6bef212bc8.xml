@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(31): Information Flow Enforcement | Failed Content Transfer Prevention"
+    id="id-5b25377317774040882a4a6bef212bc8"
+    documentation="When transferring information between different security domains, prevent the transfer of failed content to the receiving domain.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(31)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Content that failed filtering checks can corrupt the system if transferred to the receiving domain."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

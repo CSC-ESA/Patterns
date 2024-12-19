@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-3(2): Information Exchange | Classified National Security System Connections"
+    id="id-9fbcc239102b400e9a675bf71efad3d1"
+    documentation="[Withdrawn: Moved to SC-7(26).]">
+  <properties
+      key="Control Identifier"
+      value="CA-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

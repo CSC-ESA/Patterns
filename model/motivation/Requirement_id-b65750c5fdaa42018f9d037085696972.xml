@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-14(1): Environmental Controls | Automatic Controls"
+    id="id-b65750c5fdaa42018f9d037085696972"
+    documentation="Employ the following automatic environmental controls in the facility to prevent fluctuations potentially harmful to the system: [Assignment: organization-defined automatic environmental controls].">
+  <properties
+      key="Control Identifier"
+      value="PE-14(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The implementation of automatic environmental controls provides an immediate response to environmental conditions that can damage, degrade, or destroy organizational systems or systems components."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

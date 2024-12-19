@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-4(3): Consent | Revocation"
+    id="id-27ff67beb4804ba2b862335f1bd31f62"
+    documentation="Implement [Assignment: organization-defined tools or mechanisms] for individuals to revoke consent to the processing of their personally identifiable information.">
+  <properties
+      key="Control Identifier"
+      value="PT-4(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Revocation of consent enables individuals to exercise control over their initial consent decision when circumstances change. Organizations consider usability factors in enabling easy-to-use revocation capabilities."/>
+  <properties
+      key="Related Controls"
+      value="PT-2."/>
+</archimate:Requirement>

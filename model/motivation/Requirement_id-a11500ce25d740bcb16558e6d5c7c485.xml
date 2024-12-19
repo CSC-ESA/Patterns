@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-21(1): Developer Screening | Validation of Screening"
+    id="id-a11500ce25d740bcb16558e6d5c7c485"
+    documentation="[Withdrawn: Incorporated into SA-21.]">
+  <properties
+      key="Control Identifier"
+      value="SA-21(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

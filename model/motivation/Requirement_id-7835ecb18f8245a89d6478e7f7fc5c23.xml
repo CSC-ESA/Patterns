@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(9): Account Management | Restrictions on Use of Shared and Group Accounts"
+    id="id-7835ecb18f8245a89d6478e7f7fc5c23"
+    documentation="Only permit the use of shared and group accounts that meet [Assignment: organization-defined conditions for establishing shared and group accounts].">
+  <properties
+      key="Control Identifier"
+      value="AC-2(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Before permitting the use of shared or group accounts, organizations consider the increased risk due to the lack of accountability with such accounts."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

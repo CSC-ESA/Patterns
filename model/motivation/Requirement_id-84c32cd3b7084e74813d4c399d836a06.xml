@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(6): Development Process, Standards, and Tools | Continuous Improvement"
+    id="id-84c32cd3b7084e74813d4c399d836a06"
+    documentation="Require the developer of the system, system component, or system service to implement an explicit process to continuously improve the development process.">
+  <properties
+      key="Control Identifier"
+      value="SA-15(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Developers of systems, system components, and system services consider the effectiveness and efficiency of their development processes for meeting quality objectives and addressing the security and privacy capabilities in current threat environments."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(25): Information Flow Enforcement | Data Sanitization"
+    id="id-fa5f9556f5c244ec94aa24e5cc00d151"
+    documentation="When transferring information between different security domains, sanitize data to minimize [Selection (one or more): delivery of malicious content, command and control of malicious code, malicious code augmentation, and steganography encoded data; spillage of sensitive information] in accordance with [Assignment: organization-defined policy]].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(25)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Data sanitization is the process of irreversibly removing or destroying data stored on a memory device (e.g., hard drives, flash memory/solid state drives, mobile devices, CDs, and DVDs) or in hard copy form."/>
+  <properties
+      key="Related Controls"
+      value="MP-6."/>
+</archimate:Requirement>

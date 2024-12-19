@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-7(4): Unsuccessful Logon Attempts | Use of Alternate Authentication Factor"
+    id="id-969d4f2d318346bab28cfb50d43d03d7"
+    documentation="(a) Allow the use of [Assignment: organization-defined authentication factors] that are different from the primary authentication factors after the number of organization-defined consecutive invalid logon attempts have been exceeded; and&#xA;(b) Enforce a limit of [Assignment: organization-defined number] consecutive invalid logon attempts through use of the alternative factors by a user during a [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="AC-7(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The use of alternate authentication factors supports the objective of availability and allows a user who has inadvertently been locked out to use additional authentication factors to bypass the lockout."/>
+  <properties
+      key="Related Controls"
+      value="IA-3."/>
+</archimate:Requirement>

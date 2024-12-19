@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(1): Vulnerability Monitoring and Scanning | Update Tool Capability"
+    id="id-dbf7bc17fac841e6a053de33d2ec7145"
+    documentation="[Withdrawn: Incorporated into RA-5.]">
+  <properties
+      key="Control Identifier"
+      value="RA-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-8: Personnel Sanctions"
+    id="id-aaf3b346960e4766919215ea76c92b21"
+    documentation="a. Employ a formal sanctions process for individuals failing to comply with established information security and privacy policies and procedures; and&#xA;b. Notify [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.">
+  <properties
+      key="Control Identifier"
+      value="PS-8"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational sanctions reflect applicable laws, executive orders, directives, regulations, policies, standards, and guidelines. Sanctions processes are described in access agreements and can be included as part of general personnel policies for organizations and/or specified in security and privacy policies. Organizations consult with the Office of the General Counsel regarding matters of employee sanctions."/>
+  <properties
+      key="Related Controls"
+      value="PL-4, PM-12, PS-6, PT-1."/>
+</archimate:Requirement>

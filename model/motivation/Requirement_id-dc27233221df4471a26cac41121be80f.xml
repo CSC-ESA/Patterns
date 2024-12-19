@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(3): Account Management | Disable Accounts"
+    id="id-dc27233221df4471a26cac41121be80f"
+    documentation="Disable accounts within [Assignment: organization-defined time period] when the accounts: &#xA;(a) Have expired;&#xA;(b) Are no longer associated with a user or individual;&#xA;(c) Are in violation of organizational policy; or&#xA;(d) Have been inactive for [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="AC-2(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Disabling expired, inactive, or otherwise anomalous accounts supports the concepts of least privilege and least functionality which reduce the attack surface of the system."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

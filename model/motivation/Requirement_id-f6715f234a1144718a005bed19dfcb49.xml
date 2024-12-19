@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-4(2): Information in Shared System Resources | Multilevel or Periods Processing"
+    id="id-f6715f234a1144718a005bed19dfcb49"
+    documentation="Prevent unauthorized information transfer via shared resources in accordance with [Assignment: organization-defined procedures] when system processing explicitly switches between different information classification levels or security categories.">
+  <properties
+      key="Control Identifier"
+      value="SC-4(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Changes in processing levels can occur during multilevel or periods processing with information at different classification levels or security categories. It can also occur during serial reuse of hardware components at different classification levels. Organization-defined procedures can include approved sanitization processes for electronically stored information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

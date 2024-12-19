@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-8: Spam Protection"
+    id="id-0a06fd6f94d6473ebfc3d0234fe009e2"
+    documentation="a. Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages; and&#xA;b. Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.">
+  <properties
+      key="Control Identifier"
+      value="SI-8"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System entry and exit points include firewalls, remote-access servers, electronic mail servers, web servers, proxy servers, workstations, notebook computers, and mobile devices. Spam can be transported by different means, including email, email attachments, and web accesses. Spam protection mechanisms include signature definitions."/>
+  <properties
+      key="Related Controls"
+      value="PL-9, SC-5, SC-7, SC-38, SI-3, SI-4."/>
+</archimate:Requirement>

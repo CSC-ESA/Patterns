@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-6(6): Media Sanitization | Media Destruction"
+    id="id-f981e0f7a98f4a96ac162767e32efe76"
+    documentation="[Withdrawn: Incorporated into MP-6.]">
+  <properties
+      key="Control Identifier"
+      value="MP-6(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

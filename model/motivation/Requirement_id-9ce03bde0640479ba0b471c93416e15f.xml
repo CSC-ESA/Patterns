@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-12(6): Identity Proofing | Accept Externally-proofed Identities"
+    id="id-9ce03bde0640479ba0b471c93416e15f"
+    documentation="Accept externally-proofed identities at [Assignment: organization-defined identity assurance level].">
+  <properties
+      key="Control Identifier"
+      value="IA-12(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To limit unnecessary re-proofing of identities, particularly of non-PIV users, organizations accept proofing conducted at a commensurate level of assurance by other agencies or organizations. Proofing is consistent with organizational security policy and the identity assurance level appropriate for the system, application, or information accessed. Accepting externally-proofed identities is a fundamental component of managing federated identities across agencies and organizations."/>
+  <properties
+      key="Related Controls"
+      value="IA-3, IA-4, IA-5, IA-8."/>
+</archimate:Requirement>

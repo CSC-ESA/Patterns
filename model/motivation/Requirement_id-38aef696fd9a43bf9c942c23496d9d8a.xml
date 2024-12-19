@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(7): Authenticator Management | No Embedded Unencrypted Static Authenticators"
+    id="id-38aef696fd9a43bf9c942c23496d9d8a"
+    documentation="Ensure that unencrypted static authenticators are not embedded in applications or other forms of static storage.">
+  <properties
+      key="Control Identifier"
+      value="IA-5(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In addition to applications, other forms of static storage include access scripts and function keys. Organizations exercise caution when determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

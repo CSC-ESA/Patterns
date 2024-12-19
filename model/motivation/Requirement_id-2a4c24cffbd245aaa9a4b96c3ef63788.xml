@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(11): Authenticator Management | Hardware Token-based Authentication"
+    id="id-2a4c24cffbd245aaa9a4b96c3ef63788"
+    documentation="[Withdrawn: Incorporated into IA-2(1) and IA-2(2).]">
+  <properties
+      key="Control Identifier"
+      value="IA-5(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

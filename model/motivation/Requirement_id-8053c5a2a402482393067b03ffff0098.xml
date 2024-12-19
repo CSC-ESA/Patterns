@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-13(1): Monitoring for Information Disclosure | Use of Automated Tools"
+    id="id-8053c5a2a402482393067b03ffff0098"
+    documentation="Monitor open-source information and information sites using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="AU-13(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms include commercial services that provide notifications and alerts to organizations and automated scripts to monitor new posts on websites."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-7(3): Alternate Processing Site | Priority of Service"
+    id="id-b8a02365e4374d59ba3caae768a5e107"
+    documentation="Develop alternate processing site agreements that contain priority-of-service provisions in accordance with availability requirements (including recovery time objectives).">
+  <properties
+      key="Control Identifier"
+      value="CP-7(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Priority of service agreements refer to negotiated agreements with service providers that ensure that organizations receive priority treatment consistent with their availability requirements and the availability of information resources for logical alternate processing and/or at the physical alternate processing site. Organizations establish recovery time objectives as part of contingency planning."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

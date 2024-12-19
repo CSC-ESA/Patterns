@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-2(2): Authority to Process Personally Identifiable Information | Automation"
+    id="id-0aeafba0ebd142c18fa042742e3c4d22"
+    documentation="Manage enforcement of the authorized processing of personally identifiable information using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="PT-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms augment verification that only authorized processing is occurring."/>
+  <properties
+      key="Related Controls"
+      value="CA-6, CM-12, PM-5, PM-22, PT-4, SC-16, SC-43, SI-10, SI-15, SI-19."/>
+</archimate:Requirement>

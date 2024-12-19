@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-8(2): Spam Protection | Automatic Updates"
+    id="id-7c19320bc9db4bbf8e5d337a04653426"
+    documentation="Automatically update spam protection mechanisms [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="SI-8(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Using automated mechanisms to update spam protection mechanisms helps to ensure that updates occur on a regular basis and provide the latest content and protection capabilities."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

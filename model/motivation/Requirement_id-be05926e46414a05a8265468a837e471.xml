@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-39(2): Process Isolation | Separate Execution Domain Per Thread"
+    id="id-be05926e46414a05a8265468a837e471"
+    documentation="Maintain a separate execution domain for each thread in [Assignment: organization-defined multi-threaded processing].">
+  <properties
+      key="Control Identifier"
+      value="SC-39(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

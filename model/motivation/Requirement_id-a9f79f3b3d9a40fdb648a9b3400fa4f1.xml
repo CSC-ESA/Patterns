@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-42(4): Sensor Capability and Data | Notice of Collection"
+    id="id-a9f79f3b3d9a40fdb648a9b3400fa4f1"
+    documentation="Employ the following measures to facilitate an individual’s awareness that personally identifiable information is being collected by [Assignment: organization-defined sensors]: [Assignment: organization-defined measures].">
+  <properties
+      key="Control Identifier"
+      value="SC-42(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Awareness that organizational sensors are collecting data enables individuals to more effectively engage in managing their privacy. Measures can include conventional written notices and sensor configurations that make individuals directly or indirectly aware through other devices that the sensor is collecting information. The usability and efficacy of the notice are important considerations."/>
+  <properties
+      key="Related Controls"
+      value="PT-1, PT-4, PT-5."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-14(2): Session Audit | Capture and Record Content"
+    id="id-6698a2ff541646c4859565e39c7db740"
+    documentation="[Withdrawn: Incorporated into AU-14.]">
+  <properties
+      key="Control Identifier"
+      value="AU-14(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

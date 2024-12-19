@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(17): Authenticator Management | Presentation Attack Detection for Biometric Authenticators"
+    id="id-de7bbacece5948398f33d04a343180ad"
+    documentation="Employ presentation attack detection mechanisms for biometric-based authentication.">
+  <properties
+      key="Control Identifier"
+      value="IA-5(17)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Biometric characteristics do not constitute secrets. Such characteristics can be obtained by online web accesses, taking a picture of someone with a camera phone to obtain facial images with or without their knowledge, lifting from objects that someone has touched (e.g., a latent fingerprint), or capturing a high-resolution image (e.g., an iris pattern). Presentation attack detection technologies including liveness detection, can mitigate the risk of these types of attacks by making it difficult to produce artifacts intended to defeat the biometric sensor."/>
+  <properties
+      key="Related Controls"
+      value="AC-7."/>
+</archimate:Requirement>

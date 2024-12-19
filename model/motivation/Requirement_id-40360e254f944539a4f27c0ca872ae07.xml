@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(8): Remote Access | Disable Nonsecure Network Protocols"
+    id="id-40360e254f944539a4f27c0ca872ae07"
+    documentation="[Withdrawn: Incorporated into CM-7.]">
+  <properties
+      key="Control Identifier"
+      value="AC-17(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

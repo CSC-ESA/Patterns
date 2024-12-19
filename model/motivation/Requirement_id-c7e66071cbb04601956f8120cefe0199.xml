@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-3(3): Physical Access Control | Continuous Guards"
+    id="id-c7e66071cbb04601956f8120cefe0199"
+    documentation="Employ guards to control [Assignment: organization-defined physical access points] to the facility where the system resides 24 hours per day, 7 days per week.">
+  <properties
+      key="Control Identifier"
+      value="PE-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Employing guards at selected physical access points to the facility provides a more rapid response capability for organizations. Guards also provide the opportunity for human surveillance in areas of the facility not covered by video surveillance."/>
+  <properties
+      key="Related Controls"
+      value="CP-6, CP-7, PE-6."/>
+</archimate:Requirement>

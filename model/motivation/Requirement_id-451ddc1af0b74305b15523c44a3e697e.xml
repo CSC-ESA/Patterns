@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-12(2): Audit Record Generation | Standardized Formats"
+    id="id-451ddc1af0b74305b15523c44a3e697e"
+    documentation="Produce a system-wide (logical or physical) audit trail composed of audit records in a standardized format.">
+  <properties
+      key="Control Identifier"
+      value="AU-12(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Audit records that follow common standards promote interoperability and information exchange between devices and systems. Promoting interoperability and information exchange facilitates the production of event information that can be readily analyzed and correlated. If logging mechanisms do not conform to standardized formats, systems may convert individual audit records into standardized formats when compiling system-wide audit trails."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

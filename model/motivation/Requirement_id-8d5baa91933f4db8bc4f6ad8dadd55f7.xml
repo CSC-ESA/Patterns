@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-3(2): Maintenance Tools | Inspect Media"
+    id="id-8d5baa91933f4db8bc4f6ad8dadd55f7"
+    documentation="Check media containing diagnostic and test programs for malicious code before the media are used in the system.">
+  <properties
+      key="Control Identifier"
+      value="MA-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="If, upon inspection of media containing maintenance, diagnostic, and test programs, organizations determine that the media contains malicious code, the incident is handled consistent with organizational incident handling policies and procedures."/>
+  <properties
+      key="Related Controls"
+      value="SI-3."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-3(1): Supply Chain Controls and Processes | Diverse Supply Base"
+    id="id-ca4dff4c25e24cb4afa5e9e29325d4da"
+    documentation="Employ a diverse set of sources for the following system components and services:  [Assignment: organization-defined system components and services].">
+  <properties
+      key="Control Identifier"
+      value="SR-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Diversifying the supply of systems, system components, and services can reduce the probability that adversaries will successfully identify and target the supply chain and can reduce the impact of a supply chain event or compromise. Identifying multiple suppliers for replacement components can reduce the probability that the replacement component will become unavailable. Employing a diverse set of developers or logistics service providers can reduce the impact of a natural disaster or other supply chain event. Organizations consider designing the system to include diverse materials and components."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

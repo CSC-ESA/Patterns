@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-12(1): Identity Proofing | Supervisor Authorization"
+    id="id-ce16a5d206fd4647a8d95f04439a5293"
+    documentation="Require that the registration process to receive an account for logical access includes supervisor or sponsor authorization.">
+  <properties
+      key="Control Identifier"
+      value="IA-12(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Including supervisor or sponsor authorization as part of the registration process provides an additional level of scrutiny to ensure that the user’s management chain is aware of the account, the account is essential to carry out organizational missions and functions, and the user’s privileges are appropriate for the anticipated responsibilities and authorities within the organization."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

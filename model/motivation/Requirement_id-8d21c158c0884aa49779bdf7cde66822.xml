@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(14): Supply Chain Protection | Identity and Traceability"
+    id="id-8d21c158c0884aa49779bdf7cde66822"
+    documentation="[Withdrawn: Moved to SR-4(1) and SR-4(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(14)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

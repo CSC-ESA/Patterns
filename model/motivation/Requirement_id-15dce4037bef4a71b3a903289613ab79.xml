@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-9(1): Internal System Connections | Compliance Checks"
+    id="id-15dce4037bef4a71b3a903289613ab79"
+    documentation="Perform security and privacy compliance checks on constituent system components prior to the establishment of the internal connection.">
+  <properties
+      key="Control Identifier"
+      value="CA-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Compliance checks include verification of the relevant baseline configuration."/>
+  <properties
+      key="Related Controls"
+      value="CM-6."/>
+</archimate:Requirement>

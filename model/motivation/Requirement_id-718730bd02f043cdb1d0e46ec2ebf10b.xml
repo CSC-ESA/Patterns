@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-12(1): Audit Record Generation | System-wide and Time-correlated Audit Trail"
+    id="id-718730bd02f043cdb1d0e46ec2ebf10b"
+    documentation="Compile audit records from [Assignment: organization-defined system components] into a system-wide (logical or physical) audit trail that is time-correlated to within [Assignment: organization-defined level of tolerance for the relationship between time stamps of individual records in the audit trail].">
+  <properties
+      key="Control Identifier"
+      value="AU-12(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Audit trails are time-correlated if the time stamps in the individual audit records can be reliably related to the time stamps in other audit records to achieve a time ordering of the records within organizational tolerances."/>
+  <properties
+      key="Related Controls"
+      value="AU-8, SC-45."/>
+</archimate:Requirement>

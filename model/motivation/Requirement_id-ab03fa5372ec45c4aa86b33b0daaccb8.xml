@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-29: Risk Management Program Leadership Roles"
+    id="id-ab03fa5372ec45c4aa86b33b0daaccb8"
+    documentation="a. Appoint a Senior Accountable Official for Risk Management to align organizational information security and privacy management processes with strategic, operational, and budgetary planning processes; and&#xA;b. Establish a Risk Executive (function) to view and analyze risk from an organization-wide perspective and ensure management of risk is consistent across the organization.">
+  <properties
+      key="Control Identifier"
+      value="PM-29"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The senior accountable official for risk management leads the risk executive (function) in organization-wide risk management activities."/>
+  <properties
+      key="Related Controls"
+      value="PM-2, PM-19."/>
+</archimate:Requirement>

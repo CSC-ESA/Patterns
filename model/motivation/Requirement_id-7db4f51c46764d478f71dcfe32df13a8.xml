@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(7): Account Management | Privileged User Accounts"
+    id="id-7db4f51c46764d478f71dcfe32df13a8"
+    documentation="(a) Establish and administer privileged user accounts in accordance with [Selection: a role-based access scheme; an attribute-based access scheme];&#xA;(b) Monitor privileged role or attribute assignments;&#xA;(c) Monitor changes to roles or attributes; and&#xA;(d) Revoke access when privileged role or attribute assignments are no longer appropriate.">
+  <properties
+      key="Control Identifier"
+      value="AC-2(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. Privileged roles include key management, account management, database administration, system and network administration, and web administration. A role-based access scheme organizes permitted system access and privileges into roles. In contrast, an attribute-based access scheme specifies allowed system access and privileges based on attributes."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

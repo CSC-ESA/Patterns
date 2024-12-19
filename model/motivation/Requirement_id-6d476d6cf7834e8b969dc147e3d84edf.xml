@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-6(4): Least Privilege | Separate Processing Domains"
+    id="id-6d476d6cf7834e8b969dc147e3d84edf"
+    documentation="Provide separate processing domains to enable finer-grained allocation of user privileges.">
+  <properties
+      key="Control Identifier"
+      value="AC-6(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Providing separate processing domains for finer-grained allocation of user privileges includes using virtualization techniques to permit additional user privileges within a virtual machine while restricting privileges to other virtual machines or to the underlying physical machine, implementing separate physical domains, and employing hardware or software domain separation mechanisms."/>
+  <properties
+      key="Related Controls"
+      value="AC-4, SC-2, SC-3, SC-30, SC-32, SC-39."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-5(1): Response to Audit Logging Process Failures | Storage Capacity Warning"
+    id="id-c3ebebea09ca42619b3bedff830d3a61"
+    documentation="Provide a warning to [Assignment: organization-defined personnel, roles, and/or locations] within [Assignment: organization-defined time period] when allocated audit log storage volume reaches [Assignment: organization-defined percentage] of repository maximum audit log storage capacity.">
+  <properties
+      key="Control Identifier"
+      value="AU-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may have multiple audit log storage repositories distributed across multiple system components with each repository having different storage volume capacities."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

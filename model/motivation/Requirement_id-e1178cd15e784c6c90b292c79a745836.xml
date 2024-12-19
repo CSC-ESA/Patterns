@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-8(3): Penetration Testing | Facility Penetration Testing"
+    id="id-e1178cd15e784c6c90b292c79a745836"
+    documentation="Employ a penetration testing process that includes [Assignment: organization-defined frequency] [Selection: announced; unannounced] attempts to bypass or circumvent controls associated with physical access points to the facility.">
+  <properties
+      key="Control Identifier"
+      value="CA-8(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Penetration testing of physical access points can provide information on critical vulnerabilities in the operating environments of organizational systems. Such information can be used to correct weaknesses or deficiencies in physical controls that are necessary to protect organizational systems."/>
+  <properties
+      key="Related Controls"
+      value="CA-2, PE-3."/>
+</archimate:Requirement>

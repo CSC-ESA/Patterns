@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(2): Access Enforcement | Dual Authorization"
+    id="id-475f2bc0c69a45cebd1533e77b3be690"
+    documentation="Enforce dual authorization for [Assignment: organization-defined privileged commands and/or other organization-defined actions].">
+  <properties
+      key="Control Identifier"
+      value="AC-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Dual authorization, also known as two-person control, reduces risk related to insider threats. Dual authorization mechanisms require the approval of two authorized individuals to execute. To reduce the risk of collusion, organizations consider rotating dual authorization duties. Organizations consider the risk associated with implementing dual authorization mechanisms when immediate responses are necessary to ensure public and environmental safety."/>
+  <properties
+      key="Related Controls"
+      value="CP-9, MP-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(4): Information Flow Enforcement | Flow Control of Encrypted Information"
+    id="id-b464025f2ce2479eb2b1ccb63709f88c"
+    documentation="Prevent encrypted information from bypassing [Assignment: organization-defined information flow control mechanisms] by [Selection (one or more): decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; [Assignment: organization-defined procedure or method]].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Flow control mechanisms include content checking, security policy filters, and data type identifiers. The term encryption is extended to cover encoded data not recognized by filtering mechanisms."/>
+  <properties
+      key="Related Controls"
+      value="SI-4."/>
+</archimate:Requirement>

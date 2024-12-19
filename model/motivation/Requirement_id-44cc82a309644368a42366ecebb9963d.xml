@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-6(10): Audit Record Review, Analysis, and Reporting | Audit Level Adjustment"
+    id="id-44cc82a309644368a42366ecebb9963d"
+    documentation="[Withdrawn: Incorporated into AU-6.]">
+  <properties
+      key="Control Identifier"
+      value="AU-6(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

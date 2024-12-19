@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-6(2): Audit Record Review, Analysis, and Reporting | Automated Security Alerts"
+    id="id-9cc94e9572ba41f090738998bd230542"
+    documentation="[Withdrawn: Incorporated into SI-4.]">
+  <properties
+      key="Control Identifier"
+      value="AU-6(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

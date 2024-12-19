@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-7(7): Least Functionality | Code Execution in Protected Environments"
+    id="id-eb8897f431b74c6190ab78760f7c24cc"
+    documentation="Allow execution of binary or machine-executable code only in confined physical or virtual machine environments and with the explicit approval of [Assignment: organization-defined personnel or roles] when such code is:&#xA;(a) Obtained from sources with limited or no warranty; and/or&#xA;(b) Without the provision of source code.">
+  <properties
+      key="Control Identifier"
+      value="CM-7(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Code execution in protected environments applies to all sources of binary or machine-executable code, including commercial software and firmware and open-source software."/>
+  <properties
+      key="Related Controls"
+      value="CM-10, SC-44."/>
+</archimate:Requirement>

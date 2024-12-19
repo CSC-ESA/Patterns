@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-13(3): Predictable Failure Prevention | Manual Transfer Between Components"
+    id="id-cc5a5d87b9fc4efdb5b780f2d2fd7d76"
+    documentation="Manually initiate transfers between active and standby system components when the use of the active component reaches [Assignment: organization-defined percentage] of the mean time to failure.">
+  <properties
+      key="Control Identifier"
+      value="SI-13(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="For example, if the MTTF for a system component is 100 days and the MTTF percentage defined by the organization is 90 percent, the manual transfer would occur after 90 days."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

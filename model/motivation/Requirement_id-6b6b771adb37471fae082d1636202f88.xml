@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-8(1): System Component Inventory | Updates During Installation and Removal"
+    id="id-6b6b771adb37471fae082d1636202f88"
+    documentation="Update the inventory of system components as part of component installations, removals, and system updates.">
+  <properties
+      key="Control Identifier"
+      value="CM-8(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can improve the accuracy, completeness, and consistency of system component inventories if the inventories are updated as part of component installations or removals or during general system updates. If inventories are not updated at these key times, there is a greater likelihood that the information will not be appropriately captured and documented. System updates include hardware, software, and firmware components."/>
+  <properties
+      key="Related Controls"
+      value="PM-16."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-3(7): Physical Access Control | Physical Barriers"
+    id="id-0ae743326e664a8297a58605055422ff"
+    documentation="Limit access using physical barriers.">
+  <properties
+      key="Control Identifier"
+      value="PE-3(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physical barriers include bollards, concrete slabs, jersey walls, and hydraulic active vehicle barriers."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

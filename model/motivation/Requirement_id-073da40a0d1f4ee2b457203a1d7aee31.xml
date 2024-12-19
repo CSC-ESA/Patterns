@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-11: Component Authenticity"
+    id="id-073da40a0d1f4ee2b457203a1d7aee31"
+    documentation="a. Develop and implement anti-counterfeit policy and procedures that include the means to detect and prevent counterfeit components from entering the system; and&#xA;b. Report counterfeit system components to [Selection (one or more): source of counterfeit component; [Assignment: organization-defined external reporting organizations]; [Assignment: organization-defined personnel or roles]].">
+  <properties
+      key="Control Identifier"
+      value="SR-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Sources of counterfeit components include manufacturers, developers, vendors, and contractors. Anti-counterfeiting policies and procedures support tamper resistance and provide a level of protection against the introduction of malicious code. External reporting organizations include CISA."/>
+  <properties
+      key="Related Controls"
+      value="PE-3, SA-4, SI-7, SR-9, SR-10."/>
+</archimate:Requirement>

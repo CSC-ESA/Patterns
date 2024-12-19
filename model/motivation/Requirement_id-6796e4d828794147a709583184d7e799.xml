@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-15(1): Collaborative Computing Devices and Applications | Physical or Logical Disconnect"
+    id="id-6796e4d828794147a709583184d7e799"
+    documentation="Provide [Selection (one or more): physical; logical] disconnect of collaborative computing devices in a manner that supports ease of use.">
+  <properties
+      key="Control Identifier"
+      value="SC-15(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Failing to disconnect from collaborative computing devices can result in subsequent compromises of organizational information. Providing easy methods to disconnect from such devices after a collaborative computing session ensures that participants carry out the disconnect activity without having to go through complex and tedious procedures. Disconnect from collaborative computing devices can be manual or automatic."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

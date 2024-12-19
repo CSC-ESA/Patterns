@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-6: Resource Availability"
+    id="id-dd3509ac0527459d822d49985f8957bd"
+    documentation="Protect the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more): priority; quota; [Assignment: organization-defined controls]].">
+  <properties
+      key="Control Identifier"
+      value="SC-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Priority protection prevents lower-priority processes from delaying or interfering with the system that services higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources."/>
+  <properties
+      key="Related Controls"
+      value="SC-5."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-9(4): Information Spillage Response | Exposure to Unauthorized Personnel"
+    id="id-b7dc17dcbeb848eca048ea1b577ea7b6"
+    documentation="Employ the following controls for personnel exposed to information not within assigned access authorizations: [Assignment: organization-defined controls].">
+  <properties
+      key="Control Identifier"
+      value="IR-9(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Controls include ensuring that personnel who are exposed to spilled information are made aware of the laws, executive orders, directives, regulations, policies, standards, and guidelines regarding the information and the restrictions imposed based on exposure to such information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

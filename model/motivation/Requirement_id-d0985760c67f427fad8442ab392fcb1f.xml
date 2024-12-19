@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-15: Alternate Audit Logging Capability"
+    id="id-d0985760c67f427fad8442ab392fcb1f"
+    documentation="[Withdrawn: Moved to AU-5(5).]">
+  <properties
+      key="Control Identifier"
+      value="AU-15"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

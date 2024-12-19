@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-3(3): System Development Life Cycle | Technology Refresh"
+    id="id-2b0ca69933c648c08d9b64a1db0db5a7"
+    documentation="Plan for and implement a technology refresh schedule for the system throughout the system development life cycle.">
+  <properties
+      key="Control Identifier"
+      value="SA-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Technology refresh planning may encompass hardware, software, firmware, processes, personnel skill sets, suppliers, service providers, and facilities. The use of obsolete or nearing obsolete technology may increase the security and privacy risks associated with unsupported components, counterfeit or repurposed components, components unable to implement security or privacy requirements, slow or inoperable components, components from untrusted sources, inadvertent personnel error, or increased complexity. Technology refreshes typically occur during the operations and maintenance stage of the system development life cycle."/>
+  <properties
+      key="Related Controls"
+      value="MA-6."/>
+</archimate:Requirement>

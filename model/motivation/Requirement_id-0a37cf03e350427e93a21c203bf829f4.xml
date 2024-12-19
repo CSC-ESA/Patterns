@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-6(2): Configuration Settings | Respond to Unauthorized Changes"
+    id="id-0a37cf03e350427e93a21c203bf829f4"
+    documentation="Take the following actions in response to unauthorized changes to [Assignment: organization-defined configuration settings]: [Assignment: organization-defined actions].">
+  <properties
+      key="Control Identifier"
+      value="CM-6(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Responses to unauthorized changes to configuration settings include alerting designated organizational personnel, restoring established configuration settings, or—in extreme cases—halting affected system processing."/>
+  <properties
+      key="Related Controls"
+      value="IR-4, IR-6, SI-7."/>
+</archimate:Requirement>

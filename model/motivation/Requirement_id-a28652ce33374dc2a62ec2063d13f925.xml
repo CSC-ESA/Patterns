@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-2(12): Identification and Authentication (organizational Users) | Acceptance of PIV Credentials"
+    id="id-a28652ce33374dc2a62ec2063d13f925"
+    documentation="Accept and electronically verify Personal Identity Verification-compliant credentials.">
+  <properties
+      key="Control Identifier"
+      value="IA-2(12)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Acceptance of Personal Identity Verification (PIV)-compliant credentials applies to organizations implementing logical access control and physical access control systems. PIV-compliant credentials are those credentials issued by federal agencies that conform to FIPS Publication 201 and supporting guidance documents. The adequacy and reliability of PIV card issuers are authorized using SP 800-79-2. Acceptance of PIV-compliant credentials includes derived PIV credentials, the use of which is addressed in SP 800-166. The DOD Common Access Card (CAC) is an example of a PIV credential."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

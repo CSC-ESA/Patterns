@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-13(2): Fire Protection | Suppression Systems — Automatic Activation and Notification"
+    id="id-b6f7a613a4a8403b94077b97e23624dc"
+    documentation="(a) Employ fire suppression systems that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders]; and&#xA;(b) Employ an automatic fire suppression capability when the facility is not staffed on a continuous basis.">
+  <properties
+      key="Control Identifier"
+      value="PE-13(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can identify specific personnel, roles, and emergency responders if individuals on the notification list need to have appropriate access authorizations and/or clearances (e.g., to enter to facilities where access is restricted due to the impact level or classification of information within the facility). Notification mechanisms may require independent energy sources to ensure that the notification capability is not adversely affected by the fire."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

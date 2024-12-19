@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-7(2): Audit Record Reduction and Report Generation | Automatic Sort and Search"
+    id="id-ffee19112969429ca1d937a4fa01478a"
+    documentation="[Withdrawn: Incorporated into AU-7(1).]">
+  <properties
+      key="Control Identifier"
+      value="AU-7(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-18(1): Mobile Code | Identify Unacceptable Code and Take Corrective Actions"
+    id="id-064c1ee4a7a04c29a6e9481fd86035b0"
+    documentation="Identify [Assignment: organization-defined unacceptable mobile code] and take [Assignment: organization-defined corrective actions].">
+  <properties
+      key="Control Identifier"
+      value="SC-18(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Corrective actions when unacceptable mobile code is detected include blocking, quarantine, or alerting administrators. Blocking includes preventing the transmission of word processing files with embedded macros when such macros have been determined to be unacceptable mobile code."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

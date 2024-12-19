@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-5(5): System Documentation | Source Code"
+    id="id-bb99dda1b37b4439bf079181783dbec0"
+    documentation="[Withdrawn: Incorporated into SA-4(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-5(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

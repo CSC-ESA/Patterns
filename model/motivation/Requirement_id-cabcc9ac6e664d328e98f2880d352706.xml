@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(14): System Monitoring | Wireless Intrusion Detection"
+    id="id-cabcc9ac6e664d328e98f2880d352706"
+    documentation="Employ a wireless intrusion detection system to identify rogue wireless devices and to detect attack attempts and potential compromises or breaches to the system.">
+  <properties
+      key="Control Identifier"
+      value="SI-4(14)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Wireless signals may radiate beyond organizational facilities. Organizations proactively search for unauthorized wireless connections, including the conduct of thorough scans for unauthorized wireless access points. Wireless scans are not limited to those areas within facilities containing systems but also include areas outside of facilities to verify that unauthorized wireless access points are not connected to organizational systems."/>
+  <properties
+      key="Related Controls"
+      value="AC-18, IA-3."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-3(2): Personally Identifiable Information Processing Purposes | Automation"
+    id="id-8ae39531396045848c7cc1bde3c69858"
+    documentation="Track processing purposes of personally identifiable information using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="PT-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms augment tracking of the processing purposes."/>
+  <properties
+      key="Related Controls"
+      value="CA-6, CM-12, PM-5, PM-22, SC-16, SC-43, SI-10, SI-15, SI-19."/>
+</archimate:Requirement>

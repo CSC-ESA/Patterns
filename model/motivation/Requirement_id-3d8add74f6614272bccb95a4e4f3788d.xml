@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-23(3): Session Authenticity | Unique System-generated Session Identifiers"
+    id="id-3d8add74f6614272bccb95a4e4f3788d"
+    documentation="Generate a unique session identifier for each session with [Assignment: organization-defined randomness requirements] and recognize only session identifiers that are system-generated.">
+  <properties
+      key="Control Identifier"
+      value="SC-23(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Generating unique session identifiers curtails the ability of adversaries to reuse previously valid session IDs. Employing the concept of randomness in the generation of unique session identifiers protects against brute-force attacks to determine future session identifiers."/>
+  <properties
+      key="Related Controls"
+      value="AC-10, SC-12, SC-13."/>
+</archimate:Requirement>

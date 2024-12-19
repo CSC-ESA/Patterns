@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-3(3): Incident Response Testing | Continuous Improvement"
+    id="id-365deeddf82546a8955227ffbd9f63eb"
+    documentation="Use qualitative and quantitative data from testing to:&#xA;(a) Determine the effectiveness of incident response processes;&#xA;(b) Continuously improve incident response processes; and&#xA;(c) Provide incident response measures and metrics that are accurate, consistent, and in a reproducible format.">
+  <properties
+      key="Control Identifier"
+      value="IR-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To help incident response activities function as intended, organizations may use metrics and evaluation criteria to assess incident response programs as part of an effort to continually improve response performance. These efforts facilitate improvement in incident response efficacy and lessen the impact of incidents."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

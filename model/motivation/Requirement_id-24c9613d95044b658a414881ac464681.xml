@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-24: Data Integrity Board"
+    id="id-24c9613d95044b658a414881ac464681"
+    documentation="Establish a Data Integrity Board to:&#xA;a. Review proposals to conduct or participate in a matching program; and&#xA;b. Conduct an annual review of all matching programs in which the agency has participated.">
+  <properties
+      key="Control Identifier"
+      value="PM-24"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A Data Integrity Board is the board of senior officials designated by the head of a federal agency and is responsible for, among other things, reviewing the agency’s proposals to conduct or participate in a matching program and conducting an annual review of all matching programs in which the agency has participated. As a general matter, a matching program is a computerized comparison of records from two or more automated PRIVACT systems of records or an automated system of records and automated records maintained by a non-federal agency (or agent thereof). A matching program either pertains to Federal benefit programs or Federal personnel or payroll records. At a minimum, the Data Integrity Board includes the Inspector General of the agency, if any, and the senior agency official for privacy."/>
+  <properties
+      key="Related Controls"
+      value="AC-4, PM-19, PM-23, PT-2, PT-8."/>
+</archimate:Requirement>

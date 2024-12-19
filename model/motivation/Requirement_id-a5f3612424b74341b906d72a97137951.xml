@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-4(1): Media Storage | Cryptographic Protection"
+    id="id-a5f3612424b74341b906d72a97137951"
+    documentation="[Withdrawn: Incorporated into SC-28(1).]">
+  <properties
+      key="Control Identifier"
+      value="MP-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

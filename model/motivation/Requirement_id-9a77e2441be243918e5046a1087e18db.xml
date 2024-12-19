@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-34(2): Non-modifiable Executable Programs | Integrity Protection on Read-only Media"
+    id="id-9a77e2441be243918e5046a1087e18db"
+    documentation="Protect the integrity of information prior to storage on read-only media and control the media after such information has been recorded onto the media.">
+  <properties
+      key="Control Identifier"
+      value="SC-34(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Controls prevent the substitution of media into systems or the reprogramming of programmable read-only media prior to installation into the systems. Integrity protection controls include a combination of prevention, detection, and response."/>
+  <properties
+      key="Related Controls"
+      value="CM-3, CM-5, CM-9, MP-2, MP-4, MP-5, SC-28, SI-3."/>
+</archimate:Requirement>

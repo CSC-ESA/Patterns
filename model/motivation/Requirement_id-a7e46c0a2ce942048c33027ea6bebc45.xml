@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-3(2): Physical Access Control | Facility and Systems"
+    id="id-a7e46c0a2ce942048c33027ea6bebc45"
+    documentation="Perform security checks [Assignment: organization-defined frequency] at the physical perimeter of the facility or system for exfiltration of information or removal of system components.">
+  <properties
+      key="Control Identifier"
+      value="PE-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations determine the extent, frequency, and/or randomness of security checks to adequately mitigate risk associated with exfiltration."/>
+  <properties
+      key="Related Controls"
+      value="AC-4, SC-7."/>
+</archimate:Requirement>

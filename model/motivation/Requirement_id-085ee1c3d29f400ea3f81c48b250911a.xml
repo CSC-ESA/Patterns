@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-8: Critical Infrastructure Plan"
+    id="id-085ee1c3d29f400ea3f81c48b250911a"
+    documentation="Address information security and privacy issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan.">
+  <properties
+      key="Control Identifier"
+      value="PM-8"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Protection strategies are based on the prioritization of critical assets and resources. The requirement and guidance for defining critical infrastructure and key resources and for preparing an associated critical infrastructure protection plan are found in applicable laws, executive orders, directives, policies, regulations, standards, and guidelines."/>
+  <properties
+      key="Related Controls"
+      value="CP-2, CP-4, PE-18, PL-2, PM-9, PM-11, PM-18, RA-3, SI-12."/>
+</archimate:Requirement>

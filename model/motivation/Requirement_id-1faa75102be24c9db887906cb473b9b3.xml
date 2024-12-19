@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-11(1): Trusted Path | Irrefutable Communications Path"
+    id="id-1faa75102be24c9db887906cb473b9b3"
+    documentation="(a) Provide a trusted communications path that is irrefutably distinguishable from other communications paths; and&#xA;(b) Initiate the trusted communications path for communications between the [Assignment: organization-defined security functions] of the system and the user.">
+  <properties
+      key="Control Identifier"
+      value="SC-11(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="An irrefutable communications path permits the system to initiate a trusted path, which necessitates that the user can unmistakably recognize the source of the communication as a trusted system component. For example, the trusted path may appear in an area of the display that other applications cannot access or be based on the presence of an identifier that cannot be spoofed."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

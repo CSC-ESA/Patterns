@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-2(4): Contingency Plan | Resume All Mission and Business Functions"
+    id="id-435b1ecd4a3a4a3a9a2cf19c6ad79b6e"
+    documentation="[Withdrawn: Incorporated into CP-2(3).]">
+  <properties
+      key="Control Identifier"
+      value="CP-2(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

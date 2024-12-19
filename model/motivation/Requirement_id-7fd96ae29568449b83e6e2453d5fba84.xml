@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(9): Acquisition Process | Functions, Ports, Protocols, and Services in Use"
+    id="id-7fd96ae29568449b83e6e2453d5fba84"
+    documentation="Require the developer of the system, system component, or system service to identify the functions, ports, protocols, and services intended for organizational use.">
+  <properties
+      key="Control Identifier"
+      value="SA-4(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The identification of functions, ports, protocols, and services early in the system development life cycle (e.g., during the initial requirements definition and design stages) allows organizations to influence the design of the system, system component, or system service. This early involvement in the system development life cycle helps organizations avoid or minimize the use of functions, ports, protocols, or services that pose unnecessarily high risks and understand the trade-offs involved in blocking specific ports, protocols, or services or requiring system service providers to do so. Early identification of functions, ports, protocols, and services avoids costly retrofitting of controls after the system, component, or system service has been implemented. SA-9 describes the requirements for external system services. Organizations identify which functions, ports, protocols, and services are provided from external sources."/>
+  <properties
+      key="Related Controls"
+      value="CM-7, SA-9."/>
+</archimate:Requirement>

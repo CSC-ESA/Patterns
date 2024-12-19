@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-28: Risk Framing"
+    id="id-81e341d4c8594834aa15a52742867ffa"
+    documentation="a. Identify and document:&#xA;1. Assumptions affecting risk assessments, risk responses, and risk monitoring;&#xA;2. Constraints affecting risk assessments, risk responses, and risk monitoring;&#xA;3. Priorities and trade-offs considered by the organization for managing risk; and&#xA;4. Organizational risk tolerance;&#xA;b. Distribute the results of risk framing activities to [Assignment: organization-defined personnel]; and&#xA;c. Review and update risk framing considerations [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="PM-28"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Risk framing is most effective when conducted at the organization level and in consultation with stakeholders throughout the organization including mission, business, and system owners. The assumptions, constraints, risk tolerance, priorities, and trade-offs identified as part of the risk framing process inform the risk management strategy, which in turn informs the conduct of risk assessment, risk response, and risk monitoring activities. Risk framing results are shared with organizational personnel, including mission and business owners, information owners or stewards, system owners, authorizing officials, senior agency information security officer, senior agency official for privacy, and senior accountable official for risk management."/>
+  <properties
+      key="Related Controls"
+      value="CA-7, PM-9, RA-3, RA-7."/>
+</archimate:Requirement>

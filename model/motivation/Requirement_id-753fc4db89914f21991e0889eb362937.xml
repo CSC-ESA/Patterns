@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-4: Training Records"
+    id="id-753fc4db89914f21991e0889eb362937"
+    documentation="a. Document and monitor information security and privacy training activities, including security and privacy awareness training and specific role-based security and privacy training; and&#xA;b. Retain individual training records for [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="AT-4"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Documentation for specialized training may be maintained by individual supervisors at the discretion of the organization. The National Archives and Records Administration provides guidance on records retention for federal agencies."/>
+  <properties
+      key="Related Controls"
+      value="AT-2, AT-3, CP-3, IR-2, PM-14, SI-12."/>
+</archimate:Requirement>

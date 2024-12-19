@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(8): Vulnerability Monitoring and Scanning | Review Historic Audit Logs"
+    id="id-d6eba54cd2bc4d26b72df3b0afd4a5f8"
+    documentation="Review historic audit logs to determine if a vulnerability identified in a [Assignment: organization-defined system] has been previously exploited within an [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="RA-5(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Reviewing historic audit logs to determine if a recently detected vulnerability in a system has been previously exploited by an adversary can provide important information for forensic analyses. Such analyses can help identify, for example, the extent of a previous intrusion, the trade craft employed during the attack, organizational information exfiltrated or modified, mission or business capabilities affected, and the duration of the attack."/>
+  <properties
+      key="Related Controls"
+      value="AU-6, AU-11."/>
+</archimate:Requirement>

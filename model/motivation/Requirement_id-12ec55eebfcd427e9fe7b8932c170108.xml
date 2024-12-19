@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-7(2): Least Functionality | Prevent Program Execution"
+    id="id-12ec55eebfcd427e9fe7b8932c170108"
+    documentation="Prevent program execution in accordance with [Selection (one or more): [Assignment: organization-defined policies, rules of behavior, and/or access agreements regarding software program usage and restrictions]; rules authorizing the terms and conditions of software program usage].">
+  <properties
+      key="Control Identifier"
+      value="CM-7(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Prevention of program execution addresses organizational policies, rules of behavior, and/or access agreements that restrict software usage and the terms and conditions imposed by the developer or manufacturer, including software licensing and copyrights. Restrictions include prohibiting auto-execute features, restricting roles allowed to approve program execution, permitting or prohibiting specific software programs, or restricting the number of program instances executed at the same time."/>
+  <properties
+      key="Related Controls"
+      value="CM-8, PL-4, PL-9, PM-5, PS-6."/>
+</archimate:Requirement>

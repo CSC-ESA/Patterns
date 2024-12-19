@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-2(7): Identification and Authentication (organizational Users) | Network Access to Non-privileged Accounts — Separate Device"
+    id="id-4887956a82d5412494972cc23bf57946"
+    documentation="[Withdrawn: Incorporated into IA-2(6).]">
+  <properties
+      key="Control Identifier"
+      value="IA-2(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

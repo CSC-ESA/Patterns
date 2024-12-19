@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-30(4): Concealment and Misdirection | Misleading Information"
+    id="id-6239ed0298cb40c8bd09032ad564e729"
+    documentation="Employ realistic, but misleading information in [Assignment: organization-defined system components] about its security state or posture.">
+  <properties
+      key="Control Identifier"
+      value="SC-30(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Employing misleading information is intended to confuse potential adversaries regarding the nature and extent of controls deployed by organizations. Thus, adversaries may employ incorrect and ineffective attack techniques. One technique for misleading adversaries is for organizations to place misleading information regarding the specific controls deployed in external systems that are known to be targeted by adversaries. Another technique is the use of deception nets that mimic actual aspects of organizational systems but use, for example, out-of-date software configurations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

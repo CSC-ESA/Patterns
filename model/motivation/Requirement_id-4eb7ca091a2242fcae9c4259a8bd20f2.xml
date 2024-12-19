@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-7(3): Least Functionality | Registration Compliance"
+    id="id-4eb7ca091a2242fcae9c4259a8bd20f2"
+    documentation="Ensure compliance with [Assignment: organization-defined registration requirements for functions, ports, protocols, and services].">
+  <properties
+      key="Control Identifier"
+      value="CM-7(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations use the registration process to manage, track, and provide oversight for systems and implemented functions, ports, protocols, and services."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

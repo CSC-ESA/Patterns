@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-3(2): Role-based Training | Physical Security Controls"
+    id="id-d6f8f3242c924ed8b8b7da661051d07b"
+    documentation="Provide [Assignment: organization-defined personnel or roles] with initial and [Assignment: organization-defined frequency] training in the employment and operation of physical security controls.">
+  <properties
+      key="Control Identifier"
+      value="AT-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physical security controls include physical access control devices, physical intrusion and detection alarms, operating procedures for facility security guards, and monitoring or surveillance equipment."/>
+  <properties
+      key="Related Controls"
+      value="PE-2, PE-3, PE-4."/>
+</archimate:Requirement>

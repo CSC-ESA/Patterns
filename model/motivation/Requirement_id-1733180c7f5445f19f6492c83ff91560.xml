@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-23: Facility Location"
+    id="id-1733180c7f5445f19f6492c83ff91560"
+    documentation="a. Plan the location or site of the facility where the system resides considering physical and environmental hazards; and&#xA;b. For existing facilities, consider the physical and environmental hazards in the organizational risk management strategy.">
+  <properties
+      key="Control Identifier"
+      value="PE-23"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physical and environmental hazards include floods, fires, tornadoes, earthquakes, hurricanes, terrorism, vandalism, an electromagnetic pulse, electrical interference, and other forms of incoming electromagnetic radiation. The location of system components within the facility is addressed in PE-18."/>
+  <properties
+      key="Related Controls"
+      value="CP-2, PE-18, PE-19, PM-8, PM-9, RA-3."/>
+</archimate:Requirement>

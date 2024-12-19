@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-19: Information Leakage"
+    id="id-743b03ad620344969e2242464c7d87e4"
+    documentation="Protect the system from information leakage due to electromagnetic signals emanations.">
+  <properties
+      key="Control Identifier"
+      value="PE-19"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information leakage is the intentional or unintentional release of data or information to an untrusted environment from electromagnetic signals emanations. The security categories or classifications of systems (with respect to confidentiality), organizational security policies, and risk tolerance guide the selection of controls employed to protect systems against information leakage due to electromagnetic signals emanations."/>
+  <properties
+      key="Related Controls"
+      value="AC-18, PE-18, PE-20."/>
+</archimate:Requirement>

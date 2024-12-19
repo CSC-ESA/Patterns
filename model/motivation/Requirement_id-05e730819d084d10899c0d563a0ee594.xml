@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-3(4): Device Identification and Authentication | Device Attestation"
+    id="id-05e730819d084d10899c0d563a0ee594"
+    documentation="Handle device identification and authentication based on attestation by [Assignment: organization-defined configuration management process].">
+  <properties
+      key="Control Identifier"
+      value="IA-3(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Device attestation refers to the identification and authentication of a device based on its configuration and known operating state. Device attestation can be determined via a cryptographic hash of the device. If device attestation is the means of identification and authentication, then it is important that patches and updates to the device are handled via a configuration management process such that the patches and updates are done securely and do not disrupt identification and authentication to other devices."/>
+  <properties
+      key="Related Controls"
+      value="CM-2, CM-3, CM-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-14(2): Non-persistence | Non-persistent Information"
+    id="id-ac98d092fbcc4d7f8dae1ace5bb67a6a"
+    documentation="(a) [Selection: Refresh [Assignment: organization-defined information][Assignment: organization-defined frequency]; Generate [Assignment: organization-defined information] on demand]; and&#xA;(b) Delete information when no longer needed.">
+  <properties
+      key="Control Identifier"
+      value="SI-14(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Retaining information longer than is needed makes the information a potential target for advanced adversaries searching for high value assets to compromise through unauthorized disclosure, unauthorized modification, or exfiltration. For system-related information, unnecessary retention provides advanced adversaries information that can assist in their reconnaissance and lateral movement through the system."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

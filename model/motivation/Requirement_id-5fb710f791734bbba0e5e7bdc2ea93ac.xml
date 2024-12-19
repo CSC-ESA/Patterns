@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-2(5): Flaw Remediation | Automatic Software and Firmware Updates"
+    id="id-5fb710f791734bbba0e5e7bdc2ea93ac"
+    documentation="Install [Assignment: organization-defined security-relevant software and firmware updates] automatically to [Assignment: organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SI-2(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Due to system integrity and availability concerns, organizations consider the methodology used to carry out automatic updates. Organizations balance the need to ensure that the updates are installed as soon as possible with the need to maintain configuration management and control with any mission or operational impacts that automatic updates might impose."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

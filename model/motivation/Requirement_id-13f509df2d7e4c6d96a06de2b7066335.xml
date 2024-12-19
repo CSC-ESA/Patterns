@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(6): Supply Chain Protection | Minimizing Procurement Time"
+    id="id-13f509df2d7e4c6d96a06de2b7066335"
+    documentation="[Withdrawn: Incorporated into SR-5(1).]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

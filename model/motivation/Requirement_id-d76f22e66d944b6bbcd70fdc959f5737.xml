@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-10(2): System Recovery and Reconstitution | Transaction Recovery"
+    id="id-d76f22e66d944b6bbcd70fdc959f5737"
+    documentation="Implement transaction recovery for systems that are transaction-based.">
+  <properties
+      key="Control Identifier"
+      value="CP-10(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Transaction-based systems include database management systems and transaction processing systems. Mechanisms supporting transaction recovery include transaction rollback and transaction journaling."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

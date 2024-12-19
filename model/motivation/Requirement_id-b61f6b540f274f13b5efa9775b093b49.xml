@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-5: System Inventory"
+    id="id-b61f6b540f274f13b5efa9775b093b49"
+    documentation="Develop and update [Assignment: organization-defined frequency] an inventory of organizational systems.">
+  <properties
+      key="Control Identifier"
+      value="PM-5"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="OMB A-130 provides guidance on developing systems inventories and associated reporting requirements. System inventory refers to an organization-wide inventory of systems, not system components as described in CM-8."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

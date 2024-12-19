@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-8(1): Media Downgrading | Documentation of Process"
+    id="id-53836f82302848b29486b74429ed8dae"
+    documentation="Document system media downgrading actions.">
+  <properties
+      key="Control Identifier"
+      value="MP-8(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can document the media downgrading process by providing information, such as the downgrading technique employed, the identification number of the downgraded media, and the identity of the individual that authorized and/or performed the downgrading action."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

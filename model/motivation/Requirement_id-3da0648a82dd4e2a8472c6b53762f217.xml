@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(8): Development Process, Standards, and Tools | Reuse of Threat and Vulnerability Information"
+    id="id-3da0648a82dd4e2a8472c6b53762f217"
+    documentation="Require the developer of the system, system component, or system service to use threat modeling and vulnerability analyses from similar systems, components, or services to inform the current development process.">
+  <properties
+      key="Control Identifier"
+      value="SA-15(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Analysis of vulnerabilities found in similar software applications can inform potential design and implementation issues for systems under development. Similar systems or system components may exist within developer organizations. Vulnerability information is available from a variety of public and private sector sources, including the NIST National Vulnerability Database."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

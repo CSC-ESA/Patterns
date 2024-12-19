@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-8(25): Security and Privacy Engineering Principles | Economic Security"
+    id="id-66452efbe47c4b288f8ae48a26459e6e"
+    documentation="Implement the security design principle of economic security in [Assignment: organization-defined systems or system components].">
+  <properties
+      key="Control Identifier"
+      value="SA-8(25)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The principle of economic security states that security mechanisms are not costlier than the potential damage that could occur from a security breach. This is the security-relevant form of the cost-benefit analyses used in risk management. The cost assumptions of cost-benefit analysis prevent the system designer from incorporating security mechanisms of greater strength than necessary, where strength of mechanism is proportional to cost. The principle of economic security also requires analysis of the benefits of assurance relative to the cost of that assurance in terms of the effort expended to obtain relevant and credible evidence as well as the necessary analyses to assess and draw trustworthiness and risk conclusions from the evidence."/>
+  <properties
+      key="Related Controls"
+      value="RA-3."/>
+</archimate:Requirement>

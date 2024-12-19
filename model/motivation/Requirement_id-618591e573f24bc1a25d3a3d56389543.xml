@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-10(5): Non-repudiation | Digital Signatures"
+    id="id-618591e573f24bc1a25d3a3d56389543"
+    documentation="[Withdrawn: Incorporated into SI-7.]">
+  <properties
+      key="Control Identifier"
+      value="AU-10(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

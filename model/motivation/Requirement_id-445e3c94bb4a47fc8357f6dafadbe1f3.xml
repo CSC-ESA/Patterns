@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-6(3): Audit Record Review, Analysis, and Reporting | Correlate Audit Record Repositories"
+    id="id-445e3c94bb4a47fc8357f6dafadbe1f3"
+    documentation="Analyze and correlate audit records across different repositories to gain organization-wide situational awareness.">
+  <properties
+      key="Control Identifier"
+      value="AU-6(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organization-wide situational awareness includes awareness across all three levels of risk management (i.e., organizational level, mission/business process level, and information system level) and supports cross-organization awareness."/>
+  <properties
+      key="Related Controls"
+      value="AU-12, IR-4."/>
+</archimate:Requirement>

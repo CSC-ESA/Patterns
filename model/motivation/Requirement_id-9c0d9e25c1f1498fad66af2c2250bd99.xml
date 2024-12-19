@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-3: Incident Response Testing"
+    id="id-9c0d9e25c1f1498fad66af2c2250bd99"
+    documentation="Test the effectiveness of the incident response capability for the system [Assignment: organization-defined frequency] using the following tests: [Assignment: organization-defined tests].">
+  <properties
+      key="Control Identifier"
+      value="IR-3"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations test incident response capabilities to determine their effectiveness and identify potential weaknesses or deficiencies. Incident response testing includes the use of checklists, walk-through or tabletop exercises, and simulations (parallel or full interrupt). Incident response testing can include a determination of the effects on organizational operations and assets and individuals due to incident response. The use of qualitative and quantitative data aids in determining the effectiveness of incident response processes."/>
+  <properties
+      key="Related Controls"
+      value="CP-3, CP-4, IR-2, IR-4, IR-8, PM-14."/>
+</archimate:Requirement>

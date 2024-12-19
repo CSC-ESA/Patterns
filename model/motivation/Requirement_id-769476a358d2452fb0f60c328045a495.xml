@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-6: Software Usage Restrictions"
+    id="id-769476a358d2452fb0f60c328045a495"
+    documentation="[Withdrawn: Incorporated into CM-10 and SI-7.]">
+  <properties
+      key="Control Identifier"
+      value="SA-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

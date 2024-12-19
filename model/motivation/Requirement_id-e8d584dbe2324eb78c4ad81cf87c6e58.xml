@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-6(1): Security and Privacy Function Verification | Notification of Failed Security Tests"
+    id="id-e8d584dbe2324eb78c4ad81cf87c6e58"
+    documentation="[Withdrawn: Incorporated into SI-6.]">
+  <properties
+      key="Control Identifier"
+      value="SI-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

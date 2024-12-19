@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-2(6): Flaw Remediation | Removal of Previous Versions of Software and Firmware"
+    id="id-90d3b61139844c9a9e9b5be1fe19a1bf"
+    documentation="Remove previous versions of [Assignment: organization-defined software and firmware components] after updated versions have been installed.">
+  <properties
+      key="Control Identifier"
+      value="SI-2(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Previous versions of software or firmware components that are not removed from the system after updates have been installed may be exploited by adversaries. Some products may automatically remove previous versions of software and firmware from the system."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

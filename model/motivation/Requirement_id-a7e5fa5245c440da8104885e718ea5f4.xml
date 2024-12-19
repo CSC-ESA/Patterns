@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-7(6): Alternate Processing Site | Inability to Return to Primary Site"
+    id="id-a7e5fa5245c440da8104885e718ea5f4"
+    documentation="Plan and prepare for circumstances that preclude returning to the primary processing site.">
+  <properties
+      key="Control Identifier"
+      value="CP-7(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="There may be situations that preclude an organization from returning to the primary processing site such as if a natural disaster (e.g., flood or a hurricane) damaged or destroyed a facility and it was determined that rebuilding in the same location was not prudent."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

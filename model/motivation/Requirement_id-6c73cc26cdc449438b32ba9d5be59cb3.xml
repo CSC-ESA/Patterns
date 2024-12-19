@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-19: Voice Over Internet Protocol"
+    id="id-6c73cc26cdc449438b32ba9d5be59cb3"
+    documentation="[Withdrawn: Technology-specific; addressed as any other technology or protocol.]">
+  <properties
+      key="Control Identifier"
+      value="SC-19"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

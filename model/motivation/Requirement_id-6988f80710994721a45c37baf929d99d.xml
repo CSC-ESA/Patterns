@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-6(6): Audit Record Review, Analysis, and Reporting | Correlation with Physical Monitoring"
+    id="id-6988f80710994721a45c37baf929d99d"
+    documentation="Correlate information from audit records with information obtained from monitoring physical access to further enhance the ability to identify suspicious, inappropriate, unusual, or malevolent activity.">
+  <properties
+      key="Control Identifier"
+      value="AU-6(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The correlation of physical audit record information and the audit records from systems may assist organizations in identifying suspicious behavior or supporting evidence of such behavior. For example, the correlation of an individual’s identity for logical access to certain systems with the additional physical security information that the individual was present at the facility when the logical access occurred may be useful in investigations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

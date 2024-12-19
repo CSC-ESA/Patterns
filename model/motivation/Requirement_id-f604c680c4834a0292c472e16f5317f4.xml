@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(16): Information Flow Enforcement | Information Transfers on Interconnected Systems"
+    id="id-f604c680c4834a0292c472e16f5317f4"
+    documentation="[Withdrawn: Incorporated into AC-4.]">
+  <properties
+      key="Control Identifier"
+      value="AC-4(16)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

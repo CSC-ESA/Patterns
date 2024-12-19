@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(1): Account Management | Automated System Account Management"
+    id="id-ee16a38532b644249715b79914f0f2d0"
+    documentation="Support the management of system accounts using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="AC-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated system account management includes using automated mechanisms to create, enable, modify, disable, and remove accounts; notify account managers when an account is created, enabled, modified, disabled, or removed, or when users are terminated or transferred; monitor system account usage; and report atypical system account usage. Automated mechanisms can include internal system functions and email, telephonic, and text messaging notifications."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(5): Incident Handling | Automatic Disabling of System"
+    id="id-e7a7568dbade448fa7c81305efb4193c"
+    documentation="Implement a configurable capability to automatically disable the system if [Assignment: organization-defined security violations] are detected.">
+  <properties
+      key="Control Identifier"
+      value="IR-4(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations consider whether the capability to automatically disable the system conflicts with continuity of operations requirements specified as part of CP-2 or IR-4(3). Security violations include cyber-attacks that have compromised the integrity of the system or exfiltrated organizational information and serious errors in software programs that could adversely impact organizational missions or functions or jeopardize the safety of individuals."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

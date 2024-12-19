@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-3(2): Device Identification and Authentication | Cryptographic Bidirectional Network Authentication"
+    id="id-f62a04b3ebd54b0eb426caa1589df786"
+    documentation="Withdrawn: Incorporated into IA-3(1).]">
+  <properties
+      key="Control Identifier"
+      value="IA-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

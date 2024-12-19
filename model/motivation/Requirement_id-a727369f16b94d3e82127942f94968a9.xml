@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-6(2): Media Sanitization | Equipment Testing"
+    id="id-a727369f16b94d3e82127942f94968a9"
+    documentation="Test sanitization equipment and procedures [Assignment: organization-defined frequency] to ensure that the intended sanitization is being achieved.">
+  <properties
+      key="Control Identifier"
+      value="MP-6(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Testing of sanitization equipment and procedures may be conducted by qualified and authorized external entities, including federal agencies or external service providers."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

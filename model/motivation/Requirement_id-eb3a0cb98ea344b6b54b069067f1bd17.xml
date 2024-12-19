@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(8): Supply Chain Protection | Use of All-source Intelligence"
+    id="id-eb3a0cb98ea344b6b54b069067f1bd17"
+    documentation="[Withdrawn: Incorporated into RA-3(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

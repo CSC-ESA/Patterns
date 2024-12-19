@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-10(6): Information Input Validation | Injection Prevention"
+    id="id-e441736e619345c19321c3cd6329343a"
+    documentation="Prevent untrusted data injections.">
+  <properties
+      key="Control Identifier"
+      value="SI-10(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Untrusted data injections may be prevented using a parameterized interface or output escaping (output encoding). Parameterized interfaces separate data from code so that injections of malicious or unintended data cannot change the semantics of commands being sent. Output escaping uses specified characters to inform the interpreter’s parser whether data is trusted. Prevention of untrusted data injections are with respect to the information inputs defined by the organization in the base control (SI-10)."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-6."/>
+</archimate:Requirement>

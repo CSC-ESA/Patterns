@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-16(6): Security and Privacy Attributes | Maintenance of Attribute Association"
+    id="id-44f5651337af4da08a8eaa0122516c01"
+    documentation="Require personnel to associate and maintain the association of [Assignment: organization-defined security and privacy attributes] with [Assignment: organization-defined subjects and objects] in accordance with [Assignment: organization-defined security and privacy policies].">
+  <properties
+      key="Control Identifier"
+      value="AC-16(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Maintaining attribute association requires individual users (as opposed to the system) to maintain associations of defined security and privacy attributes with subjects and objects."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-8(2): Visitor Access Records | Physical Access Records"
+    id="id-f83bb856fbf740de969f584b42021b60"
+    documentation="[Withdrawn: Incorporated into PE-2.]">
+  <properties
+      key="Control Identifier"
+      value="PE-8(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

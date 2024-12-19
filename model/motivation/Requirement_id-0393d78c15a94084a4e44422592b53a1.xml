@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(11): Access Enforcement | Restrict Access to Specific Information Types"
+    id="id-0393d78c15a94084a4e44422592b53a1"
+    documentation="Restrict access to data repositories containing [Assignment: organization-defined information types].">
+  <properties
+      key="Control Identifier"
+      value="AC-3(11)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Restricting access to specific information is intended to provide flexibility regarding access control of specific information types within a system. For example, role-based access could be employed to allow access to only a specific type of personally identifiable information within a database rather than allowing access to the database in its entirety. Other examples include restricting access to cryptographic keys, authentication information, and selected system information."/>
+  <properties
+      key="Related Controls"
+      value="CM-8, CM-12, CM-13, PM-5."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-10(4): Non-repudiation | Validate Binding of Information Reviewer Identity"
+    id="id-b94682cf6a61439db032fb52d1bb4106"
+    documentation="(a) Validate the binding of the information reviewer identity to the information at the transfer or release points prior to release or transfer between [Assignment: organization-defined security domains]; and&#xA;(b) Perform [Assignment: organization-defined actions] in the event of a validation error.">
+  <properties
+      key="Control Identifier"
+      value="AU-10(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Validating the binding of the information reviewer identity to the information at transfer or release points prevents the unauthorized modification of information between review and the transfer or release. The validation of bindings can be achieved by using cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically."/>
+  <properties
+      key="Related Controls"
+      value="AC-4, AC-16."/>
+</archimate:Requirement>

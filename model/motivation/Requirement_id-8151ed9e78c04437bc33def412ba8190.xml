@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(2): Development Process, Standards, and Tools | Security and Privacy Tracking Tools"
+    id="id-8151ed9e78c04437bc33def412ba8190"
+    documentation="Require the developer of the system, system component, or system service to select and employ security and privacy tracking tools for use during the development process.">
+  <properties
+      key="Control Identifier"
+      value="SA-15(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System development teams select and deploy security and privacy tracking tools, including vulnerability or work item tracking systems that facilitate assignment, sorting, filtering, and tracking of completed work items or tasks associated with development processes."/>
+  <properties
+      key="Related Controls"
+      value="SA-11."/>
+</archimate:Requirement>

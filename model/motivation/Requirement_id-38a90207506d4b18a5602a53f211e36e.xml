@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-16: Memory Protection"
+    id="id-38a90207506d4b18a5602a53f211e36e"
+    documentation="Implement the following controls to protect the system memory from unauthorized code execution: [Assignment: organization-defined controls].">
+  <properties
+      key="Control Identifier"
+      value="SI-16"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Some adversaries launch attacks with the intent of executing code in non-executable regions of memory or in memory locations that are prohibited. Controls employed to protect memory include data execution prevention and address space layout randomization. Data execution prevention controls can either be hardware-enforced or software-enforced with hardware enforcement providing the greater strength of mechanism."/>
+  <properties
+      key="Related Controls"
+      value="AC-25, SC-3, SI-7."/>
+</archimate:Requirement>

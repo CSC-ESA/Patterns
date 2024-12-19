@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-19(2): Access Control for Mobile Devices | Use of Personally Owned Portable Storage Devices"
+    id="id-02e0f641dda845b2819db6d1652d4f9e"
+    documentation="[Withdrawn: Incorporated into MP-7.]">
+  <properties
+      key="Control Identifier"
+      value="AC-19(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(21): System Monitoring | Probationary Periods"
+    id="id-384c5b67f528465eb70abfaff26095c5"
+    documentation="Implement the following additional monitoring of individuals during [Assignment: organization-defined probationary period]: [Assignment: organization-defined additional monitoring].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(21)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="During probationary periods, employees do not have permanent employment status within organizations. Without such status or access to information that is resident on the system, additional monitoring can help identify any potentially malicious activity or inappropriate behavior."/>
+  <properties
+      key="Related Controls"
+      value="AC-18."/>
+</archimate:Requirement>

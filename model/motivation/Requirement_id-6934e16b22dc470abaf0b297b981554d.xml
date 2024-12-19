@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(15): Information Flow Enforcement | Detection of Unsanctioned Information"
+    id="id-6934e16b22dc470abaf0b297b981554d"
+    documentation="When transferring information between different security domains, examine the information for the presence of [Assignment: organization-defined unsanctioned information] and prohibit the transfer of such information in accordance with the [Assignment: organization-defined security or privacy policy].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(15)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Unsanctioned information includes malicious code, information that is inappropriate for release from the source network, or executable code that could disrupt or harm the services or systems on the destination network."/>
+  <properties
+      key="Related Controls"
+      value="SI-3."/>
+</archimate:Requirement>

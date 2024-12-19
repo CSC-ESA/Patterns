@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-3: Information Security and Privacy Resources"
+    id="id-5c6bdb99cae34a1fbca6cb05512c731a"
+    documentation="a. Include the resources needed to implement the information security and privacy programs in capital planning and investment requests and document all exceptions to this requirement;&#xA;b. Prepare documentation required for addressing information security and privacy programs in capital planning and investment requests in accordance with applicable laws, executive orders, directives, policies, regulations, standards; and&#xA;c. Make available for expenditure, the planned information security and privacy resources.">
+  <properties
+      key="Control Identifier"
+      value="PM-3"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations consider establishing champions for information security and privacy and, as part of including the necessary resources, assign specialized expertise and resources as needed. Organizations may designate and empower an Investment Review Board or similar group to manage and provide oversight for the information security and privacy aspects of the capital planning and investment control process."/>
+  <properties
+      key="Related Controls"
+      value="PM-4, SA-2."/>
+</archimate:Requirement>

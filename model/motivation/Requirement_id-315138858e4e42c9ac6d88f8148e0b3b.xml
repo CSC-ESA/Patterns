@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(9): Boundary Protection | Restrict Threatening Outgoing Communications Traffic"
+    id="id-315138858e4e42c9ac6d88f8148e0b3b"
+    documentation="(a) Detect and deny outgoing communications traffic posing a threat to external systems; and&#xA;(b) Audit the identity of internal users associated with denied communications.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Detecting outgoing communications traffic from internal actions that may pose threats to external systems is known as extrusion detection. Extrusion detection is carried out within the system at managed interfaces. Extrusion detection includes the analysis of incoming and outgoing communications traffic while searching for indications of internal threats to the security of external systems. Internal threats to external systems include traffic indicative of denial-of-service attacks, traffic with spoofed source addresses, and traffic that contains malicious code. Organizations have criteria to determine, update, and manage identified threats related to extrusion detection."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-6, SC-5, SC-38, SC-44, SI-3, SI-4."/>
+</archimate:Requirement>

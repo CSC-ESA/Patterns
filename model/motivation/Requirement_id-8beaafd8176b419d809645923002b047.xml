@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(32): Information Flow Enforcement | Process Requirements for Information Transfer"
+    id="id-8beaafd8176b419d809645923002b047"
+    documentation="When transferring information between different security domains, the process that transfers information between filter pipelines:&#xA;(a) Does not filter message content;&#xA;(b) Validates filtering metadata;&#xA;(c) Ensures the content associated with the filtering metadata has successfully completed filtering; and&#xA;(d) Transfers the content to the destination filter pipeline.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(32)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The processes transferring information between filter pipelines have minimum complexity and functionality to provide assurance that the processes operate correctly."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

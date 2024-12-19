@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(10): Acquisition Process | Use of Approved PIV Products"
+    id="id-302e1bb329c94c4f8462271689c32eb8"
+    documentation="Employ only information technology products on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational systems.">
+  <properties
+      key="Control Identifier"
+      value="SA-4(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Products on the FIPS 201-approved products list meet NIST requirements for Personal Identity Verification (PIV) of Federal Employees and Contractors. PIV cards are used for multi-factor authentication in systems and organizations."/>
+  <properties
+      key="Related Controls"
+      value="IA-2, IA-8, PM-9."/>
+</archimate:Requirement>

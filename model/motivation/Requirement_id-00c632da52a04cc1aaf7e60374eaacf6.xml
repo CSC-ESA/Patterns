@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-26: Decoys"
+    id="id-00c632da52a04cc1aaf7e60374eaacf6"
+    documentation="Include components within organizational systems specifically designed to be the target of malicious attacks for detecting, deflecting, and analyzing such attacks.">
+  <properties
+      key="Control Identifier"
+      value="SC-26"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Decoys (i.e., honeypots, honeynets, or deception nets) are established to attract adversaries and deflect attacks away from the operational systems that support organizational mission and business functions. Use of decoys requires some supporting isolation measures to ensure that any deflected malicious code does not infect organizational systems. Depending on the specific usage of the decoy, consultation with the Office of the General Counsel before deployment may be needed."/>
+  <properties
+      key="Related Controls"
+      value="RA-5, SC-7, SC-30, SC-35, SC-44, SI-3, SI-4."/>
+</archimate:Requirement>

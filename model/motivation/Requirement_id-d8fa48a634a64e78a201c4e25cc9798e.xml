@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(17): System Monitoring | Integrated Situational Awareness"
+    id="id-d8fa48a634a64e78a201c4e25cc9798e"
+    documentation="Correlate information from monitoring physical, cyber, and supply chain activities to achieve integrated, organization-wide situational awareness.">
+  <properties
+      key="Control Identifier"
+      value="SI-4(17)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Correlating monitoring information from a more diverse set of information sources helps to achieve integrated situational awareness. Integrated situational awareness from a combination of physical, cyber, and supply chain monitoring activities enhances the capability of organizations to more quickly detect sophisticated attacks and investigate the methods and techniques employed to carry out such attacks. In contrast to SI-4(16), which correlates the various cyber monitoring information, integrated situational awareness is intended to correlate monitoring beyond the cyber domain. Correlation of monitoring information from multiple activities may help reveal attacks on organizations that are operating across multiple attack vectors."/>
+  <properties
+      key="Related Controls"
+      value="AU-16, PE-6, SR-2, SR-4, SR-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-11: Re-authentication"
+    id="id-a929392d09b6477e8342707ed41fc30e"
+    documentation="Require users to re-authenticate when [Assignment: organization-defined circumstances or situations requiring re-authentication].">
+  <properties
+      key="Control Identifier"
+      value="IA-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In addition to the re-authentication requirements associated with device locks, organizations may require re-authentication of individuals in certain situations, including when roles, authenticators or credentials change, when security categories of systems change, when the execution of privileged functions occurs, after a fixed time period, or periodically."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-11, IA-2, IA-3, IA-4, IA-8."/>
+</archimate:Requirement>

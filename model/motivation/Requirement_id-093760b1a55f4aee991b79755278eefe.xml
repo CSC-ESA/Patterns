@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-8(1): Identification and Authentication (non-organizational Users) | Acceptance of PIV Credentials from Other Agencies"
+    id="id-093760b1a55f4aee991b79755278eefe"
+    documentation="Accept and electronically verify Personal Identity Verification-compliant credentials from other federal agencies.">
+  <properties
+      key="Control Identifier"
+      value="IA-8(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Acceptance of Personal Identity Verification (PIV) credentials from other federal agencies applies to both logical and physical access control systems. PIV credentials are those credentials issued by federal agencies that conform to FIPS Publication 201 and supporting guidelines. The adequacy and reliability of PIV card issuers are addressed and authorized using SP 800-79-2."/>
+  <properties
+      key="Related Controls"
+      value="PE-3."/>
+</archimate:Requirement>

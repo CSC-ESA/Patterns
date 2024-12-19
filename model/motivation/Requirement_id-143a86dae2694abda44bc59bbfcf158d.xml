@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(13): System Monitoring | Analyze Traffic and Event Patterns"
+    id="id-143a86dae2694abda44bc59bbfcf158d"
+    documentation="(a) Analyze communications traffic and event patterns for the system;&#xA;(b) Develop profiles representing common traffic and event patterns; and&#xA;(c) Use the traffic and event profiles in tuning system-monitoring devices.">
+  <properties
+      key="Control Identifier"
+      value="SI-4(13)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Identifying and understanding common communications traffic and event patterns help organizations provide useful information to system monitoring devices to more effectively identify suspicious or anomalous traffic and events when they occur. Such information can help reduce the number of false positives and false negatives during system monitoring."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

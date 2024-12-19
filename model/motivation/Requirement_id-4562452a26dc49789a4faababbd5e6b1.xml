@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(1): Incident Handling | Automated Incident Handling Processes"
+    id="id-4562452a26dc49789a4faababbd5e6b1"
+    documentation="Support the incident handling process using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="IR-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms that support incident handling processes include online incident management systems and tools that support the collection of live response data, full network packet capture, and forensic analysis."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

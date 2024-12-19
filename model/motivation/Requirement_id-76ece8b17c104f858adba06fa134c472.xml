@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(7): Information Flow Enforcement | One-way Flow Mechanisms"
+    id="id-76ece8b17c104f858adba06fa134c472"
+    documentation="Enforce one-way information flows through hardware-based flow control mechanisms.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="One-way flow mechanisms may also be referred to as a unidirectional network, unidirectional security gateway, or data diode. One-way flow mechanisms can be used to prevent data from being exported from a higher impact or classified domain or system while permitting data from a lower impact or unclassified domain or system to be imported."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

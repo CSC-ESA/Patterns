@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-19(1): Access Control for Mobile Devices | Use of Writable and Portable Storage Devices"
+    id="id-834436b27d8b44688fd3e75ee76405be"
+    documentation="[Withdrawn: Incorporated into MP-7.]">
+  <properties
+      key="Control Identifier"
+      value="AC-19(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

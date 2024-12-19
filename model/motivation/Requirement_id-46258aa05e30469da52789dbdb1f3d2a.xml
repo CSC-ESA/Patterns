@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(17): Boundary Protection | Automated Enforcement of Protocol Formats"
+    id="id-46258aa05e30469da52789dbdb1f3d2a"
+    documentation="Enforce adherence to protocol formats.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(17)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System components that enforce protocol formats include deep packet inspection firewalls and XML gateways. The components verify adherence to protocol formats and specifications at the application layer and identify vulnerabilities that cannot be detected by devices operating at the network or transport layers."/>
+  <properties
+      key="Related Controls"
+      value="SC-4."/>
+</archimate:Requirement>

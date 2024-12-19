@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-3(2): Security Function Isolation | Access and Flow Control Functions"
+    id="id-1de35e39b8e3462285b5974e5cb20d11"
+    documentation="Isolate security functions enforcing access and information flow control from nonsecurity functions and from other security functions.">
+  <properties
+      key="Control Identifier"
+      value="SC-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Security function isolation occurs because of implementation. The functions can still be scanned and monitored. Security functions that are potentially isolated from access and flow control enforcement functions include auditing, intrusion detection, and malicious code protection functions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

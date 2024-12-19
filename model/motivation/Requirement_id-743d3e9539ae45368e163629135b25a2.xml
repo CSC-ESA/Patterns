@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-7: Risk Response"
+    id="id-743d3e9539ae45368e163629135b25a2"
+    documentation="Respond to findings from security and privacy assessments, monitoring, and audits in accordance with organizational risk tolerance.">
+  <properties
+      key="Control Identifier"
+      value="RA-7"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations have many options for responding to risk including mitigating risk by implementing new controls or strengthening existing controls, accepting risk with appropriate justification or rationale, sharing or transferring risk, or avoiding risk. The risk tolerance of the organization influences risk response decisions and actions. Risk response addresses the need to determine an appropriate response to risk before generating a plan of action and milestones entry. For example, the response may be to accept risk or reject risk, or it may be possible to mitigate the risk immediately so that a plan of action and milestones entry is not needed. However, if the risk response is to mitigate the risk, and the mitigation cannot be completed immediately, a plan of action and milestones entry is generated."/>
+  <properties
+      key="Related Controls"
+      value="CA-5, IR-9, PM-4, PM-28, RA-2, RA-3, SR-2."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-6(7): Media Sanitization | Dual Authorization"
+    id="id-b8f92cbe29ab4c3b9d701a48e0a095e3"
+    documentation="Enforce dual authorization for the sanitization of [Assignment: organization-defined system media].">
+  <properties
+      key="Control Identifier"
+      value="MP-6(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations employ dual authorization to help ensure that system media sanitization cannot occur unless two technically qualified individuals conduct the designated task. Individuals who sanitize system media possess sufficient skills and expertise to determine if the proposed sanitization reflects applicable federal and organizational standards, policies, and procedures. Dual authorization also helps to ensure that sanitization occurs as intended, protecting against errors and false claims of having performed the sanitization actions. Dual authorization may also be known as two-person control. To reduce the risk of collusion, organizations consider rotating dual authorization duties to other individuals."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, MP-2."/>
+</archimate:Requirement>

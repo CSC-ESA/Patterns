@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-18(1): Location of System Components | Facility Site"
+    id="id-909689ec98a2475daa26ac17fa397ed1"
+    documentation="[Withdrawn: Moved to PE-23.]">
+  <properties
+      key="Control Identifier"
+      value="PE-18(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

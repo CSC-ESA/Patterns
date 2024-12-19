@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(15): Incident Handling | Public Relations and Reputation Repair"
+    id="id-d58be18e9079414abd69bb74b8c6dc05"
+    documentation="(a) Manage public relations associated with an incident; and&#xA;(b) Employ measures to repair the reputation of the organization.">
+  <properties
+      key="Control Identifier"
+      value="IR-4(15)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="It is important for an organization to have a strategy in place for addressing incidents that have been brought to the attention of the general public, have cast the organization in a negative light, or have affected the organization’s constituents (e.g., partners, customers). Such publicity can be extremely harmful to the organization and affect its ability to carry out its mission and business functions. Taking proactive steps to repair the organization’s reputation is an essential aspect of reestablishing the trust and confidence of its constituents."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

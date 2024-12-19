@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-2(2): Physical Access Authorizations | Two Forms of Identification"
+    id="id-817fc4dc70f44df3a349911a82145a2b"
+    documentation="Require two forms of identification from the following forms of identification for visitor access to the facility where the system resides: [Assignment: organization-defined list of acceptable forms of identification].">
+  <properties
+      key="Control Identifier"
+      value="PE-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Acceptable forms of identification include passports, REAL ID-compliant drivers’ licenses, and Personal Identity Verification (PIV) cards. For gaining access to facilities using automated mechanisms, organizations may use PIV cards, key cards, PINs, and biometrics."/>
+  <properties
+      key="Related Controls"
+      value="IA-2, IA-4, IA-5."/>
+</archimate:Requirement>

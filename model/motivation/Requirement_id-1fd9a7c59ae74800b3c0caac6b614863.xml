@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(22): Boundary Protection | Separate Subnets for Connecting to Different Security Domains"
+    id="id-1fd9a7c59ae74800b3c0caac6b614863"
+    documentation="Implement separate network addresses to connect to systems in different security domains.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(22)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The decomposition of systems into subnetworks (i.e., subnets) helps to provide the appropriate level of protection for network connections to different security domains that contain information with different security categories or classification levels."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

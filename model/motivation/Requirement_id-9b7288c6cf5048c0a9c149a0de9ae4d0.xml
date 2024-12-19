@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-7(5): Alternate Processing Site | Equivalent Information Security Safeguards"
+    id="id-9b7288c6cf5048c0a9c149a0de9ae4d0"
+    documentation="Withdrawn: Incorporated into CP-7.]">
+  <properties
+      key="Control Identifier"
+      value="CP-7(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

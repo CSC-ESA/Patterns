@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-17: Public Key Infrastructure Certificates"
+    id="id-8a9f6c420dcb4aa596ad1bfc1873760b"
+    documentation="a. Issue public key certificates under an [Assignment: organization-defined certificate policy] or obtain public key certificates from an approved service provider; and&#xA;b. Include only approved trust anchors in trust stores or certificate stores managed by the organization.">
+  <properties
+      key="Control Identifier"
+      value="SC-17"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Public key infrastructure (PKI) certificates are certificates with visibility external to organizational systems and certificates related to the internal operations of systems, such as application-specific time services. In cryptographic systems with a hierarchical structure, a trust anchor is an authoritative source (i.e., a certificate authority) for which trust is assumed and not derived. A root certificate for a PKI system is an example of a trust anchor. A trust store or certificate store maintains a list of trusted root certificates."/>
+  <properties
+      key="Related Controls"
+      value="AU-10, IA-5, SC-12."/>
+</archimate:Requirement>

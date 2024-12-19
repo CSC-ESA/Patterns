@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-6(3): Access Agreements | Post-employment Requirements"
+    id="id-7ac35ad9f9514fe6a7fd9324878db68a"
+    documentation="(a) Notify individuals of applicable, legally binding post-employment requirements for protection of organizational information; and&#xA;(b) Require individuals to sign an acknowledgment of these requirements, if applicable, as part of granting initial access to covered information.">
+  <properties
+      key="Control Identifier"
+      value="PS-6(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations consult with the Office of the General Counsel regarding matters of post-employment requirements on terminated individuals."/>
+  <properties
+      key="Related Controls"
+      value="PS-4."/>
+</archimate:Requirement>

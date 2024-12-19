@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-2(3): Baseline Configuration | Retention of Previous Configurations"
+    id="id-48d17bd3b17448a490a55bd2f89d2712"
+    documentation="Retain [Assignment: organization-defined number] of previous versions of baseline configurations of the system to support rollback.">
+  <properties
+      key="Control Identifier"
+      value="CM-2(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Retaining previous versions of baseline configurations to support rollback include hardware, software, firmware, configuration files, configuration records, and associated documentation."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

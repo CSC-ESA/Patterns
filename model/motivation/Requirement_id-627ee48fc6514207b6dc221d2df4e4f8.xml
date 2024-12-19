@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-13: Fire Protection"
+    id="id-627ee48fc6514207b6dc221d2df4e4f8"
+    documentation="Employ and maintain fire detection and suppression systems that are supported by an independent energy source.">
+  <properties
+      key="Control Identifier"
+      value="PE-13"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The provision of fire detection and suppression systems applies primarily to organizational facilities that contain concentrations of system resources, including data centers, server rooms, and mainframe computer rooms. Fire detection and suppression systems that may require an independent energy source include sprinkler systems and smoke detectors. An independent energy source is an energy source, such as a microgrid, that is separate, or can be separated, from the energy sources providing power for the other parts of the facility."/>
+  <properties
+      key="Related Controls"
+      value="AT-3."/>
+</archimate:Requirement>

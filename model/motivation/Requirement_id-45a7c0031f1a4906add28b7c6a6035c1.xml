@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-14(1): Criticality Analysis | Critical Components with No Viable Alternative Sourcing"
+    id="id-45a7c0031f1a4906add28b7c6a6035c1"
+    documentation="[Withdrawn: Incorporated into SA-20.]">
+  <properties
+      key="Control Identifier"
+      value="SA-14(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

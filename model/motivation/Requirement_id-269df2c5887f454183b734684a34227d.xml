@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(9): Development Process, Standards, and Tools | Use of Live Data"
+    id="id-269df2c5887f454183b734684a34227d"
+    documentation="[Withdrawn: Incorporated into SA-3(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-15(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

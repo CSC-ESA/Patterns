@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-4(5): Identifier Management | Dynamic Management"
+    id="id-602e189e69694345b58702645bf3f5ff"
+    documentation="Manage individual identifiers dynamically in accordance with [Assignment: organization-defined dynamic identifier policy].">
+  <properties
+      key="Control Identifier"
+      value="IA-4(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="  In contrast to conventional approaches to identification that presume static accounts for preregistered users, many distributed systems establish identifiers at runtime for entities that were previously unknown. When identifiers are established at runtime for previously unknown entities, organizations can anticipate and provision for the dynamic establishment of identifiers. Pre-established trust relationships and mechanisms with appropriate authorities to validate credentials and related identifiers are essential."/>
+  <properties
+      key="Related Controls"
+      value="AC-16."/>
+</archimate:Requirement>

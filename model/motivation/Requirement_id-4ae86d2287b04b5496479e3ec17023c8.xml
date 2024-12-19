@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(5): Information Flow Enforcement | Embedded Data Types"
+    id="id-4ae86d2287b04b5496479e3ec17023c8"
+    documentation="Enforce [Assignment: organization-defined limitations] on embedding data types within other data types.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Embedding data types within other data types may result in reduced flow control effectiveness. Data type embedding includes inserting files as objects within other files and using compressed or archived data types that may include multiple embedded data types. Limitations on data type embedding consider the levels of embedding and prohibit levels of data type embedding that are beyond the capability of the inspection tools."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

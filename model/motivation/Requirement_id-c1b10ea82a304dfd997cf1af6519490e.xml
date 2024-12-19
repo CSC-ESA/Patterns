@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-12(1): Cryptographic Key Establishment and Management | Availability"
+    id="id-c1b10ea82a304dfd997cf1af6519490e"
+    documentation="Maintain availability of information in the event of the loss of cryptographic keys by users.">
+  <properties
+      key="Control Identifier"
+      value="SC-12(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Escrowing of encryption keys is a common practice for ensuring availability in the event of key loss. A forgotten passphrase is an example of losing a cryptographic key."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(7): Development Process, Standards, and Tools | Automated Vulnerability Analysis"
+    id="id-0163ea0b54db4c0c8effb35c41cca004"
+    documentation="Require the developer of the system, system component, or system service [Assignment: organization-defined frequency] to:&#xA;(a) Perform an automated vulnerability analysis using [Assignment: organization-defined tools];&#xA;(b) Determine the exploitation potential for discovered vulnerabilities;&#xA;(c) Determine potential risk mitigations for delivered vulnerabilities; and&#xA;(d) Deliver the outputs of the tools and results of the analysis to [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="SA-15(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated tools can be more effective at analyzing exploitable weaknesses or deficiencies in large and complex systems, prioritizing vulnerabilities by severity, and providing recommendations for risk mitigations."/>
+  <properties
+      key="Related Controls"
+      value="RA-5, SA-11."/>
+</archimate:Requirement>

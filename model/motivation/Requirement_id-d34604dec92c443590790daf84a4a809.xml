@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-4: Personnel Termination"
+    id="id-d34604dec92c443590790daf84a4a809"
+    documentation="Upon termination of individual employment:&#xA;a. Disable system access within [Assignment: organization-defined time period];&#xA;b. Terminate or revoke any authenticators and credentials associated with the individual;&#xA;c. Conduct exit interviews that include a discussion of [Assignment: organization-defined information security topics];&#xA;d. Retrieve all security-related organizational system-related property; and&#xA;e. Retain access to organizational information and systems formerly controlled by terminated individual.">
+  <properties
+      key="Control Identifier"
+      value="PS-4"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System property includes hardware authentication tokens, system administration technical manuals, keys, identification cards, and building passes. Exit interviews ensure that terminated individuals understand the security constraints imposed by being former employees and that proper accountability is achieved for system-related property. Security topics at exit interviews include reminding individuals of nondisclosure agreements and potential limitations on future employment. Exit interviews may not always be possible for some individuals, including in cases related to the unavailability of supervisors, illnesses, or job abandonment. Exit interviews are important for individuals with security clearances. The timely execution of termination actions is essential for individuals who have been terminated for cause. In certain situations, organizations consider disabling the system accounts of individuals who are being terminated prior to the individuals being notified."/>
+  <properties
+      key="Related Controls"
+      value="AC-2, IA-4, PE-2, PM-12, PS-6, PS-7."/>
+</archimate:Requirement>

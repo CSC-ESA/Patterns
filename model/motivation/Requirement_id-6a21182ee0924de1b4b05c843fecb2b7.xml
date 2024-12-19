@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AT-2(3): Literacy Training and Awareness | Social Engineering and Mining"
+    id="id-6a21182ee0924de1b4b05c843fecb2b7"
+    documentation="Provide literacy training on recognizing and reporting potential and actual instances of social engineering and social mining.">
+  <properties
+      key="Control Identifier"
+      value="AT-2(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Social engineering is an attempt to trick an individual into revealing information or taking an action that can be used to breach, compromise, or otherwise adversely impact a system. Social engineering includes phishing, pretexting, impersonation, baiting, quid pro quo, thread-jacking, social media exploitation, and tailgating. Social mining is an attempt to gather information about the organization that may be used to support future attacks. Literacy training includes information on how to communicate the concerns of employees and management regarding potential and actual instances of social engineering and data mining through organizational channels based on established policies and procedures."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

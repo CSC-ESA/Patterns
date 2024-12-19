@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-10(1): Software Usage Restrictions | Open-source Software"
+    id="id-73ccff04b83b4471b8998693cff683f1"
+    documentation="Establish the following restrictions on the use of open-source software: [Assignment: organization-defined restrictions].">
+  <properties
+      key="Control Identifier"
+      value="CM-10(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Open-source software refers to software that is available in source code form. Certain software rights normally reserved for copyright holders are routinely provided under software license agreements that permit individuals to study, change, and improve the software. From a security perspective, the major advantage of open-source software is that it provides organizations with the ability to examine the source code. In some cases, there is an online community associated with the software that inspects, tests,  updates, and reports on issues found in software on an ongoing basis. However, remediating vulnerabilities in open-source software may be problematic. There may also be licensing issues associated with open-source software, including the constraints on derivative use of such software. Open-source software that is available only in binary form may increase the level of risk in using such software."/>
+  <properties
+      key="Related Controls"
+      value="SI-7."/>
+</archimate:Requirement>

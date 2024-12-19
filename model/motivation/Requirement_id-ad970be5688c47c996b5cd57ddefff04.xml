@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-19(3): Access Control for Mobile Devices | Use of Portable Storage Devices with No Identifiable Owner"
+    id="id-ad970be5688c47c996b5cd57ddefff04"
+    documentation="[Withdrawn: Incorporated into MP-7.]">
+  <properties
+      key="Control Identifier"
+      value="AC-19(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

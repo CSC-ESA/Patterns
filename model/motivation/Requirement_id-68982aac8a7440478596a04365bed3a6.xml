@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-16(3): Cross-organizational Audit Logging | Disassociability"
+    id="id-68982aac8a7440478596a04365bed3a6"
+    documentation="Implement [Assignment: organization-defined measures] to disassociate individuals from audit information transmitted across organizational boundaries.">
+  <properties
+      key="Control Identifier"
+      value="AU-16(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Preserving identities in audit trails could have privacy ramifications, such as enabling the tracking and profiling of individuals, but may not be operationally necessary. These risks could be further amplified when transmitting information across organizational boundaries. Implementing privacy-enhancing cryptographic techniques can disassociate individuals from audit information and reduce privacy risk while maintaining accountability."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

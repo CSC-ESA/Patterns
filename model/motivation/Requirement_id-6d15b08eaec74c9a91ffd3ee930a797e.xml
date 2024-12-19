@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-9(1): Configuration Management Plan | Assignment of Responsibility"
+    id="id-6d15b08eaec74c9a91ffd3ee930a797e"
+    documentation="Assign responsibility for developing the configuration management process to organizational personnel that are not directly involved in system development.">
+  <properties
+      key="Control Identifier"
+      value="CM-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In the absence of dedicated configuration management teams assigned within organizations, system developers may be tasked with developing configuration management processes using personnel who are not directly involved in system development or system integration. This separation of duties ensures that organizations establish and maintain a sufficient degree of independence between the system development and integration processes and configuration management processes to facilitate quality control and more effective oversight."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

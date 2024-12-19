@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-4: Risk Assessment Update"
+    id="id-07f9c75ad5714b1a9e72ed2150ec1281"
+    documentation="[Withdrawn: Incorporated into RA-3.]">
+  <properties
+      key="Control Identifier"
+      value="RA-4"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

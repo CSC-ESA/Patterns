@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-9(1): Service Identification and Authentication | Information Exchange"
+    id="id-4ff1602de7f94c309ce8384c22af761c"
+    documentation="[Withdrawn: Incorporated into IA-9.]">
+  <properties
+      key="Control Identifier"
+      value="IA-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

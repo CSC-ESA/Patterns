@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(23): Boundary Protection | Disable Sender Feedback on Protocol Validation Failure"
+    id="id-4c81ee7bfd58490b9b8615f3b3234d5e"
+    documentation="Disable feedback to senders on protocol format validation failure.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(23)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Disabling feedback to senders when there is a failure in protocol validation format prevents adversaries from obtaining information that would otherwise be unavailable."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

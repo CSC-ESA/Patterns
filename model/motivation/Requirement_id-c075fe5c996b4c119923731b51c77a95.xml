@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-11: User-installed Software"
+    id="id-c075fe5c996b4c119923731b51c77a95"
+    documentation="a. Establish [Assignment: organization-defined policies] governing the installation of software by users;&#xA;b. Enforce software installation policies through the following methods: [Assignment: organization-defined methods]; and&#xA;c. Monitor policy compliance [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="CM-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="If provided the necessary privileges, users can install software in organizational systems. To maintain control over the software installed, organizations identify permitted and prohibited actions regarding software installation. Permitted software installations include updates and security patches to existing software and downloading new applications from organization-approved app stores. Prohibited software installations include software with unknown or suspect pedigrees or software that organizations consider potentially malicious. Policies selected for governing user-installed software are organization-developed or provided by some external entity. Policy enforcement methods can include procedural methods and automated methods."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AU-6, CM-2, CM-3, CM-5, CM-6, CM-7, CM-8, PL-4, SI-4, SI-7."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-7(6): Least Functionality | Confined Environments with Limited Privileges"
+    id="id-0920999e8c8a4a25aaddcacd28500bd1"
+    documentation="Require that the following user-installed software execute in a confined physical or virtual machine environment with limited privileges: [Assignment: organization-defined user-installed software].">
+  <properties
+      key="Control Identifier"
+      value="CM-7(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations identify software that may be of concern regarding its origin or potential for containing malicious code. For this type of software, user installations occur in confined environments of operation to limit or contain damage from malicious code that may be executed."/>
+  <properties
+      key="Related Controls"
+      value="CM-11, SC-44."/>
+</archimate:Requirement>

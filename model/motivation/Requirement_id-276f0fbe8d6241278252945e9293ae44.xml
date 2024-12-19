@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-23: Session Authenticity"
+    id="id-276f0fbe8d6241278252945e9293ae44"
+    documentation="Protect the authenticity of communications sessions.">
+  <properties
+      key="Control Identifier"
+      value="SC-23"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Protecting session authenticity addresses communications protection at the session level, not at the packet level. Such protection establishes grounds for confidence at both ends of communications sessions in the ongoing identities of other parties and the validity of transmitted information. Authenticity protection includes protecting against man-in-the-middle attacks, session hijacking, and the insertion of false information into sessions."/>
+  <properties
+      key="Related Controls"
+      value="AU-10, SC-8, SC-10, SC-11."/>
+</archimate:Requirement>

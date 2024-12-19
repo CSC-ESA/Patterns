@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-9(1): Tamper Resistance and Detection | Multiple Stages of System Development Life Cycle"
+    id="id-e2c68e9915d8484aa67fe87f0d0ce96a"
+    documentation="Employ anti-tamper technologies, tools, and techniques throughout the system development life cycle.">
+  <properties
+      key="Control Identifier"
+      value="SR-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The system development life cycle includes research and development, design, manufacturing, acquisition, delivery, integration, operations and maintenance, and disposal. Organizations use a combination of hardware and software techniques for tamper resistance and detection. Organizations use obfuscation and self-checking to make reverse engineering and modifications more difficult, time-consuming, and expensive for adversaries. The customization of systems and system components can make substitutions easier to detect and therefore limit damage."/>
+  <properties
+      key="Related Controls"
+      value="SA-3."/>
+</archimate:Requirement>

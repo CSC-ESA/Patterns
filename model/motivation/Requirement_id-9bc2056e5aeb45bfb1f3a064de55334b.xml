@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-15: Automated Marking"
+    id="id-9bc2056e5aeb45bfb1f3a064de55334b"
+    documentation="[Withdrawn: Incorporated into MP-3.]">
+  <properties
+      key="Control Identifier"
+      value="AC-15"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

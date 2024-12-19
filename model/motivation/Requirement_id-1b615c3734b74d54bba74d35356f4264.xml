@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PL-6: Security-related Activity Planning"
+    id="id-1b615c3734b74d54bba74d35356f4264"
+    documentation="[Withdrawn: Incorporated into PL-2.]">
+  <properties
+      key="Control Identifier"
+      value="PL-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

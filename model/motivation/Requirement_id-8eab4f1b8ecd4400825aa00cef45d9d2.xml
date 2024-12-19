@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(14): Boundary Protection | Protect Against Unauthorized Physical Connections"
+    id="id-8eab4f1b8ecd4400825aa00cef45d9d2"
+    documentation="Protect against unauthorized physical connections at [Assignment: organization-defined managed interfaces].">
+  <properties
+      key="Control Identifier"
+      value="SC-7(14)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Systems that operate at different security categories or classification levels may share common physical and environmental controls, since the systems may share space within the same facilities. In practice, it is possible that these separate systems may share common equipment rooms, wiring closets, and cable distribution paths. Protection against unauthorized physical connections can be achieved by using clearly identified and physically separated cable trays, connection frames, and patch panels for each side of managed interfaces with physical access controls that enforce limited authorized access to these items."/>
+  <properties
+      key="Related Controls"
+      value="PE-4, PE-19."/>
+</archimate:Requirement>

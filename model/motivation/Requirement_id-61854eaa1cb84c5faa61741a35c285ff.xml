@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-13(1): Fire Protection | Detection Systems — Automatic Activation and Notification"
+    id="id-61854eaa1cb84c5faa61741a35c285ff"
+    documentation="Employ fire detection systems that activate automatically and notify [Assignment: organization-defined personnel or roles] and [Assignment: organization-defined emergency responders] in the event of a fire.">
+  <properties
+      key="Control Identifier"
+      value="PE-13(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations can identify personnel, roles, and emergency responders if individuals on the notification list need to have access authorizations or clearances (e.g., to enter to facilities where access is restricted due to the classification or impact level of information within the facility). Notification mechanisms may require independent energy sources to ensure that the notification capability is not adversely affected by the fire."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

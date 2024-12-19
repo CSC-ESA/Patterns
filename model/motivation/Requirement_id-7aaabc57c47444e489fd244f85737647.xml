@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-9: Power Equipment and Cabling"
+    id="id-7aaabc57c47444e489fd244f85737647"
+    documentation="Protect power equipment and power cabling for the system from damage and destruction.">
+  <properties
+      key="Control Identifier"
+      value="PE-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations determine the types of protection necessary for the power equipment and cabling employed at different locations that are both internal and external to organizational facilities and environments of operation. Types of power equipment and cabling include internal cabling and uninterruptable power sources in offices or data centers, generators and power cabling outside of buildings, and power sources for self-contained components such as satellites, vehicles, and other deployable systems."/>
+  <properties
+      key="Related Controls"
+      value="PE-4."/>
+</archimate:Requirement>

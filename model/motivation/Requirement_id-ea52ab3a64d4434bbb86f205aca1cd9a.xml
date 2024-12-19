@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-27: Privacy Reporting"
+    id="id-ea52ab3a64d4434bbb86f205aca1cd9a"
+    documentation="a. Develop [Assignment: organization-defined privacy reports] and disseminate to:&#xA;1. [Assignment: organization-defined oversight bodies] to demonstrate accountability with statutory, regulatory, and policy privacy mandates; and&#xA;2. [Assignment: organization-defined officials] and other personnel with responsibility for monitoring privacy program compliance; and&#xA;b. Review and update privacy reports [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="PM-27"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Through internal and external reporting, organizations promote accountability and transparency in organizational privacy operations. Reporting can also help organizations to determine progress in meeting privacy compliance requirements and privacy controls, compare performance across the federal government, discover vulnerabilities, identify gaps in policy and implementation, and identify models for success. For federal agencies, privacy reports include annual senior agency official for privacy reports to OMB, reports to Congress required by Implementing Regulations of the 9/11 Commission Act, and other public reports required by law, regulation, or policy, including internal policies of organizations. The senior agency official for privacy consults with legal counsel, where appropriate, to ensure that organizations meet all applicable privacy reporting requirements."/>
+  <properties
+      key="Related Controls"
+      value="IR-9, PM-19."/>
+</archimate:Requirement>

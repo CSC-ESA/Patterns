@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-18: Mobile Code"
+    id="id-9f283910c9584e6a8cf0c779f5f58c50"
+    documentation="a. Define acceptable and unacceptable mobile code and mobile code technologies; and&#xA;b. Authorize, monitor, and control the use of mobile code within the system.">
+  <properties
+      key="Control Identifier"
+      value="SC-18"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Mobile code includes any program, application, or content that can be transmitted across a network (e.g., embedded in an email, document, or website) and executed on a remote system. Decisions regarding the use of mobile code within organizational systems are based on the potential for the code to cause damage to the systems if used maliciously. Mobile code technologies include Java applets, JavaScript, HTML5, WebGL, and VBScript. Usage restrictions and implementation guidelines apply to both the selection and use of mobile code installed on servers and mobile code downloaded and executed on individual workstations and devices, including notebook computers and smart phones. Mobile code policy and procedures address specific actions taken to prevent the development, acquisition, and introduction of unacceptable mobile code within organizational systems, including requiring mobile code to be digitally signed by a trusted source."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-12, CM-2, CM-6, SI-3."/>
+</archimate:Requirement>

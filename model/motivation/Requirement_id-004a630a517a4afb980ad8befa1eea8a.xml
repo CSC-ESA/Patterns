@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(1): Acquisition Process | Functional Properties of Controls"
+    id="id-004a630a517a4afb980ad8befa1eea8a"
+    documentation="Require the developer of the system, system component, or system service to provide a description of the functional properties of the controls to be implemented.">
+  <properties
+      key="Control Identifier"
+      value="SA-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Functional properties of security and privacy controls describe the functionality (i.e., security or privacy capability, functions, or mechanisms) visible at the interfaces of the controls and specifically exclude functionality and data structures internal to the operation of the controls."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

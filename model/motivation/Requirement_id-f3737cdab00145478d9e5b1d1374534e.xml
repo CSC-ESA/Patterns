@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-10(5): Information Input Validation | Restrict Inputs to Trusted Sources and Approved Formats"
+    id="id-f3737cdab00145478d9e5b1d1374534e"
+    documentation="Restrict the use of information inputs to [Assignment: organization-defined trusted sources] and/or [Assignment: organization-defined formats].">
+  <properties
+      key="Control Identifier"
+      value="SI-10(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Restricting the use of inputs to trusted sources and in trusted formats applies the concept of authorized or permitted software to information inputs. Specifying known trusted sources for information inputs and acceptable formats for such inputs can reduce the probability of malicious activity. The information inputs are those defined by the organization in the base control (SI-10)."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-6."/>
+</archimate:Requirement>

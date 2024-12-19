@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-8(5): Telecommunications Services | Alternate Telecommunication Service Testing"
+    id="id-dc6c7d45bdd54a0d87e72a3eed1a4012"
+    documentation="Test alternate telecommunication services [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="CP-8(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Alternate telecommunications services testing is arranged through contractual agreements with service providers. The testing may occur in parallel with normal operations to ensure that there is no degradation in organizational missions or functions."/>
+  <properties
+      key="Related Controls"
+      value="CP-3."/>
+</archimate:Requirement>

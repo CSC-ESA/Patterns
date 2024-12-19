@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(10): Account Management | Shared and Group Account Credential Change"
+    id="id-b319f1330f5742e7831b46002db527c9"
+    documentation="[Withdrawn: Incorporated into AC-2k.]">
+  <properties
+      key="Control Identifier"
+      value="AC-2(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

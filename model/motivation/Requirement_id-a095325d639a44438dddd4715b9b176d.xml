@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-3(2): Malicious Code Protection | Automatic Updates"
+    id="id-a095325d639a44438dddd4715b9b176d"
+    documentation="[Withdrawn: Incorporated into SI-3.]">
+  <properties
+      key="Control Identifier"
+      value="SI-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

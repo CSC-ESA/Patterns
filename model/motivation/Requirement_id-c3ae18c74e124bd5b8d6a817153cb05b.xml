@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-2(4): Flaw Remediation | Automated Patch Management Tools"
+    id="id-c3ae18c74e124bd5b8d6a817153cb05b"
+    documentation="Employ automated patch management tools to facilitate flaw remediation to the following system components: [Assignment: organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SI-2(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Using automated tools to support patch management helps to ensure the timeliness and completeness of system patching operations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

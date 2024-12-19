@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-18(4): Wireless Access | Restrict Configurations by Users"
+    id="id-21f705c09da94f3b818de8c0c1d43851"
+    documentation="Identify and explicitly authorize users allowed to independently configure wireless networking capabilities.">
+  <properties
+      key="Control Identifier"
+      value="AC-18(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational authorizations to allow selected users to configure wireless networking capabilities are enforced, in part, by the access enforcement mechanisms employed within organizational systems."/>
+  <properties
+      key="Related Controls"
+      value="SC-7, SC-15."/>
+</archimate:Requirement>

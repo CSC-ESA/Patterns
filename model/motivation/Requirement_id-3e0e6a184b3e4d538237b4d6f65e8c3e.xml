@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-2(5): Baseline Configuration | Authorized Software"
+    id="id-3e0e6a184b3e4d538237b4d6f65e8c3e"
+    documentation="[Withdrawn: Incorporated into CM-7(5).]">
+  <properties
+      key="Control Identifier"
+      value="CM-2(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

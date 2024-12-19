@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-14(1): Permitted Actions Without Identification or Authentication | Necessary Uses"
+    id="id-b28ed46494f34aada2dbec36c685ed3e"
+    documentation="[Withdrawn: Incorporated into AC-14.]">
+  <properties
+      key="Control Identifier"
+      value="AC-14(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

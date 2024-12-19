@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-14: Environmental Controls"
+    id="id-fa4b9df3cf464ad989a93b29976661f4"
+    documentation="a. Maintain [Selection (one or more): temperature; humidity; pressure; radiation; [Assignment: organization-defined environmental control]] levels within the facility where the system resides at [Assignment: organization-defined acceptable levels]; and&#xA;b. Monitor environmental control levels [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="PE-14"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The provision of environmental controls applies primarily to organizational facilities that contain concentrations of system resources (e.g., data centers, mainframe computer rooms, and server rooms). Insufficient environmental controls, especially in very harsh environments, can have a significant adverse impact on the availability of systems and system components that are needed to support organizational mission and business functions."/>
+  <properties
+      key="Related Controls"
+      value="AT-3, CP-2."/>
+</archimate:Requirement>

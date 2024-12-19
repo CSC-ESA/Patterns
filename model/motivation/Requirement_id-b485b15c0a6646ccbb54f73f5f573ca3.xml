@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-2: Baseline Configuration"
+    id="id-b485b15c0a6646ccbb54f73f5f573ca3"
+    documentation="a. Develop, document, and maintain under configuration control, a current baseline configuration of the system; and&#xA;b. Review and update the baseline configuration of the system:&#xA;1. [Assignment: organization-defined frequency];&#xA;2. When required due to [Assignment: organization-defined circumstances]; and&#xA;3. When system components are installed or upgraded.">
+  <properties
+      key="Control Identifier"
+      value="CM-2"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Baseline configurations for systems and system components include connectivity, operational, and communications aspects of systems. Baseline configurations are documented, formally reviewed, and agreed-upon specifications for systems or configuration items within those systems. Baseline configurations serve as a basis for future builds, releases, or changes to systems and include security and privacy control implementations, operational procedures, information about system components, network topology, and logical placement of components in the system architecture. Maintaining baseline configurations requires creating new baselines as organizational systems change over time. Baseline configurations of systems reflect the current enterprise architecture."/>
+  <properties
+      key="Related Controls"
+      value="AC-19, AU-6, CA-9, CM-1, CM-3, CM-5, CM-6, CM-8, CM-9, CP-9, CP-10, CP-12, MA-2, PL-8, PM-5, SA-8, SA-10, SA-15, SC-18."/>
+</archimate:Requirement>

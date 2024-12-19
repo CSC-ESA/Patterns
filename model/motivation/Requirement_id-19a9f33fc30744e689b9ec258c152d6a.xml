@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(26): Information Flow Enforcement | Audit Filtering Actions"
+    id="id-19a9f33fc30744e689b9ec258c152d6a"
+    documentation="When transferring information between different security domains, record and audit content filtering actions and results for the information being filtered.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(26)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Content filtering is the process of inspecting information as it traverses a cross-domain solution and determines if the information meets a predefined policy. Content filtering actions and the results of filtering actions are recorded for individual messages to ensure that the correct filter actions were applied. Content filter reports are used to assist in troubleshooting actions by, for example, determining why message content was modified and/or why it failed the filtering process. Audit events are defined in AU-2. Audit records are generated in AU-12."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-3, AU-12."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-13(1): Predictable Failure Prevention | Transferring Component Responsibilities"
+    id="id-b3d626c967fb425094837c52cf6647b8"
+    documentation="Take system components out of service by transferring component responsibilities to substitute components no later than [Assignment: organization-defined fraction or percentage] of mean time to failure.">
+  <properties
+      key="Control Identifier"
+      value="SI-13(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Transferring primary system component responsibilities to other substitute components prior to primary component failure is important to reduce the risk of degraded or debilitated mission or business functions. Making such transfers based on a percentage of mean time to failure allows organizations to be proactive based on their risk tolerance. However, the premature replacement of system components can result in the increased cost of system operations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

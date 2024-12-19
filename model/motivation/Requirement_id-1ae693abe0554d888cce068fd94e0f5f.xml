@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-36: Distributed Processing and Storage"
+    id="id-1ae693abe0554d888cce068fd94e0f5f"
+    documentation="Distribute the following processing and storage components across multiple [Selection: physical locations; logical domains]: [Assignment: organization-defined processing and storage components].">
+  <properties
+      key="Control Identifier"
+      value="SC-36"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Distributing processing and storage across multiple physical locations or logical domains provides a degree of redundancy or overlap for organizations. The redundancy and overlap increase the work factor of adversaries to adversely impact organizational operations, assets, and individuals. The use of distributed processing and storage does not assume a single primary processing or storage location. Therefore, it allows for parallel processing and storage."/>
+  <properties
+      key="Related Controls"
+      value="CP-6, CP-7, PL-8, SC-32."/>
+</archimate:Requirement>

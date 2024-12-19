@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-7(9): Least Functionality | Prohibiting The Use of Unauthorized Hardware"
+    id="id-ce8092fa22df4eb18bde3d8312140b9b"
+    documentation="(a) Identify [Assignment: organization-defined hardware components authorized for system use];&#xA;(b) Prohibit the use or connection of unauthorized hardware components; &#xA;(c) Review and update the list of authorized hardware components [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="CM-7(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Hardware components provide the foundation for organizational systems and the platform for the execution of authorized software programs. Managing the inventory of hardware components and controlling which hardware components are permitted to be installed or connected to organizational systems is essential in order to provide adequate security."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

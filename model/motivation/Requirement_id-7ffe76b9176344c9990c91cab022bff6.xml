@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(4): System Monitoring | Inbound and Outbound Communications Traffic"
+    id="id-7ffe76b9176344c9990c91cab022bff6"
+    documentation="(a) Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic;&#xA;(b) Monitor inbound and outbound communications traffic [Assignment: organization-defined frequency] for [Assignment: organization-defined unusual or unauthorized activities or conditions].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Unusual or unauthorized activities or conditions related to system inbound and outbound communications traffic includes internal traffic that indicates the presence of malicious code or unauthorized use of legitimate code or credentials within organizational systems or propagating among system components, signaling to external systems, and the unauthorized exporting of information. Evidence of malicious code or unauthorized use of legitimate code or credentials is used to identify potentially compromised systems or system components."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-15(3): Collaborative Computing Devices and Applications | Disabling and Removal in Secure Work Areas"
+    id="id-7d9f88e478b8483099fa29f4e1154703"
+    documentation="Disable or remove collaborative computing devices and applications from [Assignment: organization-defined systems or system components] in [Assignment: organization-defined secure work areas].">
+  <properties
+      key="Control Identifier"
+      value="SC-15(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Failing to disable or remove collaborative computing devices and applications from systems or system components can result in compromises of information, including eavesdropping on conversations. A Sensitive Compartmented Information Facility (SCIF) is an example of a secure work area."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

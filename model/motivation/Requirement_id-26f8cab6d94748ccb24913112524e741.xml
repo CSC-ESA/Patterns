@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-19(5): Access Control for Mobile Devices | Full Device or Container-based Encryption"
+    id="id-26f8cab6d94748ccb24913112524e741"
+    documentation="Employ [Selection: full-device encryption; container-based encryption] to protect the confidentiality and integrity of information on [Assignment: organization-defined mobile devices].">
+  <properties
+      key="Control Identifier"
+      value="AC-19(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Container-based encryption provides a more fine-grained approach to data and information encryption on mobile devices, including encrypting selected data structures such as files, records, or fields."/>
+  <properties
+      key="Related Controls"
+      value="SC-12, SC-13, SC-28."/>
+</archimate:Requirement>

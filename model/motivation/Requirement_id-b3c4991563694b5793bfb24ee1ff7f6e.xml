@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-40(3): Wireless Link Protection | Imitative or Manipulative Communications Deception"
+    id="id-b3c4991563694b5793bfb24ee1ff7f6e"
+    documentation="Implement cryptographic mechanisms to identify and reject wireless transmissions that are deliberate attempts to achieve imitative or manipulative communications deception based on signal parameters.">
+  <properties
+      key="Control Identifier"
+      value="SC-40(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The implementation of cryptographic mechanisms to identify and reject imitative or manipulative communications ensures that the signal parameters of wireless transmissions are not predictable by unauthorized individuals. Such unpredictability reduces the probability of imitative or manipulative communications deception based on signal parameters alone."/>
+  <properties
+      key="Related Controls"
+      value="SC-12, SC-13, SI-4."/>
+</archimate:Requirement>

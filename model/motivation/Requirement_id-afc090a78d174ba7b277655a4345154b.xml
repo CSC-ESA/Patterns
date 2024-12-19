@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-3(1): Physical Access Control | System Access"
+    id="id-afc090a78d174ba7b277655a4345154b"
+    documentation="Enforce physical access authorizations to the system in addition to the physical access controls for the facility at [Assignment: organization-defined physical spaces containing one or more components of the system].">
+  <properties
+      key="Control Identifier"
+      value="PE-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Control of physical access to the system provides additional physical security for those areas within facilities where there is a concentration of system components."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

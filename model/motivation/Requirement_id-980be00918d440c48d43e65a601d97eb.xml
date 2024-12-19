@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-7(14): Software, Firmware, and Information Integrity | Binary or Machine Executable Code"
+    id="id-980be00918d440c48d43e65a601d97eb"
+    documentation="[Withdrawn: Moved to CM-7(8).]">
+  <properties
+      key="Control Identifier"
+      value="SI-7(14)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

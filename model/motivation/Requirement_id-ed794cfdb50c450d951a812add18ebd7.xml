@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-9(2): Service Identification and Authentication | Transmission of Decisions"
+    id="id-ed794cfdb50c450d951a812add18ebd7"
+    documentation="[Withdrawn: Incorporated into IA-9.]">
+  <properties
+      key="Control Identifier"
+      value="IA-9(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

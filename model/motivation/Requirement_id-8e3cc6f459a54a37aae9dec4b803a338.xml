@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-13(4): Fire Protection | Inspections"
+    id="id-8e3cc6f459a54a37aae9dec4b803a338"
+    documentation="Ensure that the facility undergoes [Assignment: organization-defined frequency] fire protection inspections by authorized and qualified inspectors and identified deficiencies are resolved within [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="PE-13(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Authorized and qualified personnel within the jurisdiction of the organization include state, county, and city fire inspectors and fire marshals. Organizations provide escorts during inspections in situations where the systems that reside within the facilities contain sensitive information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

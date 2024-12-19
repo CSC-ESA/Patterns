@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-2: Physical Access Authorizations"
+    id="id-8f88fc2248134b719b774824db6e51ce"
+    documentation="a. Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides;&#xA;b. Issue authorization credentials for facility access;&#xA;c. Review the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and&#xA;d. Remove individuals from the facility access list when access is no longer required.">
+  <properties
+      key="Control Identifier"
+      value="PE-2"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Physical access authorizations apply to employees and visitors. Individuals with permanent physical access authorization credentials are not considered visitors. Authorization credentials include ID badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines. Physical access authorizations may not be necessary to access certain areas within facilities that are designated as publicly accessible."/>
+  <properties
+      key="Related Controls"
+      value="AT-3, AU-9, IA-4, MA-5, MP-2, PE-3, PE-4, PE-5, PE-8, PM-12, PS-3, PS-4, PS-5, PS-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-20(1): Use of External Systems | Limits on Authorized Use"
+    id="id-5a7221220f8b4fbdb9bf99fbcd1777f5"
+    documentation="Permit authorized individuals to use an external system to access the system or to process, store, or transmit organization-controlled information only after:&#xA;(a) Verification of the implementation of controls on the external system as specified in the organization’s security and privacy policies and security and privacy plans; or&#xA;(b) Retention of approved system connection or processing agreements with the organizational entity hosting the external system.">
+  <properties
+      key="Control Identifier"
+      value="AC-20(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Limiting authorized use recognizes circumstances where individuals using external systems may need to access organizational systems. Organizations need assurance that the external systems contain the necessary controls so as not to compromise, damage, or otherwise harm organizational systems. Verification that the required controls have been implemented can be achieved by external, independent assessments, attestations, or other means, depending on the confidence level required by organizations."/>
+  <properties
+      key="Related Controls"
+      value="CA-2."/>
+</archimate:Requirement>

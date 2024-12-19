@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-17(3): Remote Access | Managed Access Control Points"
+    id="id-25ffd95ba1a747339a4e5b3a1b1b947c"
+    documentation="Route remote accesses through authorized and managed network access control points.">
+  <properties
+      key="Control Identifier"
+      value="AC-17(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations consider the Trusted Internet Connections (TIC) initiative DHS TIC requirements for external network connections since limiting the number of access control points for remote access reduces attack surfaces."/>
+  <properties
+      key="Related Controls"
+      value="SC-7."/>
+</archimate:Requirement>

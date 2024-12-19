@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(29): Information Flow Enforcement | Filter Orchestration Engines"
+    id="id-0aa0afbbcb784830a8d107dcbb3b6f69"
+    documentation="When transferring information between different security domains, employ content filter orchestration engines to ensure that:&#xA;(a) Content filtering mechanisms successfully complete execution without errors; and&#xA;(b) Content filtering actions occur in the correct order and comply with [Assignment: organization-defined policy].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(29)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Content filtering is the process of inspecting information as it traverses a cross-domain solution and determines if the information meets a predefined security policy. An orchestration engine coordinates the sequencing of activities (manual and automated) in a content filtering process. Errors are defined as either anomalous actions or unexpected termination of the content filter process. This is not the same as a filter failing content due to non-compliance with policy. Content filter reports are a commonly used mechanism to ensure that expected filtering actions are completed successfully."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

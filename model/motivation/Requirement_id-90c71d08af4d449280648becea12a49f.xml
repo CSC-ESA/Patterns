@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-19(4): Component Authenticity | Anti-counterfeit Scanning"
+    id="id-90c71d08af4d449280648becea12a49f"
+    documentation="[Withdrawn: Moved to SR-11(3).]">
+  <properties
+      key="Control Identifier"
+      value="SA-19(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-5: Response to Audit Logging Process Failures"
+    id="id-67f34288b9bd42b8947485bc7cca0d5b"
+    documentation="a. Alert [Assignment: organization-defined personnel or roles] within [Assignment: organization-defined time period] in the event of an audit logging process failure; and&#xA;b. Take the following additional actions: [Assignment: organization-defined additional actions].">
+  <properties
+      key="Control Identifier"
+      value="AU-5"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Audit logging process failures include software and hardware errors, failures in audit log capturing mechanisms, and reaching or exceeding audit log storage capacity. Organization-defined actions include overwriting oldest audit records, shutting down the system, and stopping the generation of audit records. Organizations may choose to define additional actions for audit logging process failures based on the type of failure, the location of the failure, the severity of the failure, or a combination of such factors. When the audit logging process failure is related to storage, the response is carried out for the audit log storage repository (i.e., the distinct system component where the audit logs are stored), the system on which the audit logs reside, the total audit log storage capacity of the organization (i.e., all audit log storage repositories combined), or all three. Organizations may decide to take no additional actions after alerting designated roles or personnel."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-4, AU-7, AU-9, AU-11, AU-12, AU-14, SI-4, SI-12."/>
+</archimate:Requirement>

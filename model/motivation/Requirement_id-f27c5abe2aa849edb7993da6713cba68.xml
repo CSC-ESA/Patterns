@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-6(6): Least Privilege | Privileged Access by Non-organizational Users"
+    id="id-f27c5abe2aa849edb7993da6713cba68"
+    documentation="Prohibit privileged access to the system by non-organizational users.">
+  <properties
+      key="Control Identifier"
+      value="AC-6(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="An organizational user is an employee or an individual considered by the organization to have the equivalent status of an employee. Organizational users include contractors, guest researchers, or individuals detailed from other organizations. A non-organizational user is a user who is not an organizational user. Policies and procedures for granting equivalent status of employees to individuals include a need-to-know, citizenship, and the relationship to the organization."/>
+  <properties
+      key="Related Controls"
+      value="AC-18, AC-19, IA-2, IA-8."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-19(2): Component Authenticity | Configuration Control for Component Service and Repair"
+    id="id-ab967f1ddadd4348aead557065e3a90c"
+    documentation="[Withdrawn: Moved to SR-11(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-19(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12: Supply Chain Protection"
+    id="id-9bf128885c774dddb48ced34bce4106c"
+    documentation="[Withdrawn: Incorporated into SR Family.]">
+  <properties
+      key="Control Identifier"
+      value="SA-12"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

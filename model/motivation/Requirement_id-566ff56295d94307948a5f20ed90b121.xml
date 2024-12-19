@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-7(4): Least Functionality | Unauthorized Software — Deny-by-exception"
+    id="id-566ff56295d94307948a5f20ed90b121"
+    documentation="(a) Identify [Assignment: organization-defined software programs not authorized to execute on the system];&#xA;(b) Employ an allow-all, deny-by-exception policy to prohibit the execution of unauthorized software programs on the system; and&#xA;(c) Review and update the list of unauthorized software programs [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="CM-7(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Unauthorized software programs can be limited to specific versions or from a specific source. The concept of prohibiting the execution of unauthorized software may also be applied to user actions, system ports and protocols, IP addresses/ranges, websites, and MAC addresses."/>
+  <properties
+      key="Related Controls"
+      value="CM-6, CM-8, CM-10, PL-9, PM-5."/>
+</archimate:Requirement>

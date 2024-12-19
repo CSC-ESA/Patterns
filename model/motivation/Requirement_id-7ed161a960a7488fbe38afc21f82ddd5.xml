@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-12(5): Cryptographic Key Establishment and Management | PKI Certificates / Hardware Tokens"
+    id="id-7ed161a960a7488fbe38afc21f82ddd5"
+    documentation="[Withdrawn: Incorporated into SC-12(3).]">
+  <properties
+      key="Control Identifier"
+      value="SC-12(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-10: Integrated Information Security Analysis Team"
+    id="id-a9250d096a2046dc8ad68135a19fd0a2"
+    documentation="[Withdrawn: Moved to IR-4(11).]">
+  <properties
+      key="Control Identifier"
+      value="IR-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-8(3): Visitor Access Records | Limit Personally Identifiable Information Elements"
+    id="id-7c5d85e418dc4380ac030c5359c86551"
+    documentation="Limit personally identifiable information contained in visitor access records to the following elements identified in the privacy risk assessment: [Assignment: organization-defined elements].">
+  <properties
+      key="Control Identifier"
+      value="PE-8(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations may have requirements that specify the contents of visitor access records. Limiting personally identifiable information in visitor access records when such information is not needed for operational purposes helps reduce the level of privacy risk created by a system."/>
+  <properties
+      key="Related Controls"
+      value="RA-3, SA-8."/>
+</archimate:Requirement>

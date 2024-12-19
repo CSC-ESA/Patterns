@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-17: Fail-safe Procedures"
+    id="id-f32fbf0f89f641b1b3f80f7e11038bef"
+    documentation="Implement the indicated fail-safe procedures when the indicated failures occur: [Assignment: organization-defined list of failure conditions and associated fail-safe procedures].">
+  <properties
+      key="Control Identifier"
+      value="SI-17"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Failure conditions include the loss of communications among critical system components or between system components and operational facilities. Fail-safe procedures include alerting operator personnel and providing specific instructions on subsequent steps to take. Subsequent steps may include doing nothing, reestablishing system settings, shutting down processes, restarting the system, or contacting designated organizational personnel."/>
+  <properties
+      key="Related Controls"
+      value="CP-12, CP-13, SC-24, SI-13."/>
+</archimate:Requirement>

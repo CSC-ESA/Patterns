@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-6(2): Incident Reporting | Vulnerabilities Related to Incidents"
+    id="id-5d954796c350411184d9ec349dbf899c"
+    documentation="Report system vulnerabilities associated with reported incidents to [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="IR-6(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Reported incidents that uncover system vulnerabilities are analyzed by organizational personnel including system owners, mission and business owners, senior agency information security officers, senior agency officials for privacy, authorizing officials, and the risk executive (function). The analysis can serve to prioritize and initiate mitigation actions to address the discovered system vulnerability."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-6: Measures of Performance"
+    id="id-e966538af4114230a0e88a6a556760c9"
+    documentation="Develop, monitor, and report on the results of information security and privacy measures of performance.">
+  <properties
+      key="Control Identifier"
+      value="PM-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Measures of performance are outcome-based metrics used by an organization to measure the effectiveness or efficiency of the information security and privacy programs and the controls employed in support of the program. To facilitate security and privacy risk management, organizations consider aligning measures of performance with the organizational risk tolerance as defined in the risk management strategy."/>
+  <properties
+      key="Related Controls"
+      value="CA-7, PM-9."/>
+</archimate:Requirement>

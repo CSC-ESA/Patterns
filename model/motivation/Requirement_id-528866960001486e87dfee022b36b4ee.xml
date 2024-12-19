@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-21(2): Information Sharing | Information Search and Retrieval"
+    id="id-528866960001486e87dfee022b36b4ee"
+    documentation="Implement information search and retrieval services that enforce [Assignment: organization-defined information sharing restrictions].">
+  <properties
+      key="Control Identifier"
+      value="AC-21(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information search and retrieval services identify information system resources relevant to an information need."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

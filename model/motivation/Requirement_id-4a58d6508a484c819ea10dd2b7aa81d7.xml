@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(7): Acquisition Process | NIAP-approved Protection Profiles"
+    id="id-4a58d6508a484c819ea10dd2b7aa81d7"
+    documentation="(a) Limit the use of commercially provided information assurance and information assurance-enabled information technology products to those products that have been successfully evaluated against a National Information Assurance partnership (NIAP)-approved Protection Profile for a specific technology type, if such a profile exists; and&#xA;(b) Require, if no NIAP-approved Protection Profile exists for a specific technology type but a commercially provided information technology product relies on cryptographic functionality to enforce its security policy, that the cryptographic module is FIPS-validated or NSA-approved.">
+  <properties
+      key="Control Identifier"
+      value="SA-4(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="See NIAP CCEVS for additional information on NIAP. See NIST CMVP for additional information on FIPS-validated cryptographic modules."/>
+  <properties
+      key="Related Controls"
+      value="IA-7, SC-12, SC-13."/>
+</archimate:Requirement>

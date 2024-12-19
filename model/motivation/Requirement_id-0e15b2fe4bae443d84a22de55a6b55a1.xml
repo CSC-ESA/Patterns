@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-2(8): Identification and Authentication (organizational Users) | Access to Accounts — Replay Resistant"
+    id="id-0e15b2fe4bae443d84a22de55a6b55a1"
+    documentation="Implement replay-resistant authentication mechanisms for access to [Selection (one or more): privileged accounts; non-privileged accounts].">
+  <properties
+      key="Control Identifier"
+      value="IA-2(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Authentication processes resist replay attacks if it is impractical to achieve successful authentications by replaying previous authentication messages. Replay-resistant techniques include protocols that use nonces or challenges such as time synchronous or cryptographic authenticators."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

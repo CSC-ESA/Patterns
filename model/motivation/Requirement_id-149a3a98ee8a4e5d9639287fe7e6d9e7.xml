@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(5): Access Enforcement | Security-relevant Information"
+    id="id-149a3a98ee8a4e5d9639287fe7e6d9e7"
+    documentation="Prevent access to [Assignment: organization-defined security-relevant information] except during secure, non-operable system states.">
+  <properties
+      key="Control Identifier"
+      value="AC-3(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Security-relevant information is information within systems that can potentially impact the operation of security functions or the provision of security services in a manner that could result in failure to enforce system security and privacy policies or maintain the separation of code and data. Security-relevant information includes access control lists, filtering rules for routers or firewalls, configuration parameters for security services, and cryptographic key management information. Secure, non-operable system states include the times in which systems are not performing mission or business-related processing, such as when the system is offline for maintenance, boot-up, troubleshooting, or shut down."/>
+  <properties
+      key="Related Controls"
+      value="CM-6, SC-39."/>
+</archimate:Requirement>

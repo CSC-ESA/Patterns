@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-6(9): Least Privilege | Log Use of Privileged Functions"
+    id="id-289a8308bee5463a999188c2014c0556"
+    documentation="Log the execution of privileged functions.">
+  <properties
+      key="Control Identifier"
+      value="AC-6(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The misuse of privileged functions, either intentionally or unintentionally by authorized users or by unauthorized external entities that have compromised system accounts, is a serious and ongoing concern and can have significant adverse impacts on organizations. Logging and analyzing the use of privileged functions is one way to detect such misuse and, in doing so, help mitigate the risk from insider threats and the advanced persistent threat."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-3, AU-12."/>
+</archimate:Requirement>

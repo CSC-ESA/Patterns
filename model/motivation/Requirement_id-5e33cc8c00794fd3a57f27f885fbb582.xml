@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(20): System Monitoring | Privileged Users"
+    id="id-5e33cc8c00794fd3a57f27f885fbb582"
+    documentation="Implement the following additional monitoring of privileged users: [Assignment: organization-defined additional monitoring].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(20)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Privileged users have access to more sensitive information, including security-related information, than the general user population. Access to such information means that privileged users can potentially do greater damage to systems and organizations than non-privileged users. Therefore, implementing additional monitoring on privileged users helps to ensure that organizations can identify malicious activity at the earliest possible time and take appropriate actions."/>
+  <properties
+      key="Related Controls"
+      value="AC-18."/>
+</archimate:Requirement>

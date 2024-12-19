@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PM-20(1): Dissemination of Privacy Program Information | Privacy Policies on Websites, Applications, and Digital Services"
+    id="id-b23fa391af294c6c9a9fdb43755797f3"
+    documentation="Develop and post privacy policies on all external-facing websites, mobile applications, and other digital services, that:&#xA;(a) Are written in plain language and organized in a way that is easy to understand and navigate;&#xA;(b) Provide information needed by the public to make an informed decision about whether and how to interact with the organization; and&#xA;(c) Are updated whenever the organization makes a substantive change to the practices it describes and includes a time/date stamp to inform the public of the date of the most recent changes.">
+  <properties
+      key="Control Identifier"
+      value="PM-20(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations post privacy policies on all external-facing websites, mobile applications, and other digital services. Organizations post a link to the relevant privacy policy on any known, major entry points to the website, application, or digital service. In addition, organizations provide a link to the privacy policy on any webpage that collects personally identifiable information. Organizations may be subject to applicable laws, executive orders, directives, regulations, or policies that require the provision of specific information to the public. Organizational personnel consult with the senior agency official for privacy and legal counsel regarding such requirements."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-10(4): System Recovery and Reconstitution | Restore Within Time Period"
+    id="id-e8b43f7cad9e44db9e9dbf85b83525e3"
+    documentation="Provide the capability to restore system components within [Assignment: organization-defined restoration time periods] from configuration-controlled and integrity-protected information representing a known, operational state for the components.">
+  <properties
+      key="Control Identifier"
+      value="CP-10(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Restoration of system components includes reimaging, which restores the components to known, operational states."/>
+  <properties
+      key="Related Controls"
+      value="CM-2, CM-6."/>
+</archimate:Requirement>

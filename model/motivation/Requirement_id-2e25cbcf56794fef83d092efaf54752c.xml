@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(4): Account Management | Automated Audit Actions"
+    id="id-2e25cbcf56794fef83d092efaf54752c"
+    documentation="Automatically audit account creation, modification, enabling, disabling, and removal actions.">
+  <properties
+      key="Control Identifier"
+      value="AC-2(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Account management audit records are defined in accordance with AU-2 and reviewed, analyzed, and reported in accordance with AU-6."/>
+  <properties
+      key="Related Controls"
+      value="AU-2, AU-6."/>
+</archimate:Requirement>

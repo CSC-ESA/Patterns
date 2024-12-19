@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-16(3): Transmission of Security and Privacy Attributes | Cryptographic Binding"
+    id="id-74a7cfd198754b9b999f8452ed1105df"
+    documentation="Implement [Assignment: organization-defined mechanisms or techniques] to bind security and privacy attributes to transmitted information.">
+  <properties
+      key="Control Identifier"
+      value="SC-16(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Cryptographic mechanisms and techniques can provide strong security and privacy attribute binding to transmitted information to help ensure the integrity of such information."/>
+  <properties
+      key="Related Controls"
+      value="AC-16, SC-12, SC-13."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-3(5): Configuration Change Control | Automated Security Response"
+    id="id-70a99220714e497bb2ac01d20444662a"
+    documentation="Implement the following security responses automatically if baseline configurations are changed in an unauthorized manner: [Assignment: organization-defined security responses].">
+  <properties
+      key="Control Identifier"
+      value="CM-3(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated security responses include halting selected system functions, halting system processing, and issuing alerts or notifications to organizational personnel when there is an unauthorized modification of a configuration item."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

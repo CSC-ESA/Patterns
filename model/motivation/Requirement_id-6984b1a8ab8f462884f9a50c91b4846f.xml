@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CA-6(1): Authorization | Joint Authorization — Intra-organization"
+    id="id-6984b1a8ab8f462884f9a50c91b4846f"
+    documentation="Employ a joint authorization process for the system that includes multiple authorizing officials from the same organization conducting the authorization.">
+  <properties
+      key="Control Identifier"
+      value="CA-6(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Assigning multiple authorizing officials from the same organization to serve as co-authorizing officials for the system increases the level of independence in the risk-based decision-making process. It also implements the concepts of separation of duties and dual authorization as applied to the system authorization process. The intra-organization joint authorization process is most relevant for connected systems, shared systems, and systems with multiple information owners."/>
+  <properties
+      key="Related Controls"
+      value="AC-6."/>
+</archimate:Requirement>

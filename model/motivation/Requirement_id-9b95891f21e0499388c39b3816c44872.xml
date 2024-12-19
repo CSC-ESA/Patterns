@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-3(1): Device Identification and Authentication | Cryptographic Bidirectional Authentication"
+    id="id-9b95891f21e0499388c39b3816c44872"
+    documentation="Authenticate [Assignment: organization-defined devices and/or types of devices] before establishing [Selection (one or more): local; remote; network] connection using bidirectional authentication that is cryptographically based.">
+  <properties
+      key="Control Identifier"
+      value="IA-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A local connection is a connection with a device that communicates without the use of a network. A network connection is a connection with a device that communicates through a network. A remote connection is a connection with a device that communicates through an external network. Bidirectional authentication provides stronger protection to validate the identity of other devices for connections that are of greater risk."/>
+  <properties
+      key="Related Controls"
+      value="SC-8, SC-12, SC-13."/>
+</archimate:Requirement>

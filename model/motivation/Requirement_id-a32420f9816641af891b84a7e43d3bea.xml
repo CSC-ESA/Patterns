@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-7: Specific Categories of Personally Identifiable Information"
+    id="id-a32420f9816641af891b84a7e43d3bea"
+    documentation="Apply [Assignment: organization-defined processing conditions] for specific categories of personally identifiable information.">
+  <properties
+      key="Control Identifier"
+      value="PT-7"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations apply any conditions or protections that may be necessary for specific categories of personally identifiable information. These conditions may be required by laws, executive orders, directives, regulations, policies, standards, or guidelines. The requirements may also come from the results of privacy risk assessments that factor in contextual changes that may result in an organizational determination that a particular category of personally identifiable information is particularly sensitive or raises particular privacy risks. Organizations consult with the senior agency official for privacy and legal counsel regarding any protections that may be necessary."/>
+  <properties
+      key="Related Controls"
+      value="IR-9, PT-2, PT-3, RA-3."/>
+</archimate:Requirement>

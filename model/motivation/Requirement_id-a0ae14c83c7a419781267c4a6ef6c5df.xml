@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-11(1): Device Lock | Pattern-hiding Displays"
+    id="id-a0ae14c83c7a419781267c4a6ef6c5df"
+    documentation="Conceal, via the device lock, information previously visible on the display with a publicly viewable image.">
+  <properties
+      key="Control Identifier"
+      value="AC-11(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The pattern-hiding display can include static or dynamic images, such as patterns used with screen savers, photographic images, solid colors, clock, battery life indicator, or a blank screen with the caveat that controlled unclassified information is not displayed."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

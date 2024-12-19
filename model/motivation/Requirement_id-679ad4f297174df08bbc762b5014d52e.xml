@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(2): Information Flow Enforcement | Processing Domains"
+    id="id-679ad4f297174df08bbc762b5014d52e"
+    documentation="Use protected processing domains to enforce [Assignment: organization-defined information flow control policies] as a basis for flow control decisions.">
+  <properties
+      key="Control Identifier"
+      value="AC-4(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Protected processing domains within systems are processing spaces that have controlled interactions with other processing spaces, enabling control of information flows between these spaces and to/from information objects. A protected processing domain can be provided, for example, by implementing domain and type enforcement. In domain and type enforcement, system processes are assigned to domains, information is identified by types, and information flows are controlled based on allowed information accesses (i.e., determined by domain and type), allowed signaling among domains, and allowed process transitions to other domains."/>
+  <properties
+      key="Related Controls"
+      value="SC-39."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(12): Boundary Protection | Host-based Protection"
+    id="id-d3488c278a414fe5bbdfc836c184e48d"
+    documentation="Implement [Assignment: organization-defined host-based boundary protection mechanisms] at [Assignment: organization-defined system components].">
+  <properties
+      key="Control Identifier"
+      value="SC-7(12)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Host-based boundary protection mechanisms include host-based firewalls. System components that employ host-based boundary protection mechanisms include servers, workstations, notebook computers, and mobile devices."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

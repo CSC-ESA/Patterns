@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(5): Boundary Protection | Deny by Default — Allow by Exception"
+    id="id-854da38930c44cc3975da5aa40ca16bc"
+    documentation="Deny network communications traffic by default and allow network communications traffic by exception [Selection (one or more): at managed interfaces; for [Assignment: organization-defined systems]].">
+  <properties
+      key="Control Identifier"
+      value="SC-7(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Denying by default and allowing by exception applies to inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those system connections that are essential and approved are allowed. Deny by default, allow by exception also applies to a system that is connected to an external system."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

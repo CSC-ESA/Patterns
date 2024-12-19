@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-5(2): Response to Audit Logging Process Failures | Real-time Alerts"
+    id="id-e58d5f5c6fb6434aa472478f2e7ecaa7"
+    documentation="Provide an alert within [Assignment: organization-defined real-time period] to [Assignment: organization-defined personnel, roles, and/or locations] when the following audit failure events occur: [Assignment: organization-defined audit logging failure events requiring real-time alerts].">
+  <properties
+      key="Control Identifier"
+      value="AU-5(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Alerts provide organizations with urgent messages. Real-time alerts provide these messages at information technology speed (i.e., the time from event detection to alert occurs in seconds or less)."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

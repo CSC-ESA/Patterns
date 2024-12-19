@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-6: Alternate Storage Site"
+    id="id-561978b6b7a34cb2b74e519691795ae7"
+    documentation="a. Establish an alternate storage site, including necessary agreements to permit the storage and retrieval of system backup information; and&#xA;b. Ensure that the alternate storage site provides controls equivalent to that of the primary site.">
+  <properties
+      key="Control Identifier"
+      value="CP-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Alternate storage sites are geographically distinct from primary storage sites and maintain duplicate copies of information and data if the primary storage site is not available. Similarly, alternate processing sites provide processing capability if the primary processing site is not available. Geographically distributed architectures that support contingency requirements may be considered alternate storage sites. Items covered by alternate storage site agreements include environmental conditions at the alternate sites, access rules for systems and facilities, physical and environmental protection requirements, and coordination of delivery and retrieval of backup media. Alternate storage sites reflect the requirements in contingency plans so that organizations can maintain essential mission and business functions despite compromise, failure, or disruption in organizational systems."/>
+  <properties
+      key="Related Controls"
+      value="CP-2, CP-7, CP-8, CP-9, CP-10, MP-4, MP-5, PE-3, SC-36, SI-13."/>
+</archimate:Requirement>

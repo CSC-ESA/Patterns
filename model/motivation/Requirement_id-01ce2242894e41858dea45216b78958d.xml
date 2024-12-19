@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4(3): Information Flow Enforcement | Dynamic Information Flow Control"
+    id="id-01ce2242894e41858dea45216b78958d"
+    documentation="Enforce [Assignment: organization-defined information flow control policies].">
+  <properties
+      key="Control Identifier"
+      value="AC-4(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizational policies regarding dynamic information flow control include allowing or disallowing information flows based on changing conditions or mission or operational considerations. Changing conditions include changes in risk tolerance due to changes in the immediacy of mission or business needs, changes in the threat environment, and detection of potentially harmful or adverse events."/>
+  <properties
+      key="Related Controls"
+      value="SI-4."/>
+</archimate:Requirement>

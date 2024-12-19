@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(12): Access Enforcement | Assert and Enforce Application Access"
+    id="id-5f462fc2bf1a4fa6848785df42c8d424"
+    documentation="(a) Require applications to assert, as part of the installation process, the access needed to the following system applications and functions: [Assignment: organization-defined system applications and functions];&#xA;(b) Provide an enforcement mechanism to prevent unauthorized access; and&#xA;(c) Approve access changes after initial installation of the application.">
+  <properties
+      key="Control Identifier"
+      value="AC-3(12)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Asserting and enforcing application access is intended to address applications that need to access existing system applications and functions, including user contacts, global positioning systems, cameras, keyboards, microphones, networks, phones, or other files."/>
+  <properties
+      key="Related Controls"
+      value="CM-7."/>
+</archimate:Requirement>

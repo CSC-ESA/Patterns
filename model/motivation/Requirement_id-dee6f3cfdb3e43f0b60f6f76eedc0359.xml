@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-12(3): Session Termination | Timeout Warning Message"
+    id="id-dee6f3cfdb3e43f0b60f6f76eedc0359"
+    documentation="Display an explicit message to users indicating that the session will end in [Assignment: organization-defined time until end of session].">
+  <properties
+      key="Control Identifier"
+      value="AC-12(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="To increase usability, notify users of pending session termination and prompt users to continue the session. The pending session termination time period is based on the parameters defined in the AC-12 base control."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

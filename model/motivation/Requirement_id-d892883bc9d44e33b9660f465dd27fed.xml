@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-10: Network Disconnect"
+    id="id-d892883bc9d44e33b9660f465dd27fed"
+    documentation="Terminate the network connection associated with a communications session at the end of the session or after [Assignment: organization-defined time period] of inactivity.">
+  <properties
+      key="Control Identifier"
+      value="SC-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Network disconnect applies to internal and external networks. Terminating network connections associated with specific communications sessions includes de-allocating TCP/IP address or port pairs at the operating system level and de-allocating the networking assignments at the application level if multiple application sessions are using a single operating system-level network connection. Periods of inactivity may be established by organizations and include time periods by type of network access or for specific network accesses."/>
+  <properties
+      key="Related Controls"
+      value="AC-17, SC-23."/>
+</archimate:Requirement>

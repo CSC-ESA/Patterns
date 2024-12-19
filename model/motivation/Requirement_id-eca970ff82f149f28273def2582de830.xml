@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-9: Transmission Confidentiality"
+    id="id-eca970ff82f149f28273def2582de830"
+    documentation="[Withdrawn: Incorporated into SC-8.]">
+  <properties
+      key="Control Identifier"
+      value="SC-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

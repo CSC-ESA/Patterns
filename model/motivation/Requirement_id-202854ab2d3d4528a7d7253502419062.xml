@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-15(3): Development Process, Standards, and Tools | Criticality Analysis"
+    id="id-202854ab2d3d4528a7d7253502419062"
+    documentation="Require the developer of the system, system component, or system service to perform a criticality analysis:&#xA;(a) At the following decision points in the system development life cycle: [Assignment: organization-defined decision points in the system development life cycle]; and&#xA;(b) At the following level of rigor: [Assignment: organization-defined breadth and depth of criticality analysis].">
+  <properties
+      key="Control Identifier"
+      value="SA-15(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Criticality analysis performed by the developer provides input to the criticality analysis performed by organizations. Developer input is essential to organizational criticality analysis because organizations may not have access to detailed design documentation for system components that are developed as commercial off-the-shelf products. Such design documentation includes functional specifications, high-level designs, low-level designs, source code, and hardware schematics. Criticality analysis is important for organizational systems that are designated as high value assets. High value assets can be moderate- or high-impact systems due to heightened adversarial interest or potential adverse effects on the federal enterprise. Developer input is especially important when organizations conduct supply chain criticality analyses."/>
+  <properties
+      key="Related Controls"
+      value="RA-9."/>
+</archimate:Requirement>

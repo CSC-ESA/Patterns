@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-9(2): Previous Logon Notification | Successful and Unsuccessful Logons"
+    id="id-896538ec3e7348adaa9742edc6360e03"
+    documentation="Notify the user, upon successful logon, of the number of [Selection: successful logons; unsuccessful logon attempts; both] during [Assignment: organization-defined time period].">
+  <properties
+      key="Control Identifier"
+      value="AC-9(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Information about the number of successful and unsuccessful logon attempts within a specified time period allows the user to recognize if the number and type of logon attempts are consistent with the user’s actual logon attempts."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

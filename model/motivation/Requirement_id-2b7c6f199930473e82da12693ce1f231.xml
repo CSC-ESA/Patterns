@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-18(5): Mobile Code | Allow Execution Only in Confined Environments"
+    id="id-2b7c6f199930473e82da12693ce1f231"
+    documentation="Allow execution of permitted mobile code only in confined virtual machine environments.">
+  <properties
+      key="Control Identifier"
+      value="SC-18(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Permitting the execution of mobile code only in confined virtual machine environments helps prevent the introduction of malicious code into other systems and system components."/>
+  <properties
+      key="Related Controls"
+      value="SC-44, SI-7."/>
+</archimate:Requirement>

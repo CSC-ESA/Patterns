@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3(15): Access Enforcement | Discretionary and Mandatory Access Control"
+    id="id-54fe1affd06a42c2ac4cab27c163a6ec"
+    documentation="(a) Enforce [Assignment: organization-defined mandatory access control policy] over the set of covered subjects and objects specified in the policy; and&#xA;(b) Enforce [Assignment: organization-defined discretionary access control policy] over the set of covered subjects and objects specified in the policy.">
+  <properties
+      key="Control Identifier"
+      value="AC-3(15)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Simultaneously implementing a mandatory access control policy and a discretionary access control policy can provide additional protection against the unauthorized execution of code by users or processes acting on behalf of users. This helps prevent a single compromised user or process from compromising the entire system."/>
+  <properties
+      key="Related Controls"
+      value="SC-2, SC-3, AC-4."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-10(6): System Recovery and Reconstitution | Component Protection"
+    id="id-49660178e9694463be77009756417e49"
+    documentation="Protect system components used for recovery and reconstitution.">
+  <properties
+      key="Control Identifier"
+      value="CP-10(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Protection of system recovery and reconstitution components (i.e., hardware, firmware, and software) includes physical and technical controls. Backup and restoration components used for recovery and reconstitution include router tables, compilers, and other system software."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-6, MP-2, MP-4, PE-3, PE-6."/>
+</archimate:Requirement>

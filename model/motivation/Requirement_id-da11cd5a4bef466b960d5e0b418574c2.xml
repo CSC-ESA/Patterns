@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-10(5): System Recovery and Reconstitution | Failover Capability"
+    id="id-da11cd5a4bef466b960d5e0b418574c2"
+    documentation="[Withdrawn: Incorporated into SI-13.]">
+  <properties
+      key="Control Identifier"
+      value="CP-10(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

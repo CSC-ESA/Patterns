@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PT-3(1): Personally Identifiable Information Processing Purposes | Data Tagging"
+    id="id-b6baf199a36f4957b810179f8e4e146d"
+    documentation="Attach data tags containing the following purposes to [Assignment: organization-defined elements of personally identifiable information]: [Assignment: organization-defined processing purposes].">
+  <properties
+      key="Control Identifier"
+      value="PT-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Data tags support the tracking of processing purposes by conveying the purposes along with the relevant elements of personally identifiable information throughout the system. By conveying the processing purposes in a data tag along with the personally identifiable information as the information transits a system, a system owner or operator can identify whether a change in processing would be compatible with the identified and documented purposes. Data tags may also support the use of automated tools."/>
+  <properties
+      key="Related Controls"
+      value="CA-6, CM-12, PM-5, PM-22, SC-16, SC-43, SI-10, SI-15, SI-19."/>
+</archimate:Requirement>

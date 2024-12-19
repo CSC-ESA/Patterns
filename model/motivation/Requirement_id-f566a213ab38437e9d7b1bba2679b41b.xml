@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PS-3: Personnel Screening"
+    id="id-f566a213ab38437e9d7b1bba2679b41b"
+    documentation="a. Screen individuals prior to authorizing access to the system; and&#xA;b. Rescreen individuals in accordance with [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of rescreening].">
+  <properties
+      key="Control Identifier"
+      value="PS-3"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Personnel screening and rescreening activities reflect applicable laws, executive orders, directives, regulations, policies, standards, guidelines, and specific criteria established for the risk designations of assigned positions. Examples of personnel screening include background investigations and agency checks. Organizations may define different rescreening conditions and frequencies for personnel accessing systems based on types of information processed, stored, or transmitted by the systems."/>
+  <properties
+      key="Related Controls"
+      value="AC-2, IA-4, MA-5, PE-2, PM-12, PS-2, PS-6, PS-7, SA-21."/>
+</archimate:Requirement>

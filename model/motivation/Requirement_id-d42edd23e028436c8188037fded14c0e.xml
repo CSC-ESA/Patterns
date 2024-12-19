@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-5(1): Security Alerts, Advisories, and Directives | Automated Alerts and Advisories"
+    id="id-d42edd23e028436c8188037fded14c0e"
+    documentation="Broadcast security alert and advisory information throughout the organization using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="SI-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The significant number of changes to organizational systems and environments of operation requires the dissemination of security-related information to a variety of organizational entities that have a direct interest in the success of organizational mission and business functions. Based on information provided by security alerts and advisories, changes may be required at one or more of the three levels related to the management of risk, including the governance level, mission and business process level, and the information system level."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

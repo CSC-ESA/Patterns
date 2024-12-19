@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-18(3): Mobile Code | Prevent Downloading and Execution"
+    id="id-ae3b75946d224b2f968139bef8adda61"
+    documentation="Prevent the download and execution of [Assignment: organization-defined unacceptable mobile code].">
+  <properties
+      key="Control Identifier"
+      value="SC-18(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(4): Acquisition Process | Assignment of Components to Systems"
+    id="id-c138f229a3a54f27a81c2316eac577df"
+    documentation="[Withdrawn: Incorporated into CM-8(9).]">
+  <properties
+      key="Control Identifier"
+      value="SA-4(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

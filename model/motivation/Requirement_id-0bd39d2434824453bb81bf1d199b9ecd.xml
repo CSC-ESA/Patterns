@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-19(1): Information Leakage | National Emissions Policies and Procedures"
+    id="id-0bd39d2434824453bb81bf1d199b9ecd"
+    documentation="Protect system components, associated data communications, and networks in accordance with national Emissions Security policies and procedures based on the security category or classification of the information.">
+  <properties
+      key="Control Identifier"
+      value="PE-19(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Emissions Security (EMSEC) policies include the former TEMPEST policies."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-2(2): Event Logging | Selection of Audit Events by Component"
+    id="id-4223d7332a4e410088d5961850bd7afa"
+    documentation="[Withdrawn: Incorporated into AU-12.]">
+  <properties
+      key="Control Identifier"
+      value="AU-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

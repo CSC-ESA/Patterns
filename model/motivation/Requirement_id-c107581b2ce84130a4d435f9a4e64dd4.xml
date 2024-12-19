@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-5(1): Access Control for Output Devices | Access to Output by Authorized Individuals"
+    id="id-c107581b2ce84130a4d435f9a4e64dd4"
+    documentation="[Withdrawn: Incorporated into PE-5.]">
+  <properties
+      key="Control Identifier"
+      value="PE-5(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

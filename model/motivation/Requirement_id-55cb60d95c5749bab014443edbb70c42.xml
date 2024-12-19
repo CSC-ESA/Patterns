@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-31(2): Covert Channel Analysis | Maximum Bandwidth"
+    id="id-55cb60d95c5749bab014443edbb70c42"
+    documentation="Reduce the maximum bandwidth for identified covert [Selection (one or more): storage; timing] channels to [Assignment: organization-defined values].">
+  <properties
+      key="Control Identifier"
+      value="SC-31(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The complete elimination of covert channels, especially covert timing channels, is usually not possible without significant performance impacts."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-13(2): Monitoring for Information Disclosure | Review of Monitored Sites"
+    id="id-e6f5999b74b64c70862aa019c1dd33f9"
+    documentation="Review the list of open-source information sites being monitored [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="AU-13(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Reviewing the current list of open-source information sites being monitored on a regular basis helps to ensure that the selected sites remain relevant. The review also provides the opportunity to add new open-source information sites with the potential to provide evidence of unauthorized disclosure of organizational information. The list of sites monitored can be guided and informed by threat intelligence of other credible sources of information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

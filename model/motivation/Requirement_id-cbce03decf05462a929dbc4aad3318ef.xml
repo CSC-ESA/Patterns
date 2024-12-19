@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-10(1): Information Input Validation | Manual Override Capability"
+    id="id-cbce03decf05462a929dbc4aad3318ef"
+    documentation="(a) Provide a manual override capability for input validation of the following information inputs: [Assignment: organization-defined inputs defined in the base control (SI-10)];&#xA;(b) Restrict the use of the manual override capability to only [Assignment: organization-defined authorized individuals]; and&#xA;(c) Audit the use of the manual override capability.">
+  <properties
+      key="Control Identifier"
+      value="SI-10(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In certain situations, such as during events that are defined in contingency plans, a manual override capability for input validation may be needed. Manual overrides are used only in limited circumstances and with the inputs defined by the organization."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AU-2, AU-12."/>
+</archimate:Requirement>

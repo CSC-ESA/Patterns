@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-8(3): Telecommunications Services | Separation of Primary and Alternate Providers"
+    id="id-15bbc181c2c54a6c806c98da6bbe4d73"
+    documentation="Obtain alternate telecommunications services from providers that are separated from primary service providers to reduce susceptibility to the same threats.">
+  <properties
+      key="Control Identifier"
+      value="CP-8(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Threats that affect telecommunications services are defined in organizational assessments of risk and include natural disasters, structural failures, cyber or physical attacks, and errors of omission or commission. Organizations can reduce common susceptibilities by minimizing shared infrastructure among telecommunications service providers and achieving sufficient geographic separation between services. Organizations may consider using a single service provider in situations where the service provider can provide alternate telecommunications services that meet the separation needs addressed in the risk assessment."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(6): Authenticator Management | Protection of Authenticators"
+    id="id-a47a1ce3fc23420a8e361c6b743d1d58"
+    documentation="Protect authenticators commensurate with the security category of the information to which use of the authenticator permits access.">
+  <properties
+      key="Control Identifier"
+      value="IA-5(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="For systems that contain multiple security categories of information without reliable physical or logical separation between categories, authenticators used to grant access to the systems are protected commensurate with the highest security category of information on the systems. Security categories of information are determined as part of the security categorization process."/>
+  <properties
+      key="Related Controls"
+      value="RA-2."/>
+</archimate:Requirement>

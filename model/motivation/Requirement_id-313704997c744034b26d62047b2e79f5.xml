@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(10): Incident Handling | Supply Chain Coordination"
+    id="id-313704997c744034b26d62047b2e79f5"
+    documentation="Coordinate incident handling activities involving supply chain events with other organizations involved in the supply chain.">
+  <properties
+      key="Control Identifier"
+      value="IR-4(10)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations involved in supply chain activities include product developers, system integrators, manufacturers, packagers, assemblers, distributors, vendors, and resellers. Supply chain incidents can occur anywhere through or to the supply chain and include compromises or breaches that involve primary or sub-tier providers, information technology products, system components, development processes or personnel, and distribution processes or warehousing facilities. Organizations consider including processes for protecting and sharing incident information in information exchange agreements and their obligations for reporting incidents to government oversight bodies (e.g., Federal Acquisition Security Council)."/>
+  <properties
+      key="Related Controls"
+      value="CA-3, MA-2, SA-9, SR-8."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-5(16): Authenticator Management | In-person or Trusted External Party Authenticator Issuance"
+    id="id-2c2512c089e34482b9183e34a6624c7d"
+    documentation="Require that the issuance of [Assignment: organization-defined types of and/or specific authenticators] be conducted [Selection: in person; by a trusted external party] before [Assignment: organization-defined registration authority] with authorization by [Assignment: organization-defined personnel or roles].">
+  <properties
+      key="Control Identifier"
+      value="IA-5(16)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Issuing authenticators in person or by a trusted external party enhances and reinforces the trustworthiness of the identity proofing process."/>
+  <properties
+      key="Related Controls"
+      value="IA-12."/>
+</archimate:Requirement>

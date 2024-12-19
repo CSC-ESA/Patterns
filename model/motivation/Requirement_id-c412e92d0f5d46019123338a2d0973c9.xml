@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-2(5): Account Management | Inactivity Logout"
+    id="id-c412e92d0f5d46019123338a2d0973c9"
+    documentation="Require that users log out when [Assignment: organization-defined time period of expected inactivity or description of when to log out].">
+  <properties
+      key="Control Identifier"
+      value="AC-2(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Inactivity logout is behavior- or policy-based and requires users to take physical action to log out when they are expecting inactivity longer than the defined period. Automatic enforcement of inactivity logout is addressed by AC-11."/>
+  <properties
+      key="Related Controls"
+      value="AC-11."/>
+</archimate:Requirement>

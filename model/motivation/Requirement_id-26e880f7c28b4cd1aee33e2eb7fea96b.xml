@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-5(5): Response to Audit Logging Process Failures | Alternate Audit Logging Capability"
+    id="id-26e880f7c28b4cd1aee33e2eb7fea96b"
+    documentation="Provide an alternate audit logging capability in the event of a failure in primary audit logging capability that implements [Assignment: organization-defined alternate audit logging functionality].">
+  <properties
+      key="Control Identifier"
+      value="AU-5(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Since an alternate audit logging capability may be a short-term protection solution employed until the failure in the primary audit logging capability is corrected, organizations may determine that the alternate audit logging capability need only provide a subset of the primary audit logging functionality that is impacted by the failure."/>
+  <properties
+      key="Related Controls"
+      value="AU-9."/>
+</archimate:Requirement>

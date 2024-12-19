@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-31(3): Covert Channel Analysis | Measure Bandwidth in Operational Environments"
+    id="id-a9e523c7034949dcabe8afa8473df77d"
+    documentation="Measure the bandwidth of [Assignment: organization-defined subset of identified covert channels] in the operational environment of the system.">
+  <properties
+      key="Control Identifier"
+      value="SC-31(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Measuring covert channel bandwidth in specified operational environments helps organizations determine how much information can be covertly leaked before such leakage adversely affects mission or business functions. Covert channel bandwidth may be significantly different when measured in settings that are independent of the specific environments of operation, including laboratories or system development environments."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

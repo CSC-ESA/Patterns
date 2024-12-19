@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-7(2): Media Use | Prohibit Use of Sanitization-resistant Media"
+    id="id-3dcd9126c0b243fc88799d4621673b61"
+    documentation="Prohibit the use of sanitization-resistant media in organizational systems.">
+  <properties
+      key="Control Identifier"
+      value="MP-7(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Sanitization resistance refers to how resistant media are to non-destructive sanitization techniques with respect to the capability to purge information from media. Certain types of media do not support sanitization commands, or if supported, the interfaces are not supported in a standardized way across these devices. Sanitization-resistant media includes compact flash, embedded flash on boards and devices, solid state drives, and USB removable media."/>
+  <properties
+      key="Related Controls"
+      value="MP-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-9(1): System Backup | Testing for Reliability and Integrity"
+    id="id-256e7b17b19740b5b56ca36fced4d4b2"
+    documentation="Test backup information [Assignment: organization-defined frequency] to verify media reliability and information integrity.">
+  <properties
+      key="Control Identifier"
+      value="CP-9(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Organizations need assurance that backup information can be reliably retrieved. Reliability pertains to the systems and system components where the backup information is stored, the operations used to retrieve the information, and the integrity of the information being retrieved. Independent and specialized tests can be used for each of the aspects of reliability. For example, decrypting and transporting (or transmitting) a random sample of backup files from the alternate storage or backup site and comparing the information to the same information at the primary processing site can provide such assurance."/>
+  <properties
+      key="Related Controls"
+      value="CP-4."/>
+</archimate:Requirement>

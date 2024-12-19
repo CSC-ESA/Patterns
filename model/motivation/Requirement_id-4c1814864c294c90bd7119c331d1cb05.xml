@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-2(3): Physical Access Authorizations | Restrict Unescorted Access"
+    id="id-4c1814864c294c90bd7119c331d1cb05"
+    documentation="Restrict unescorted access to the facility where the system resides to personnel with [Selection (one or more): security clearances for all information contained within the system; formal access authorizations for all information contained within the system; need for access to all information contained within the system; [Assignment: organization-defined physical access authorizations]].">
+  <properties
+      key="Control Identifier"
+      value="PE-2(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Individuals without required security clearances, access approvals, or need to know are escorted by individuals with appropriate physical access authorizations to ensure that information is not exposed or otherwise compromised."/>
+  <properties
+      key="Related Controls"
+      value="PS-2, PS-6."/>
+</archimate:Requirement>

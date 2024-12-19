@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-19(3): Component Authenticity | Component Disposal"
+    id="id-3e081c7ba0b4438fa56ce97be4f3e3a5"
+    documentation="[Withdrawn: Moved to SR-12.]">
+  <properties
+      key="Control Identifier"
+      value="SA-19(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

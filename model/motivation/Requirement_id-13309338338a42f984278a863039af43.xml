@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-2(2): Flaw Remediation | Automated Flaw Remediation Status"
+    id="id-13309338338a42f984278a863039af43"
+    documentation="Determine if system components have applicable security-relevant software and firmware updates installed using [Assignment: organization-defined automated mechanisms] [Assignment: organization-defined frequency].">
+  <properties
+      key="Control Identifier"
+      value="SI-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Automated mechanisms can track and determine the status of known flaws for system components."/>
+  <properties
+      key="Related Controls"
+      value="CA-7, SI-4."/>
+</archimate:Requirement>

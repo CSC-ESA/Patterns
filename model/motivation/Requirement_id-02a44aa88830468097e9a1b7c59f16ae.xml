@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-9(7): External System Services | Organization-controlled Integrity Checking"
+    id="id-02a44aa88830468097e9a1b7c59f16ae"
+    documentation="Provide the capability to check the integrity of information while it resides in the external system.">
+  <properties
+      key="Control Identifier"
+      value="SA-9(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Storage of organizational information in an external system could limit visibility into the security status of its data. The ability of the organization to verify and validate the integrity of its stored data without transferring it out of the external system provides such visibility."/>
+  <properties
+      key="Related Controls"
+      value="SI-7."/>
+</archimate:Requirement>

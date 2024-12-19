@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR-9: Tamper Resistance and Detection"
+    id="id-26a9a034b6ba48d6913012ca8c563f3d"
+    documentation="Implement a tamper protection program for the system, system component, or system service.">
+  <properties
+      key="Control Identifier"
+      value="SR-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Anti-tamper technologies, tools, and techniques provide a level of protection for systems, system components, and services against many threats, including reverse engineering, modification, and substitution. Strong identification combined with tamper resistance and/or tamper detection is essential to protecting systems and components during distribution and when in use."/>
+  <properties
+      key="Related Controls"
+      value="PE-3, PM-30, SA-15, SI-4, SI-7, SR-3, SR-4, SR-5, SR-10, SR-11."/>
+</archimate:Requirement>

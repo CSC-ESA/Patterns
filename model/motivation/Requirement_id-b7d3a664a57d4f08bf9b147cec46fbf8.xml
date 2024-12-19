@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-23(4): Session Authenticity | Unique Session Identifiers with Randomization"
+    id="id-b7d3a664a57d4f08bf9b147cec46fbf8"
+    documentation="[Withdrawn: Incorporated into SC-23(3).]">
+  <properties
+      key="Control Identifier"
+      value="SC-23(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

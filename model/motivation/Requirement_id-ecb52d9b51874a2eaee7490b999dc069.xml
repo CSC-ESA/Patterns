@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-3(3): Risk Assessment | Dynamic Threat Awareness"
+    id="id-ecb52d9b51874a2eaee7490b999dc069"
+    documentation="Determine the current cyber threat environment on an ongoing basis using [Assignment: organization-defined means].">
+  <properties
+      key="Control Identifier"
+      value="RA-3(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The threat awareness information that is gathered feeds into the organization’s information security operations to ensure that procedures are updated in response to the changing threat environment. For example, at higher threat levels, organizations may change the privilege or authentication thresholds required to perform certain operations."/>
+  <properties
+      key="Related Controls"
+      value="AT-2."/>
+</archimate:Requirement>

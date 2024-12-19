@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-2(4): Baseline Configuration | Unauthorized Software"
+    id="id-ed59be54d8f94a35abe4c9473a5ae7b8"
+    documentation="[Withdrawn: Incorporated into CM-7(4).]">
+  <properties
+      key="Control Identifier"
+      value="CM-2(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

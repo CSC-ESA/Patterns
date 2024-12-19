@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-2(2): Controlled Maintenance | Automated Maintenance Activities"
+    id="id-cc8d34dd01964a309fad86101f4ff83c"
+    documentation="(a) Schedule, conduct, and document maintenance, repair, and replacement actions for the system using [Assignment: organization-defined automated mechanisms]; and&#xA;(b) Produce up-to date, accurate, and complete records of all maintenance, repair, and replacement actions requested, scheduled, in process, and completed.">
+  <properties
+      key="Control Identifier"
+      value="MA-2(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The use of automated mechanisms to manage and control system maintenance programs and activities helps to ensure the generation of timely, accurate, complete, and consistent maintenance records."/>
+  <properties
+      key="Related Controls"
+      value="MA-3."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA-5(5): Vulnerability Monitoring and Scanning | Privileged Access"
+    id="id-19bf59c3c914458ea4523dee8d305257"
+    documentation="Implement privileged access authorization to [Assignment: organization-defined system components] for [Assignment: organization-defined vulnerability scanning activities].">
+  <properties
+      key="Control Identifier"
+      value="RA-5(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="In certain situations, the nature of the vulnerability scanning may be more intrusive, or the system component that is the subject of the scanning may contain classified or controlled unclassified information, such as personally identifiable information. Privileged access authorization to selected system components facilitates more thorough vulnerability scanning and protects the sensitive nature of such scanning."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

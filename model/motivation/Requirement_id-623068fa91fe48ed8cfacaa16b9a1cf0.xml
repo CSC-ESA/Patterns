@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-4(7): Nonlocal Maintenance | Disconnect Verification"
+    id="id-623068fa91fe48ed8cfacaa16b9a1cf0"
+    documentation="Verify session and network connection termination after the completion of nonlocal maintenance and diagnostic sessions.">
+  <properties
+      key="Control Identifier"
+      value="MA-4(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Verifying the termination of a connection once maintenance is completed ensures that connections established during nonlocal maintenance and diagnostic sessions have been terminated and are no longer available for use."/>
+  <properties
+      key="Related Controls"
+      value="AC-12."/>
+</archimate:Requirement>

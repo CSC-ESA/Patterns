@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(1): System Monitoring | System-wide Intrusion Detection System"
+    id="id-c32c236bedd541efbbf151777defcead"
+    documentation="Connect and configure individual intrusion detection tools into a system-wide intrusion detection system.">
+  <properties
+      key="Control Identifier"
+      value="SI-4(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Linking individual intrusion detection tools into a system-wide intrusion detection system provides additional coverage and effective detection capabilities. The information contained in one intrusion detection tool can be shared widely across the organization, making the system-wide detection capability more robust and powerful."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

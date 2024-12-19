@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-4(23): System Monitoring | Host-based Devices"
+    id="id-3a15625985db4a79838d2286f3e40bc5"
+    documentation="Implement the following host-based monitoring mechanisms at [Assignment: organization-defined system components]: [Assignment: organization-defined host-based monitoring mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="SI-4(23)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Host-based monitoring collects information about the host (or system in which it resides). System components in which host-based monitoring can be implemented include servers, notebook computers, and mobile devices. Organizations may consider employing host-based monitoring mechanisms from multiple product developers or vendors."/>
+  <properties
+      key="Related Controls"
+      value="AC-18, AC-19."/>
+</archimate:Requirement>

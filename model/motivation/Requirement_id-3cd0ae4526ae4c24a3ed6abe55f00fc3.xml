@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MA-3(6): Maintenance Tools | Software Updates and Patches"
+    id="id-3cd0ae4526ae4c24a3ed6abe55f00fc3"
+    documentation="Inspect maintenance tools to ensure the latest software updates and patches are installed.">
+  <properties
+      key="Control Identifier"
+      value="MA-3(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Maintenance tools using outdated and/or unpatched software can provide a threat vector for adversaries and result in a significant vulnerability for organizations."/>
+  <properties
+      key="Related Controls"
+      value="AC-3, AC-6."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-20(4): Use of External Systems | Network Accessible Storage Devices — Prohibited Use"
+    id="id-e8f36d2c8c36416b8c38342ad456a8b3"
+    documentation="Prohibit the use of [Assignment: organization-defined network accessible storage devices] in external systems.">
+  <properties
+      key="Control Identifier"
+      value="AC-20(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Network-accessible storage devices in external systems include online storage devices in public, hybrid, or community cloud-based systems."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

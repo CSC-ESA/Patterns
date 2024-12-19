@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP-3(2): Contingency Training | Mechanisms Used in Training Environments"
+    id="id-f26ff600df0f49a3bac81e13be0a8841"
+    documentation="Employ mechanisms used in operations to provide a more thorough and realistic contingency training environment.">
+  <properties
+      key="Control Identifier"
+      value="CP-3(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Operational mechanisms refer to processes that have been established to accomplish an organizational goal or a system that supports a particular organizational mission or business objective. Actual mission and business processes, systems, and/or facilities may be used to generate simulated events and enhance the realism of simulated events during contingency training."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

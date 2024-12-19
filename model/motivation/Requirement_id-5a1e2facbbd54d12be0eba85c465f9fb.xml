@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IR-4(4): Incident Handling | Information Correlation"
+    id="id-5a1e2facbbd54d12be0eba85c465f9fb"
+    documentation="Correlate incident information and individual incident responses to achieve an organization-wide perspective on incident awareness and response.">
+  <properties
+      key="Control Identifier"
+      value="IR-4(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Sometimes, a threat event, such as a hostile cyber-attack, can only be observed by bringing together information from different sources, including various reports and reporting procedures established by organizations."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

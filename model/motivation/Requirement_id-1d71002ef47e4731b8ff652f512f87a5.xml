@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-34(3): Non-modifiable Executable Programs | Hardware-based Protection"
+    id="id-1d71002ef47e4731b8ff652f512f87a5"
+    documentation="[Withdrawn: Moved to SC-51.]">
+  <properties
+      key="Control Identifier"
+      value="SC-34(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

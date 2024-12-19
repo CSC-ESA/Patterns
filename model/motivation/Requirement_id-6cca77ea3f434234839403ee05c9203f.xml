@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-3(8): Configuration Change Control | Prevent or Restrict Configuration Changes"
+    id="id-6cca77ea3f434234839403ee05c9203f"
+    documentation="Prevent or restrict changes to the configuration of the system under the following circumstances: [Assignment: organization-defined circumstances].">
+  <properties
+      key="Control Identifier"
+      value="CM-3(8)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="System configuration changes can adversely affect critical system security and privacy functionality. Change restrictions can be enforced through automated mechanisms."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

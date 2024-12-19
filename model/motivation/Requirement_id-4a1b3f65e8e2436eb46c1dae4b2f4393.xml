@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-18(5): Personally Identifiable Information Quality Operations | Notice of Correction or Deletion"
+    id="id-4a1b3f65e8e2436eb46c1dae4b2f4393"
+    documentation="Notify [Assignment: organization-defined recipients of personally identifiable information] and individuals that the personally identifiable information has been corrected or deleted.">
+  <properties
+      key="Control Identifier"
+      value="SI-18(5)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="When personally identifiable information is corrected or deleted, organizations take steps to ensure that all authorized recipients of such information, and the individual with whom the information is associated or their designated representatives, are informed of the corrected or deleted information."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

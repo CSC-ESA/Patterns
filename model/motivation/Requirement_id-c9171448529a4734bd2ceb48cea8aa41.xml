@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PL-2(1): System Security and Privacy Plans | Concept of Operations"
+    id="id-c9171448529a4734bd2ceb48cea8aa41"
+    documentation="[Withdrawn: Incorporated into PL-7.]">
+  <properties
+      key="Control Identifier"
+      value="PL-2(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

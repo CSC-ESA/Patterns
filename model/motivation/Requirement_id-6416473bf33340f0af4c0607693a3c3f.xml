@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(27): Boundary Protection | Unclassified Non-national Security System Connections"
+    id="id-6416473bf33340f0af4c0607693a3c3f"
+    documentation="Prohibit the direct connection of [Assignment: organization-defined unclassified non-national security system] to an external network without the use of [Assignment: organization-defined boundary protection device].">
+  <properties
+      key="Control Identifier"
+      value="SC-7(27)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A direct connection is a dedicated physical or virtual connection between two or more systems. Organizations typically do not have complete control over external networks, including the Internet. Boundary protection devices (e.g., firewalls, gateways, and routers) mediate communications and information flows between unclassified non-national security systems and external networks."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

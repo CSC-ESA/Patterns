@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-3(9): Malicious Code Protection | Authenticate Remote Commands"
+    id="id-ed6bedfe1a8b4bd8a1e0221c4994b7f5"
+    documentation="[Withdrawn: Moved to AC-17(10).]">
+  <properties
+      key="Control Identifier"
+      value="SI-3(9)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

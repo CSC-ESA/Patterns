@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-4(6): Acquisition Process | Use of Information Assurance Products"
+    id="id-3dd65f5cfaea4f04bfb10fce1bad1dcd"
+    documentation="(a) Employ only government off-the-shelf or commercial off-the-shelf information assurance and information assurance-enabled information technology products that compose an NSA-approved solution to protect classified information when the networks used to transmit the information are at a lower classification level than the information being transmitted; and&#xA;(b) Ensure that these products have been evaluated and/or validated by NSA or in accordance with NSA-approved procedures.">
+  <properties
+      key="Control Identifier"
+      value="SA-4(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Commercial off-the-shelf IA or IA-enabled information technology products used to protect classified information by cryptographic means may be required to use NSA-approved key management. See NSA CSFC."/>
+  <properties
+      key="Related Controls"
+      value="SC-8, SC-12, SC-13."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-12(7): Supply Chain Protection | Assessments Prior to Selection / Acceptance / Update"
+    id="id-01cbd9a3cba0435bb7dbd967e375b2be"
+    documentation="[Withdrawn: Moved to SR-5(2).]">
+  <properties
+      key="Control Identifier"
+      value="SA-12(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

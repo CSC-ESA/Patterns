@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-6(4): Media Sanitization | Controlled Unclassified Information"
+    id="id-dd14f94d8f814d48b9dae975cf7c0010"
+    documentation="[Withdrawn: Incorporated into MP-6.]">
+  <properties
+      key="Control Identifier"
+      value="MP-6(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="undefined"/>
+  <properties
+      key="Related Controls"
+      value="undefined"/>
+</archimate:Requirement>

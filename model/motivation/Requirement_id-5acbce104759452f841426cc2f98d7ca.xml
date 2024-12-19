@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-3(6): Malicious Code Protection | Testing and Verification"
+    id="id-5acbce104759452f841426cc2f98d7ca"
+    documentation="(a) Test malicious code protection mechanisms [Assignment: organization-defined frequency] by introducing known benign code into the system; and&#xA;(b) Verify that the detection of the code and the associated incident reporting occur.">
+  <properties
+      key="Control Identifier"
+      value="SI-3(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="CA-2, CA-7, RA-5."/>
+</archimate:Requirement>

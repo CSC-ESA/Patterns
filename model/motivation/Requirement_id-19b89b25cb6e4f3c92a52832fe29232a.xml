@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-8(1): Visitor Access Records | Automated Records Maintenance and Review"
+    id="id-19b89b25cb6e4f3c92a52832fe29232a"
+    documentation="Maintain and review visitor access records using [Assignment: organization-defined automated mechanisms].">
+  <properties
+      key="Control Identifier"
+      value="PE-8(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Visitor access records may be stored and maintained in a database management system that is accessible by organizational personnel. Automated access to such records facilitates record reviews on a regular basis to determine if access authorizations are current and still required to support organizational mission and business functions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

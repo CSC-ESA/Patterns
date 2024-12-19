@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-8(29): Security and Privacy Engineering Principles | Repeatable and Documented Procedures"
+    id="id-2151766b48a74d0f9a14701ba0aa970c"
+    documentation="Implement the security design principle of repeatable and documented procedures in [Assignment: organization-defined systems or system components].">
+  <properties
+      key="Control Identifier"
+      value="SA-8(29)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The principle of repeatable and documented procedures states that the techniques and methods employed to construct a system component permit the same component to be completely and correctly reconstructed at a later time. Repeatable and documented procedures support the development of a component that is identical to the component created earlier, which may be in widespread use. In the case of other system artifacts (e.g., documentation and testing results), repeatability supports consistency and the ability to inspect the artifacts. Repeatable and documented procedures can be introduced at various stages within the system development life cycle and contribute to the ability to evaluate assurance claims for the system. Examples include systematic procedures for code development and review, procedures for the configuration management of development tools and system artifacts, and procedures for system delivery."/>
+  <properties
+      key="Related Controls"
+      value="CM-1, SA-1, SA-10, SA-11, SA-15, SA-17, SC-1, SI-1."/>
+</archimate:Requirement>

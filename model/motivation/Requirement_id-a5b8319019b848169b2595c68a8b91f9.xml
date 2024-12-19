@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MP-5(3): Media Transport | Custodians"
+    id="id-a5b8319019b848169b2595c68a8b91f9"
+    documentation="Employ an identified custodian during transport of system media outside of controlled areas.">
+  <properties
+      key="Control Identifier"
+      value="MP-5(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Identified custodians provide organizations with specific points of contact during the media transport process and facilitate individual accountability. Custodial responsibilities can be transferred from one individual to another if an unambiguous custodian is identified."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

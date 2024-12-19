@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-3(1): Content of Audit Records | Additional Audit Information"
+    id="id-f638400d137f4110a48c6c7ed6bec44f"
+    documentation="Generate audit records containing the following additional information: [Assignment: organization-defined additional information].">
+  <properties
+      key="Control Identifier"
+      value="AU-3(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The ability to add information generated in audit records is dependent on system functionality to configure the audit record content. Organizations may consider additional information in audit records including, but not limited to, access control or flow control rules invoked and individual identities of group account users. Organizations may also consider limiting additional audit record information to only information that is explicitly needed for audit requirements. This facilitates the use of audit trails and audit logs by not including information in audit records that could potentially be misleading, make it more difficult to locate information of interest, or increase the risk to individuals' privacy."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

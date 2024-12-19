@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-35: External Malicious Code Identification"
+    id="id-31da9ce9d9aa4642ab71043a031e3ab6"
+    documentation="Include system components that proactively seek to identify network-based malicious code or malicious websites.">
+  <properties
+      key="Control Identifier"
+      value="SC-35"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="External malicious code identification differs from decoys in SC-26 in that the components actively probe networks, including the Internet, in search of malicious code contained on external websites. Like decoys, the use of external malicious code identification techniques requires some supporting isolation measures to ensure that any malicious code discovered during the search and subsequently executed does not infect organizational systems. Virtualization is a common technique for achieving such isolation."/>
+  <properties
+      key="Related Controls"
+      value="SC-7, SC-26, SC-44, SI-3, SI-4."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PL-11: Baseline Tailoring"
+    id="id-dc5b017544f24482b7b0776be80f6639"
+    documentation="Tailor the selected control baseline by applying specified tailoring actions.">
+  <properties
+      key="Control Identifier"
+      value="PL-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The concept of tailoring allows organizations to specialize or customize a set of baseline controls by applying a defined set of tailoring actions. Tailoring actions facilitate such specialization and customization by allowing organizations to develop security and privacy plans that reflect their specific mission and business functions, the environments where their systems operate, the threats and vulnerabilities that can affect their systems, and any other conditions or situations that can impact their mission or business success. Tailoring guidance is provided in SP 800-53B. Tailoring a control baseline is accomplished by identifying and designating common controls, applying scoping considerations, selecting compensating controls, assigning values to control parameters, supplementing the control baseline with additional controls as needed, and providing information for control implementation. The general tailoring actions in SP 800-53B can be supplemented with additional actions based on the needs of organizations. Tailoring actions can be applied to the baselines in SP 800-53B in accordance with the security and privacy requirements from FISMA, PRIVACT, and OMB A-130. Alternatively, other communities of interest adopting different control baselines can apply the tailoring actions in SP 800-53B to specialize or customize the controls that represent the specific needs and concerns of those entities."/>
+  <properties
+      key="Related Controls"
+      value="PL-10, RA-2, RA-3, RA-9, SA-8."/>
+</archimate:Requirement>

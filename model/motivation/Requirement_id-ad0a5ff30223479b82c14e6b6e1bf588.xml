@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CM-2(7): Baseline Configuration | Configure Systems and Components for High-risk Areas"
+    id="id-ad0a5ff30223479b82c14e6b6e1bf588"
+    documentation="(a) Issue [Assignment: organization-defined systems or system components] with [Assignment: organization-defined configurations] to individuals traveling to locations that the organization deems to be of significant risk; and&#xA;(b) Apply the following controls to the systems or components when the individuals return from travel: [Assignment: organization-defined controls].">
+  <properties
+      key="Control Identifier"
+      value="CM-2(7)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="When it is known that systems or system components will be in high-risk areas external to the organization, additional controls may be implemented to counter the increased threat in such areas. For example, organizations can take actions for notebook computers used by individuals departing on and returning from travel. Actions include determining the locations that are of concern, defining the required configurations for the components, ensuring that components are configured as intended before travel is initiated, and applying controls to the components after travel is completed. Specially configured notebook computers include computers with sanitized hard drives, limited applications, and more stringent configuration settings. Controls applied to mobile devices upon return from travel include examining the mobile device for signs of physical tampering and purging and reimaging disk drives. Protecting information that resides on mobile devices is addressed in the MP (Media Protection) family."/>
+  <properties
+      key="Related Controls"
+      value="MP-4, MP-5."/>
+</archimate:Requirement>

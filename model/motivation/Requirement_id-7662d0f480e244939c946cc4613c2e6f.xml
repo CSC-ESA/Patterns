@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(28): Boundary Protection | Connections to Public Networks"
+    id="id-7662d0f480e244939c946cc4613c2e6f"
+    documentation="Prohibit the direct connection of [Assignment: organization-defined system] to a public network.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(28)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="A direct connection is a dedicated physical or virtual connection between two or more systems. A public network is a network accessible to the public, including the Internet and organizational extranets with public access."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

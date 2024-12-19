@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-15(4): Collaborative Computing Devices and Applications | Explicitly Indicate Current Participants"
+    id="id-9795040f354440d08332bf0dafb3f59b"
+    documentation="Provide an explicit indication of current participants in [Assignment: organization-defined online meetings and teleconferences].">
+  <properties
+      key="Control Identifier"
+      value="SC-15(4)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Explicitly indicating current participants prevents unauthorized individuals from participating in collaborative computing sessions without the explicit knowledge of other participants."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

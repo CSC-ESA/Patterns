@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IA-2(6): Identification and Authentication (organizational Users) | Access to Accounts —separate Device"
+    id="id-c6226d4378b0444d9f17395fe83e406a"
+    documentation="Implement multi-factor authentication for [Selection (one or more): local; network; remote] access to [Selection (one or more): privileged accounts; non-privileged accounts] such that:&#xA;(a) One of the factors is provided by a device separate from the system gaining access; and&#xA;(b) The device meets [Assignment: organization-defined strength of mechanism requirements].">
+  <properties
+      key="Control Identifier"
+      value="IA-2(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="The purpose of requiring a device that is separate from the system to which the user is attempting to gain access for one of the factors during multi-factor authentication is to reduce the likelihood of compromising authenticators or credentials stored on the system. Adversaries may be able to compromise such authenticators or credentials and subsequently impersonate authorized users. Implementing one of the factors on a separate device (e.g., a hardware token), provides a greater strength of mechanism and an increased level of assurance in the authentication process."/>
+  <properties
+      key="Related Controls"
+      value="AC-6."/>
+</archimate:Requirement>

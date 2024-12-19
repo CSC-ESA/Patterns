@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7(19): Boundary Protection | Block Communication from Non-organizationally Configured Hosts"
+    id="id-afcd07b20e584716b3ffe8c2369f857a"
+    documentation="Block inbound and outbound communications traffic between [Assignment: organization-defined communication clients] that are independently configured by end users and external service providers.">
+  <properties
+      key="Control Identifier"
+      value="SC-7(19)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Communication clients independently configured by end users and external service providers include instant messaging clients and video conferencing software and applications. Traffic blocking does not apply to communication clients that are configured by organizations to perform authorized functions."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

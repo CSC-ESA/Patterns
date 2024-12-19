@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AU-14(3): Session Audit | Remote Viewing and Listening"
+    id="id-a1716fbfa9f44a0a8c409bb12edc1978"
+    documentation="Provide and implement the capability for authorized users to remotely view and hear content related to an established user session in real time.">
+  <properties
+      key="Control Identifier"
+      value="AU-14(3)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="None."/>
+  <properties
+      key="Related Controls"
+      value="AC-17."/>
+</archimate:Requirement>

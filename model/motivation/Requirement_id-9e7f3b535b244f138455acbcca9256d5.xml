@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SI-14(1): Non-persistence | Refresh from Trusted Sources"
+    id="id-9e7f3b535b244f138455acbcca9256d5"
+    documentation="Obtain software and data employed during system component and service refreshes from the following trusted sources: [Assignment: organization-defined trusted sources].">
+  <properties
+      key="Control Identifier"
+      value="SI-14(1)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Trusted sources include software and data from write-once, read-only media or from selected offline secure storage facilities."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PE-5(2): Access Control for Output Devices | Link to Individual Identity"
+    id="id-c1bde9bb0fd84781b1131fc6af94fa08"
+    documentation="Link individual identity to receipt of output from output devices.">
+  <properties
+      key="Control Identifier"
+      value="PE-5(2)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Methods for linking individual identity to the receipt of output from output devices include installing security functionality on facsimile machines, copiers, and printers. Such functionality allows organizations to implement authentication on output devices prior to the release of output to individuals."/>
+  <properties
+      key="Related Controls"
+      value="None."/>
+</archimate:Requirement>

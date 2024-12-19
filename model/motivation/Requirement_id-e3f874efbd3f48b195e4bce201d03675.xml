@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SA-11(6): Developer Testing and Evaluation | Attack Surface Reviews"
+    id="id-e3f874efbd3f48b195e4bce201d03675"
+    documentation="Require the developer of the system, system component, or system service to perform attack surface reviews.">
+  <properties
+      key="Control Identifier"
+      value="SA-11(6)"/>
+  <properties
+      key="Latest Sync Date"
+      value="19/12/24 09:18:14"/>
+  <properties
+      key="Discussion"
+      value="Attack surfaces of systems and system components are exposed areas that make those systems more vulnerable to attacks. Attack surfaces include any accessible areas where weaknesses or deficiencies in the hardware, software, and firmware components provide opportunities for adversaries to exploit vulnerabilities. Attack surface reviews ensure that developers analyze the design and implementation changes to systems and mitigate attack vectors generated as a result of the changes. The correction of identified flaws includes deprecation of unsafe functions."/>
+  <properties
+      key="Related Controls"
+      value="SA-15."/>
+</archimate:Requirement>
