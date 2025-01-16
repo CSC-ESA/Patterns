@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7.g : Authentication / Authorization"
+    id="id-4a3082d016bd4d688eadac8659844992"
+    documentation="Does the internal server have indeed access to the external resource?"/>

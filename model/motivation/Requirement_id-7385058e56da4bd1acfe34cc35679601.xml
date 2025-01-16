@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7.d : URL filtering"
+    id="id-7385058e56da4bd1acfe34cc35679601"
+    documentation="Does the internal server have indeed access to the external resource?"/>

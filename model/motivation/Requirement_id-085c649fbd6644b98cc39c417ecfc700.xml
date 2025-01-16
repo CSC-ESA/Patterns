@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC-7.h: Category blocking"
+    id="id-085c649fbd6644b98cc39c417ecfc700"
+    documentation="Does the internal server have indeed access to the external resource?"/>

@@ -1,0 +1,18 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2989c458d19e4a02a4255712c6568aa0">
+  <properties
+      key="Status"/>
+  <properties
+      key="Protocol"
+      value="HTTPS"/>
+  <properties
+      key="Flow number"/>
+  <source
+      xsi:type="archimate:Path"
+      href="Path_id-1b32b99413844571b9e0abe5537d16e0.xml#id-1b32b99413844571b9e0abe5537d16e0"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-431a95cfcef64b3a966905b277dfabf5.xml#id-431a95cfcef64b3a966905b277dfabf5"/>
+</archimate:TriggeringRelationship>
