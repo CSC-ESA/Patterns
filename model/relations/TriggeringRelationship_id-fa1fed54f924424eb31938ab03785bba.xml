@@ -6,13 +6,13 @@
       key="Status"/>
   <properties
       key="Protocol"
-      value="HTTPS"/>
+      value="VPN"/>
   <properties
       key="Flow number"/>
   <source
-      xsi:type="archimate:Path"
-      href="Path_id-1b32b99413844571b9e0abe5537d16e0.xml#id-1b32b99413844571b9e0abe5537d16e0"/>
-  <target
       xsi:type="archimate:TechnologyService"
-      href="TechnologyService_id-d4a99a5a744c4cf5878a4f6f8ed43ee4.xml#id-d4a99a5a744c4cf5878a4f6f8ed43ee4"/>
+      href="TechnologyService_id-cc8acd3879a9487aa7f5462b8bdeca8a.xml#id-cc8acd3879a9487aa7f5462b8bdeca8a"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-138d3675b6f541f1aa777d5ec63ea583.xml#id-138d3675b6f541f1aa777d5ec63ea583"/>
 </archimate:TriggeringRelationship>
