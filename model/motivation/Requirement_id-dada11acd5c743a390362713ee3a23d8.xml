@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CM-7: Least Functionality"
     id="id-dada11acd5c743a390362713ee3a23d8"
-    documentation="a. Configure the system to provide only [Assignment: organization-defined mission essential capabilities]; and&#xA;b. Prohibit or restrict the use of the following functions, ports, protocols, software, and/or services: [Assignment: organization-defined prohibited or restricted functions, system ports, protocols, software, and/or services].">
+    documentation="a. Configure the system to provide only [Assignment: organization-defined mission essential capabilities]; and&#xA;b. Prohibit or restrict the use of the following functions, ports, protocols, software, and/or services: [Assignment: organization-defined prohibited or restricted functions, system ports, protocols, software, and/or services].&#xA;">
   <properties
       key="Control Identifier"
       value="CM-7"/>

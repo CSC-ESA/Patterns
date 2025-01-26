@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTPS (External token)"
+    id="id-9078e9aa87c442a9b01ea46af7a67ef7">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-6faa71ba6a964d62ac9b574683077357.xml#id-6faa71ba6a964d62ac9b574683077357"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-86ff397f03604dd9b10b8f336f771bf9.xml#id-86ff397f03604dd9b10b8f336f771bf9"/>
+</archimate:TriggeringRelationship>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AC-4(25): Information Flow Enforcement | Data Sanitization"
     id="id-fa5f9556f5c244ec94aa24e5cc00d151"
-    documentation="When transferring information between different security domains, sanitize data to minimize [Selection (one or more): delivery of malicious content, command and control of malicious code, malicious code augmentation, and steganography encoded data; spillage of sensitive information] in accordance with [Assignment: organization-defined policy]].">
+    documentation="When transferring information between different security domains, sanitize data to minimize [Selection (one or more): delivery of malicious content, command and control of malicious code, malicious code augmentation, and steganography encoded data; spillage of sensitive information] in accordance with [Assignment: organization-defined policy]].&#xA;">
   <properties
       key="Control Identifier"
       value="AC-4(25)"/>

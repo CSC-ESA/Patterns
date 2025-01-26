@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SI-10: Information Input Validation"
     id="id-643bfd1709884c4aa7f0d66cd07e30b0"
-    documentation="Check the validity of the following information inputs: [Assignment: organization-defined information inputs to the system].">
+    documentation="Check the validity of the following information inputs: [Assignment: organization-defined information inputs to the system].&#xA;">
   <properties
       key="Control Identifier"
       value="SI-10"/>

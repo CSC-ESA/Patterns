@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SC-6: Resource Availability"
     id="id-dd3509ac0527459d822d49985f8957bd"
-    documentation="Protect the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more): priority; quota; [Assignment: organization-defined controls]].">
+    documentation="Protect the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more): priority; quota; [Assignment: organization-defined controls]].&#xA;">
   <properties
       key="Control Identifier"
       value="SC-6"/>

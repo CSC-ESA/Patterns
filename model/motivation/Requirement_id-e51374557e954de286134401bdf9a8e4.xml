@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AC-3: Access Enforcement"
     id="id-e51374557e954de286134401bdf9a8e4"
-    documentation="Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies.">
+    documentation="Enforce approved authorizations for logical access to information and system resources in accordance with applicable access control policies.&#xA;">
   <properties
       key="Control Identifier"
       value="AC-3"/>

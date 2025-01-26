@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AC-12: Session Termination"
     id="id-e704a209e29d40dbaa9cf52330e9f690"
-    documentation="Automatically terminate a user session after [Assignment: organization-defined conditions or trigger events requiring session disconnect].">
+    documentation="Automatically terminate a user session after [Assignment: organization-defined conditions or trigger events requiring session disconnect].&#xA;">
   <properties
       key="Control Identifier"
       value="AC-12"/>

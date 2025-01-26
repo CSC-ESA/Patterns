@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AC-4: Information Flow Enforcement"
     id="id-f09ae10c99004043811a8b2c4da5a49c"
-    documentation="Enforce approved authorizations for controlling the flow of information within the system and between connected systems based on [Assignment: organization-defined information flow control policies].">
+    documentation="Enforce approved authorizations for controlling the flow of information within the system and between connected systems based on [Assignment: organization-defined information flow control policies].&#xA;">
   <properties
       key="Control Identifier"
       value="AC-4"/>
