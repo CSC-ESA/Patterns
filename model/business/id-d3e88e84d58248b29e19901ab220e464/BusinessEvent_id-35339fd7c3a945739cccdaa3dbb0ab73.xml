@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brute Force"
+    id="id-35339fd7c3a945739cccdaa3dbb0ab73">
+  <properties
+      key="CAPEC-ID"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>

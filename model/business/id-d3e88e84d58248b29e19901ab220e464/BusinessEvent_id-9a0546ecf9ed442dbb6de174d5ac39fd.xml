@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protocol Analysis"
+    id="id-9a0546ecf9ed442dbb6de174d5ac39fd">
+  <properties
+      key="CAPEC-ID"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Malicious Logic Insertion"
+    id="id-e938ac74700f4dd9ba4b4411c2e5af35">
+  <properties
+      key="CAPEC-ID"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>

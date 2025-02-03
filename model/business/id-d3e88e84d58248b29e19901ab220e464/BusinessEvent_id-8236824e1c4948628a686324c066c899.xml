@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveraging Race Conditions"
+    id="id-8236824e1c4948628a686324c066c899">
+  <properties
+      key="CAPEC-ID"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,10 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adversary in the Middle (AiTM)"
+    id="id-9140e159138542a09e911d2bb35ec984">
+  <properties
+      key="CAPEC-ID"
+      value="94"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>

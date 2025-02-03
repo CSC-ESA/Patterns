@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use of Known Domain Credentials"
+    id="id-d25f68223d2c462c8454348ec6c6bd74">
+  <properties
+      key="CAPEC-ID"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>

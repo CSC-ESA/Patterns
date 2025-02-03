@@ -2,4 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CSC-Patterns"
     id="id-af59eafd9fe94764955eb59b586788e2"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Threat Event"
+      id="id-70efeca872514b6c844a4dc80b02963e"
+      conceptType="BusinessEvent"/>
+</archimate:ArchimateModel>

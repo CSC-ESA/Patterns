@@ -1,0 +1,10 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication Bypass"
+    id="id-385711649eac4c499d37f3fc96e8d9f5">
+  <properties
+      key="CAPEC-ID"
+      value="115"/>
+  <profiles
+      href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
+</archimate:BusinessEvent>
