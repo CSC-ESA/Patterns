@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API Inbound Access"
-    id="id-c42c14f1349d4181b8aae26f5e781326">
+    name="API Inbound Access [Control Realization]"
+    id="id-c42c14f1349d4181b8aae26f5e781326"
+    viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4be48db396bb495ba7ea8291c1c403a3"
@@ -486,4 +487,26 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-dd3509ac0527459d822d49985f8957bd.xml#id-dd3509ac0527459d822d49985f8957bd"/>
   </children>
+  <properties
+      key="Also known as"/>
+  <properties
+      key="Applicability"/>
+  <properties
+      key="Contributor(s)"/>
+  <properties
+      key="Known deviations"/>
+  <properties
+      key="Known uses"/>
+  <properties
+      key="Known uses (structure)"/>
+  <properties
+      key="Other comments and references"/>
+  <properties
+      key="References"/>
+  <properties
+      key="Related Controls"/>
+  <properties
+      key="Variants, refinements and combinations"/>
+  <properties
+      key="Version"/>
 </archimate:ArchimateDiagramModel>
