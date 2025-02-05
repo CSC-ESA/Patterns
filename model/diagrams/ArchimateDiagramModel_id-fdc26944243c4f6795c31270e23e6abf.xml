@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outbound Web Access"
-    id="id-fdc26944243c4f6795c31270e23e6abf">
+    id="id-fdc26944243c4f6795c31270e23e6abf"
+    documentation="# Outbound Web Access Pattern&#xD;&#xA;## Structure description&#xD;&#xA;The diagram reads right to left. Connections can be initiated from - a managed virtual desktop (on a trusted network)&#xD;&#xA;    - a managed physical laptop (on a trusted network)&#xD;&#xA;    - an internal application (on a trusted network)&#xD;&#xA;    - a managed physical laptop (on an untrusted network) &#xD;&#xA;&#xD;&#xA;All connections always pass via an outbound zone where controls are enforced, and are only allowed to the remote location via HTTPS, which in turn is tunneled through a leased line, a VPN, or the public Internet.&#xD;&#xA;&#xD;&#xA;## Trade-offs, design constraints, dependencies&#xD;&#xA;&lt;Not currently documented>">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c3b5000acfa8496d8d4271600874e4e5">
@@ -455,4 +456,37 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-9a0546ecf9ed442dbb6de174d5ac39fd.xml#id-9a0546ecf9ed442dbb6de174d5ac39fd"/>
   </children>
+  <properties
+      key="Version"
+      value="0.1"/>
+  <properties
+      key="Also known as"
+      value="&lt;Not currently known>"/>
+  <properties
+      key="Contributor(s)"
+      value="Kris Vercauteren, Michael Boeynaems"/>
+  <properties
+      key="References"
+      value="https://www.opensecurityarchitecture.org/cms/library/patternlandscape/222-pattern-public-web-server"/>
+  <properties
+      key="Intent"
+      value="Securing web access for collaborators that access resources on the public internet."/>
+  <properties
+      key="Applicability"
+      value="Applicable to all connections initiated from company-managed devices."/>
+  <properties
+      key="Variants, refinements and combinations"
+      value="&lt;No alternatives currently known>"/>
+  <properties
+      key="Known uses"
+      value="Connections of managed physical laptops and connections of managed virtual desktops."/>
+  <properties
+      key="Known uses (structure)"
+      value="&lt;not relevant for CSC>"/>
+  <properties
+      key="Other comments and references"
+      value="&lt;no comments>"/>
+  <properties
+      key="Known deviations"
+      value="&lt;not relevant for CSC>"/>
 </archimate:ArchimateDiagramModel>
