@@ -2,6 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CSC-Patterns"
     id="id-af59eafd9fe94764955eb59b586788e2"
+    purpose="Welcome to the patterns library of CSC.&#xD;&#xA;This browser allows you to explore the current ArchiMate-based pattern library."
     version="5.0.0">
   <profiles
       name="Threat Event"
