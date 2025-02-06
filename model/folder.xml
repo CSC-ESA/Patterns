@@ -2,8 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CSC-Patterns"
     id="id-af59eafd9fe94764955eb59b586788e2"
-    purpose="Welcome to the patterns library of CSC.&#xD;&#xA;This browser allows you to explore the current ArchiMate-based pattern library."
+    purpose="# CSC Patterns Library&#xD;&#xA;Welcome to the patterns library of the Cyber Security Coalition Belgium!&#xD;&#xA;&#xD;&#xA;In this library, coalition members publish security patterns in the ArchiMate modeling language.&#xD;&#xA;This allows the reader to explore the security patterns library in an Archi model or in an HTML export environment.&#xD;&#xA;&#xD;&#xA;## Using the Library&#xD;&#xA;For the security patterns themselves, check out the &quot;Patterns&quot; folder (under &quot;Views&quot;).&#xD;&#xA;In this folder patterns are organized into subfolders which contain the relevant pattern views.&#xD;&#xA;Contributors additionally make use of properties to add meta-data to patterns, just click &quot;Properties&quot; under a view to access this information.&#xD;&#xA;&#xD;&#xA;For general background and supporting views, check out the &quot;Background&quot; folder (under &quot;Views&quot;).&#xD;&#xA;&#xD;&#xA;To return to the homepage, go to &quot;properties&quot;->&quot;homepage&quot; on this page."
     version="5.0.0">
+  <properties
+      key="repository"
+      value="https://github.com/CSC-ESA/Patterns"/>
+  <properties
+      key="homepage"
+      value="https://csc-esa.github.io/Patterns"/>
   <profiles
       name="Threat Event"
       id="id-70efeca872514b6c844a4dc80b02963e"
