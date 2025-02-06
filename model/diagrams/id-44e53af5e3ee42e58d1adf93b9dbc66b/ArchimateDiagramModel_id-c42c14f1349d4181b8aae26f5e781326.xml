@@ -508,5 +508,6 @@
   <properties
       key="Variants, refinements and combinations"/>
   <properties
-      key="Version"/>
+      key="Version"
+      value="0.1"/>
 </archimate:ArchimateDiagramModel>
