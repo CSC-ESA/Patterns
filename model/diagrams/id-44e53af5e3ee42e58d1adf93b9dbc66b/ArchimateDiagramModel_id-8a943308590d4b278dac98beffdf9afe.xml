@@ -431,9 +431,6 @@
       key="Applicability"
       value="Applicable to all connections initiated from company-managed devices."/>
   <properties
-      key="Variants, refinements and combinations"
-      value="&lt;No alternatives currently known>"/>
-  <properties
       key="Known uses"
       value="Connections of managed physical laptops and connections of managed virtual desktops."/>
   <properties
@@ -445,4 +442,7 @@
   <properties
       key="Known deviations"
       value="&lt;not relevant for CSC>"/>
+  <properties
+      key="Variants, refinements and combinations"
+      value="OWA Control Realization"/>
 </archimate:ArchimateDiagramModel>

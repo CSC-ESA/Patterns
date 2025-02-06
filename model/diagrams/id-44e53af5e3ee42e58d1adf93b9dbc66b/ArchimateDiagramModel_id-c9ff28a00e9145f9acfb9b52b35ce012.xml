@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API Inbound Access [Threat Model]"
     id="id-c9ff28a00e9145f9acfb9b52b35ce012"
+    documentation="# API Inbound Access&#xD;&#xA;## Structure description&#xD;&#xA;&lt;Not currently documented>&#xD;&#xA;&#xD;&#xA;## Trade-offs, design constraints, dependencies&#xD;&#xA;&lt;Not currently documented>"
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -446,25 +447,31 @@
         href="BusinessEvent_id-62368b0876264e7d9a531bebd8485602.xml#id-62368b0876264e7d9a531bebd8485602"/>
   </children>
   <properties
-      key="Also known as"/>
+      key="Also known as"
+      value="&lt;Not currently known>"/>
   <properties
       key="Applicability"/>
   <properties
-      key="Contributor(s)"/>
+      key="Contributor(s)"
+      value="Kris Vercauteren, Michael Boeynaems, Roos Hubrechtsen"/>
   <properties
-      key="Known deviations"/>
+      key="Intent"/>
+  <properties
+      key="Known deviations"
+      value="&lt;not relevant for CSC>"/>
   <properties
       key="Known uses"/>
   <properties
-      key="Known uses (structure)"/>
+      key="Known uses (structure)"
+      value="&lt;not relevant for CSC>"/>
   <properties
-      key="Other comments and references"/>
+      key="Other comments and references"
+      value="&lt;no comments>"/>
   <properties
       key="References"/>
   <properties
-      key="Related Controls"/>
-  <properties
-      key="Variants, refinements and combinations"/>
+      key="Variants, refinements and combinations"
+      value="API IA Control Realization"/>
   <properties
       key="Version"
       value="0.1"/>

@@ -443,7 +443,7 @@
       value="Applicable to all connections initiated from company-managed devices."/>
   <properties
       key="Variants, refinements and combinations"
-      value="&lt;No alternatives currently known>"/>
+      value="OWA Threat Model"/>
   <properties
       key="Known uses"
       value="Connections of managed physical laptops and connections of managed virtual desktops."/>
