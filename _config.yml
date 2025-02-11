@@ -1,3 +1,4 @@
 remote_theme: pages-themes/architect@v0.2.0
+markdown: GFM
 plugins:
   - jekyll-remote-theme
