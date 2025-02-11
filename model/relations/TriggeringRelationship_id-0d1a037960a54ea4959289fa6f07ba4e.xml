@@ -5,6 +5,9 @@
   <properties
       key="Protocol"
       value="Leased line"/>
+  <properties
+      key="Authentication"
+      value="Any"/>
   <source
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_id-cc8acd3879a9487aa7f5462b8bdeca8a.xml#id-cc8acd3879a9487aa7f5462b8bdeca8a"/>

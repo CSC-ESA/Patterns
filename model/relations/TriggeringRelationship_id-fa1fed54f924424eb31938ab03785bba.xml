@@ -3,12 +3,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-fa1fed54f924424eb31938ab03785bba">
   <properties
-      key="Status"/>
-  <properties
       key="Protocol"
       value="VPN"/>
   <properties
-      key="Flow number"/>
+      key="Authentication"
+      value="Any"/>
   <source
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_id-cc8acd3879a9487aa7f5462b8bdeca8a.xml#id-cc8acd3879a9487aa7f5462b8bdeca8a"/>

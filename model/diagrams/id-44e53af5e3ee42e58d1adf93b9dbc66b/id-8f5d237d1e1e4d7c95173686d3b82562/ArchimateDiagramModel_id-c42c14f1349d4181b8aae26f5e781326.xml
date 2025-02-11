@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API Inbound Access [Control Realization]"
     id="id-c42c14f1349d4181b8aae26f5e781326"
-    documentation="# API Inbound Access&#xD;&#xA;## Structure description&#xD;&#xA;&lt;Not currently documented>&#xD;&#xA;&#xD;&#xA;## Trade-offs, design constraints, dependencies&#xD;&#xA;&lt;Not currently documented>"
+    documentation="The diagram reads top to bottom.&#xD;&#xA;•&#x9;API consumer connects with valid Access token over HTTPS to the WAF that performs specific controls.&#xD;&#xA;•&#x9;WAF forwards the request to the API GW whilst passing external access token. API GW executes then its set of controls.&#xD;&#xA;•&#x9;API GW calls token service to SWAP token type&#xD;&#xA;•&#x9;API GW finally send the call with internal token to the API component in scope that executes also specific controls&#xD;&#xA;"
     viewpoint="requirements_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -32,6 +32,9 @@
           id="id-7ddcf1d784ca4326bf88265be06e2904"
           source="id-525b1b3db4c745bfa52686a34f1ed2ef"
           target="id-68ef65f6a0ea4931ab50ef64753eede7">
+        <features
+            name="labelExpression"
+            value="[${property:Protocol}]&#xD;&#xA;[${property:Authentication}]"/>
         <bendpoints
             startY="45"
             endX="-54"
@@ -143,6 +146,9 @@
           id="id-cb7f2f4ac9614d64814821b0b81d861d"
           source="id-68ef65f6a0ea4931ab50ef64753eede7"
           target="id-f6df3bf84a8141909947d580f45ae6f6">
+        <features
+            name="labelExpression"
+            value="[${property:Protocol}]&#xD;&#xA;[${property:Authentication}]"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-9078e9aa87c442a9b01ea46af7a67ef7.xml#id-9078e9aa87c442a9b01ea46af7a67ef7"/>
@@ -220,6 +226,9 @@
           id="id-b698c7dfa37543b5b74df1e9ca1d489a"
           source="id-f6df3bf84a8141909947d580f45ae6f6"
           target="id-1180ae9a803c4522b192d3f434d14bad">
+        <features
+            name="labelExpression"
+            value="[${property:Protocol}]&#xD;&#xA;[${property:Authentication}]"/>
         <bendpoints
             startX="-6"
             startY="57"
@@ -243,6 +252,9 @@
           id="id-c573242309be492da157469e55ef03b2"
           source="id-f6df3bf84a8141909947d580f45ae6f6"
           target="id-bb1111dd31a7449e95152a70e0548da2">
+        <features
+            name="labelExpression"
+            value="[${property:Protocol}]&#xD;&#xA;[${property:Authentication}]"/>
         <bendpoints
             startX="198"
             startY="21"
@@ -489,32 +501,27 @@
         href="Requirement_id-dd3509ac0527459d822d49985f8957bd.xml#id-dd3509ac0527459d822d49985f8957bd"/>
   </children>
   <properties
+      key="Version"
+      value="0.1"/>
+  <properties
       key="Also known as"
       value="&lt;Not currently known>"/>
   <properties
+      key="Intent"/>
+  <properties
       key="Applicability"/>
+  <properties
+      key="Scope"/>
   <properties
       key="Contributor(s)"
       value="Kris Vercauteren, Michael Boeynaems, Roos Hubrechtsen"/>
   <properties
-      key="Intent"/>
-  <properties
-      key="Known deviations"
-      value="&lt;not relevant for CSC>"/>
-  <properties
-      key="Known uses"/>
-  <properties
-      key="Known uses (structure)"
-      value="&lt;not relevant for CSC>"/>
-  <properties
-      key="Other comments and references"
-      value="&lt;no comments>"/>
+      key="Conditions"/>
   <properties
       key="References"/>
   <properties
-      key="Variants, refinements and combinations"
-      value="API IA Threat Model"/>
+      key="Dependencies"/>
   <properties
-      key="Version"
-      value="0.1"/>
+      key="Variations"
+      value="API IA Threat Model"/>
 </archimate:ArchimateDiagramModel>

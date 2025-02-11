@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-9684b72c9a98429b892885eea43098a4">
+    id="id-9684b72c9a98429b892885eea43098a4"
+    directed="true">
   <source
       xsi:type="archimate:Requirement"
       href="Requirement_id-0e8bde2fef02429b9f757c9da13ee391.xml#id-0e8bde2fef02429b9f757c9da13ee391"/>

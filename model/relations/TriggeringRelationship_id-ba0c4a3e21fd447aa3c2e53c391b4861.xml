@@ -3,12 +3,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-ba0c4a3e21fd447aa3c2e53c391b4861">
   <properties
-      key="Status"/>
-  <properties
       key="Protocol"
       value="HTTPS"/>
   <properties
-      key="Flow number"/>
+      key="Authentication"
+      value="Any"/>
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-704c58a7507d429996bb34aa9e3366cc.xml#id-704c58a7507d429996bb34aa9e3366cc"/>

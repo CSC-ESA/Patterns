@@ -3,6 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HTTPS (External token)"
     id="id-cfc8ac66a3f94a9fbf1694a8ca6ea0ab">
+  <properties
+      key="Protocol"
+      value="HTTPS"/>
+  <properties
+      key="Authentication"
+      value="External token"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-523fae110c1d4debb45e25c3d4b0c206.xml#id-523fae110c1d4debb45e25c3d4b0c206"/>
