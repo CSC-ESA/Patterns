@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Code Injection</title>
+	<title>CAPEC-242: Code Injection</title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,7 +21,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>Code Injection</b>
+               <b>CAPEC-242: Code Injection</b>
 
             <!-- If a View with Viewpoint -->
 			   (<span class="i18n-elementtype-BusinessEvent"></span>)
@@ -51,7 +51,7 @@
 							<br>
 							<b class="i18n-specialization"></b>
 								Threat Event
-						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">An adversary exploits a weakness in input validation on the target to inject new code into that which is currently executing. This differs from code inclusion in that code inclusion involves the addition or replacement of a reference to a code file, which is subsequently loaded by the target and used as part of the code of some application.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -62,7 +62,7 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr><td>CAPEC-ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
+								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-242</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">02/05/25 12:07:40</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">242</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Stable</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::The target software does not validate user-controlled input such that the execution of a process may be altered by sending code in through legitimate data channels, using no other mechanism.::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Other:NOTE:Code Injection attack patterns can result in a wide variety of consequences and negatively affect all three elements of the security triad.::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Utilize strict type, character, and encoding enforcement::Ensure all input content that is delivered to client is sanitized against an acceptable content specification.::Perform input validation for all content.::Enforce regular patching of software.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::94::</td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap">TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Code Injection::</td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
 							</tbody>
 						</table>
 					</div>

@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Parameter Injection</title>
+	<title>CAPEC-137: Parameter Injection</title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,7 +21,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>Parameter Injection</b>
+               <b>CAPEC-137: Parameter Injection</b>
 
             <!-- If a View with Viewpoint -->
 			   (<span class="i18n-elementtype-BusinessEvent"></span>)
@@ -51,7 +51,7 @@
 							<br>
 							<b class="i18n-specialization"></b>
 								Threat Event
-						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">An adversary manipulates the content of request parameters for the purpose of undermining the security of the target. Some parameter encodings use text characters as separators. For example, parameters in a HTTP GET message are encoded as name-value pairs separated by an ampersand (&amp;). If an attacker can supply text strings that are used to fill in these parameters, then they can inject special characters used in the encoding scheme to add or modify parameters. For example, if user input is fed directly into an HTTP GET request and the user provides the value myInput&amp;new_param=myValue, then the input parameter is set to myInput, but a new parameter (new_param) is also added with a value of myValue. This can significantly change the meaning of the query that is processed by the server. Any encoding scheme where parameters are identified and separated by text characters is potentially vulnerable to this attack - the HTTP GET encoding used above is just one example.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -62,7 +62,7 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr><td>CAPEC-ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
+								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-137</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">02/05/25 12:07:40</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">137</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Stable</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Medium</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Medium</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::The target application must use a parameter encoding where separators and parameter identifiers are expressed in regular text.::The target application must accept a string as user input, fail to sanitize characters that have a special meaning in the parameter encoding, and insert the user-supplied string in an encoding which is then processed.::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::None: No specialized resources are required to execute this type of attack. The only requirement is the ability to provide string input to the target.::</td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data:NOTE:Successful parameter injection attacks mean a compromise to integrity of the application.::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Implement an audit log written to a separate host. In the event of a compromise, the audit log may be able to provide evidence and details of the compromise.::Treat all user input as untrusted data that must be validated before use.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::88::</td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
 							</tbody>
 						</table>
 					</div>

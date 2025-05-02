@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>CAPEC-22: Exploiting Trust in Client</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>CAPEC-22: Exploiting Trust in Client</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessEvent"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessEvent" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">An attack of this type exploits vulnerabilities in client/server communication channel authentication and data integrity. It leverages the implicit trust a server places in the client, or more importantly, that which the server believes is the client. An attacker executes this type of attack by communicating directly with the server where the server believes it is communicating only with a valid client. There are numerous variations of this type of attack.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-22</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">02/05/25 12:07:40</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">22</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Draft</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Server software must rely on client side formatted and validated values, and not reinforce these checks on the server side.::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SKILL:The attacker must have fairly detailed knowledge of the syntax and semantics of client/server communications protocols and grammars:LEVEL:Medium::</td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Ability to communicate synchronously or asynchronously with server::</td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:Run Arbitrary Code::SCOPE:Confidentiality:SCOPE:Access Control:SCOPE:Authorization:TECHNICAL IMPACT:Gain Privileges::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Design: Ensure that client process and/or message is authenticated so that anonymous communications and/or messages are not accepted by the system.::Design: Do not rely on client validation or encoding for security purposes.::Design: Utilize digital signatures to increase authentication assurance.::Design: Utilize two factor authentication to increase authentication assurance.::Implementation: Perform input validation for all remote content.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Web applications may use JavaScript to perform client side validation, request encoding/formatting, and other security functions, which provides some usability benefits and eliminates some client-server round-tripping. However, the web server cannot assume that the requests it receives have been subject to those validations, because an attacker can use an alternate method for crafting the HTTP Request and submit data that contains poisoned values designed to spoof a user and/or get the web server to disclose information.::Web 2.0 style applications may be particularly vulnerable because they in large part rely on existing infrastructure which provides scalability without the ability to govern the clients. Attackers identify vulnerabilities that either assume the client side is responsible for some security services (without the requisite ability to ensure enforcement of these checks) and/or the lack of a hardened, default deny server configuration that allows for an attacker probing for weaknesses in unexpected ways. Client side validation, request formatting and other services may be performed, but these are strictly usability enhancements not security enhancements.::Many web applications use client side scripting like JavaScript to enforce authentication, authorization, session state and other variables, but at the end of day they all make requests to the server. These client side checks may provide usability and performance gains, but they lack integrity in terms of the http request. It is possible for an attacker to post variables directly to the server without using any of the client script security checks and customize the patterns to impersonate other users or probe for more information.::Many message oriented middleware systems like MQ Series are rely on information that is passed along with the message request for making authorization decisions, for example what group or role the request should be passed. However, if the message server does not or cannot authenticate the authorization information in the request then the server's policy decisions about authorization are trivial to subvert because the client process can simply elevate privilege by passing in elevated group or role information which the message server accepts and acts on.::</td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::290::287::20::200::693::</td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-4a98b4df7a5a4591bf1183dbc592d764">
+																	<td><a href="../views/id-4a98b4df7a5a4591bf1183dbc592d764.html" target="view" title="CAPEC Threat Library"> CAPEC Threat Library </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>CAPEC-548: Contaminate Resource</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>CAPEC-548: Contaminate Resource</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessEvent"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessEvent" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">An adversary contaminates organizational information systems (including devices and networks) by causing them to handle information of a classification/sensitivity for which they have not been authorized. When this happens, the contaminated information system, device, or network must be brought offline to investigate and mitigate the data spill, which denies availability of the system until the investigation is complete.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-548</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">02/05/25 12:07:40</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">548</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Draft</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::TERM:Data Spill:DESCRIPTION:When information is handled by an information system of a classification/sensitivity for which the system has not been authorized to handle.::</td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Low</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::NATURE:CanPrecede:CAPEC ID:607::</td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::The adversary needs to have real or fake classified/sensitive information to place on a system::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SKILL:Knowledge of classification levels of systems:LEVEL:Low::SKILL:The ability to obtain a classified document or information:LEVEL:High::SKILL:The ability to fake a classified document:LEVEL:Low::</td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Availability:TECHNICAL IMPACT:Resource Consumption:NOTE:Denial of Service::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data:NOTE:Victims of the attack can be exposed to classified materials::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Properly safeguard classified/sensitive data. This includes training cleared individuals to ensure they are handling and disposing of this data properly, as well as ensuring systems only handle information of the classification level they are designed for.::Design systems with redundancy in mind. This could mean creating backing servers that could be switched over to in the event that a server has to be taken down for investigation.::Have a planned and efficient response plan to limit the amount of time a system is offline while the contamination is investigated.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::An insider threat was able to obtain a classified document. They have knowledge that a backend server which provides access to a website also runs a mail server. The adversary creates a throwaway email address and sends the classified document to the mail server. When an administrator checks the mail server they notice that it has processed an email with a classified document and the server has to be taken offline while they investigate the contamination. In the meantime, the website has to be taken down as well and access to the website is denied until the backend can be migrated to another server or the investigation is complete.::</td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-4a98b4df7a5a4591bf1183dbc592d764">
+																	<td><a href="../views/id-4a98b4df7a5a4591bf1183dbc592d764.html" target="view" title="CAPEC Threat Library"> CAPEC Threat Library </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

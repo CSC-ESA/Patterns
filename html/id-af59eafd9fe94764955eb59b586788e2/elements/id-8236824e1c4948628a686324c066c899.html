@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Leveraging Race Conditions</title>
+	<title>CAPEC-26: Leveraging Race Conditions</title>
 
 	<!-- JQUERY -->
 	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
@@ -21,7 +21,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>Leveraging Race Conditions</b>
+               <b>CAPEC-26: Leveraging Race Conditions</b>
 
             <!-- If a View with Viewpoint -->
 			   (<span class="i18n-elementtype-BusinessEvent"></span>)
@@ -51,7 +51,7 @@
 							<br>
 							<b class="i18n-specialization"></b>
 								Threat Event
-						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">The adversary targets a race condition occurring when multiple processes access and manipulate the same resource concurrently, and the outcome of the execution depends on the particular order in which the access takes place. The adversary can leverage a race condition by running the race, modifying the resource and modifying the normal execution flow. For instance, a race condition can occur while accessing a file: the adversary can trick the system by replacing the original file with their version and cause the system to read the malicious file.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -62,7 +62,7 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr><td>CAPEC-ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
+								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-26</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">02/05/25 12:07:40</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">26</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Stable</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::STEP:1:PHASE:Explore:DESCRIPTION:The adversary explores to gauge what level of access they have.::STEP:2:PHASE:Experiment:DESCRIPTION:The adversary gains access to a resource on the target host. The adversary modifies the targeted resource. The resource's value is used to determine the next normal execution action.::STEP:3:PHASE:Exploit:DESCRIPTION:The resource is modified/checked concurrently by multiple processes. By using one of the processes, the adversary is able to modify the value just before it is consumed by a different process. A race condition occurs and is exploited by the adversary to abuse the target host.::</td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::A resource is accessed/modified concurrently by multiple processes such that a race condition exists.::The adversary has the ability to modify the resource.::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SKILL:Being able to run the race requires basic knowledge of concurrent processing including synchonization techniques.:LEVEL:Medium::</td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Confidentiality:SCOPE:Access Control:SCOPE:Authorization:TECHNICAL IMPACT:Gain Privileges::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::Use safe libraries to access resources such as files.::Be aware that improper use of access function calls such as chown(), tempfile(), chmod(), etc. can cause a race condition.::Use synchronization to control the flow of execution.::Use static analysis tools to find race conditions.::Pay attention to concurrency problems related to the access of resources.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::The Net Direct client for Linux before 6.0.5 in Nortel Application Switch 2424, VPN 3050 and 3070, and SSL VPN Module 1000 extracts and executes files with insecure permissions, which allows local users to exploit a race condition to replace a world-writable file in /tmp/NetClient and cause another user to execute arbitrary code when attempting to execute this client, as demonstrated by replacing /tmp/NetClient/client. See also: CVE-2007-1057::The following code illustrates a file that is accessed multiple times by name in a publicly accessible directory. A race condition exists between the accesses where an attacker can replace the file referenced by the name (see [REF-107]). include &lt;sys/types.h&gt;include &lt;fcntl.h&gt;include &lt;unistd.h&gt; define FILE /tmp/myfiledefine UID 100 void test(char *str){int fd;fd = creat(FILE, 0644);if(fd == -1)return; chown(FILE, UID, -1); /* BAD */close(fd); } int main(int argc, char **argv){char *userstr;if(argc &gt; 1) {userstr = argv[1];test(userstr); }return 0; }::</td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::368::363::366::370::362::662::689::667::665::1223::1254::1298::</td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
 							</tbody>
 						</table>
 					</div>
