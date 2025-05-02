@@ -51,6 +51,10 @@
 							<ul>
                                 <li class="tree-folder "><span class="i18n-strategy"><i class="glyphicon glyphicon-triangle-right"></i> </span>
                                     <ul>
+                                    	<li class="tree-folder "><span><i class="glyphicon glyphicon-triangle-right"></i> test_faa </span>
+                                    		<ul>
+                                    		</ul>
+                                    		</li>
                                     </ul>
                                 </li>
 								<li class="tree-folder "><span class="i18n-business_layer"><i class="glyphicon glyphicon-triangle-right"></i> </span>
@@ -1359,17 +1363,9 @@
 															<span class="i18n-elementtype-AssociationRelationship"></span>
 														(SC-7.g : Authentication / Authorization - Adversary in the Middle (AiTM)) 
 													</a></li>
-													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-615b2875aad54482b2fac5b37f805313.html" target="element">
-															<span class="i18n-elementtype-AssociationRelationship"></span>
-														(AC-4(25): Information Flow Enforcement | Data Sanitization - Adversary in the Middle (AiTM)) 
-													</a></li>
 													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-6b9249fe6a0d4512ba7c1f7201a0c0b0.html" target="element">
 															<span class="i18n-elementtype-AssociationRelationship"></span>
 														(SI-10: Information Input Validation - Command Injection) 
-													</a></li>
-													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-6c7bc41b586f417c8f0a38f1e233f702.html" target="element">
-															<span class="i18n-elementtype-AssociationRelationship"></span>
-														(AC-3: Access Enforcement - Adversary in the Middle (AiTM)) 
 													</a></li>
 													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-73b469df3b784150b2403d35b4ccb99c.html" target="element">
 															<span class="i18n-elementtype-AssociationRelationship"></span>
@@ -1381,7 +1377,7 @@
 													</a></li>
 													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-90a5962cbeda4e2abb3b1554f6729734.html" target="element">
 															<span class="i18n-elementtype-AssociationRelationship"></span>
-														(AC-4(25): Information Flow Enforcement | Data Sanitization - Interception) 
+														(AC-4(25): Information Flow Enforcement | Data Sanitization - Command Injection) 
 													</a></li>
 													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-9194e0a9e53945729f0dcddf65b01a5a.html" target="element">
 															<span class="i18n-elementtype-AssociationRelationship"></span>
@@ -1595,7 +1591,11 @@
 															HTTPS (Internal token)
 														(API Gateway - API endpoint) 
 													</a></li>
-													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-60e0feef58db4192b9cfb177eb6f6abb.html" target="element">
+													<li class="tree-element  "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-0e1ace8e15f24ee9b0eaeb7fe7ebc81c.html" target="element">
+															<span class="i18n-elementtype-TriggeringRelationship"></span>
+														(Client application - API endpoint) 
+													</a></li>
+													<li class="tree-element  "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-60e0feef58db4192b9cfb177eb6f6abb.html" target="element">
 															<span class="i18n-elementtype-TriggeringRelationship"></span>
 														(Internal application service - External networks) 
 													</a></li>
@@ -1603,7 +1603,7 @@
 															HTTPS (External token)
 														(WAF - API Gateway) 
 													</a></li>
-													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-9cd6cd9428d74d9ea2ad2a27634664b6.html" target="element">
+													<li class="tree-element  "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-9cd6cd9428d74d9ea2ad2a27634664b6.html" target="element">
 															<span class="i18n-elementtype-TriggeringRelationship"></span>
 														(Browser - External networks) 
 													</a></li>
@@ -1631,9 +1631,25 @@
 															<span class="i18n-elementtype-TriggeringRelationship"></span>
 														(Proxying service - External networks) 
 													</a></li>
-													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-0e1ace8e15f24ee9b0eaeb7fe7ebc81c.html" target="element">
-															<span class="i18n-elementtype-TriggeringRelationship"></span>
-														(Client application - API endpoint) 
+													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-0d226772784b4d0b86beb1f95202cd05.html" target="element">
+															<span class="i18n-elementtype-AssociationRelationship"></span>
+														(SC-13: Cryptographic Protection - Adversary in the Middle (AiTM)) 
+													</a></li>
+													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-d43244af3b2b4b828d1d32558ed4c1ae.html" target="element">
+															<span class="i18n-elementtype-RealizationRelationship"></span>
+														(WAF - SC-13: Cryptographic Protection) 
+													</a></li>
+													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-2a30feff366446c5bd60f289a5b0c417.html" target="element">
+															<span class="i18n-elementtype-RealizationRelationship"></span>
+														(API Gateway - SC-13: Cryptographic Protection) 
+													</a></li>
+													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-4ea0dbbacba54e7bb55891a3e2b10540.html" target="element">
+															<span class="i18n-elementtype-RealizationRelationship"></span>
+														(API endpoint - SC-13: Cryptographic Protection) 
+													</a></li>
+													<li class="tree-element "><a href="id-af59eafd9fe94764955eb59b586788e2/elements/id-b12c11e64abd47829671885691df8722.html" target="element">
+															<span class="i18n-elementtype-RealizationRelationship"></span>
+														(Token Service - SC-13: Cryptographic Protection) 
 													</a></li>
 
 									</ul>
