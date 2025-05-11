@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-11: Development Environment"
+    id="id-f6dc4f53c7f94fd7a024562fa3d853b2">
+  <properties
+      key="ID"
+      value="NORA-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="In this zone, new products are developed and tested, or systems are isolated pending approval for deployment in the organization's production environment. The development domain is classified as semi-trusted, as it requires the use of utilities and tools that are either restricted or not permitted in production environments."/>
+</archimate:CommunicationNetwork>

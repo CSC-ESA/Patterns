@@ -1,9 +1,66 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Use of Known Domain Credentials"
-    id="id-d25f68223d2c462c8454348ec6c6bd74">
+    name="CAPEC-560: Use of Known Domain Credentials"
+    id="id-d25f68223d2c462c8454348ec6c6bd74"
+    documentation="An adversary guesses or obtains (i.e. steals or purchases) legitimate credentials (e.g. userID/password) to achieve authentication and to perform authorized actions under the guise of an authenticated user or service.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-560"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="560"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"
+      value="::NATURE:CanPrecede:CAPEC ID:151::"/>
+  <properties
+      key="Execution Flow"
+      value="::STEP:1:PHASE:Explore:DESCRIPTION:[Acquire known credentials] The adversary must obtain known credentials in order to access the target system, application, or service.:TECHNIQUE:An adversary purchases breached username/password combinations or leaked hashed passwords from the dark web.:TECHNIQUE:An adversary leverages a key logger or phishing attack to steal user credentials as they are provided.:TECHNIQUE:An adversary conducts a sniffing attack to steal credentials as they are transmitted.:TECHNIQUE:An adversary gains access to a database and exfiltrates password hashes.:TECHNIQUE:An adversary examines outward-facing configuration and properties files to discover hardcoded credentials.::STEP:2:PHASE:Explore:DESCRIPTION:[Determine target's password policy] Determine the password policies of the target system/application to determine if the known credentials fit within the specified criteria.:TECHNIQUE:Determine minimum and maximum allowed password lengths.:TECHNIQUE:Determine format of allowed passwords (whether they are required or allowed to contain numbers, special characters, etc., or whether they are allowed to contain words from the dictionary).:TECHNIQUE:Determine account lockout policy (a strict account lockout policy will prevent brute force attacks if multiple passwords are known for a single user account).::STEP:3:PHASE:Experiment:DESCRIPTION:[Attempt authentication] Try each credential until the target grants access.:TECHNIQUE:Manually or automatically enter each credential through the target's interface.::STEP:4:PHASE:Exploit:DESCRIPTION:[Impersonate] An adversary can use successful experiments or authentications to impersonate an authorized user or system, or to laterally move within a system or application::STEP:5:PHASE:Exploit:DESCRIPTION:[Spoofing] Malicious data can be injected into the target system or into a victim user's system by an adversary. The adversary can also pose as a legitimate user to perform social engineering attacks.::STEP:6:PHASE:Exploit:DESCRIPTION:[Data Exfiltration] The adversary can obtain sensitive data contained within the system or application.::"/>
+  <properties
+      key="Prerequisites"
+      value="::The system/application uses one factor password based authentication, SSO, and/or cloud-based authentication.::The system/application does not have a sound password policy that is being enforced.::The system/application does not implement an effective password throttling mechanism.::The adversary possesses a list of known user accounts and corresponding passwords that may exist on the target.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Once an adversary obtains a known credential, leveraging it is trivial.:LEVEL:Low::"/>
+  <properties
+      key="Resources Required"
+      value="::A list of known credentials.::A custom script that leverages the credential list to launch an attack.::"/>
+  <properties
+      key="Indicators"
+      value="::Authentication attempts use credentials that have been used previously by the account in question.::Authentication attempts are originating from IP addresses or locations that are inconsistent with the user's normal IP addresses or locations.::Data is being transferred and/or removed from systems/applications within the network.::Suspicious or Malicious software is downloaded/installed on systems within the domain.::Messages from a legitimate user appear to contain suspicious links or communications not consistent with the user's normal behavior.::"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Access Control:SCOPE:Authentication:TECHNICAL IMPACT:Gain Privileges::SCOPE:Confidentiality:SCOPE:Authorization:TECHNICAL IMPACT:Read Data::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::"/>
+  <properties
+      key="Mitigations"
+      value="::Leverage multi-factor authentication for all authentication services and prior to granting an entity access to the domain network.::Create a strong password policy and ensure that your system enforces this policy.::Ensure users are not reusing username/password combinations for multiple systems, applications, or services.::Do not reuse local administrator account credentials across systems.::Deny remote use of local admin credentials to log into domain systems.::Do not allow accounts to be a local administrator on more than one system.::Implement an intelligent password throttling mechanism. Care must be taken to assure that these mechanisms do not excessively enable account lockout attacks such as CAPEC-2.::Monitor system and domain logs for abnormal credential access.::"/>
+  <properties
+      key="Example Instances"
+      value="::Throughout 2015 and 2016, APT28 — also known as Pawn Storm, Sednit, Fancy Bear, Sofacy, and STRONTIUM — leveraged stolen credentials to infiltrate the Democratic National Committee (DNC), the United States Army, the World Anti-Doping Agency (WADA), the Court of Arbitration for Sport (TAS-CAS), and more. In most cases, the legitimate credentials were obtained via calculated spearphishing, tabnabbing, and DNS attacks targeted at corporate webmail systems. APT28 also executed several watering hole attacks, in addition to exploiting several zero-day vulnerabilities within Flash and Windows. The stolen credentials were then utilized to maintain authenticated access, laterally move within the local network, and exfiltrate sensitive information including DNC emails and personal medical records of numerous athletes. [REF-571]::In early 2019, FIN6 exploited stolen credentials from an organization within the engineering industry to laterally move within an environment via the Windows’ Remote Desktop Protocol (RDP). Multiple servers were subsequently infected with malware to create malware distribution servers, which were used to distribute the LockerGoga ransomware. [REF-573]::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::522::307::308::309::262::263::654::1273::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1078:ENTRY NAME:Valid Accounts::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

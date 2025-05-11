@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-015: Eavesdropping"
+    id="id-c4a7a0f2fce6429f963d30f45b16b988">
+  <properties
+      key="ID"
+      value="BSI-T-015"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-015"/>
+</archimate:BusinessEvent>

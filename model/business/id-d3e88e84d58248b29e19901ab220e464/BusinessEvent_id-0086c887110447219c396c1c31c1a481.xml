@@ -1,0 +1,58 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-154: Resource Location Spoofing"
+    id="id-0086c887110447219c396c1c31c1a481"
+    documentation="An adversary deceives an application or user and convinces them to request a resource from an unintended location. By spoofing the location, the adversary can cause an alternate resource to be used, often one that the adversary controls and can be used to help them achieve their malicious goals.">
+  <properties
+      key="ID"
+      value="CAPEC-154"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="154"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::None. All applications rely on file paths and therefore, in theory, they or their resources could be affected by this type of attack.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::None: No specialized resources are required to execute this type of attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Authorization:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:Run Arbitrary Code::"/>
+  <properties
+      key="Mitigations"
+      value="::Monitor network activity to detect any anomalous or unauthorized communication exchanges.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::451::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

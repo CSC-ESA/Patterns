@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-22: Session hijacking"
+    id="id-8b51664e6a354ef494427cd7d1bc75dd"
+    documentation="Gain access to information systems or networks for the express purpose of taking control or hijacking a legitimate session between two entities">
+  <properties
+      key="ID"
+      value="SP-TE-22"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-22"/>
+</archimate:BusinessEvent>

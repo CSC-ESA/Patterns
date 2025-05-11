@@ -1,0 +1,54 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-272: Protocol Manipulation"
+    id="id-59aa19031c75450d90451fbd31d6096f"
+    documentation="An adversary subverts a communications protocol to perform an attack. This type of attack can allow an adversary to impersonate others, discover sensitive information, control the outcome of a session, or perform other attacks. This type of attack targets invalid assumptions that may be inherent in implementers of the protocol, incorrect implementations of the protocol, or vulnerabilities in the protocol itself.">
+  <properties
+      key="ID"
+      value="CAPEC-272"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="272"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The protocol or implementations thereof must contain bugs that an adversary can exploit.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::In some variants of this attack the adversary must be able to intercept communications using the protocol. This means they need to be able to receive the communications from one participant and prevent the other participant from receiving these communications.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

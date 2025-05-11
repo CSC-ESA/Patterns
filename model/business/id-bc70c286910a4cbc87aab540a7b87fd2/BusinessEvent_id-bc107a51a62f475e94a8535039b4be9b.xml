@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-006: Catastrophes in the Vicinity"
+    id="id-bc107a51a62f475e94a8535039b4be9b">
+  <properties
+      key="ID"
+      value="BSI-T-006"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-006"/>
+</archimate:BusinessEvent>

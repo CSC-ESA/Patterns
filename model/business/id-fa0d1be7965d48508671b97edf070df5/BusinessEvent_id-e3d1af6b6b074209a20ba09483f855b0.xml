@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STRIDE-002: Tampering"
+    id="id-e3d1af6b6b074209a20ba09483f855b0">
+  <properties
+      key="ID"
+      value="STRIDE-002"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:13:28"/>
+  <properties
+      key="Description"
+      value="Unauthorized modification of data, whether at rest or in transit. This can alter system behavior, compromise data integrity, or introduce malicious code."/>
+</archimate:BusinessEvent>

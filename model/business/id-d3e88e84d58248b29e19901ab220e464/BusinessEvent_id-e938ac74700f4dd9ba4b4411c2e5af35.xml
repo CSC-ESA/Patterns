@@ -1,9 +1,58 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Malicious Logic Insertion"
-    id="id-e938ac74700f4dd9ba4b4411c2e5af35">
+    name="CAPEC-441: Malicious Logic Insertion"
+    id="id-e938ac74700f4dd9ba4b4411c2e5af35"
+    documentation="An adversary installs or adds malicious logic (also known as malware) into a seemingly benign component of a fielded system. This logic is often hidden from the user of the system and works behind the scenes to achieve negative impacts. With the proliferation of mass digital storage and inexpensive multimedia devices, Bluetooth and 802.11 support, new attack vectors for spreading malware are emerging for things we once thought of as innocuous greeting cards, picture frames, or digital projectors. This pattern of attack focuses on systems already fielded and used in operation as opposed to systems and their components that are still under development and part of the supply chain.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-441"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="441"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Access to the component currently deployed at a victim location.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Authorization:TECHNICAL IMPACT:Execute Unauthorized Commands::"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::284::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

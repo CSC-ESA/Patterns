@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LINDDUN-001: Linking"
+    id="id-3c2b18c39a54491e895ca2d0489427f4">
+  <properties
+      key="ID"
+      value="LINDDUN-001"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:40:04"/>
+  <properties
+      key="Description"
+      value="Associating data items or user actions to learn more about an individual or group."/>
+</archimate:BusinessEvent>

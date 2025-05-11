@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-034: Assault"
+    id="id-14ace53102494dcd8d48c29fe038e855">
+  <properties
+      key="ID"
+      value="BSI-T-034"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-034"/>
+</archimate:BusinessEvent>

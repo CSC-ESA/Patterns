@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-26: Abuse of resources through misconfiguration"
+    id="id-0e88738751aa4f1e80555fb5c2c4a721"
+    documentation="Exploit of poorly configured information systems to conduct unauthorized activities or configuration changes">
+  <properties
+      key="ID"
+      value="SP-TE-26"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-26"/>
+</archimate:BusinessEvent>

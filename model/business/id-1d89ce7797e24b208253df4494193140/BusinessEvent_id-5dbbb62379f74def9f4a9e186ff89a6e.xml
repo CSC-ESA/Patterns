@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-28: Infection from malware, worms or trojans"
+    id="id-5dbbb62379f74def9f4a9e186ff89a6e"
+    documentation="Trusted applications or services are compromised through malware infection, worms or trojans">
+  <properties
+      key="ID"
+      value="SP-TE-28"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-28"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-004: Pollution, Dust, Corrosion"
+    id="id-a8ef47adb34544dbb4c02d5b977c5c86">
+  <properties
+      key="ID"
+      value="BSI-T-004"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-004"/>
+</archimate:BusinessEvent>

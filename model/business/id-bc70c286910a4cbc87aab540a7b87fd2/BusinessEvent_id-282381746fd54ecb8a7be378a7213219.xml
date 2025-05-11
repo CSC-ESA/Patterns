@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-028: Software Vulnerabilities or Errors"
+    id="id-282381746fd54ecb8a7be378a7213219">
+  <properties
+      key="ID"
+      value="BSI-T-028"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-028"/>
+</archimate:BusinessEvent>

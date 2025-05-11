@@ -1,9 +1,57 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Software Integrity Attack"
-    id="id-e6d951828339465bb1e7e71e64738465">
+    name="CAPEC-184: Software Integrity Attack"
+    id="id-e6d951828339465bb1e7e71e64738465"
+    documentation="An attacker initiates a series of events designed to cause a user, program, server, or device to perform actions which undermine the integrity of software code, device data structures, or device firmware, achieving the modification of the target's integrity to achieve an insecure state.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-184"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="184"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"
+      value="Low"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Manual or user-assisted attacks require deceptive mechanisms to trick the user into clicking a link or downloading and installing software. Automated update attacks require the attacker to host a payload and then trigger the installation of the payload code.:LEVEL:Medium::"/>
+  <properties
+      key="Resources Required"
+      value="::Software Integrity Attacks are usually a late stage focus of attack activity which depends upon the success of a chain of prior events. The resources required to perform the attack vary with respect to the overall attack strategy, existing countermeasures which must be bypassed, and the success of early phase attack vectors.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::494::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

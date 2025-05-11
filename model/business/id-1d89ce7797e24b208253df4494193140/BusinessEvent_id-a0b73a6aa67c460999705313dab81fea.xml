@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-40: Distributed Denial of service (DDoS) across application services"
+    id="id-a0b73a6aa67c460999705313dab81fea"
+    documentation="Manipulation of web and application layers including manipulation of application parameter or arguments, session or HTTP/S protocol.">
+  <properties
+      key="ID"
+      value="SP-TE-40"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-40"/>
+</archimate:BusinessEvent>

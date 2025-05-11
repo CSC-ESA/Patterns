@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STRIDE-001: Spoofing"
+    id="id-f65e4fe8853e4f43bd7456641c4003b8">
+  <properties
+      key="ID"
+      value="STRIDE-001"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:13:28"/>
+  <properties
+      key="Description"
+      value="An attack where an entity illegitimately pretends to be another. This includes impersonating a user, process, or device to gain unauthorized access."/>
+</archimate:BusinessEvent>

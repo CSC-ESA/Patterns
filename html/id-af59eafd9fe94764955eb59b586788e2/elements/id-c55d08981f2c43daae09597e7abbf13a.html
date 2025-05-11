@@ -62,7 +62,7 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-248</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">02/05/25 12:07:40</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">248</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Stable</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Medium</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::The target application must accept input from the user and then use this input in the construction of commands to be executed. In virtually all cases, this is some form of string input that is concatenated to a constant string defined by the application to form the full command to be executed.::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:A successful command injection attack enables an adversary to alter the command being executed and achieve a variety of negative consequences depending on the makeup of the new command. This includes potential information disclosure or the corruption of application data.::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::All user-controllable input should be validated and filtered for potentially unwanted characters. Using an allowlist for input is desired, but if use of a denylist approach is necessary, then focusing on command related terms and delimiters is necessary.::Input should be encoded prior to use in commands to make sure command related characters are not treated as part of the command. For example, quotation characters may need to be encoded so that the application does not treat the quotation as a delimiter.::Input should be parameterized, or restricted to data sections of a command, thus removing the chance that the input will be treated as part of the command itself.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::77::</td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap">TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Command Injection::</td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
+								<tr><td>ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">CAPEC-248</td></tr><tr><td>Latest Sync Date</td><td class="convertlinks no-margin" style="white-space:pre-wrap">11/05/25 15:15:38</td></tr><tr><td>Original ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">248</td></tr><tr><td>Abstraction</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Meta</td></tr><tr><td>Status</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Stable</td></tr><tr><td>Alternate Terms</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Likelihood Of Attack</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Medium</td></tr><tr><td>Typical Severity</td><td class="convertlinks no-margin" style="white-space:pre-wrap">High</td></tr><tr><td>Related Attack Patterns</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Execution Flow</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Prerequisites</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::The target application must accept input from the user and then use this input in the construction of commands to be executed. In virtually all cases, this is some form of string input that is concatenated to a constant string defined by the application to form the full command to be executed.::</td></tr><tr><td>Skills Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Resources Required</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Indicators</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Consequences</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:A successful command injection attack enables an adversary to alter the command being executed and achieve a variety of negative consequences depending on the makeup of the new command. This includes potential information disclosure or the corruption of application data.::</td></tr><tr><td>Mitigations</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::All user-controllable input should be validated and filtered for potentially unwanted characters. Using an allowlist for input is desired, but if use of a denylist approach is necessary, then focusing on command related terms and delimiters is necessary.::Input should be encoded prior to use in commands to make sure command related characters are not treated as part of the command. For example, quotation characters may need to be encoded so that the application does not treat the quotation as a delimiter.::Input should be parameterized, or restricted to data sections of a command, thus removing the chance that the input will be treated as part of the command itself.::</td></tr><tr><td>Example Instances</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>Related Weaknesses</td><td class="convertlinks no-margin" style="white-space:pre-wrap">::77::</td></tr><tr><td>Taxonomy Mappings</td><td class="convertlinks no-margin" style="white-space:pre-wrap">TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Command Injection::</td></tr><tr><td>Notes</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr>
 							</tbody>
 						</table>
 					</div>
@@ -76,11 +76,8 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr id="used-in-views-id-c9ff28a00e9145f9acfb9b52b35ce012">
-																	<td><a href="../views/id-c9ff28a00e9145f9acfb9b52b35ce012.html" target="view" title="API Inbound Access [Threat Model]"> API Inbound Access [Threat Model] </a></td>
-																	<td><span class="i18n-viewpoint-layered" /></td>
-																</tr><tr id="used-in-views-id-4a98b4df7a5a4591bf1183dbc592d764">
-																	<td><a href="../views/id-4a98b4df7a5a4591bf1183dbc592d764.html" target="view" title="CAPEC Threat Library"> CAPEC Threat Library </a></td>
+								<tr id="used-in-views-id-4a98b4df7a5a4591bf1183dbc592d764">
+																	<td><a href="../views/id-4a98b4df7a5a4591bf1183dbc592d764.html" target="view" title="CAPEC Threat Library (meta-attack patterns)"> CAPEC Threat Library (meta-attack patterns) </a></td>
 																	<td><span class="i18n-viewpoint-" /></td>
 																</tr>
 							</tbody>
@@ -96,27 +93,6 @@
 								</tr>
 							</thead>
 							<tbody>
-									<tr>
-											<td><a href="../elements/id-6b9249fe6a0d4512ba7c1f7201a0c0b0.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-643bfd1709884c4aa7f0d66cd07e30b0.html" target="element"> SI-10: Information Input Validation</a></td>
-											<td><a href="../elements/id-c55d08981f2c43daae09597e7abbf13a.html" target="element"> CAPEC-248: Command Injection</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-b4223d99178348a2bc636058569fb5dc.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-0e1ace8e15f24ee9b0eaeb7fe7ebc81c.html" target="element"> </a></td>
-											<td><a href="../elements/id-c55d08981f2c43daae09597e7abbf13a.html" target="element"> CAPEC-248: Command Injection</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-e44f64578862435c91185045b9729b63.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-ba26bd43bddc49c1aaa9c33b39033e00.html" target="element"> SI-3: Malicious Code Protection</a></td>
-											<td><a href="../elements/id-c55d08981f2c43daae09597e7abbf13a.html" target="element"> CAPEC-248: Command Injection</a></td>
-										</tr><tr>
-											<td><a href="../elements/id-90a5962cbeda4e2abb3b1554f6729734.html" target="element" title=""></a></td>
-											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
-											<td><a href="../elements/id-fa5f9556f5c244ec94aa24e5cc00d151.html" target="element"> AC-4(25): Information Flow Enforcement | Data Sanitization</a></td>
-											<td><a href="../elements/id-c55d08981f2c43daae09597e7abbf13a.html" target="element"> CAPEC-248: Command Injection</a></td>
-										</tr>
 							</tbody>
 						</table>
 					</div>

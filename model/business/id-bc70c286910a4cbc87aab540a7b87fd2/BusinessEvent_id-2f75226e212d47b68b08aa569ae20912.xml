@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-008: Failure or Disruption of the Power Supply"
+    id="id-2f75226e212d47b68b08aa569ae20912">
+  <properties
+      key="ID"
+      value="BSI-T-008"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-008"/>
+</archimate:BusinessEvent>

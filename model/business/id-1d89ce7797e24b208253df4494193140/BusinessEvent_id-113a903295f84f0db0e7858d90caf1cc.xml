@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-04: Sabotage"
+    id="id-113a903295f84f0db0e7858d90caf1cc"
+    documentation="Individual(s) engaged in Deceptive or deceitful behaviour against another person or organisation to suffer some disadvantage">
+  <properties
+      key="ID"
+      value="SP-TE-04"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-04"/>
+</archimate:BusinessEvent>

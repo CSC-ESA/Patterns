@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-33: Receive of unsolicited e-mail"
+    id="id-8a691e50807a4d0b9ee0744bd71e836f"
+    documentation="Adversary delivers unsolicited infected e-mails or SPAM with the intent of compromising the information systems used by individuals">
+  <properties
+      key="ID"
+      value="SP-TE-33"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-33"/>
+</archimate:BusinessEvent>

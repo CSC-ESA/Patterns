@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-42: Denial of service on hosting platform or system services"
+    id="id-4755f9f8c4554fa8a1314446210dcd92"
+    documentation="Exhaustion of underlying hosting platform memory or computing resources">
+  <properties
+      key="ID"
+      value="SP-TE-42"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-42"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-13: Acceptance Environment"
+    id="id-4e800022ef7f4355a0ee7ff7d274d01f">
+  <properties
+      key="ID"
+      value="NORA-13"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This domain serves as the &quot;gateway&quot; to the production environment. Here, systems are certified to meet production environment requirements. The trust level is also semi-trusted because no production data may be stored here. The acceptance environment follows similar security measures as the production environment to simulate a realistic business situation."/>
+</archimate:CommunicationNetwork>

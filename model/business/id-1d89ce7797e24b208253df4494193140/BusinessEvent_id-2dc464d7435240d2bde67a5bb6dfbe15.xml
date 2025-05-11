@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-18: Failure or disruption of network infrastructure, connectivity or communication links"
+    id="id-2dc464d7435240d2bde67a5bb6dfbe15"
+    documentation="Physical failure of network infrastructure, devices, communication links including cable, wireless or mobile">
+  <properties
+      key="ID"
+      value="SP-TE-18"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-18"/>
+</archimate:BusinessEvent>

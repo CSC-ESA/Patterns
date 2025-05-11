@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-36: Unauthorized changes or manipulation of information data records"
+    id="id-d80d140b18924a2a95bd395d2d544ceb"
+    documentation="Corrupted or incorrect information within data records and storage, resulting in loss of confidence and integrity in data">
+  <properties
+      key="ID"
+      value="SP-TE-36"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-36"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-03: Fraud"
+    id="id-cdd52ac1583e499e988ff14ce1b50ffd"
+    documentation="Individual(s) engaged in deceptive or deceitful behaviour against another person or organisation intended to result in financial or personal gain">
+  <properties
+      key="ID"
+      value="SP-TE-03"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-03"/>
+</archimate:BusinessEvent>

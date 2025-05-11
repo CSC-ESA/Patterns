@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-005: Natural Disasters"
+    id="id-98326f97da91422d9353576a1e512020">
+  <properties
+      key="ID"
+      value="BSI-T-005"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-005"/>
+</archimate:BusinessEvent>

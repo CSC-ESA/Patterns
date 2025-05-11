@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LINDDUN-006: Unawareness / unintervenability"
+    id="id-1fbcdbc46a5d40b2bc702e336ed61a3a">
+  <properties
+      key="ID"
+      value="LINDDUN-006"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:40:04"/>
+  <properties
+      key="Description"
+      value="Insufficiently informing, involving or empowering individuals in the processing of their personal data."/>
+</archimate:BusinessEvent>

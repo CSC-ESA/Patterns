@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LINDDUN-004: Detecting"
+    id="id-04d54c5387c4472aaa219b2b87d305fd">
+  <properties
+      key="ID"
+      value="LINDDUN-004"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:40:04"/>
+  <properties
+      key="Description"
+      value="Deducing the involvement of an individual through observation."/>
+</archimate:BusinessEvent>

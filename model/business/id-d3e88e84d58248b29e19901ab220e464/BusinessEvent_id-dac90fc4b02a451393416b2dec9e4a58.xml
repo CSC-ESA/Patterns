@@ -1,0 +1,52 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-410: Information Elicitation"
+    id="id-dac90fc4b02a451393416b2dec9e4a58"
+    documentation="An adversary engages an individual using any combination of social engineering methods for the purpose of extracting information. Accurate contextual and environmental queues, such as knowing important information about the target company or individual can greatly increase the success of the attack and the quality of information gathered. Authentic mimicry combined with detailed knowledge increases the success of elicitation attacks.">
+  <properties
+      key="ID"
+      value="CAPEC-410"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="410"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"
+      value="Low"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

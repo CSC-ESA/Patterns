@@ -1,0 +1,57 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-690: Metadata Spoofing"
+    id="id-f1d4e909e1674cc383c13e708a36b966"
+    documentation="An adversary alters the metadata of a resource (e.g., file, directory, repository, etc.) to present a malicious resource as legitimate/credible.">
+  <properties
+      key="ID"
+      value="CAPEC-690"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="690"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Identification of a resource whose metadata is to be spoofed::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Ability to spoof a variety of metadata to convince victims the source is trusted:LEVEL:Medium::"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::SCOPE:Accountability:TECHNICAL IMPACT:Hide Activities::SCOPE:Access Control:SCOPE:Authorization:TECHNICAL IMPACT:Execute Unauthorized Commands::"/>
+  <properties
+      key="Mitigations"
+      value="::Validate metadata of resources such as authors, timestamps, and statistics.::Confirm the pedigree of open source packages and ensure the code being downloaded does not originate from another source.::Even if the metadata is properly checked and a user believes it to be legitimate, there may still be a chance that they've been duped. Therefore, leverage automated testing techniques to determine where malicious areas of the code may exist.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

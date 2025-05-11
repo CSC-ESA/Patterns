@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-007: Major Events in the Vicinity"
+    id="id-18e92bbadd56436bbdb33de480559ac3">
+  <properties
+      key="ID"
+      value="BSI-T-007"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-007"/>
+</archimate:BusinessEvent>

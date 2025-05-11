@@ -1,0 +1,52 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-607: Obstruction"
+    id="id-2f56623462f94694bbecbc3124fc34d9"
+    documentation="An attacker obstructs the interactions between system components. By interrupting or disabling these interactions, an adversary can often force the system into a degraded state or cause the system to stop working as intended. This can cause the system components to be unavailable until the obstruction mitigated.">
+  <properties
+      key="ID"
+      value="CAPEC-607"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="607"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Resource Consumption::"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

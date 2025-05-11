@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-014: Interception of Information / Espionage"
+    id="id-037bd60015c14d3c96516ead11f07c60">
+  <properties
+      key="ID"
+      value="BSI-T-014"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-014"/>
+</archimate:BusinessEvent>

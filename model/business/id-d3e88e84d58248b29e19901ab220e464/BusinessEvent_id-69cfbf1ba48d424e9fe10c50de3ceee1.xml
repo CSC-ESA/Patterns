@@ -1,0 +1,56 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-416: Manipulate Human Behavior"
+    id="id-69cfbf1ba48d424e9fe10c50de3ceee1"
+    documentation="An adversary exploits inherent human psychological predisposition to influence a targeted individual or group to solicit information or manipulate the target into performing an action that serves the adversary's interests. Many interpersonal social engineering techniques do not involve outright deception, although they can; many are subtle ways of manipulating a target to remove barriers, make the target feel comfortable, and produce an exchange in which the target is either more likely to share information directly, or let key information slip out unintentionally. A skilled adversary uses these techniques when appropriate to produce the desired outcome. Manipulation techniques vary from the overt, such as pretending to be a supervisor to a help desk, to the subtle, such as making the target feel comfortable with the adversary's speech and thought patterns.">
+  <properties
+      key="ID"
+      value="CAPEC-416"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="416"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The adversary must have the means and knowledge of how to communicate with the target in some manner.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Other:NOTE:Attack patterns that manipulate human behavior can result in a wide variety of consequences and potentially affect the confidentiality, availability, and/or integrity of an application or system.::"/>
+  <properties
+      key="Mitigations"
+      value="::An organization should provide regular, robust cybersecurity training to its employees to prevent successful social engineering attacks.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

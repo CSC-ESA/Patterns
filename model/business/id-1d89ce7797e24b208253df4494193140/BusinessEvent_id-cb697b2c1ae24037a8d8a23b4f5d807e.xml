@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-37: Compromise of confidential information or data breach"
+    id="id-cb697b2c1ae24037a8d8a23b4f5d807e"
+    documentation="Exfiltration of critical or sensitive information resulting in data breach">
+  <properties
+      key="ID"
+      value="SP-TE-37"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-37"/>
+</archimate:BusinessEvent>

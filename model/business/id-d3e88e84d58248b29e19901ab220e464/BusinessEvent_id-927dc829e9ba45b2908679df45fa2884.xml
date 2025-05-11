@@ -1,9 +1,57 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Input Data Manipulation"
-    id="id-927dc829e9ba45b2908679df45fa2884">
+    name="CAPEC-153: Input Data Manipulation"
+    id="id-927dc829e9ba45b2908679df45fa2884"
+    documentation="An attacker exploits a weakness in input validation by controlling the format, structure, and composition of data to an input-processing interface. By supplying input of a non-standard or unexpected form an attacker can adversely impact the security of the target.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-153"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="153"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target must accept user data for processing and the manner in which this data is processed must depend on some aspect of the format or flags that the attacker can control.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::None: No specialized resources are required to execute this type of attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::20::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

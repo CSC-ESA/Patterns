@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LINDDUN-007: Non-compliance"
+    id="id-4c5f20624359415b873f42facf430f9a">
+  <properties
+      key="ID"
+      value="LINDDUN-007"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:40:04"/>
+  <properties
+      key="Description"
+      value="Deviating from security and data management best practices, standards and legislation."/>
+</archimate:BusinessEvent>

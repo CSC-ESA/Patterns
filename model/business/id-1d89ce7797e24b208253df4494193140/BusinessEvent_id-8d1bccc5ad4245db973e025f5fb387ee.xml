@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-10: Leaks of information or data through applications flaws, misconfigured services or system errors."
+    id="id-8d1bccc5ad4245db973e025f5fb387ee"
+    documentation="System inadvertently exposes or discloses critical or sensitive information within system, configuration or audit logs">
+  <properties
+      key="ID"
+      value="SP-TE-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-10"/>
+</archimate:BusinessEvent>

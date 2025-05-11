@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-24: Identity theft"
+    id="id-dc1d2b4bbf2d4d8ba9ba3e57dd3809a3"
+    documentation="Adversary impersonates users or privileged users through fraudulent or stolen credentials or digital certificates">
+  <properties
+      key="ID"
+      value="SP-TE-24"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-24"/>
+</archimate:BusinessEvent>

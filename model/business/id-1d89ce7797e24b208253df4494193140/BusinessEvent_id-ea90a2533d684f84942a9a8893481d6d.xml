@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-12: Unintentional change of data within information system"
+    id="id-ea90a2533d684f84942a9a8893481d6d"
+    documentation="Mishandling of critical or sensitive information by authorized users">
+  <properties
+      key="ID"
+      value="SP-TE-12"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-12"/>
+</archimate:BusinessEvent>

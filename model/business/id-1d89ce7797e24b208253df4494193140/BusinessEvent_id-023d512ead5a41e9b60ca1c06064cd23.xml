@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-32: Social engineering or phishing attacks"
+    id="id-023d512ead5a41e9b60ca1c06064cd23"
+    documentation="Adversary counterfeits communications from a legitimate or trustworthy source with the intent of persuading or tricking individuals to expose sensitive information">
+  <properties
+      key="ID"
+      value="SP-TE-32"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-32"/>
+</archimate:BusinessEvent>

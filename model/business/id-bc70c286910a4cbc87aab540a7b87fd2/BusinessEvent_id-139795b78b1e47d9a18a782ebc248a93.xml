@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-029: Violations of Laws or Regulations"
+    id="id-139795b78b1e47d9a18a782ebc248a93">
+  <properties
+      key="ID"
+      value="BSI-T-029"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-029"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-34: Violate isolation in multi-tenant environment"
+    id="id-96446980de0f4da8b4c07044ca51f86c"
+    documentation="Adversary circumvents isolation mechanisms within a multi-tenant environment to observe, compromise or deny service to collocated tenants">
+  <properties
+      key="ID"
+      value="SP-TE-34"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-34"/>
+</archimate:BusinessEvent>

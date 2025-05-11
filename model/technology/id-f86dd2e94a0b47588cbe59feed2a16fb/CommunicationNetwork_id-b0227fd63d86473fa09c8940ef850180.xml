@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-2: DMZ (Demilitarized Zone)"
+    id="id-b0227fd63d86473fa09c8940ef850180">
+  <properties
+      key="ID"
+      value="NORA-2"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This domain is a neutral area between the external world and the organization, primarily serving as a relay. The external side of a DMZ is formed by border protection with strong filtering functions. Within the DMZ, mechanisms exist for protocol filtering and blocking unwanted communications, as well as functionalities for decoupling (proxies), protocol transformation, hacker deception, and monitoring.&#xA;In many cases, the DMZ also contains web servers that hold publicly accessible organizational data. The security level is semi-trusted because the data in a DMZ must, in the worst case, be considered disposable. If the external border protection is breached, a hacker could gain access to the data within the DMZ. The filtering mechanisms and the border protection between the DMZ and the organization must prevent hackers from progressing from the DMZ to trusted domains."/>
+</archimate:CommunicationNetwork>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-044: Unauthorised Entry to Premises"
+    id="id-76c32493e36144b39f9f5456ad3f90f5">
+  <properties
+      key="ID"
+      value="BSI-T-044"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-044"/>
+</archimate:BusinessEvent>

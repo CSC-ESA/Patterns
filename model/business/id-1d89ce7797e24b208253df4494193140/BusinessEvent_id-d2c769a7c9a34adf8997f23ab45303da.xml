@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-16: Unintentional destruction of records through mismanaged data repositories or storage"
+    id="id-d2c769a7c9a34adf8997f23ab45303da"
+    documentation="Corrupted and incorrect data resulting in suboptimal services, loss of confidence in data storage or backups">
+  <properties
+      key="ID"
+      value="SP-TE-16"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-16"/>
+</archimate:BusinessEvent>

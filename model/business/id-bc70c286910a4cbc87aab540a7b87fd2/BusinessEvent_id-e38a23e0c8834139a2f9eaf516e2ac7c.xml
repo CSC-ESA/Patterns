@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-017: Loss of Devices, Storage Media and Documents"
+    id="id-e38a23e0c8834139a2f9eaf516e2ac7c">
+  <properties
+      key="ID"
+      value="BSI-T-017"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-017"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STRIDE-004: Information disclosure"
+    id="id-973fda34783545f197301e691981656f">
+  <properties
+      key="ID"
+      value="STRIDE-004"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:13:28"/>
+  <properties
+      key="Description"
+      value="The unauthorized exposure of information to individuals or systems that should not have access to it. This includes data leaks, unintentional sharing, and improper access controls."/>
+</archimate:BusinessEvent>

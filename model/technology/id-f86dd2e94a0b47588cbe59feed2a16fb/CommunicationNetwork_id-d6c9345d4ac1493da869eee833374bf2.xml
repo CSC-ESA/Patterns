@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-9: Audit"
+    id="id-d6c9345d4ac1493da869eee833374bf2">
+  <properties
+      key="ID"
+      value="NORA-9"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This zone is used to separate monitoring and verification functions from operational management tasks. Audit information from log files must not be modified or altered unnoticed by administrators or end users. Audit-related information is aggregated and securely stored in the audit zone, and it does not leave this zone in its original form via the network."/>
+</archimate:CommunicationNetwork>

@@ -1,0 +1,54 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-439: Manipulation During Distribution"
+    id="id-97ce8c47fd8b444789ee1343d5fd28de"
+    documentation="An attacker undermines the integrity of a product, software, or technology at some stage of the distribution channel. The core threat of modification or manipulation during distribution arise from the many stages of distribution, as a product may traverse multiple suppliers and integrators as the final asset is delivered. Components and services provided from a manufacturer to a supplier may be tampered with during integration or packaging.">
+  <properties
+      key="ID"
+      value="CAPEC-439"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="439"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"
+      value="::A malicious OEM provider, or OEM provider employee or contractor, may install software, or modify existing code, during distribution.::External contractors involved in the packaging or testing of products or components may install software, or modify existing code, during distribution.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::1269::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1195:ENTRY NAME:Supply Chain Compromise::"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

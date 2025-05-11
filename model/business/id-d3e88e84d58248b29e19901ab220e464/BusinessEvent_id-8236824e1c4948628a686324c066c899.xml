@@ -1,9 +1,62 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leveraging Race Conditions"
-    id="id-8236824e1c4948628a686324c066c899">
+    name="CAPEC-26: Leveraging Race Conditions"
+    id="id-8236824e1c4948628a686324c066c899"
+    documentation="The adversary targets a race condition occurring when multiple processes access and manipulate the same resource concurrently, and the outcome of the execution depends on the particular order in which the access takes place. The adversary can leverage a race condition by running the race, modifying the resource and modifying the normal execution flow. For instance, a race condition can occur while accessing a file: the adversary can trick the system by replacing the original file with their version and cause the system to read the malicious file.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-26"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="26"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"
+      value="::STEP:1:PHASE:Explore:DESCRIPTION:The adversary explores to gauge what level of access they have.::STEP:2:PHASE:Experiment:DESCRIPTION:The adversary gains access to a resource on the target host. The adversary modifies the targeted resource. The resource's value is used to determine the next normal execution action.::STEP:3:PHASE:Exploit:DESCRIPTION:The resource is modified/checked concurrently by multiple processes. By using one of the processes, the adversary is able to modify the value just before it is consumed by a different process. A race condition occurs and is exploited by the adversary to abuse the target host.::"/>
+  <properties
+      key="Prerequisites"
+      value="::A resource is accessed/modified concurrently by multiple processes such that a race condition exists.::The adversary has the ability to modify the resource.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Being able to run the race requires basic knowledge of concurrent processing including synchonization techniques.:LEVEL:Medium::"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Access Control:SCOPE:Authorization:TECHNICAL IMPACT:Gain Privileges::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::"/>
+  <properties
+      key="Mitigations"
+      value="::Use safe libraries to access resources such as files.::Be aware that improper use of access function calls such as chown(), tempfile(), chmod(), etc. can cause a race condition.::Use synchronization to control the flow of execution.::Use static analysis tools to find race conditions.::Pay attention to concurrency problems related to the access of resources.::"/>
+  <properties
+      key="Example Instances"
+      value="::The Net Direct client for Linux before 6.0.5 in Nortel Application Switch 2424, VPN 3050 and 3070, and SSL VPN Module 1000 extracts and executes files with insecure permissions, which allows local users to exploit a race condition to replace a world-writable file in /tmp/NetClient and cause another user to execute arbitrary code when attempting to execute this client, as demonstrated by replacing /tmp/NetClient/client. See also: CVE-2007-1057::The following code illustrates a file that is accessed multiple times by name in a publicly accessible directory. A race condition exists between the accesses where an attacker can replace the file referenced by the name (see [REF-107]). include &lt;sys/types.h>include &lt;fcntl.h>include &lt;unistd.h> define FILE /tmp/myfiledefine UID 100 void test(char *str){int fd;fd = creat(FILE, 0644);if(fd == -1)return; chown(FILE, UID, -1); /* BAD */close(fd); } int main(int argc, char **argv){char *userstr;if(argc > 1) {userstr = argv[1];test(userstr); }return 0; }::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::368::363::366::370::362::662::689::667::665::1223::1254::1298::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-019: Disclosure of Sensitive Information"
+    id="id-7572f42aba20417781f5eac6341b420d">
+  <properties
+      key="ID"
+      value="BSI-T-019"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-019"/>
+</archimate:BusinessEvent>

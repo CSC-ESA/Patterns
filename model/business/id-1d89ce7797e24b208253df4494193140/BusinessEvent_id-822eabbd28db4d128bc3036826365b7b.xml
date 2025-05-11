@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-23: Adversary in the middle attack or network traffic modification"
+    id="id-822eabbd28db4d128bc3036826365b7b"
+    documentation="Intercept or eavesdrop on sessions to capture, manipulate or replay messages between two entities">
+  <properties
+      key="ID"
+      value="SP-TE-23"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-23"/>
+</archimate:BusinessEvent>

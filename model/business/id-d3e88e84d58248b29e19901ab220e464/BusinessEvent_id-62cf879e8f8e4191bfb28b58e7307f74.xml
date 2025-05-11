@@ -1,0 +1,56 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-440: Hardware Integrity Attack"
+    id="id-62cf879e8f8e4191bfb28b58e7307f74"
+    documentation="An adversary exploits a weakness in the system maintenance process and causes a change to be made to a technology, product, component, or sub-component or a new one installed during its deployed use at the victim location for the purpose of carrying out an attack.">
+  <properties
+      key="ID"
+      value="CAPEC-440"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="440"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Low"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Influence over the deployed system at a victim location.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Integrity:TECHNICAL IMPACT:Execute Unauthorized Commands::"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1195.003:ENTRY NAME:Supply Chain Compromise: Compromise Hardware Supply Chain::::TAXONOMY NAME:ATTACK:ENTRY ID:1200:ENTRY NAME:Hardware Additions::"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

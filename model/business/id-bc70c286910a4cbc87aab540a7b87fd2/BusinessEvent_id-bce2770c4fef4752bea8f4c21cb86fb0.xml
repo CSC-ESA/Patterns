@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-021: Manipulation with Hardware or Software"
+    id="id-bce2770c4fef4752bea8f4c21cb86fb0">
+  <properties
+      key="ID"
+      value="BSI-T-021"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-021"/>
+</archimate:BusinessEvent>

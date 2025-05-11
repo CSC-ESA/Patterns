@@ -1,0 +1,57 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-586: Object Injection"
+    id="id-400386a67fc94101a4151c4d8efc4b52"
+    documentation="An adversary attempts to exploit an application by injecting additional, malicious content during its processing of serialized objects. Developers leverage serialization in order to convert data or state into a static, binary format for saving to disk or transferring over a network. These objects are then deserialized when needed to recover the data/state. By injecting a malformed object into a vulnerable application, an adversary can potentially compromise the application by manipulating the deserialization process. This can result in a number of unwanted outcomes, including remote code execution.">
+  <properties
+      key="ID"
+      value="CAPEC-586"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="586"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application must unserialize data before validation.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Resource Consumption:NOTE:If a function is making an assumption on when to terminate, based on a sentry in a string, it could easily never terminate and exhaust available resources.::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data:NOTE:Attackers can modify objects or data that was assumed to be safe from modification.::SCOPE:Authorization:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:Functions that assume information in the deserialized object is valid could be exploited.::"/>
+  <properties
+      key="Mitigations"
+      value="::Implementation: Validate object before deserialization process::Design: Limit which types can be deserialized.::Implementation: Avoid having unnecessary types or gadgets available that can be leveraged for malicious ends. Use an allowlist of acceptable classes.::Implementation: Keep session state on the server, when possible.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::502::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

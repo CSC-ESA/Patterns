@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STRIDE-005: Denial of service"
+    id="id-6b22c5f8c72d4029adefcfe147eb5d8e">
+  <properties
+      key="ID"
+      value="STRIDE-005"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:13:28"/>
+  <properties
+      key="Description"
+      value="An attack that disrupts normal service operations, making a system or resource unavailable to its intended users by overwhelming or crashing it."/>
+</archimate:BusinessEvent>

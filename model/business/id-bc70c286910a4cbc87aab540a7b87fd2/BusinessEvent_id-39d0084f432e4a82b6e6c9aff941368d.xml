@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-045: Data Loss"
+    id="id-39d0084f432e4a82b6e6c9aff941368d">
+  <properties
+      key="ID"
+      value="BSI-T-045"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-045"/>
+</archimate:BusinessEvent>

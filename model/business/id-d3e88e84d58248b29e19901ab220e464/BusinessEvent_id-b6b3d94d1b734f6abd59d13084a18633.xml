@@ -1,9 +1,55 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Privilege Escalation"
-    id="id-b6b3d94d1b734f6abd59d13084a18633">
+    name="CAPEC-233: Privilege Escalation"
+    id="id-b6b3d94d1b734f6abd59d13084a18633"
+    documentation="An adversary exploits a weakness enabling them to elevate their privilege and perform an action that they are not supposed to be authorized to perform.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-233"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="233"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::269::1264::1311::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1548:ENTRY NAME:Abuse Elevation Control Mechanism::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

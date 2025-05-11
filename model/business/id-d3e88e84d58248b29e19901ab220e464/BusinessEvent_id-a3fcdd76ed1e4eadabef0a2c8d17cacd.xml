@@ -1,9 +1,58 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configuration/Environment Manipulation"
-    id="id-a3fcdd76ed1e4eadabef0a2c8d17cacd">
+    name="CAPEC-176: Configuration/Environment Manipulation"
+    id="id-a3fcdd76ed1e4eadabef0a2c8d17cacd"
+    documentation="An attacker manipulates files or settings external to a target application which affect the behavior of that application. For example, many applications use external configuration files and libraries - modification of these entities or otherwise affecting the application's ability to use them would constitute a configuration/environment manipulation attack.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-176"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="176"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application must consult external files or configuration controls to control its execution. All but the very simplest applications meet this requirement.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::The attacker must have the access necessary to affect the files or other environment items the targeted application uses for its operations.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::15::1233::1234::1304::1328::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Setting Manipulation::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

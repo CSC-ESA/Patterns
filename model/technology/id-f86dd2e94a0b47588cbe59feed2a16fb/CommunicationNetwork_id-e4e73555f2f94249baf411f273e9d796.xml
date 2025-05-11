@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-8: Management"
+    id="id-e4e73555f2f94249baf411f273e9d796">
+  <properties
+      key="ID"
+      value="NORA-8"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This zone is highly trusted, as administrators with elevated privileges must be able to perform their tasks securely. Access to administrative clients is segregated from regular office tasks, which can be performed from internal client systems. Through role separation and technical measures, administrative tasks are strictly isolated from auditing activities. Management functions performed via remote management clients or internal clients have restricted privileges compared to those available within the organization’s management zone."/>
+</archimate:CommunicationNetwork>

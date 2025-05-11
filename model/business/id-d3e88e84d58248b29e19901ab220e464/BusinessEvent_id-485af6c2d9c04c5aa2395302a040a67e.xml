@@ -1,0 +1,59 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-188: Reverse Engineering"
+    id="id-485af6c2d9c04c5aa2395302a040a67e"
+    documentation="An adversary discovers the structure, function, and composition of an object, resource, or system by using a variety of analysis techniques to effectively determine how the analyzed entity was constructed or operates. The goal of reverse engineering is often to duplicate the function, or a part of the function, of an object in order to duplicate or back engineer some aspect of its functioning. Reverse engineering techniques can be applied to mechanical objects, electronic devices, or software, although the methodology and techniques involved in each type of analysis differ widely.">
+  <properties
+      key="ID"
+      value="CAPEC-188"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="188"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Low"/>
+  <properties
+      key="Typical Severity"
+      value="Low"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Access to targeted system, resources, and information.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Understanding of low level programming languages or technologies can be very helpful. For example, when reverse engineering a binary file, an understanding of assembly languages can help to determine the purpose and inner-workings of the code. Another example is reverse engineering an application that relies on networking. Here, an understanding networking protocols can provide insight into application details.:LEVEL:High::"/>
+  <properties
+      key="Resources Required"
+      value="::The technical resources necessary to engage in reverse engineering differ in accordance with the type of object, resource, or system being analyzed.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"
+      value="::Employ code obfuscation techniques to prevent the adversary from reverse engineering the targeted entity.::"/>
+  <properties
+      key="Example Instances"
+      value="::When adversaries are reverse engineering software, methodologies fall into two broad categories, 'white box' and 'black box.' White box techniques involve methods which can be applied to a piece of software when an executable or some other compiled object can be directly subjected to analysis, revealing at least a portion of its machine instructions that can be observed upon execution. 'Black Box' methods involve interacting with the software indirectly, in the absence of the ability to measure, instrument, or analyze an executable object directly. Such analysis typically involves interacting with the software at the boundaries of where the software interfaces with a larger execution environment, such as input-output vectors, libraries, or APIs.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::1278::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

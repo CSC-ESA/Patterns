@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-30: Rogue software masquerading as trusted application"
+    id="id-df0071f128f145a7856172914ad209fd"
+    documentation="Rogue software, spyware or adware that masquerades as trusted applications or services">
+  <properties
+      key="ID"
+      value="SP-TE-30"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-30"/>
+</archimate:BusinessEvent>

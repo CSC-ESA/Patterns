@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-043: Attack with Specially Crafted Messages"
+    id="id-67788e0f2e4c4a2d9fcb55cc720fed53">
+  <properties
+      key="ID"
+      value="BSI-T-043"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-043"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-002: Unfavourable Climatic Conditions"
+    id="id-d4d9e539492f433db05ef0731e43b670">
+  <properties
+      key="ID"
+      value="BSI-T-002"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-002"/>
+</archimate:BusinessEvent>

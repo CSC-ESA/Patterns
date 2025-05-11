@@ -1,9 +1,63 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manipulating State"
-    id="id-6ead60db695b4cceb49da5dc5d09cf49">
+    name="CAPEC-74: Manipulating State"
+    id="id-6ead60db695b4cceb49da5dc5d09cf49"
+    documentation="The adversary modifies state information maintained by the target software or causes a state transition in hardware. If successful, the target will use this tainted state and execute in an unintended manner. State management is an important function within a software application. User state maintained by the application can include usernames, payment information, browsing history as well as application-specific contents such as items in a shopping cart. Manipulating user state can be employed by an adversary to elevate privilege, conduct fraudulent transactions or otherwise modify the flow of the application to derive certain benefits. If there is a hardware logic error in a finite state machine, the adversary can use this to put the system in an undefined state which could cause a denial of service or exposure of secure data.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-74"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="74"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"
+      value="::STEP:1:PHASE:Explore:DESCRIPTION:Adversary determines the nature of state management employed by the target. This includes determining the location (client-side, server-side or both applications) and possibly the items stored as part of user state.::STEP:2:PHASE:Experiment:DESCRIPTION:The adversary now tries to modify the user state contents (possibly indiscriminately if the contents are encrypted or otherwise obfuscated) or cause a state transition and observe the effects of this change on the target.::STEP:3:PHASE:Exploit:DESCRIPTION:Having determined how to manipulate the state, the adversary can perform illegitimate actions.::"/>
+  <properties
+      key="Prerequisites"
+      value="::User state is maintained at least in some way in user-controllable locations, such as cookies or URL parameters.::There is a faulty finite state machine in the hardware logic that can be exploited.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:The adversary needs to have knowledge of state management as employed by the target application, and also the ability to manipulate the state in a meaningful way.:LEVEL:Medium::"/>
+  <properties
+      key="Resources Required"
+      value="::The adversary needs a data tampering tool capable of generating and creating custom inputs to aid in the attack, like Fiddler, Wireshark, or a similar in-browser plugin (e.g., Tamper Data for Firefox).::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Access Control:SCOPE:Authorization:TECHNICAL IMPACT:Gain Privileges::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::SCOPE:Availability:TECHNICAL IMPACT:Unreliable Execution::"/>
+  <properties
+      key="Mitigations"
+      value="::Do not rely solely on user-controllable locations, such as cookies or URL parameters, to maintain user state.::Avoid sensitive information, such as usernames or authentication and authorization information, in user-controllable locations.::Sensitive information that is part of the user state must be appropriately protected to ensure confidentiality and integrity at each request.::All possible states must be handled by hardware finite state machines.::"/>
+  <properties
+      key="Example Instances"
+      value="::During the authentication process, an application stores the authentication decision (auth=0/1) in unencrypted cookies. At every request, this cookie is checked to permit or deny a request. An adversary can easily violate this representation of user state and set auth=1 at every request in order to gain illegitimate access and elevated privilege in the application.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::372::315::353::693::1245::1253::1265::1271::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

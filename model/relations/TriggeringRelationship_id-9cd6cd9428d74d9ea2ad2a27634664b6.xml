@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-9cd6cd9428d74d9ea2ad2a27634664b6">
+  <properties
+      key="Protocol"
+      value="HTTP, HTTPS"/>
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-704c58a7507d429996bb34aa9e3366cc.xml#id-704c58a7507d429996bb34aa9e3366cc"/>

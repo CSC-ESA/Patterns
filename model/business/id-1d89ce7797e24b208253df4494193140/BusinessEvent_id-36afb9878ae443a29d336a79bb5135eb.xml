@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-29: Web application attacks or code injection attack"
+    id="id-36afb9878ae443a29d336a79bb5135eb"
+    documentation="Trusted applications or services are compromised through web application attacks or code injection attack">
+  <properties
+      key="ID"
+      value="SP-TE-29"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-29"/>
+</archimate:BusinessEvent>

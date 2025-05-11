@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-046: Loss of Integrity of Sensitive Information"
+    id="id-35562f0bca4348a4b9128800f513eb08">
+  <properties
+      key="ID"
+      value="BSI-T-046"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-046"/>
+</archimate:BusinessEvent>

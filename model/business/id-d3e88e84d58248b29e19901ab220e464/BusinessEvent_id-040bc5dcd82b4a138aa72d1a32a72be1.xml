@@ -1,9 +1,62 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Excessive Allocation"
-    id="id-040bc5dcd82b4a138aa72d1a32a72be1">
+    name="CAPEC-130: Excessive Allocation"
+    id="id-040bc5dcd82b4a138aa72d1a32a72be1"
+    documentation="An adversary causes the target to allocate excessive resources to servicing the attackers' request, thereby reducing the resources available for legitimate services and degrading or denying services. Usually, this attack focuses on memory allocation, but any finite resource on the target could be the attacked, including bandwidth, processing cycles, or other resources. This attack does not attempt to force this allocation through a large number of requests (that would be Resource Depletion through Flooding) but instead uses one or a small number of requests that are carefully formatted to force the target to allocate excessive resources to service this request(s). Often this attack takes advantage of a bug in the target to cause the target to allocate resources vastly beyond what would be needed for a normal request.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-130"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="130"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target must accept service requests from the attacker and the adversary must be able to control the resource allocation associated with this request to be in excess of the normal allocation. The latter is usually accomplished through the presence of a bug on the target that allows the adversary to manipulate variables used in the allocation.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::None: No specialized resources are required to execute this type of attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Resource Consumption:NOTE:A successful excessive allocation attack forces the target system to exhaust its resources, thereby compromising the availability of its service.::"/>
+  <properties
+      key="Mitigations"
+      value="::Limit the amount of resources that are accessible to unprivileged users.::Assume all input is malicious. Consider all potentially relevant properties when validating input.::Consider uniformly throttling all requests in order to make it more difficult to consume resources more quickly than they can again be freed.::Use resource-limiting settings, if possible.::"/>
+  <properties
+      key="Example Instances"
+      value="::In an Integer Attack, the adversary could cause a variable that controls allocation for a request to hold an excessively large value. Excessive allocation of resources can render a service degraded or unavailable to legitimate users and can even lead to crashing of the target.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::404::770::1325::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1499.003:ENTRY NAME:Endpoint Denial of Service:Application Exhaustion Flood::::TAXONOMY NAME:WASC:ENTRY ID:10:ENTRY NAME:Denial of Service::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

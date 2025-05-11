@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Outbound Web Access [Control Realization]"
+    name="2. Outbound Web Access [Control Realization]"
     id="id-fdc26944243c4f6795c31270e23e6abf"
     documentation="The diagram reads bottom to top. Connections can be initiated from &#xD;&#xA;    - a managed virtual desktop (on a trusted network)&#xD;&#xA;    - a managed physical laptop (on a trusted network)&#xD;&#xA;    - an internal application (on a trusted network)&#xD;&#xA;    - a managed physical laptop (on an untrusted network) &#xD;&#xA;&#xD;&#xA;All connections always pass via an outbound zone where controls are enforced, and are only allowed to the remote location via HTTPS, which in turn is tunneled through a leased line, a VPN, or the public Internet."
     viewpoint="requirements_realization">
@@ -176,6 +176,15 @@
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-0d1a037960a54ea4959289fa6f07ba4e.xml#id-0d1a037960a54ea4959289fa6f07ba4e"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b43107e457614cc98f9d45cd3f228cf9"
+          source="id-7fdc5506e36b4c3898f59848e7712ea4"
+          target="id-d68859e1d90048d79c5c86b3c2b270eb">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-479ac7d472864c6aa9a074c0e95051a6.xml#id-479ac7d472864c6aa9a074c0e95051a6"/>
+      </sourceConnections>
       <bounds
           x="132"
           y="96"
@@ -204,10 +213,10 @@
           href="SpecializationRelationship_id-305742e7161d499bb56d558330a55cc8.xml#id-305742e7161d499bb56d558330a55cc8"/>
     </sourceConnections>
     <bounds
-        x="-1932"
-        y="588"
-        width="133"
-        height="49"/>
+        x="-2028"
+        y="612"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-ed48a448142443e69f0a24553e7d29f8.xml#id-ed48a448142443e69f0a24553e7d29f8"/>
@@ -227,10 +236,10 @@
           href="SpecializationRelationship_id-7abd9a37f4f346649f6d789ee513e4dd.xml#id-7abd9a37f4f346649f6d789ee513e4dd"/>
     </sourceConnections>
     <bounds
-        x="-1932"
-        y="648"
-        width="133"
-        height="49"/>
+        x="-2028"
+        y="660"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-7385058e56da4bd1acfe34cc35679601.xml#id-7385058e56da4bd1acfe34cc35679601"/>
@@ -250,10 +259,10 @@
           href="SpecializationRelationship_id-28cf1aa584b9465a892e4eccd2401d79.xml#id-28cf1aa584b9465a892e4eccd2401d79"/>
     </sourceConnections>
     <bounds
-        x="-1932"
-        y="534"
-        width="133"
-        height="49"/>
+        x="-2028"
+        y="564"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-4a3082d016bd4d688eadac8659844992.xml#id-4a3082d016bd4d688eadac8659844992"/>
@@ -350,10 +359,10 @@
           href="SpecializationRelationship_id-292ee36d350f4eeb96dfc03dbe6a8baf.xml#id-292ee36d350f4eeb96dfc03dbe6a8baf"/>
     </sourceConnections>
     <bounds
-        x="-1932"
-        y="474"
-        width="133"
-        height="49"/>
+        x="-2028"
+        y="516"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-085c649fbd6644b98cc39c417ecfc700.xml#id-085c649fbd6644b98cc39c417ecfc700"/>
@@ -366,10 +375,10 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="-2136"
-        y="552"
-        width="133"
-        height="49"/>
+        x="-2376"
+        y="588"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-abe1fb78b626474eb6d603fb66583f02.xml#id-abe1fb78b626474eb6d603fb66583f02"/>
@@ -382,10 +391,10 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="-1932"
-        y="762"
-        width="133"
-        height="49"/>
+        x="-2028"
+        y="749"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-3db7d93c6f5c4f57aed7eee66f082081.xml#id-3db7d93c6f5c4f57aed7eee66f082081"/>
@@ -398,10 +407,10 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="-1932"
-        y="702"
-        width="133"
-        height="49"/>
+        x="-2028"
+        y="701"
+        width="265"
+        height="25"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-0e8bde2fef02429b9f757c9da13ee391.xml#id-0e8bde2fef02429b9f757c9da13ee391"/>
@@ -422,6 +431,22 @@
     <archimateElement
         xsi:type="archimate:CommunicationNetwork"
         href="CommunicationNetwork_id-138d3675b6f541f1aa777d5ec63ea583.xml#id-138d3675b6f541f1aa777d5ec63ea583"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d68859e1d90048d79c5c86b3c2b270eb"
+      targetConnections="id-b43107e457614cc98f9d45cd3f228cf9">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="-2028"
+        y="800"
+        width="265"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-70df46ede4c44ff4b8a3990635223425.xml#id-70df46ede4c44ff4b8a3990635223425"/>
   </children>
   <properties
       key="Version"

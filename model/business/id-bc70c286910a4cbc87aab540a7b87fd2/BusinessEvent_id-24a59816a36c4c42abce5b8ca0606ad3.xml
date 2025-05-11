@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-018: Poor Planning or Lack of Adaptation"
+    id="id-24a59816a36c4c42abce5b8ca0606ad3">
+  <properties
+      key="ID"
+      value="BSI-T-018"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-018"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-25: Generation of false identities"
+    id="id-7b56d3ed7ad14633ad36b57195471071"
+    documentation="Adversary exploits weakness in identity systems allowing generation of rogue credentials or digital certificates used to masquerade or impersonate users or system services">
+  <properties
+      key="ID"
+      value="SP-TE-25"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-25"/>
+</archimate:BusinessEvent>

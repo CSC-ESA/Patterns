@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-31: Unauthorized changes or manipulation of application functionality or code"
+    id="id-904a7f59b80f4443aedbc5562606053d"
+    documentation="Manipulation of code or application functionality resulting in loss of confidence and integrity in trusted applications or services.">
+  <properties
+      key="ID"
+      value="SP-TE-31"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-31"/>
+</archimate:BusinessEvent>

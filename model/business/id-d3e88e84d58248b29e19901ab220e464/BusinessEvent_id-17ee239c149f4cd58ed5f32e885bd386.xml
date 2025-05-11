@@ -1,0 +1,62 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-699: Eavesdropping on a Monitor"
+    id="id-17ee239c149f4cd58ed5f32e885bd386"
+    documentation="An Adversary can eavesdrop on the content of an external monitor through the air without modifying any cable or installing software, just capturing this signal emitted by the cable or video port, with this the attacker will be able to impact the confidentiality of the data without being detected by traditional security tools">
+  <properties
+      key="ID"
+      value="CAPEC-699"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="699"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"
+      value="::NATURE:ChildOf:CAPEC ID:651::"/>
+  <properties
+      key="Execution Flow"
+      value="::STEP:1:PHASE:Explore:DESCRIPTION:[Survey Target] The adversary surveys the target location, looking for exposed display cables and locations to hide an SDR. This also includes looking for display cables or monitors placed close to a wall, where the SDR can be in range while behind the wall. The adversary also attempts to discover the resolution and refresh rate of the targeted display.::STEP:2:PHASE:Experiment:DESCRIPTION:[Find target using SDR] The adversary sets up an SDR near the target display cable or monitor. They use the SDR software to locate the corresponding frequency of the display cable. This is done by looking for interference peaks that change depending on what the screen is showing. The adversary notes down the possible frequencies of unintentional emission.:TECHNIQUE:An adversary can make use of many different commercially available SDR devices which are easy to setup such as a HackRF, Ubertooth, RTL-SDR, and many others.::STEP:3:PHASE:Exploit:DESCRIPTION:[Visualize Monitor Image] Once the SDR software has been used to identify the target, the adversary will record the transmissions and visualize the monitor image using these transmissions, which allows them to eavesdrop on the information visible on the monitor.:TECHNIQUE:The TempestSDR software can be used in conjunction an SDR device to visualize the monitor image. The adversary will specify the known monitor resolution and refresh rate, or if those are not known they can use the provided auto-correlation graphs to help predict these values. The adversary will then try the different frequencies recorded from the experiment phase, looking for a viewing monitor display. Low pass filters and gain can be manipulated to make the display image clearer.::"/>
+  <properties
+      key="Prerequisites"
+      value="::Victim should use an external monitor device::Physical access to the target location and devices::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Knowledge of how to use the SDR and related software: With this knowledge, the adversary will find the correct frequency where the signal is being leaked:LEVEL:Medium::SKILL:Understanding of computing hardware, to identify the video cable and video ports:LEVEL:Low::"/>
+  <properties
+      key="Resources Required"
+      value="::SDR device set with the correspondent antenna::Computer with SDR Software::"/>
+  <properties
+      key="Indicators"
+      value="::The target will not observe any indicators of the attack from the computer user’s perspective. The only indication of this attack would be a visible SDR with antenna that can be seen in close proximity to a display cable which is not normally present. This requires that the target is aware of what SDRs look like and can recognize that it may be out of place.::"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data::"/>
+  <properties
+      key="Mitigations"
+      value="::Enhance: Increase the number of electromagnetic shield layers in the display ports and cables to contain or reduce the intensity of the leaked signal.::Implement: Use a protocol that encrypts the video signal; in case the signal is intercepted the signal is protected by the encryption.::Design: Lock away the video cables, making it difficult for the attacker to access the cables and place the antenna near them (If the distance condition between the antenna and display port/cable is not satisfied, the attack will not be possible).::Implement: Use wireless technologies to connect to external display devices.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::1300::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

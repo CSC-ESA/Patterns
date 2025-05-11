@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-032: Misuse of Authorisation"
+    id="id-1f113b92173341cb8ba3b6079899295d">
+  <properties
+      key="ID"
+      value="BSI-T-032"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-032"/>
+</archimate:BusinessEvent>

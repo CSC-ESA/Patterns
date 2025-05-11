@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-06: Unauthorized physical access or entry to premises"
+    id="id-339be95575bc4ef8843911c11c8585fa"
+    documentation="Individual(s) exploit weakness in physical access of authorized staff to gain access to organizational facilities">
+  <properties
+      key="ID"
+      value="SP-TE-06"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-06"/>
+</archimate:BusinessEvent>

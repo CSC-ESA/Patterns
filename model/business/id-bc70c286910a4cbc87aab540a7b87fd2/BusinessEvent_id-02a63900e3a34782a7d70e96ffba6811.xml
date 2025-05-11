@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-036: Identity theft"
+    id="id-02a63900e3a34782a7d70e96ffba6811">
+  <properties
+      key="ID"
+      value="BSI-T-036"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-036"/>
+</archimate:BusinessEvent>

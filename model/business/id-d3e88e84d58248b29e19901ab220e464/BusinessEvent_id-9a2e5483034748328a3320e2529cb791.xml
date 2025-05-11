@@ -1,0 +1,58 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-240: Resource Injection"
+    id="id-9a2e5483034748328a3320e2529cb791"
+    documentation="An adversary exploits weaknesses in input validation by manipulating resource identifiers enabling the unintended modification or specification of a resource.">
+  <properties
+      key="ID"
+      value="CAPEC-240"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="240"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application allows the user to both specify the identifier used to access a system resource. Through this permission, the user gains the capability to perform actions on that resource (e.g., overwrite the file)::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::"/>
+  <properties
+      key="Mitigations"
+      value="::Ensure all input content that is delivered to client is sanitized against an acceptable content specification.::Perform input validation for all content.::Enforce regular patching of software.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::99::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Resource Injection::"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

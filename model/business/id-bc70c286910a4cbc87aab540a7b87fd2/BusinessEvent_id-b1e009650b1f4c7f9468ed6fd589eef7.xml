@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-040: Denial of Service"
+    id="id-b1e009650b1f4c7f9468ed6fd589eef7">
+  <properties
+      key="ID"
+      value="BSI-T-040"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-040"/>
+</archimate:BusinessEvent>

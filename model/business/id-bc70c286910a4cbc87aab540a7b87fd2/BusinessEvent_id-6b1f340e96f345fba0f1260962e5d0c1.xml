@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-016: Theft of Devices, Storage Media and Documents"
+    id="id-6b1f340e96f345fba0f1260962e5d0c1">
+  <properties
+      key="ID"
+      value="BSI-T-016"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-016"/>
+</archimate:BusinessEvent>

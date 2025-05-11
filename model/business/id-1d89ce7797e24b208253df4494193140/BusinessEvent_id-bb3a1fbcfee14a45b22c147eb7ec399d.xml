@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-19: Failure within information systems due to disruption or unavailability of dependant external supply chains"
+    id="id-bb3a1fbcfee14a45b22c147eb7ec399d"
+    documentation="Failure in information systems due to dependencies on external software packages, components or external service providers that may be disrupted or destroy supply chain.">
+  <properties
+      key="ID"
+      value="SP-TE-19"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-19"/>
+</archimate:BusinessEvent>

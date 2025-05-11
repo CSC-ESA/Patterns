@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-020: Information or Products from an Unreliable Source"
+    id="id-4673c32a86be4ebba252cb85fa9ec296">
+  <properties
+      key="ID"
+      value="BSI-T-020"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-020"/>
+</archimate:BusinessEvent>

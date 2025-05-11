@@ -1,9 +1,60 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identity Spoofing"
-    id="id-716d495d452341219b822f8b8ea13ec5">
+    name="CAPEC-151: Identity Spoofing"
+    id="id-716d495d452341219b822f8b8ea13ec5"
+    documentation="Identity Spoofing refers to the action of assuming (i.e., taking on) the identity of some other entity (human or non-human) and then using that identity to accomplish a goal. An adversary may craft messages that appear to come from a different principle or use stolen / spoofed authentication credentials.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-151"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="151"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The identity associated with the message or resource must be removable or modifiable in an undetectable way.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::None: No specialized resources are required to execute this type of attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Authentication:SCOPE:Access Control:TECHNICAL IMPACT:Gain Privileges::"/>
+  <properties
+      key="Mitigations"
+      value="::Employ robust authentication processes (e.g., multi-factor authentication).::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::287::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

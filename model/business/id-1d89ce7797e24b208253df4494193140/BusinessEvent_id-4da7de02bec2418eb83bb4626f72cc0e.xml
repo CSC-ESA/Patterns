@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-09: Accidental leaks or sharing of information due to human error or mishandling"
+    id="id-4da7de02bec2418eb83bb4626f72cc0e"
+    documentation="Authorized user inadvertently exposes critical or sensitive information through human error">
+  <properties
+      key="ID"
+      value="SP-TE-09"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-09"/>
+</archimate:BusinessEvent>

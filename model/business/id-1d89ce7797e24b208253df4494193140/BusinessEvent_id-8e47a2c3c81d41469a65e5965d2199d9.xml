@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-02: Unfavourable climatic conditions"
+    id="id-8e47a2c3c81d41469a65e5965d2199d9"
+    documentation="Lost of data or accessibility of IT infrastructure as result of extensive temperature, humidity, pollution or dust">
+  <properties
+      key="ID"
+      value="SP-TE-02"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-02"/>
+</archimate:BusinessEvent>

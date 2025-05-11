@@ -1,9 +1,60 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Command Injection"
-    id="id-c55d08981f2c43daae09597e7abbf13a">
+    name="CAPEC-248: Command Injection"
+    id="id-c55d08981f2c43daae09597e7abbf13a"
+    documentation="An adversary looking to execute a command of their choosing, injects new items into an existing command thus modifying interpretation away from what was intended. Commands in this context are often standalone strings that are interpreted by a downstream component and cause specific responses. This type of attack is possible when untrusted values are used to build these command strings. Weaknesses in input validation or command construction can enable the attack and lead to successful exploitation.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-248"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="248"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application must accept input from the user and then use this input in the construction of commands to be executed. In virtually all cases, this is some form of string input that is concatenated to a constant string defined by the application to form the full command to be executed.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:A successful command injection attack enables an adversary to alter the command being executed and achieve a variety of negative consequences depending on the makeup of the new command. This includes potential information disclosure or the corruption of application data.::"/>
+  <properties
+      key="Mitigations"
+      value="::All user-controllable input should be validated and filtered for potentially unwanted characters. Using an allowlist for input is desired, but if use of a denylist approach is necessary, then focusing on command related terms and delimiters is necessary.::Input should be encoded prior to use in commands to make sure command related characters are not treated as part of the command. For example, quotation characters may need to be encoded so that the application does not treat the quotation as a delimiter.::Input should be parameterized, or restricted to data sections of a command, thus removing the chance that the input will be treated as part of the command itself.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::77::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Command Injection::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

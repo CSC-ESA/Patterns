@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-033: Shortage of Personnel"
+    id="id-61f1502a9fec47eb8392813b30510ee4">
+  <properties
+      key="ID"
+      value="BSI-T-033"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-033"/>
+</archimate:BusinessEvent>

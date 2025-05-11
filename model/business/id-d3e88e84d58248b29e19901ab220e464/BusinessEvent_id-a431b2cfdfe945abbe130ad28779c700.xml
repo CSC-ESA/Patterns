@@ -1,9 +1,64 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Privilege Abuse"
-    id="id-a431b2cfdfe945abbe130ad28779c700">
+    name="CAPEC-122: Privilege Abuse"
+    id="id-a431b2cfdfe945abbe130ad28779c700"
+    documentation="An adversary is able to exploit features of the target that should be reserved for privileged users or administrators but are exposed to use by lower or non-privileged accounts. Access to sensitive information and functionality must be controlled to ensure that only authorized users are able to access these resources.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-122"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="122"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Draft"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"
+      value="::NATURE:CanPrecede:CAPEC ID:664::"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target must have misconfigured their access control mechanisms such that sensitive information, which should only be accessible to more trusted users, remains accessible to less trusted users.::The adversary must have access to the target, albeit with an account that is less privileged than would be appropriate for the targeted resources.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Adversary can leverage privileged features they already have access to without additional effort or skill. Adversary is only required to have access to an account with improper priveleges.:LEVEL:Low::"/>
+  <properties
+      key="Resources Required"
+      value="::None: No specialized resources are required to execute this type of attack. The ability to access the target is required.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Integrity:TECHNICAL IMPACT:Modify Data::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data::SCOPE:Authorization:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:Run Arbitrary Code::SCOPE:Authorization:TECHNICAL IMPACT:Gain Privileges::SCOPE:Access Control:SCOPE:Authorization:TECHNICAL IMPACT:Bypass Protection Mechanism::"/>
+  <properties
+      key="Mitigations"
+      value="::Configure account privileges such privileged/administrator functionality is not exposed to non-privileged/lower accounts.::"/>
+  <properties
+      key="Example Instances"
+      value="::Improperly configured account privileges allowed unauthorized users on a hospital's network to access the medical records for over 3,000 patients. Thus compromising data integrity and confidentiality in addition to HIPAA violations.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::269::732::1317::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1548:ENTRY NAME:Abuse Elevation Control Mechanism::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

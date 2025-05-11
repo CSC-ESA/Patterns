@@ -1,9 +1,60 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Code Injection"
-    id="id-909bd58443774d1694712483b7405d65">
+    name="CAPEC-242: Code Injection"
+    id="id-909bd58443774d1694712483b7405d65"
+    documentation="An adversary exploits a weakness in input validation on the target to inject new code into that which is currently executing. This differs from code inclusion in that code inclusion involves the addition or replacement of a reference to a code file, which is subsequently loaded by the target and used as part of the code of some application.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-242"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="242"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target software does not validate user-controlled input such that the execution of a process may be altered by sending code in through legitimate data channels, using no other mechanism.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Other:NOTE:Code Injection attack patterns can result in a wide variety of consequences and negatively affect all three elements of the security triad.::"/>
+  <properties
+      key="Mitigations"
+      value="::Utilize strict type, character, and encoding enforcement::Ensure all input content that is delivered to client is sanitized against an acceptable content specification.::Perform input validation for all content.::Enforce regular patching of software.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::94::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Code Injection::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

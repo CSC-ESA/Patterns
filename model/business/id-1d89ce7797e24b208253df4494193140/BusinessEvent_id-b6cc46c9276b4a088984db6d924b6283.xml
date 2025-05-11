@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-11: Disruption to information systems due to misconfiguration or maintenance errors"
+    id="id-b6cc46c9276b4a088984db6d924b6283"
+    documentation="Destruction or loss of system availability due to human error for misconfiguration or changes performed during maintenance">
+  <properties
+      key="ID"
+      value="SP-TE-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-11"/>
+</archimate:BusinessEvent>

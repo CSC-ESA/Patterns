@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-026: Malfunction of Devices or Systems"
+    id="id-1f743bb9d7ec43aa9d4637367eabdfed">
+  <properties
+      key="ID"
+      value="BSI-T-026"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-026"/>
+</archimate:BusinessEvent>

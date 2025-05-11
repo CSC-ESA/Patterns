@@ -1,0 +1,59 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-131: Resource Leak Exposure"
+    id="id-39a4c82abb4d486ab07d236fd5ff7dd8"
+    documentation="An adversary utilizes a resource leak on the target to deplete the quantity of the resource available to service legitimate requests.">
+  <properties
+      key="ID"
+      value="CAPEC-131"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="131"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target must have a resource leak that the adversary can repeatedly trigger.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::None: No specialized resources are required to execute this type of attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Unreliable Execution:TECHNICAL IMPACT:Resource Consumption:NOTE:A successful resource leak exposure attack compromises the availability of the target system's services.::"/>
+  <properties
+      key="Mitigations"
+      value="::If possible, leverage coding language(s) that do not allow this weakness to occur (e.g., Java, Ruby, and Python all perform automatic garbage collection that releases memory for objects that have been deallocated).::Memory should always be allocated/freed using matching functions (e.g., malloc/free, new/delete, etc.)::Implement best practices with respect to memory management, including the freeing of all allocated resources at all exit points and ensuring consistency with how and where memory is freed in a function.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::404::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1499:ENTRY NAME:Endpoint Denial of Service::::TAXONOMY NAME:WASC:ENTRY ID:10:ENTRY NAME:Denial of Service::"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

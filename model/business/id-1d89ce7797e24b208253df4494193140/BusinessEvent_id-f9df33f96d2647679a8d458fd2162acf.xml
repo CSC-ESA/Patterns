@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-08: Warfare or terrorists attack"
+    id="id-f9df33f96d2647679a8d458fd2162acf"
+    documentation="Individual(s) or state based actors engaged in physical attack and harm against another person, organisation or country to compromise critical information systems and or gain physical access">
+  <properties
+      key="ID"
+      value="SP-TE-08"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-08"/>
+</archimate:BusinessEvent>

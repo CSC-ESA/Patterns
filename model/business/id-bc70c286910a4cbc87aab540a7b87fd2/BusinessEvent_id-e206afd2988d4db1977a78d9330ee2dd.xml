@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-009: Failure or Disruption of Communication Networks"
+    id="id-e206afd2988d4db1977a78d9330ee2dd">
+  <properties
+      key="ID"
+      value="BSI-T-009"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-009"/>
+</archimate:BusinessEvent>

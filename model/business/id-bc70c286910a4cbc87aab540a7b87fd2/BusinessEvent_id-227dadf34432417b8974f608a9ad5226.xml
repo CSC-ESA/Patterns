@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-035: Coercion, Blackmail or Corruption"
+    id="id-227dadf34432417b8974f608a9ad5226">
+  <properties
+      key="ID"
+      value="BSI-T-035"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-035"/>
+</archimate:BusinessEvent>

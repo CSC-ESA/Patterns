@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-022: Manipulation of Information"
+    id="id-266794eb08ce4e15a30b616f74c5afce">
+  <properties
+      key="ID"
+      value="BSI-T-022"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-022"/>
+</archimate:BusinessEvent>

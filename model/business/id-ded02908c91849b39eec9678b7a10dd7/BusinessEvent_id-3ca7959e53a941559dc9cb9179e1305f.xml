@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LINDDUN-003: Non-repudiation"
+    id="id-3ca7959e53a941559dc9cb9179e1305f">
+  <properties
+      key="ID"
+      value="LINDDUN-003"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:40:04"/>
+  <properties
+      key="Description"
+      value="Being able to attribute a claim to an individual."/>
+</archimate:BusinessEvent>

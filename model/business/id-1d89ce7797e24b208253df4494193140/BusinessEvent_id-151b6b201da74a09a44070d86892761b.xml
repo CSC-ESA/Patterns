@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-05: Physical theft"
+    id="id-151b6b201da74a09a44070d86892761b"
+    documentation="Individual(s) engaged gain physical access to a system or device through theft of the item such as mobile devices, storage media or IT equipment">
+  <properties
+      key="ID"
+      value="SP-TE-05"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-05"/>
+</archimate:BusinessEvent>

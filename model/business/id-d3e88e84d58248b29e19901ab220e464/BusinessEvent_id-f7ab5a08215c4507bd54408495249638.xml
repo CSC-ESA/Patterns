@@ -1,0 +1,60 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-116: Excavation"
+    id="id-f7ab5a08215c4507bd54408495249638"
+    documentation="An adversary actively probes the target in a manner that is designed to solicit information that could be leveraged for malicious purposes.">
+  <properties
+      key="ID"
+      value="CAPEC-116"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="116"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"
+      value="::NATURE:CanPrecede:CAPEC ID:163::"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::An adversary requires some way of interacting with the system.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::A tool, such as an Adversary in the Middle (CAPEC-94) Proxy or a fuzzer, that is capable of generating and injecting custom inputs to be used in the attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data::"/>
+  <properties
+      key="Mitigations"
+      value="::Minimize error/response output to only what is necessary for functional use or corrective language.::Remove potentially sensitive information that is not necessary for the application's functionality.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::200::1243::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"
+      value="TYPE:Other:NOTE:Large quantities of data is often moved from the target system to some other adversary controlled system. Data found on a target system might require extensive resources to be fully analyzed. Using these resources on the target system might enable a defender to detect the adversary. Additionally, proper analysis tools required might not be available on the target system.::::TYPE:Other:NOTE:This attack differs from Data Interception and other data collection attacks in that the attacker actively queries the target rather than simply watching for the target to reveal information.::"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-011: Failure or Disruption of Service Providers"
+    id="id-70cbe99f72b14b59bcf4181438a1f06e">
+  <properties
+      key="ID"
+      value="BSI-T-011"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-011"/>
+</archimate:BusinessEvent>

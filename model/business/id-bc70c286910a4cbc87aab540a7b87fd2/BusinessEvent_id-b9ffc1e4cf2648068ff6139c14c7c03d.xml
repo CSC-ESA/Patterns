@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-041: Sabotage"
+    id="id-b9ffc1e4cf2648068ff6139c14c7c03d">
+  <properties
+      key="ID"
+      value="BSI-T-041"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-041"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-15: Unintentional damages through security testing"
+    id="id-4d0887575fd14a2ba909041de4618e7a"
+    documentation="Loss of confidence in the stability or integrity of application, system or services due to security testing or attempted exploitation of vulnerabilities">
+  <properties
+      key="ID"
+      value="SP-TE-15"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-15"/>
+</archimate:BusinessEvent>

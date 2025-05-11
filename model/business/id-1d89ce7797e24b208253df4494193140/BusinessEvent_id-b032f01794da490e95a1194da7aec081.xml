@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-38: Destruction of records through malicious user or malware infection"
+    id="id-b032f01794da490e95a1194da7aec081"
+    documentation="Intentional loss of availability to critical or sensitive information via malicious insider or ransomware">
+  <properties
+      key="ID"
+      value="SP-TE-38"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-38"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LINDDUN-002: Identifying"
+    id="id-cb675e574ae64bdf81c376470c27c38a">
+  <properties
+      key="ID"
+      value="LINDDUN-002"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:40:04"/>
+  <properties
+      key="Description"
+      value="Learning the identity of an individual, through leaks, deduction, or inference."/>
+</archimate:BusinessEvent>

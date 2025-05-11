@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-039: Malware"
+    id="id-203fee5fe467477abdf0ee028747818f">
+  <properties
+      key="ID"
+      value="BSI-T-039"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-039"/>
+</archimate:BusinessEvent>

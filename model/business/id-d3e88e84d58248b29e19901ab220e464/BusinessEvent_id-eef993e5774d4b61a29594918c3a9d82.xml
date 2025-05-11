@@ -1,0 +1,57 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-216: Communication Channel Manipulation"
+    id="id-eef993e5774d4b61a29594918c3a9d82"
+    documentation="An adversary manipulates a setting or parameter on communications channel in order to compromise its security. This can result in information exposure, insertion/removal of information from the communications stream, and/or potentially system compromise.">
+  <properties
+      key="ID"
+      value="CAPEC-216"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="216"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"/>
+  <properties
+      key="Related Attack Patterns"
+      value="::NATURE:CanPrecede:CAPEC ID:94::"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application must leverage an open communications channel.::The channel on which the target communicates must be vulnerable to interception (e.g., adversary in the middle attack - CAPEC-94).::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::A tool that is capable of viewing network traffic and generating custom inputs to be used in the attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Integrity:TECHNICAL IMPACT:Read Data:TECHNICAL IMPACT:Modify Data:TECHNICAL IMPACT:Other:NOTE:The adversary's injection of additional content into a communication channel negatively impacts the integrity of that channel.::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data:NOTE:A successful Communication Channel Manipulation attack can result in sensitive information exposure to the adversary, thereby compromising the communication channel's confidentiality.::"/>
+  <properties
+      key="Mitigations"
+      value="::Encrypt all sensitive communications using properly-configured cryptography.::Design the communication system such that it associates proper authentication/authorization with each channel/message.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::306::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

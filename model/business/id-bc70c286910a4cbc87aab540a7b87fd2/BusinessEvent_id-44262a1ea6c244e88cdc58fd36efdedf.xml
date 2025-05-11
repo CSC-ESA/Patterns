@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-027: Lack of Resources"
+    id="id-44262a1ea6c244e88cdc58fd36efdedf">
+  <properties
+      key="ID"
+      value="BSI-T-027"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-027"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-17: System failure or corruption of information systems, devices or media"
+    id="id-26a152142eb44207b80c69ffa4df0f5e"
+    documentation="Physical failure or devices or defective data media Hardware failure of parts or components including loss of power supply or cooling">
+  <properties
+      key="ID"
+      value="SP-TE-17"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-17"/>
+</archimate:BusinessEvent>

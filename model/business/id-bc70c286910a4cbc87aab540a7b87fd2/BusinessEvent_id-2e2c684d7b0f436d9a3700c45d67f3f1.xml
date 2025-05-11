@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-023: Unauthorised Access to IT Systems"
+    id="id-2e2c684d7b0f436d9a3700c45d67f3f1">
+  <properties
+      key="ID"
+      value="BSI-T-023"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-023"/>
+</archimate:BusinessEvent>

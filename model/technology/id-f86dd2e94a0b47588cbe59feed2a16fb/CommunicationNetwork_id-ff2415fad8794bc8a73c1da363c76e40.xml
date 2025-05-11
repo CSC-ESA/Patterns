@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-3: Front Office"
+    id="id-ff2415fad8794bc8a73c1da363c76e40">
+  <properties
+      key="ID"
+      value="NORA-3"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="The front office of an organization is a trusted zone. It contains systems oriented towards the external world, such as web servers. The front office includes both informational web servers and web servers that facilitate user transactions to the back office. From the customer's perspective, the front office functions as a &quot;gateway,&quot; where customer information is processed into organizational information and vice versa. The interface between the front and back office operates as a network or a &quot;service bus&quot; where back-office information is made available. The front office is classified as a trusted domain."/>
+</archimate:CommunicationNetwork>

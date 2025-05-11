@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-10: Experimental Environment"
+    id="id-6c752dcf3f11407497adfcd05514b9bc">
+  <properties
+      key="ID"
+      value="NORA-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This zone is a laboratory environment that is physically separated from other environments. Due to the experimental nature of IT resources and work processes within this environment (also referred to as a laboratory), this is classified as an untrusted domain."/>
+</archimate:CommunicationNetwork>

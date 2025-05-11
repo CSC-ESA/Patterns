@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-12: Test Environment"
+    id="id-032d7845026b49c0bec57ccef9a9be39">
+  <properties
+      key="ID"
+      value="NORA-12"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="In this zone, systems undergo functional and technical testing to ensure they meet the required specifications. The trust level of this domain is determined by the necessary isolated setup and the restriction that no production data may be processed or stored in this zone."/>
+</archimate:CommunicationNetwork>

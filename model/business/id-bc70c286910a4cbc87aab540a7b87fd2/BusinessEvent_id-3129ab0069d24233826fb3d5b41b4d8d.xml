@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-031: Incorrect Use or Administration of Devices and Systems"
+    id="id-3129ab0069d24233826fb3d5b41b4d8d">
+  <properties
+      key="ID"
+      value="BSI-T-031"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-031"/>
+</archimate:BusinessEvent>

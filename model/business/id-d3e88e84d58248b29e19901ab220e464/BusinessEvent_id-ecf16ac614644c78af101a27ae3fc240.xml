@@ -1,0 +1,57 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-175: Code Inclusion"
+    id="id-ecf16ac614644c78af101a27ae3fc240"
+    documentation="An adversary exploits a weakness on the target to force arbitrary code to be retrieved locally or from a remote location and executed. This differs from code injection in that code injection involves the direct inclusion of code while code inclusion involves the addition or replacement of a reference to a code file, which is subsequently loaded by the target and used as part of the code of some application.">
+  <properties
+      key="ID"
+      value="CAPEC-175"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="175"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="Very High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application must include external code/libraries that are executed when the application runs and the adversary must be able to influence the specific files that get included.::The victim must run the targeted application, possibly using the crafted parameters that the adversary uses to identify the code to include.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::The adversary may need the capability to host code modules if they wish their own code files to be included.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"
+      value="::One example of this type of attack pattern is PHP file include attacks where the parameter of an include() function is set by a variable that an attacker is able to control. The result is that arbitrary code could be loaded into the PHP application and executed.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::829::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

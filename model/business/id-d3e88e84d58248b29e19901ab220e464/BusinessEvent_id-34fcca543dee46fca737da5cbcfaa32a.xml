@@ -1,9 +1,61 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Flooding"
-    id="id-34fcca543dee46fca737da5cbcfaa32a">
+    name="CAPEC-125: Flooding"
+    id="id-34fcca543dee46fca737da5cbcfaa32a"
+    documentation="An adversary consumes the resources of a target by rapidly engaging in a large number of interactions with the target. This type of attack generally exposes a weakness in rate limiting or flow. When successful this attack prevents legitimate users from accessing the service and can cause the target to crash. This attack differs from resource depletion through leaks or allocations in that the latter attacks do not rely on the volume of requests made to the target but instead focus on manipulation of the target's operations. The key factor in a flooding attack is the number of requests the adversary can make in a given period of time. The greater this number, the more likely an attack is to succeed against a given target.">
   <properties
-      key="CAPEC-ID"/>
+      key="ID"
+      value="CAPEC-125"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="125"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="High"/>
+  <properties
+      key="Typical Severity"
+      value="Medium"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Any target that services requests is vulnerable to this attack on some level of scale.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::A script or program capable of generating more requests than the target can handle, or a network or cluster of objects all capable of making simultaneous requests.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Unreliable Execution:TECHNICAL IMPACT:Resource Consumption:NOTE:A successful flooding attack compromises the availability of the target system's service by exhausting its available resources.::"/>
+  <properties
+      key="Mitigations"
+      value="::Ensure that protocols have specific limits of scale configured.::Specify expectations for capabilities and dictate which behaviors are acceptable when resource allocation reaches limits.::Uniformly throttle all requests in order to make it more difficult to consume resources more quickly than they can again be freed.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::404::770::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1498.001:ENTRY NAME:Network Denial of Service: Direct Network Flood::::TAXONOMY NAME:ATTACK:ENTRY ID:1499:ENTRY NAME:Endpoint Denial of Service::::TAXONOMY NAME:WASC:ENTRY ID:10:ENTRY NAME:Denial of Service::::TAXONOMY NAME:OWASP Attacks:ENTRY NAME:Traffic flood::"/>
+  <properties
+      key="Notes"/>
   <profiles
       href="folder.xml#id-70efeca872514b6c844a4dc80b02963e"/>
 </archimate:BusinessEvent>

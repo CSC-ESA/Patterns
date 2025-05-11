@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-010: Failure or Disruption of Supply Networks"
+    id="id-d4964085c654447980ffa23fbe8a1be8">
+  <properties
+      key="ID"
+      value="BSI-T-010"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-010"/>
+</archimate:BusinessEvent>

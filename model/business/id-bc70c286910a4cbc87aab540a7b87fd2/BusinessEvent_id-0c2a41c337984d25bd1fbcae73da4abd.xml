@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-030: Unauthorised Use or Administration of Devices and Systems"
+    id="id-0c2a41c337984d25bd1fbcae73da4abd">
+  <properties
+      key="ID"
+      value="BSI-T-030"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-030"/>
+</archimate:BusinessEvent>

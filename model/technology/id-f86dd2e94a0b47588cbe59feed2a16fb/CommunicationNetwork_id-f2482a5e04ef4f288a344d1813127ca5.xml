@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-6: Client"
+    id="id-f2482a5e04ef4f288a344d1813127ca5">
+  <properties
+      key="ID"
+      value="NORA-6"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This zone encompasses the office environment, including end-user workstation equipment, LAN networks, and network printers within an organization. This end-user system environment is referred to as the &quot;client.&quot; This domain is classified as semi-trusted due to the large number of connections and its relatively high vulnerability to breaches. Security policy compliance in this &quot;office domain&quot; is typically limited. If organizations allow employees to work within an office environment using systems in the development, test, acceptance, or management zones, additional measures must be implemented to ensure the required logical separation and segregation of duties for security levels. These measures include both technical and organizational controls."/>
+</archimate:CommunicationNetwork>

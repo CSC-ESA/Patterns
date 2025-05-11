@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-037: Repudiation of Actions"
+    id="id-836bd3196d994040ab5a3207e309e3d1">
+  <properties
+      key="ID"
+      value="BSI-T-037"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-037"/>
+</archimate:BusinessEvent>

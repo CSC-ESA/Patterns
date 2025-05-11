@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-21: Network reconnaissance and information gathering"
+    id="id-b8a082db4d9646fcab43bd7e7ebfb246"
+    documentation="Utilise information systems or networks infrastructure to collect or sniff network traffic">
+  <properties
+      key="ID"
+      value="SP-TE-21"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-21"/>
+</archimate:BusinessEvent>

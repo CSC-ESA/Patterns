@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-7: Portable Media"
+    id="id-4f7c47082d534131a5c40abb9801fad3">
+  <properties
+      key="ID"
+      value="NORA-7"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="Client devices, depending on their type, are equipped with DVD/CD-ROM drives, memory slots, USB interfaces, and wireless network interfaces such as Wi-Fi and Bluetooth. This domain is considered untrusted because, with the exception of encrypted USB sticks issued by the organization, these devices do not fall under the organization's management. To prevent malicious code from entering the client environment via these media, policy rules dictate that these interfaces are either restricted or disabled, and all data transferred between clients and portable media is inspected."/>
+</archimate:CommunicationNetwork>

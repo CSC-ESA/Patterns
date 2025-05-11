@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-012: Electromagnetic Interference"
+    id="id-604a8b58286840eab62e1e098e7a1db4">
+  <properties
+      key="ID"
+      value="BSI-T-012"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-012"/>
+</archimate:BusinessEvent>

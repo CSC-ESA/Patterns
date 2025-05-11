@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-14: Inadequate workflows or processes leading to flaws in deployment"
+    id="id-22a5832d1d7a44fc8b751ff5ca81127e"
+    documentation="Loss of confidence in the application, system or platform due to poor workflow or business process.">
+  <properties
+      key="ID"
+      value="SP-TE-14"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-14"/>
+</archimate:BusinessEvent>

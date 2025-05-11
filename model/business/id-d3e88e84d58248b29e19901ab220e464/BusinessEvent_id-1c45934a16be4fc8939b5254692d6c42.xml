@@ -1,0 +1,59 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-549: Local Execution of Code"
+    id="id-1c45934a16be4fc8939b5254692d6c42"
+    documentation="An adversary installs and executes malicious code on the target system in an effort to achieve a negative technical impact. Examples include rootkits, ransomware, spyware, adware, and others.">
+  <properties
+      key="ID"
+      value="CAPEC-549"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="549"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Medium"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Knowledge of the target system's vulnerabilities that can be capitalized on with malicious code.The adversary must be able to place the malicious code on the target system.::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::The means by which the adversary intends to place the malicious code on the system dictates the tools required. For example, suppose the adversary wishes to leverage social engineering and convince a legitimate user to open a malicious file attached to a seemingly legitimate email. In this case, the adversary might require a tool capable of wrapping malicious code into an innocuous filetype (e.g., PDF, .doc, etc.)::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:Run Arbitrary Code::SCOPE:Confidentiality:SCOPE:Integrity:SCOPE:Availability:TECHNICAL IMPACT:Other:NOTE:Depending on the type of code executed by the adversary, the consequences of this attack pattern can vary widely.::"/>
+  <properties
+      key="Mitigations"
+      value="::Employ robust cybersecurity training for all employees.::Implement system antivirus software that scans all attachments before opening them.::Regularly patch all software.::Execute all suspicious files in a sandbox environment.::"/>
+  <properties
+      key="Example Instances"
+      value="::BlueBorne refers to a set of nine vulnerabilities on different platforms (Linux, Windows, Android, iOS) that offer an adversary the ability to install and execute malicious code on a system if they were close in proximity to a Bluetooth enabled device. One vulnerability affecting iOS versions 7 through 9 allowed an attacker to overflow the Low Energy Audio Protocol since commands sent over this protocol are improperly validated and gain the elevated permissions of the Bluetooth stack. These vulnerabilities were a result of poor validation and were patched shortly after their exposure in 2017, but many non-updated devices remain vulnerable.::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::829::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

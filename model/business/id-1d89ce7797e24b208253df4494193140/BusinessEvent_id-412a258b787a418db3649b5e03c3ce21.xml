@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-41: Brute force attempts on user or system accounts"
+    id="id-412a258b787a418db3649b5e03c3ce21"
+    documentation="Brute force attempts for accessing credentials to timeout or lock accounts used by application or system services">
+  <properties
+      key="ID"
+      value="SP-TE-41"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-41"/>
+</archimate:BusinessEvent>

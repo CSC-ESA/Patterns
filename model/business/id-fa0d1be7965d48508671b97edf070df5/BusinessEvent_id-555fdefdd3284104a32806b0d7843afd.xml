@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STRIDE-006: Elevation of privilege"
+    id="id-555fdefdd3284104a32806b0d7843afd">
+  <properties
+      key="ID"
+      value="STRIDE-006"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:13:28"/>
+  <properties
+      key="Description"
+      value="Occurs when a user gains higher access rights or permissions than intended. Attackers exploit flaws to execute unauthorized actions with elevated privileges."/>
+</archimate:BusinessEvent>

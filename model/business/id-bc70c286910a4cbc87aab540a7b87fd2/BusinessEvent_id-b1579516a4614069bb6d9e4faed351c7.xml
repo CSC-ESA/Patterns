@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-001: Fire"
+    id="id-b1579516a4614069bb6d9e4faed351c7">
+  <properties
+      key="ID"
+      value="BSI-T-001"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-001"/>
+</archimate:BusinessEvent>

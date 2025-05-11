@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-35: Lack of security insights, monitoring or manipulation of audit log integrity"
+    id="id-087333a1214a4cc7b5cd149de5360dca"
+    documentation="Manipulation of audit event data or inability to capture and audit actions, events or activities. This effects both integrity and non-repudiation of actions and events within information systems.">
+  <properties
+      key="ID"
+      value="SP-TE-35"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-35"/>
+</archimate:BusinessEvent>

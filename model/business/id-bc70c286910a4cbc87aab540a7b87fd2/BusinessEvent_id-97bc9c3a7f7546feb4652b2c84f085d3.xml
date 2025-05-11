@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-003: Water"
+    id="id-97bc9c3a7f7546feb4652b2c84f085d3">
+  <properties
+      key="ID"
+      value="BSI-T-003"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-003"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-27: Exploit hardware or platform vulnerabilities"
+    id="id-35f46ddc04dd40049d9e629cb17ff51d"
+    documentation="Trusted applications or services are compromised by underlying platforms through bios exploits, firmware exploits or rootkits">
+  <properties
+      key="ID"
+      value="SP-TE-27"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-27"/>
+</archimate:BusinessEvent>

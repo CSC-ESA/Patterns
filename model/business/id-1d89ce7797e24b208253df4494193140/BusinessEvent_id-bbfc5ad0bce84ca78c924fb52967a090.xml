@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-01: Disaster or major events in the environment"
+    id="id-bbfc5ad0bce84ca78c924fb52967a090"
+    documentation="Lost of data or accessibility of IT infrastructure as result of fire, earthquake, flood, landslide, tsunamis or heavy winds">
+  <properties
+      key="ID"
+      value="SP-TE-01"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-01"/>
+</archimate:BusinessEvent>

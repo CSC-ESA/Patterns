@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-5: Vault"
+    id="id-41180f0a440f4e3e99ceb41baae8e94f">
+  <properties
+      key="ID"
+      value="NORA-5"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This zone contains only business information that is crucial for the survival of the organization—these are the &quot;crown jewels&quot; of the organization. Communication with this zone is limited to a select number of systems from the trusted zone, and data exchange is controlled."/>
+</archimate:CommunicationNetwork>

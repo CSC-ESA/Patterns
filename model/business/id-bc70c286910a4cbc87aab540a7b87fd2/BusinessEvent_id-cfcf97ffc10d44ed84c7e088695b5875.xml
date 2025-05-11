@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-024: Destruction of Devices or Storage Media"
+    id="id-cfcf97ffc10d44ed84c7e088695b5875">
+  <properties
+      key="ID"
+      value="BSI-T-024"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-024"/>
+</archimate:BusinessEvent>

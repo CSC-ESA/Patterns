@@ -1,0 +1,61 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-25: Forced Deadlock"
+    id="id-43491686116f4415a9de540eb5b7cab7"
+    documentation="The adversary triggers and exploits a deadlock condition in the target software to cause a denial of service. A deadlock can occur when two or more competing actions are waiting for each other to finish, and thus neither ever does. Deadlock conditions can be difficult to detect.">
+  <properties
+      key="ID"
+      value="CAPEC-25"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="25"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Low"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"
+      value="::STEP:1:PHASE:Explore:DESCRIPTION:The adversary initiates an exploratory phase to get familiar with the system.::STEP:2:PHASE:Explore:DESCRIPTION:The adversary triggers a first action (such as holding a resource) and initiates a second action which will wait for the first one to finish.::STEP:3:PHASE:Explore:DESCRIPTION:If the target program has a deadlock condition, the program waits indefinitely resulting in a denial of service.::"/>
+  <properties
+      key="Prerequisites"
+      value="::The target host has a deadlock condition. There are four conditions for a deadlock to occur, known as the Coffman conditions. [REF-101]::The target host exposes an API to the user.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:This type of attack may be sophisticated and require knowledge about the system's resources and APIs.:LEVEL:Medium::"/>
+  <properties
+      key="Resources Required"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Resource Consumption:NOTE:A successful forced deadlock attack compromises the availability of the system by exhausting its available resources.::"/>
+  <properties
+      key="Mitigations"
+      value="::Use known algorithm to avoid deadlock condition (for instance non-blocking synchronization algorithms).::For competing actions, use well-known libraries which implement synchronization.::"/>
+  <properties
+      key="Example Instances"
+      value="::An example of a deadlock which may occur in database products is the following. Client applications using the database may require exclusive access to a table, and in order to gain exclusive access they ask for a lock. If one client application holds a lock on a table and attempts to obtain the lock on a second table that is already held by a second client application, this may lead to deadlock if the second application then attempts to obtain the lock that is held by the first application (Source: Wikipedia, http://en.wikipedia.org/wiki/Deadlock)::"/>
+  <properties
+      key="Related Weaknesses"
+      value="::412::567::662::667::833::1322::"/>
+  <properties
+      key="Taxonomy Mappings"
+      value="TAXONOMY NAME:ATTACK:ENTRY ID:1499.004:ENTRY NAME:Endpoint Denial of Service: Application or System Exploitation::"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>

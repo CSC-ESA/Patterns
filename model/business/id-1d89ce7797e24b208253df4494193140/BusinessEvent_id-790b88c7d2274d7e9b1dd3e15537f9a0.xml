@@ -1,0 +1,15 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP-TE-13: Inadequate design and planning leading to improper deployment"
+    id="id-790b88c7d2274d7e9b1dd3e15537f9a0"
+    documentation="Loss of confidence in the application, system or platform due to poor deployment, configuration and potential for human error">
+  <properties
+      key="ID"
+      value="SP-TE-13"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 14:39:00"/>
+  <properties
+      key="Original ID"
+      value="TE-13"/>
+</archimate:BusinessEvent>

@@ -1,0 +1,14 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BSI-T-013: Interception of Compromising Interference Signals"
+    id="id-015dfdb46438457888ee8fd10e2c6d2a">
+  <properties
+      key="ID"
+      value="BSI-T-013"/>
+  <properties
+      key="Latest Sync Date"
+      value="02/05/25 12:09:58"/>
+  <properties
+      key="Original ID"
+      value="T-013"/>
+</archimate:BusinessEvent>

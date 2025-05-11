@@ -1,0 +1,61 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-624: Hardware Fault Injection"
+    id="id-889fa3fc40a3499a94f9960a15a5237d"
+    documentation="The adversary uses disruptive signals or events, or alters the physical environment a device operates in, to cause faulty behavior in electronic devices. This can include electromagnetic pulses, laser pulses, clock glitches, ambient temperature extremes, and more. When performed in a controlled manner on devices performing cryptographic operations, this faulty behavior can be exploited to derive secret key information.">
+  <properties
+      key="ID"
+      value="CAPEC-624"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="624"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"
+      value="::TERM:Side-Channel Attack:DESCRIPTION:::"/>
+  <properties
+      key="Likelihood Of Attack"
+      value="Low"/>
+  <properties
+      key="Typical Severity"
+      value="High"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::Physical access to the system::The adversary must be cognizant of where fault injection vulnerabilities exist in the system in order to leverage them for exploitation.::"/>
+  <properties
+      key="Skills Required"
+      value="::SKILL:Adversaries require non-trivial technical skills to create and implement fault injection attacks. Although this style of attack has become easier (commercial equipment and training classes are available to perform these attacks), they usual require significant setup and experimentation time during which physical access to the device is required.:LEVEL:High::"/>
+  <properties
+      key="Resources Required"
+      value="::The relevant sensors and tools to detect and analyze fault/side-channel data from a system. A tool capable of injecting fault/side-channel data into a system or application.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Confidentiality:TECHNICAL IMPACT:Read Data:TECHNICAL IMPACT:Bypass Protection Mechanism:TECHNICAL IMPACT:Hide Activities:NOTE:An adversary capable of successfully collecting and analyzing sensitive, fault/side-channel information, has compromised the confidentiality of that application or information system data.::SCOPE:Integrity:TECHNICAL IMPACT:Execute Unauthorized Commands:NOTE:If an adversary is able to inject data via a fault or side channel vulnerability towards malicious ends, the integrity of the application or information system will be compromised.::"/>
+  <properties
+      key="Mitigations"
+      value="::Implement robust physical security countermeasures and monitoring.::"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::1247::1248::1256::1319::1332::1334::1338::1351::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"
+      value="TYPE:Other:NOTE:Considerable effort on the part of the adversary is often required in order to detect and analyze fault/side channel data.::"/>
+</archimate:BusinessEvent>

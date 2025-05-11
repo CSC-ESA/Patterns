@@ -1,0 +1,14 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA-1: External"
+    id="id-138d3675b6f541f1aa777d5ec63ea583">
+  <properties
+      key="ID"
+      value="NORA-1"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:12:20"/>
+  <properties
+      key="Description"
+      value="This domain encompasses everything that falls outside the direct protection and management of an organization and should therefore be considered untrusted. Various communication channels to the external world can be established from within an organization: connections to an untrusted zone, a semi-trusted zone, a trusted zone, and a highly trusted zone. For example, if an organization's IT management is entirely outsourced, a highly trusted channel is required to the management service provider. This channel is also needed for exchanging highly confidential information between organizations. Organizations that fully trust each other implement mutual measures and maintain security levels to ensure that only limited border protection is needed at the connection point. Organizations that exchange information at a semi-trusted level also take these measures, requiring limited border protection.&#xA;In summary, the strictness of measures for connecting to untrusted zones mainly focuses on border protection in the communication channel. When connecting trusted zones, the emphasis is primarily on protective measures within the channel itself (the strength of the tunnel)."/>
+</archimate:CommunicationNetwork>

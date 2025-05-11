@@ -1,0 +1,55 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAPEC-594: Traffic Injection"
+    id="id-ee53c562914940c7a9dbc4fc25f4ba3f"
+    documentation="An adversary injects traffic into the target's network connection. The adversary is therefore able to degrade or disrupt the connection, and potentially modify the content. This is not a flooding attack, as the adversary is not focusing on exhausting resources. Instead, the adversary is crafting a specific input to affect the system in a particular way.">
+  <properties
+      key="ID"
+      value="CAPEC-594"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/05/25 15:15:38"/>
+  <properties
+      key="Original ID"
+      value="594"/>
+  <properties
+      key="Abstraction"
+      value="Meta"/>
+  <properties
+      key="Status"
+      value="Stable"/>
+  <properties
+      key="Alternate Terms"/>
+  <properties
+      key="Likelihood Of Attack"/>
+  <properties
+      key="Typical Severity"/>
+  <properties
+      key="Related Attack Patterns"/>
+  <properties
+      key="Execution Flow"/>
+  <properties
+      key="Prerequisites"
+      value="::The target application must leverage an open communications channel.::The channel on which the target communicates must be vulnerable to interception (e.g., adversary in the middle attack - CAPEC-94).::"/>
+  <properties
+      key="Skills Required"/>
+  <properties
+      key="Resources Required"
+      value="::A tool, such as a MITM Proxy, that is capable of generating and injecting custom inputs to be used in the attack.::"/>
+  <properties
+      key="Indicators"/>
+  <properties
+      key="Consequences"
+      value="::SCOPE:Availability:TECHNICAL IMPACT:Unreliable Execution:NOTE:The injection of specific content into a connection can trigger a disruption in that communications channel, thereby denying availability of the service.::SCOPE:Integrity:TECHNICAL IMPACT:Other:NOTE:An adversary's injection of additional content into a communication channel negatively impacts the integrity of that channel.::"/>
+  <properties
+      key="Mitigations"/>
+  <properties
+      key="Example Instances"/>
+  <properties
+      key="Related Weaknesses"
+      value="::940::"/>
+  <properties
+      key="Taxonomy Mappings"/>
+  <properties
+      key="Notes"/>
+</archimate:BusinessEvent>
