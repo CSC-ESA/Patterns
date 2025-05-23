@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. API Inbound Access [Control Realization]"
+    name="2. API inbound security pattern [Control Realization]"
     id="id-c42c14f1349d4181b8aae26f5e781326"
     documentation="The diagram reads top to bottom.&#xD;&#xA;•&#x9;API consumer connects with valid Access token over HTTPS to the WAF that performs specific controls.&#xD;&#xA;•&#x9;WAF forwards the request to the API GW whilst passing external access token. API GW executes then its set of controls.&#xD;&#xA;•&#x9;API GW calls token service to SWAP token type&#xD;&#xA;•&#x9;API GW finally send the call with internal token to the API component in scope that executes also specific controls&#xD;&#xA;"
     viewpoint="requirements_realization">

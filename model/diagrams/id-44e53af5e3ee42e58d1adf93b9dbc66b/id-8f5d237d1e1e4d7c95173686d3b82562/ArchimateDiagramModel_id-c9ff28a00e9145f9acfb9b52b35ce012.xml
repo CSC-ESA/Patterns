@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. API Inbound Access [Threat Model]"
+    name="1. API inbound security pattern [Threat Model]"
     id="id-c9ff28a00e9145f9acfb9b52b35ce012"
     viewpoint="layered">
   <children
