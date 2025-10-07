@@ -407,21 +407,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5476469bdab343809976c42c2b979441">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="825"
-        y="1171"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-9c4064f513a44fbd8a6e29b862dad49f.xml#id-9c4064f513a44fbd8a6e29b862dad49f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5c218cff5987445299b1e87fe5a932cd">
     <features
         name="deriveElementLineColor"
@@ -434,21 +419,6 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-ba5ab498f3c84e0c87dd59154729a788.xml#id-ba5ab498f3c84e0c87dd59154729a788"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0fc9cbba486544418536eed66952e1bd">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="675"
-        y="1271"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-cb81685b2af94017b32d3f2c43da97fc.xml#id-cb81685b2af94017b32d3f2c43da97fc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
