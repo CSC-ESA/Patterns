@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-23: Secure service gateway"
+    id="id-2a9985ffd1fc4550b0db0ac83be4c296"
+    documentation="Protects APIs against common attacks, and evaluations (coarse-grained) authorization policies ">
+  <properties
+      key="ID"
+      value="BB-23"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

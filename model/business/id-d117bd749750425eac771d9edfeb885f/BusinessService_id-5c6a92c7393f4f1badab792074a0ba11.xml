@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-02: Identity governance and administration service  "
+    id="id-5c6a92c7393f4f1badab792074a0ba11"
+    documentation="Manages user identities, roles, and access rights across systems.">
+  <properties
+      key="ID"
+      value="BB-02"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

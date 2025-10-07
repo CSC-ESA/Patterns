@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-34: Virtualized desktop infrastructure service"
+    id="id-e81fedb76fad46fd915b95a79b9165b1"
+    documentation="Removed as it is not a security service (even though it serves some security controls). ">
+  <properties
+      key="ID"
+      value="BB-34"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

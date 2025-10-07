@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-24: Zero trust network access"
+    id="id-9c4064f513a44fbd8a6e29b862dad49f"
+    documentation="Removed in favor of remote access service.">
+  <properties
+      key="ID"
+      value="BB-24"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Removed"/>
+</archimate:BusinessService>

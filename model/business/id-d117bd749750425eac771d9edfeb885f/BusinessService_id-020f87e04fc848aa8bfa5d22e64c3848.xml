@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-01: Data loss prevention service  "
+    id="id-020f87e04fc848aa8bfa5d22e64c3848"
+    documentation="Prevents unauthorized sharing or leakage of sensitive information.">
+  <properties
+      key="ID"
+      value="BB-01"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

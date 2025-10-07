@@ -94,7 +94,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-68ef65f6a0ea4931ab50ef64753eede7"
-        targetConnections="id-7ddcf1d784ca4326bf88265be06e2904 id-5d45ddabd5bc400abc648afb78e6eca4"
+        targetConnections="id-5d45ddabd5bc400abc648afb78e6eca4 id-7ddcf1d784ca4326bf88265be06e2904"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

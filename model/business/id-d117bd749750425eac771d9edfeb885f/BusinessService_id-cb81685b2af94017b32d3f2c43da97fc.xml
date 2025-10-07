@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-26: Asset management service"
+    id="id-cb81685b2af94017b32d3f2c43da97fc"
+    documentation="Removed as it is not a security service - we depend on it.">
+  <properties
+      key="ID"
+      value="BB-26"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Removed"/>
+</archimate:BusinessService>

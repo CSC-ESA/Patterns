@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-05: Network firewall service  "
+    id="id-da9b0f2fc0d54200b262dc3450ba1029"
+    documentation="Controls and filters network traffic based on security rules. Used for devices that filter up to layer 4 in the ISO OSI model. ">
+  <properties
+      key="ID"
+      value="BB-05"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

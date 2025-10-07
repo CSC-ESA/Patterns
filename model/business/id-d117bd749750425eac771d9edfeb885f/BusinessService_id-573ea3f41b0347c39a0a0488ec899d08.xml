@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-03: Identity provider service  "
+    id="id-573ea3f41b0347c39a0a0488ec899d08"
+    documentation="Authenticates users and provides single sign-on to applications.">
+  <properties
+      key="ID"
+      value="BB-03"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-22: Cloud access security broker service"
+    id="id-42fba736da0444d8b34e6a936bcec832"
+    documentation="Monitors and secures the use of cloud applications and services.">
+  <properties
+      key="ID"
+      value="BB-22"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

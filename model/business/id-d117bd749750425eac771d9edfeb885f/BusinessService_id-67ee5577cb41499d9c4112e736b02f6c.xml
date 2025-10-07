@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-40: Third party risk management service"
+    id="id-67ee5577cb41499d9c4112e736b02f6c"
+    documentation="New based on list of Thijs">
+  <properties
+      key="ID"
+      value="BB-40"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

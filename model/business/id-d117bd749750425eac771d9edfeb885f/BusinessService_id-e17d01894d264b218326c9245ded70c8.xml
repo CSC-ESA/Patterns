@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-11: Threat intelligence service  "
+    id="id-e17d01894d264b218326c9245ded70c8"
+    documentation="Provides information on emerging threats and attack methods.">
+  <properties
+      key="ID"
+      value="BB-11"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

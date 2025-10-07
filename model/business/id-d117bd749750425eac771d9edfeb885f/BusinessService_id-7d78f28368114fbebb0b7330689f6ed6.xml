@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-21: Distributed denial of service protection service"
+    id="id-7d78f28368114fbebb0b7330689f6ed6"
+    documentation="Protects against (distribute) denial of service attacks by filtering out requests should they lead to capacity issue. ">
+  <properties
+      key="ID"
+      value="BB-21"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

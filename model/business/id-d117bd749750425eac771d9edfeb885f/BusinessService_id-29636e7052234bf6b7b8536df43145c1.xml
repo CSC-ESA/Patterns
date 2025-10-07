@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-38: Malware analysis service"
+    id="id-29636e7052234bf6b7b8536df43145c1"
+    documentation="New based on list of Thijs">
+  <properties
+      key="ID"
+      value="BB-38"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

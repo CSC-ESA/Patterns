@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-07: Mobile device management service  "
+    id="id-b092ea363e764158a785a7ce38441b67"
+    documentation="Secures and manages mobile devices used in the organization.">
+  <properties
+      key="ID"
+      value="BB-07"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

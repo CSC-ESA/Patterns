@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-15: Security orchestration, automation, and response service"
+    id="id-5e8314ade774427682f3fc11f4ce4f6a"
+    documentation="Automates incident response and coordinates security workflows.">
+  <properties
+      key="ID"
+      value="BB-15"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-06: Endpoint detection and response service  "
+    id="id-a5379c0d4aff4e1db0e2ec8b681a9393"
+    documentation="Monitors and responds to threats on user devices.">
+  <properties
+      key="ID"
+      value="BB-06"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

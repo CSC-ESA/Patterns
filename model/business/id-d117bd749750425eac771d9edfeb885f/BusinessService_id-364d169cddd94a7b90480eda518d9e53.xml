@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-08: Security awareness training service  "
+    id="id-364d169cddd94a7b90480eda518d9e53"
+    documentation="Educates users on security risks and safe practices. This includes guidelines on confidentiality (e.g. do not talk about certain topics in a bar). ">
+  <properties
+      key="ID"
+      value="BB-08"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-31: Data signing service"
+    id="id-51f5a790f9da415dbd4dec2e57da9508"
+    documentation="Protects the integrity of information.">
+  <properties
+      key="ID"
+      value="BB-31"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

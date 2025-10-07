@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-30: Business continuity service"
+    id="id-91da222be74a4c27bbe3b0c3e3173190"
+    documentation="Discussions on whether or not this is a service. Add it as a business security service? Then it is more of a capability perhaps? Business continuity may be more a quality attribute. ">
+  <properties
+      key="ID"
+      value="BB-30"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

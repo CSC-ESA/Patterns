@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-35: AI abuse detection service"
+    id="id-3f05984900ac434d91a7ca461c580895"
+    documentation="To discuss">
+  <properties
+      key="ID"
+      value="BB-35"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

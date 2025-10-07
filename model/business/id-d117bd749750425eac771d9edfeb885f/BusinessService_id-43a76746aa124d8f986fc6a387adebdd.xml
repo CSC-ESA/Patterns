@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-20: Data encryption service"
+    id="id-43a76746aa124d8f986fc6a387adebdd"
+    documentation="Protects information by encrypting data at rest and in transit.">
+  <properties
+      key="ID"
+      value="BB-20"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-13: Security information and event management service  "
+    id="id-89a3776f71da4528acb6304fd0e8d1bb"
+    documentation="Collects and analyzes security events for threat detection and compliance.">
+  <properties
+      key="ID"
+      value="BB-13"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

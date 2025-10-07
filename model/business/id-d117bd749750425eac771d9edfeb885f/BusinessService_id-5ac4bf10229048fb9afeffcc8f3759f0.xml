@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-33: Authorization policy decision service"
+    id="id-5ac4bf10229048fb9afeffcc8f3759f0"
+    documentation="Evaluates access requests and provides decisions based on security policies.">
+  <properties
+      key="ID"
+      value="BB-33"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

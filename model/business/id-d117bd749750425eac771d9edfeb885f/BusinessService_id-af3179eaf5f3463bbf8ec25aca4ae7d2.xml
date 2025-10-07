@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-29: Patch management service"
+    id="id-af3179eaf5f3463bbf8ec25aca4ae7d2"
+    documentation="This includes virtual patching">
+  <properties
+      key="ID"
+      value="BB-29"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-32: Data non-repudiation service"
+    id="id-b65bf9c7d55c4a7cbd60a9b7e40ea9c8">
+  <properties
+      key="ID"
+      value="BB-32"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

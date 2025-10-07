@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-10: Secrets management service  "
+    id="id-4d0acd24b46b4d2f842deba3a3db914c"
+    documentation="Stores and manages sensitive credentials and keys securely.">
+  <properties
+      key="ID"
+      value="BB-10"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

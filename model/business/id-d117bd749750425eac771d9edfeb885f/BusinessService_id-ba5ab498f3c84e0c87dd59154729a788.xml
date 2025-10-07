@@ -1,0 +1,14 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-25: Remote &amp; zero trust access service"
+    id="id-ba5ab498f3c84e0c87dd59154729a788">
+  <properties
+      key="ID"
+      value="BB-25"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BB-28: Secure configuration management service"
+    id="id-980743a7fa334f03ad4ff4cf011cdc10"
+    documentation="This includes security posture management &amp; compliance management ">
+  <properties
+      key="ID"
+      value="BB-28"/>
+  <properties
+      key="Latest Sync Date"
+      value="07/10/25 08:11:52"/>
+  <properties
+      key="Status"
+      value="Proposed"/>
+</archimate:BusinessService>
