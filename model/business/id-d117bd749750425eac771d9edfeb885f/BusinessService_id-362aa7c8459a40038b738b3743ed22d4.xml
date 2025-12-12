@@ -1,11 +1,11 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BB-18: Privileged access management service"
-    id="id-0b4fec6e19324e1eb53feec12a2bb94c"
-    documentation="Secures and controls the use of privileged accounts.">
+    name="BB-45: Enterprise security architecture service"
+    id="id-362aa7c8459a40038b738b3743ed22d4"
+    documentation="Creation of security patterns, establishing the different capabilities and security services, creating security views">
   <properties
       key="ID"
-      value="BB-18"/>
+      value="BB-45"/>
   <properties
       key="Latest Sync Date"
       value="12/12/25 17:52:02"/>

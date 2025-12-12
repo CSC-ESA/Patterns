@@ -1,11 +1,11 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BB-18: Privileged access management service"
-    id="id-0b4fec6e19324e1eb53feec12a2bb94c"
-    documentation="Secures and controls the use of privileged accounts.">
+    name="BB-43: Honeypot service"
+    id="id-7ab040a4e20e4507bf8abef12132c746"
+    documentation="Threat deception and detection service">
   <properties
       key="ID"
-      value="BB-18"/>
+      value="BB-43"/>
   <properties
       key="Latest Sync Date"
       value="12/12/25 17:52:02"/>

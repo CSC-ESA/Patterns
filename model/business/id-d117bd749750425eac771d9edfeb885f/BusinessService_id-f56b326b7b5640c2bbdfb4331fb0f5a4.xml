@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BB-04: Static application security testing service  "
+    name="BB-04: Security testing service  "
     id="id-f56b326b7b5640c2bbdfb4331fb0f5a4"
     documentation="Analyzes application source code to detect security weaknesses.">
   <properties
@@ -8,7 +8,7 @@
       value="BB-04"/>
   <properties
       key="Latest Sync Date"
-      value="07/10/25 08:11:52"/>
+      value="12/12/25 17:52:02"/>
   <properties
       key="Status"
       value="Proposed"/>
