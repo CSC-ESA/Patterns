@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>1. API orchestration security pattern [Threat Model]</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>1. API orchestration security pattern [Threat Model]</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-2da5b3e17b8340bf8bb13467a1b4defd.png" alt="1. API orchestration security pattern [Threat Model]" usemap="#id-2da5b3e17b8340bf8bb13467a1b4defdmap"/>
+			   <map name="id-2da5b3e17b8340bf8bb13467a1b4defdmap">
+				          <area shape="rect" coords="190,719,375,799" href="../objects/id-e78cae52204b47159f2a1fc277f2e246.html" target="element" >
+				  		<area shape="rect" coords="898,439,1018,494" href="../views/id-c9ff28a00e9145f9acfb9b52b35ce012.html"  target="view">
+				      <!-- Other diagram objects -->
+				  		<area shape="rect" coords="1329,275,1449,330" href="../elements/id-822eabbd28db4d128bc3036826365b7b.html"  target="element">
+				  		<area shape="rect" coords="1329,381,1449,436" href="../elements/id-36afb9878ae443a29d336a79bb5135eb.html"  target="element">
+				  		<area shape="rect" coords="346,848,466,903" href="../elements/id-d80d140b18924a2a95bd395d2d544ceb.html"  target="element">
+				  		<area shape="rect" coords="1545,317,1810,342" href="../elements/id-70df46ede4c44ff4b8a3990635223425.html"  target="element">
+				  		<area shape="rect" coords="1329,179,1449,234" href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html"  target="element">
+				  		<area shape="rect" coords="1545,95,1810,120" href="../elements/id-dd3509ac0527459d822d49985f8957bd.html"  target="element">
+				  		<area shape="rect" coords="1545,371,1810,402" href="../elements/id-643bfd1709884c4aa7f0d66cd07e30b0.html"  target="element">
+				  		<area shape="rect" coords="10,863,275,888" href="../elements/id-e51374557e954de286134401bdf9a8e4.html"  target="element">
+				  		<area shape="rect" coords="1545,275,1810,300" href="../elements/id-3db7d93c6f5c4f57aed7eee66f082081.html"  target="element">
+				  		<area shape="rect" coords="1545,191,1810,222" href="../elements/id-0e8bde2fef02429b9f757c9da13ee391.html"  target="element">
+				  		<area shape="rect" coords="1545,415,1810,440" href="../elements/id-ba26bd43bddc49c1aaa9c33b39033e00.html"  target="element">
+				  		<area shape="rect" coords="1545,140,1810,165" href="../elements/id-e704a209e29d40dbaa9cf52330e9f690.html"  target="element">
+				  				<area shape="rect" coords="1580,576,1844,631" href="../elements/id-b794b771aa8f46afb7d43e99069d38ec.html"  target="element">
+				  						<area shape="rect" coords="716,982,836,1037" href="../elements/id-c57f9bd7f42c4da582d85cea5aca5f5a.html"  target="element">
+				  						<area shape="rect" coords="716,850,836,905" href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html"  target="element">
+
+				  				<area shape="rect" coords="608,706,956,1078" href="../elements/id-f2c1cbe629324645b9f11dc4b389ba2b.html"  target="element">
+				  						<area shape="rect" coords="1148,982,1268,1037" href="../elements/id-a5f0471b365f4051989c7327b4691d85.html"  target="element">
+				  						<area shape="rect" coords="1148,850,1268,905" href="../elements/id-22d149f348ad4f3c902bed77daf71795.html"  target="element">
+
+				  				<area shape="rect" coords="1028,706,1376,1078" href="../elements/id-aecf9a53d9d749cdba0ff729e31114d4.html"  target="element">
+				  						<area shape="rect" coords="1136,574,1256,629" href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html"  target="element">
+
+				  				<area shape="rect" coords="1028,562,1376,646" href="../elements/id-098d65d0fdbc4f848d53e2e040a523d1.html"  target="element">
+
+				  		<area shape="rect" coords="560,514,1918,1237" href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html"  target="element">
+				  				<area shape="rect" coords="1136,34,1256,89" href="../elements/id-467f03f941a544c9a2c43b0c927d2790.html"  target="element">
+				  				<area shape="rect" coords="716,34,836,89" href="../elements/id-523fae110c1d4debb45e25c3d4b0c206.html"  target="element">
+
+				  		<area shape="rect" coords="560,10,1486,119" href="../elements/id-138d3675b6f541f1aa777d5ec63ea583.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-138d3675b6f541f1aa777d5ec63ea583.html" target="element"> NORA-1: External </a> </td>
+											    <td> <a href="../elements/id-138d3675b6f541f1aa777d5ec63ea583.html" target="element" class="i18n-elementtype-CommunicationNetwork">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-523fae110c1d4debb45e25c3d4b0c206.html" target="element"> API client </a> </td>
+													    <td> <a href="../elements/id-523fae110c1d4debb45e25c3d4b0c206.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-467f03f941a544c9a2c43b0c927d2790.html" target="element"> Browser </a> </td>
+													    <td> <a href="../elements/id-467f03f941a544c9a2c43b0c927d2790.html" target="element" class="i18n-elementtype-ApplicationComponent">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html" target="element"> NORA-4: Back Office </a> </td>
+											    <td> <a href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html" target="element" class="i18n-elementtype-CommunicationNetwork">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-098d65d0fdbc4f848d53e2e040a523d1.html" target="element"> BFF layer </a> </td>
+													    <td> <a href="../elements/id-098d65d0fdbc4f848d53e2e040a523d1.html" target="element" class="i18n-elementtype-Grouping">
+													    </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element"> API client </a> </td>
+															    <td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element" class="i18n-elementtype-ApplicationComponent">
+															    </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-aecf9a53d9d749cdba0ff729e31114d4.html" target="element"> Domain B </a> </td>
+													    <td> <a href="../elements/id-aecf9a53d9d749cdba0ff729e31114d4.html" target="element" class="i18n-elementtype-Grouping">
+													    </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-22d149f348ad4f3c902bed77daf71795.html" target="element"> API endpoint B1 </a> </td>
+															    <td> <a href="../elements/id-22d149f348ad4f3c902bed77daf71795.html" target="element" class="i18n-elementtype-ApplicationComponent">
+															    </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-a5f0471b365f4051989c7327b4691d85.html" target="element"> API endpoint B2 </a> </td>
+															    <td> <a href="../elements/id-a5f0471b365f4051989c7327b4691d85.html" target="element" class="i18n-elementtype-ApplicationComponent">
+															    </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-f2c1cbe629324645b9f11dc4b389ba2b.html" target="element"> Domain A </a> </td>
+													    <td> <a href="../elements/id-f2c1cbe629324645b9f11dc4b389ba2b.html" target="element" class="i18n-elementtype-Grouping">
+													    </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html" target="element"> API endpoint A1 </a> </td>
+															    <td> <a href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html" target="element" class="i18n-elementtype-ApplicationComponent">
+															    </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-c57f9bd7f42c4da582d85cea5aca5f5a.html" target="element"> API endpoint A2 </a> </td>
+															    <td> <a href="../elements/id-c57f9bd7f42c4da582d85cea5aca5f5a.html" target="element" class="i18n-elementtype-ApplicationComponent">
+															    </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-b794b771aa8f46afb7d43e99069d38ec.html" target="element"> STS-03: Identity provider service   </a> </td>
+													    <td> <a href="../elements/id-b794b771aa8f46afb7d43e99069d38ec.html" target="element" class="i18n-elementtype-TechnologyService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-e704a209e29d40dbaa9cf52330e9f690.html" target="element"> AC-12: Session Termination </a> </td>
+											    <td> <a href="../elements/id-e704a209e29d40dbaa9cf52330e9f690.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-ba26bd43bddc49c1aaa9c33b39033e00.html" target="element"> SI-3: Malicious Code Protection </a> </td>
+											    <td> <a href="../elements/id-ba26bd43bddc49c1aaa9c33b39033e00.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-0e8bde2fef02429b9f757c9da13ee391.html" target="element"> SC-5: Denial-of-service Protection </a> </td>
+											    <td> <a href="../elements/id-0e8bde2fef02429b9f757c9da13ee391.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-3db7d93c6f5c4f57aed7eee66f082081.html" target="element"> AU-2: Event Logging </a> </td>
+											    <td> <a href="../elements/id-3db7d93c6f5c4f57aed7eee66f082081.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e51374557e954de286134401bdf9a8e4.html" target="element"> AC-3: Access Enforcement </a> </td>
+											    <td> <a href="../elements/id-e51374557e954de286134401bdf9a8e4.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-643bfd1709884c4aa7f0d66cd07e30b0.html" target="element"> SI-10: Information Input Validation </a> </td>
+											    <td> <a href="../elements/id-643bfd1709884c4aa7f0d66cd07e30b0.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-dd3509ac0527459d822d49985f8957bd.html" target="element"> SC-6: Resource Availability </a> </td>
+											    <td> <a href="../elements/id-dd3509ac0527459d822d49985f8957bd.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html" target="element"> CAPEC-125: Flooding </a> </td>
+											    <td> <a href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html" target="element" class="i18n-elementtype-BusinessEvent">
+											    	(Threat Event)
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-70df46ede4c44ff4b8a3990635223425.html" target="element"> SC-13: Cryptographic Protection </a> </td>
+											    <td> <a href="../elements/id-70df46ede4c44ff4b8a3990635223425.html" target="element" class="i18n-elementtype-Requirement">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-d80d140b18924a2a95bd395d2d544ceb.html" target="element"> SP-TE-36: Unauthorized changes or manipulation of information data records </a> </td>
+											    <td> <a href="../elements/id-d80d140b18924a2a95bd395d2d544ceb.html" target="element" class="i18n-elementtype-BusinessEvent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-36afb9878ae443a29d336a79bb5135eb.html" target="element"> SP-TE-29: Web application attacks or code injection attack </a> </td>
+											    <td> <a href="../elements/id-36afb9878ae443a29d336a79bb5135eb.html" target="element" class="i18n-elementtype-BusinessEvent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-822eabbd28db4d128bc3036826365b7b.html" target="element"> SP-TE-23: Adversary in the middle attack or network traffic modification </a> </td>
+											    <td> <a href="../elements/id-822eabbd28db4d128bc3036826365b7b.html" target="element" class="i18n-elementtype-BusinessEvent">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../views/id-c9ff28a00e9145f9acfb9b52b35ce012.html" target="view"> 1. API inbound security pattern [Threat Model] </a> </td>
+											    <td> <a href="../views/id-c9ff28a00e9145f9acfb9b52b35ce012.html" target="view" class="i18n-viewpoint-layered"> </a> </td>
+											</tr>
+									    <!-- Other graphical objects -->
+
+									        <tr>
+									           <td> <a href="../objects/id-e78cae52204b47159f2a1fc277f2e246.html" target="element">  </a> </td>
+									           <td> <a href="../objects/id-e78cae52204b47159f2a1fc277f2e246.html" target="element" class="i18n-elementtype-DiagramModelNote"> </a> </td>
+									        </tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-ac9e23866280445ea1334709f12970ca.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ac9e23866280445ea1334709f12970ca.html" target="element" class="i18n-elementtype-RealizationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-138d3675b6f541f1aa777d5ec63ea583.html" target="element"> NORA-1: External </a> </td>
+																		<td> <a href="../elements/id-467f03f941a544c9a2c43b0c927d2790.html" target="element"> Browser </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a3a1b0370f424aee9e9caebebc62740d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a3a1b0370f424aee9e9caebebc62740d.html" target="element" class="i18n-elementtype-RealizationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-138d3675b6f541f1aa777d5ec63ea583.html" target="element"> NORA-1: External </a> </td>
+																		<td> <a href="../elements/id-523fae110c1d4debb45e25c3d4b0c206.html" target="element"> API client </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-cb8d2f0e10fa42c5bdc1cddb58ea1d0d.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-cb8d2f0e10fa42c5bdc1cddb58ea1d0d.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-523fae110c1d4debb45e25c3d4b0c206.html" target="element"> API client </a> </td>
+																				<td> <a href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html" target="element"> API endpoint A1 </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-6a9a8900572a4d0a967f18a99fb95e0e.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-6a9a8900572a4d0a967f18a99fb95e0e.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-467f03f941a544c9a2c43b0c927d2790.html" target="element"> Browser </a> </td>
+																				<td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element"> API client </a> </td>
+																			</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-fc3a8f7acc144a5880ddaa840ed9f066.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fc3a8f7acc144a5880ddaa840ed9f066.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html" target="element"> NORA-4: Back Office </a> </td>
+																		<td> <a href="../elements/id-aecf9a53d9d749cdba0ff729e31114d4.html" target="element"> Domain B </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d18530696e0e44d38718cb875d8f5e7a.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d18530696e0e44d38718cb875d8f5e7a.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html" target="element"> NORA-4: Back Office </a> </td>
+																		<td> <a href="../elements/id-098d65d0fdbc4f848d53e2e040a523d1.html" target="element"> BFF layer </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-3fee63b35461495bba5bfe5d376c60ab.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-3fee63b35461495bba5bfe5d376c60ab.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html" target="element"> NORA-4: Back Office </a> </td>
+																		<td> <a href="../elements/id-f2c1cbe629324645b9f11dc4b389ba2b.html" target="element"> Domain A </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-8602a8db1f944b589b4be3226cea36cc.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-8602a8db1f944b589b4be3226cea36cc.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ace1ea2f04a348e9a87b53971289b9af.html" target="element"> NORA-4: Back Office </a> </td>
+																		<td> <a href="../elements/id-b794b771aa8f46afb7d43e99069d38ec.html" target="element"> STS-03: Identity provider service   </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-e55cc002db1f42e28ad9ef680db27ae3.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-e55cc002db1f42e28ad9ef680db27ae3.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-098d65d0fdbc4f848d53e2e040a523d1.html" target="element"> BFF layer </a> </td>
+																				<td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element"> API client </a> </td>
+																			</tr>
+
+																					<tr>
+																						<td> <a href="../elements/id-aacf261e0ca74590aca093724fe2d9e7.html" target="element">  </a> </td>
+																						<td> <a href="../elements/id-aacf261e0ca74590aca093724fe2d9e7.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																						</a> </td>
+																						<td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element"> API client </a> </td>
+																						<td> <a href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html" target="element"> API endpoint A1 </a> </td>
+																					</tr>
+																					<tr>
+																						<td> <a href="../elements/id-4aae84504696484d8b9d695c16154ae4.html" target="element">  </a> </td>
+																						<td> <a href="../elements/id-4aae84504696484d8b9d695c16154ae4.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																						</a> </td>
+																						<td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element"> API client </a> </td>
+																						<td> <a href="../elements/id-22d149f348ad4f3c902bed77daf71795.html" target="element"> API endpoint B1 </a> </td>
+																					</tr>
+																					<tr>
+																						<td> <a href="../elements/id-db63f4b9564049a2b266113eb938fe5c.html" target="element">  </a> </td>
+																						<td> <a href="../elements/id-db63f4b9564049a2b266113eb938fe5c.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																						</a> </td>
+																						<td> <a href="../elements/id-0287409d019a4960ba00c31fe6e38e35.html" target="element"> API client </a> </td>
+																						<td> <a href="../elements/id-b794b771aa8f46afb7d43e99069d38ec.html" target="element"> STS-03: Identity provider service   </a> </td>
+																					</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-624945b33a144ca492c9dc0d79f005c8.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-624945b33a144ca492c9dc0d79f005c8.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-aecf9a53d9d749cdba0ff729e31114d4.html" target="element"> Domain B </a> </td>
+																				<td> <a href="../elements/id-a5f0471b365f4051989c7327b4691d85.html" target="element"> API endpoint B2 </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-e4b3b146d2bf40b2a10321f9d00847ee.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-e4b3b146d2bf40b2a10321f9d00847ee.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-aecf9a53d9d749cdba0ff729e31114d4.html" target="element"> Domain B </a> </td>
+																				<td> <a href="../elements/id-22d149f348ad4f3c902bed77daf71795.html" target="element"> API endpoint B1 </a> </td>
+																			</tr>
+
+																					<tr>
+																						<td> <a href="../elements/id-76c27ca9fe344a7795d422e5121c2215.html" target="element">  </a> </td>
+																						<td> <a href="../elements/id-76c27ca9fe344a7795d422e5121c2215.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																						</a> </td>
+																						<td> <a href="../elements/id-22d149f348ad4f3c902bed77daf71795.html" target="element"> API endpoint B1 </a> </td>
+																						<td> <a href="../elements/id-a5f0471b365f4051989c7327b4691d85.html" target="element"> API endpoint B2 </a> </td>
+																					</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-164ee587706b4e5f8ab9da2c86bdf6c2.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-164ee587706b4e5f8ab9da2c86bdf6c2.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-f2c1cbe629324645b9f11dc4b389ba2b.html" target="element"> Domain A </a> </td>
+																				<td> <a href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html" target="element"> API endpoint A1 </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-86171c6493294d33a0ff2deb7e4b22a3.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-86171c6493294d33a0ff2deb7e4b22a3.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-f2c1cbe629324645b9f11dc4b389ba2b.html" target="element"> Domain A </a> </td>
+																				<td> <a href="../elements/id-c57f9bd7f42c4da582d85cea5aca5f5a.html" target="element"> API endpoint A2 </a> </td>
+																			</tr>
+
+																					<tr>
+																						<td> <a href="../elements/id-35f8b86edc5f436bb7849c3e41d36bb5.html" target="element">  </a> </td>
+																						<td> <a href="../elements/id-35f8b86edc5f436bb7849c3e41d36bb5.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																						</a> </td>
+																						<td> <a href="../elements/id-ffed7af6dd6141c8aeb10952b9712e30.html" target="element"> API endpoint A1 </a> </td>
+																						<td> <a href="../elements/id-c57f9bd7f42c4da582d85cea5aca5f5a.html" target="element"> API endpoint A2 </a> </td>
+																					</tr>
+
+																					<tr>
+																						<td> <a href="../elements/id-dfe02efef9d8422cabbe1baefe0e4366.html" target="element">  </a> </td>
+																						<td> <a href="../elements/id-dfe02efef9d8422cabbe1baefe0e4366.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																						</a> </td>
+																						<td> <a href="../elements/id-c57f9bd7f42c4da582d85cea5aca5f5a.html" target="element"> API endpoint A2 </a> </td>
+																						<td> <a href="../elements/id-22d149f348ad4f3c902bed77daf71795.html" target="element"> API endpoint B1 </a> </td>
+																					</tr>
+
+													
+											
+																	<tr>
+																		<td> <a href="../elements/id-9a61c322a3044aadb98af0094c6d6551.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9a61c322a3044aadb98af0094c6d6551.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-e704a209e29d40dbaa9cf52330e9f690.html" target="element"> AC-12: Session Termination </a> </td>
+																		<td> <a href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html" target="element"> CAPEC-125: Flooding </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-e44f64578862435c91185045b9729b63.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e44f64578862435c91185045b9729b63.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ba26bd43bddc49c1aaa9c33b39033e00.html" target="element"> SI-3: Malicious Code Protection </a> </td>
+																		<td> <a href="../elements/id-36afb9878ae443a29d336a79bb5135eb.html" target="element"> SP-TE-29: Web application attacks or code injection attack </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-73b469df3b784150b2403d35b4ccb99c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-73b469df3b784150b2403d35b4ccb99c.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0e8bde2fef02429b9f757c9da13ee391.html" target="element"> SC-5: Denial-of-service Protection </a> </td>
+																		<td> <a href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html" target="element"> CAPEC-125: Flooding </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-c2c707f8f5b9413ca0d1f003481c5c85.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c2c707f8f5b9413ca0d1f003481c5c85.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-3db7d93c6f5c4f57aed7eee66f082081.html" target="element"> AU-2: Event Logging </a> </td>
+																		<td> <a href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html" target="element"> CAPEC-125: Flooding </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-a981634611d94d14b77c8d6d971fc46c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a981634611d94d14b77c8d6d971fc46c.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-e51374557e954de286134401bdf9a8e4.html" target="element"> AC-3: Access Enforcement </a> </td>
+																		<td> <a href="../elements/id-d80d140b18924a2a95bd395d2d544ceb.html" target="element"> SP-TE-36: Unauthorized changes or manipulation of information data records </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-6b9249fe6a0d4512ba7c1f7201a0c0b0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6b9249fe6a0d4512ba7c1f7201a0c0b0.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-643bfd1709884c4aa7f0d66cd07e30b0.html" target="element"> SI-10: Information Input Validation </a> </td>
+																		<td> <a href="../elements/id-36afb9878ae443a29d336a79bb5135eb.html" target="element"> SP-TE-29: Web application attacks or code injection attack </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-f187362ecb5e4e4098887e4fed2b1b80.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f187362ecb5e4e4098887e4fed2b1b80.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-dd3509ac0527459d822d49985f8957bd.html" target="element"> SC-6: Resource Availability </a> </td>
+																		<td> <a href="../elements/id-34fcca543dee46fca737da5cbcfaa32a.html" target="element"> CAPEC-125: Flooding </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-0d226772784b4d0b86beb1f95202cd05.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-0d226772784b4d0b86beb1f95202cd05.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-70df46ede4c44ff4b8a3990635223425.html" target="element"> SC-13: Cryptographic Protection </a> </td>
+																		<td> <a href="../elements/id-822eabbd28db4d128bc3036826365b7b.html" target="element"> SP-TE-23: Adversary in the middle attack or network traffic modification </a> </td>
+																	</tr>
+
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelReference -->
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelNote -->
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
